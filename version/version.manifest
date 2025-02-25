@@ -1,9 +1,9 @@
 {
-  "packageUrl": "https://github.com/Chance-service/NJG_Resource/raw/refs/heads/main/hotUpdate",
+  "packageUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/hotUpdate",
   "IOSAppStoreURL": "https://www.baidu.com/",
-  "remoteVersionUrl": "https://github.com/Chance-service/NJG_Resource/raw/refs/heads/main/version",
+  "remoteVersionUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/version",
   "versionApp": "1.4.1",
-  "remoteProjectManifestUrl": "https://github.com/Chance-service/NJG_Resource/raw/refs/heads/main/hotUpdate",
+  "remoteProjectManifestUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/hotUpdate",
   "AndroidStoreURL": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlH365": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlR18": "http://220.130.219.201:9999/#tab-3",
