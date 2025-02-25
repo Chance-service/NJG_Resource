@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold32"><p style="margin:10px">职业修行 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ● 修行效果适用于相应职业的忍娘<br/>以相应的职业通用素材累积经验<br/>累积到下个等级所需要的经验值时即可升级。 </p></font>

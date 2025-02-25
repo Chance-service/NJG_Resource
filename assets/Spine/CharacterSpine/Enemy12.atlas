@@ -1,0 +1,237 @@
+
+Enemy12.png
+size: 334,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2BODY
+  rotate: true
+  xy: 147, 91
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1
+2EYE CLOSE
+  rotate: true
+  xy: 262, 144
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+2HEAD
+  rotate: false
+  xy: 284, 41
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+2LEGB 1
+  rotate: false
+  xy: 294, 286
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+2LEGB 2
+  rotate: false
+  xy: 294, 286
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+2LEGF 1
+  rotate: false
+  xy: 2, 157
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+2LEGF 2
+  rotate: false
+  xy: 2, 157
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+2TAIL
+  rotate: false
+  xy: 262, 166
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+TAIL
+  rotate: false
+  xy: 262, 166
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+4TAIL
+  rotate: false
+  xy: 262, 166
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+3TAIL
+  rotate: false
+  xy: 262, 166
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+3BODY
+  rotate: false
+  xy: 147, 217
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
+3EYE CLOSE
+  rotate: true
+  xy: 262, 122
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+3HEAD
+  rotate: false
+  xy: 139, 40
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+3LEGB 1
+  rotate: false
+  xy: 2, 119
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+3LEGB 2
+  rotate: false
+  xy: 294, 238
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+3LEGF 1
+  rotate: false
+  xy: 2, 81
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+3LEGF 2
+  rotate: false
+  xy: 294, 190
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+4BODY
+  rotate: false
+  xy: 2, 195
+  size: 143, 137
+  orig: 143, 137
+  offset: 0, 0
+  index: -1
+4EYE CLOSE
+  rotate: true
+  xy: 262, 100
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+4HEAD
+  rotate: true
+  xy: 286, 92
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+4LEGB 1
+  rotate: false
+  xy: 2, 43
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+4LEGB 2
+  rotate: false
+  xy: 294, 142
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+4LEGF 1
+  rotate: false
+  xy: 279, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+4LEGF 2
+  rotate: false
+  xy: 239, 30
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 40, 74
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+EYE CLOSE
+  rotate: false
+  xy: 262, 78
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 189, 44
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+LEGB 1
+  rotate: false
+  xy: 2, 2
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+LEGB 2
+  rotate: true
+  xy: 189, 4
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+LEGF 1
+  rotate: false
+  xy: 40, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+LEGF 2
+  rotate: true
+  xy: 78, 34
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 272, 189
+  size: 143, 20
+  orig: 143, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+NGEvent_01_E001Title.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 1795, 488
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+A10
+  rotate: false
+  xy: 1387, 414
+  size: 406, 606
+  orig: 406, 606
+  offset: 0, 0
+  index: -1
+A11
+  rotate: true
+  xy: 486, 2
+  size: 324, 465
+  orig: 324, 465
+  offset: 0, 0
+  index: -1
+A12
+  rotate: true
+  xy: 1795, 672
+  size: 348, 227
+  orig: 348, 227
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 953, 53
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 2, 16
+  size: 310, 482
+  orig: 310, 482
+  offset: 0, 0
+  index: -1
+A4-1
+  rotate: false
+  xy: 1158, 289
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+A4-2
+  rotate: false
+  xy: 1493, 375
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+A4-3
+  rotate: false
+  xy: 1832, 633
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+A4-4
+  rotate: false
+  xy: 953, 11
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+A5-1
+  rotate: false
+  xy: 1238, 289
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+A5-2
+  rotate: false
+  xy: 1027, 61
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+A5-3
+  rotate: false
+  xy: 1158, 250
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+A5-4
+  rotate: false
+  xy: 1832, 587
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+A6
+  rotate: false
+  xy: 1493, 346
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+A7
+  rotate: false
+  xy: 1795, 569
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+A8
+  rotate: true
+  xy: 1387, 345
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+A9
+  rotate: false
+  xy: 953, 100
+  size: 203, 226
+  orig: 203, 226
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 328
+  size: 692, 1383
+  orig: 692, 1383
+  offset: 0, 0
+  index: -1

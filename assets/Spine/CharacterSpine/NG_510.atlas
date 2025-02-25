@@ -1,0 +1,118 @@
+
+NG_510.png
+size: 662,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor1
+  rotate: false
+  xy: 2, 118
+  size: 222, 219
+  orig: 222, 219
+  offset: 0, 0
+  index: -1
+armor2
+  rotate: false
+  xy: 275, 304
+  size: 190, 146
+  orig: 190, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 275, 452
+  size: 199, 208
+  orig: 199, 208
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 476, 426
+  size: 145, 234
+  orig: 145, 234
+  offset: 0, 0
+  index: -1
+feet1
+  rotate: false
+  xy: 489, 30
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+feet2
+  rotate: true
+  xy: 570, 31
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+feet3
+  rotate: false
+  xy: 418, 120
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+flowerbody
+  rotate: true
+  xy: 226, 114
+  size: 188, 190
+  orig: 188, 190
+  offset: 0, 0
+  index: -1
+flowereye
+  rotate: false
+  xy: 418, 162
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+flowerhead
+  rotate: false
+  xy: 2, 339
+  size: 271, 321
+  orig: 271, 321
+  offset: 0, 0
+  index: -1
+flowermouth
+  rotate: false
+  xy: 467, 262
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 489, 99
+  size: 126, 56
+  orig: 126, 56
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 107, 20
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 224, 54
+  size: 263, 58
+  orig: 263, 58
+  offset: 0, 0
+  index: -1
+whiteL
+  rotate: true
+  xy: 2, 2
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+whiteR
+  rotate: true
+  xy: 539, 157
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1

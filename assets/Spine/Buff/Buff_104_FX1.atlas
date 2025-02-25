@@ -1,0 +1,27 @@
+
+Buff_104_FX1.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_1
+  rotate: false
+  xy: 79, 86
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mana icon
+  rotate: false
+  xy: 0, 0
+  size: 74, 76
+  orig: 77, 84
+  offset: 2, 3
+  index: -1
+mana ring
+  rotate: false
+  xy: 0, 78
+  size: 77, 78
+  orig: 84, 84
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,6 @@
+poolId	name(奖池名字)	desc(奖池描述)	单次价格	十次价格	抽奖道具	剩余次数必中描述	每日最多免费次数	spineID	折扣标签路径	缩放	偏移
+1	@KingPalacePoolName1	@KingPalacePoolTxt1	100000	1000000	10000_1002_100000	0	0	150	0	1.2	0,-80
+2	@KingPalacePoolName2	@KingPalacePoolTxt2	50	450	30000_106101_1	0	3	203	0	1	-15,-40
+3	@KingPalacePoolName3	@KingPalacePoolTxt3	200	1800	30000_106102_1	@KingPalacePoolTimeLimitTxt2	1	119	0	0.8	0,-85
+4	@KingPalacePoolName4	@KingPalacePoolTxt4	240	2380	30000_106102_1	@KingPalacePoolTimeLimitTxt4	1	121	UI/Common/Activity/Act_TL_NewGacha/Act_TL_NewGacha_Icon.png	1	0,0
+5	@KingPalacePoolName5	@KingPalacePoolTxt5	300	2700	30000_106102_1	@KingPalacePoolTimeLimitTxt5	1	108	UI/Common/Activity/Act_TL_NewGacha/Act_TL_NewGacha_Icon.png	0.85	0,-75

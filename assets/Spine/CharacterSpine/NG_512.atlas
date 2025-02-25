@@ -1,0 +1,160 @@
+
+NG_512.png
+size: 686,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 135, 31
+  size: 182, 139
+  orig: 182, 139
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 319, 21
+  size: 182, 183
+  orig: 182, 183
+  offset: 0, 0
+  index: -1
+boneL_1_2
+  rotate: true
+  xy: 521, 276
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+boneL_2_2
+  rotate: true
+  xy: 560, 164
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+boneL_3_2
+  rotate: true
+  xy: 503, 12
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+boneR_1
+  rotate: true
+  xy: 470, 392
+  size: 88, 137
+  orig: 88, 137
+  offset: 0, 0
+  index: -1
+boneR_2
+  rotate: false
+  xy: 565, 8
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+boneR_3
+  rotate: true
+  xy: 455, 208
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+bone_L_1
+  rotate: false
+  xy: 455, 252
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1
+bone_L_2
+  rotate: false
+  xy: 503, 98
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+bone_L_3
+  rotate: false
+  xy: 592, 262
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+bookbody_1
+  rotate: true
+  xy: 609, 394
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+bookbody_1a
+  rotate: false
+  xy: 560, 103
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+bookbody_2
+  rotate: false
+  xy: 2, 463
+  size: 376, 221
+  orig: 376, 221
+  offset: 0, 0
+  index: -1
+bookitem_1
+  rotate: false
+  xy: 622, 49
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+bookitem_2
+  rotate: true
+  xy: 622, 2
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+bookspine
+  rotate: false
+  xy: 607, 499
+  size: 63, 185
+  orig: 63, 185
+  offset: 0, 0
+  index: -1
+item_2
+  rotate: false
+  xy: 380, 482
+  size: 225, 202
+  orig: 225, 202
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 222, 206
+  size: 231, 184
+  orig: 231, 184
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 2, 172
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 392
+  size: 466, 69
+  orig: 466, 69
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 2, 2
+  size: 131, 168
+  orig: 131, 168
+  offset: 0, 0
+  index: -1

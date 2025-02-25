@@ -1,0 +1,27 @@
+
+NGSceneB_04b_05.png
+size: 433,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x6
+  rotate: false
+  xy: 2, 326
+  size: 294, 33
+  orig: 294, 33
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 2, 395
+  size: 429, 36
+  orig: 429, 36
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 2, 361
+  size: 373, 32
+  orig: 373, 32
+  offset: 0, 0
+  index: -1

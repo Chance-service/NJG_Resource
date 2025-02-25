@@ -1,0 +1,272 @@
+
+NG_13000_FX2.png
+size: 498,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B smoke/b smoke_00
+  rotate: false
+  xy: 50, 4
+  size: 43, 9
+  orig: 175, 65
+  offset: 68, 19
+  index: -1
+B smoke/b smoke_01
+  rotate: true
+  xy: 464, 272
+  size: 81, 18
+  orig: 175, 65
+  offset: 49, 17
+  index: -1
+B smoke/b smoke_02
+  rotate: true
+  xy: 101, 64
+  size: 108, 35
+  orig: 175, 65
+  offset: 32, 12
+  index: -1
+B smoke/b smoke_03
+  rotate: true
+  xy: 243, 217
+  size: 134, 43
+  orig: 175, 65
+  offset: 22, 10
+  index: -1
+B smoke/b smoke_04
+  rotate: true
+  xy: 194, 196
+  size: 155, 47
+  orig: 175, 65
+  offset: 12, 9
+  index: -1
+B smoke/b smoke_05
+  rotate: true
+  xy: 102, 177
+  size: 156, 49
+  orig: 175, 65
+  offset: 12, 8
+  index: -1
+B smoke/b smoke_06
+  rotate: true
+  xy: 50, 15
+  size: 157, 49
+  orig: 175, 65
+  offset: 11, 8
+  index: -1
+B smoke/b smoke_07
+  rotate: false
+  xy: 169, 391
+  size: 159, 50
+  orig: 175, 65
+  offset: 10, 8
+  index: -1
+B smoke/b smoke_08
+  rotate: true
+  xy: 50, 174
+  size: 159, 50
+  orig: 175, 65
+  offset: 10, 8
+  index: -1
+B smoke/b smoke_09
+  rotate: false
+  xy: 2, 335
+  size: 161, 51
+  orig: 175, 65
+  offset: 9, 7
+  index: -1
+B smoke/b smoke_10
+  rotate: false
+  xy: 334, 444
+  size: 162, 52
+  orig: 175, 65
+  offset: 8, 7
+  index: -1
+B smoke/b smoke_11
+  rotate: false
+  xy: 169, 443
+  size: 163, 53
+  orig: 175, 65
+  offset: 7, 6
+  index: -1
+B smoke/b smoke_12
+  rotate: false
+  xy: 2, 443
+  size: 165, 53
+  orig: 175, 65
+  offset: 5, 6
+  index: -1
+B smoke/b smoke_13
+  rotate: false
+  xy: 2, 388
+  size: 165, 53
+  orig: 175, 65
+  offset: 5, 6
+  index: -1
+B smoke/b smoke_14
+  rotate: true
+  xy: 2, 169
+  size: 164, 46
+  orig: 175, 65
+  offset: 4, 6
+  index: -1
+B smoke/b smoke_15
+  rotate: true
+  xy: 2, 3
+  size: 164, 46
+  orig: 175, 65
+  offset: 4, 6
+  index: -1
+B smoke/b smoke_16
+  rotate: false
+  xy: 334, 397
+  size: 162, 45
+  orig: 175, 65
+  offset: 3, 6
+  index: -1
+B smoke/b smoke_17
+  rotate: true
+  xy: 153, 171
+  size: 162, 39
+  orig: 175, 65
+  offset: 3, 6
+  index: -1
+B smoke/b smoke_18
+  rotate: false
+  xy: 330, 355
+  size: 161, 40
+  orig: 175, 65
+  offset: 5, 6
+  index: -1
+B smoke/b smoke_19
+  rotate: false
+  xy: 169, 353
+  size: 159, 36
+  orig: 175, 65
+  offset: 7, 10
+  index: -1
+B smoke/b smoke_20
+  rotate: true
+  xy: 379, 238
+  size: 115, 35
+  orig: 175, 65
+  offset: 10, 11
+  index: -1
+skill_1/billi_B/billi_B_75
+  rotate: true
+  xy: 101, 13
+  size: 49, 68
+  orig: 58, 145
+  offset: 7, 6
+  index: -1
+skill_1/billi_B/billi_B_76
+  rotate: false
+  xy: 416, 253
+  size: 46, 100
+  orig: 58, 145
+  offset: 6, 4
+  index: -1
+skill_1/billi_B/billi_B_77
+  rotate: false
+  xy: 331, 236
+  size: 46, 117
+  orig: 58, 145
+  offset: 7, 5
+  index: -1
+skill_1/billi_B/billi_B_78
+  rotate: false
+  xy: 288, 233
+  size: 41, 118
+  orig: 58, 145
+  offset: 9, 5
+  index: -1
+skill_1/billi_B/billi_B_79
+  rotate: false
+  xy: 181, 67
+  size: 40, 102
+  orig: 58, 145
+  offset: 11, 15
+  index: -1
+skill_1/billi_B/billi_B_80
+  rotate: false
+  xy: 437, 151
+  size: 39, 100
+  orig: 58, 145
+  offset: 11, 16
+  index: -1
+skill_1/billi_B/billi_B_81
+  rotate: false
+  xy: 223, 93
+  size: 40, 101
+  orig: 58, 145
+  offset: 10, 16
+  index: -1
+skill_1/billi_B/billi_B_82
+  rotate: false
+  xy: 138, 67
+  size: 41, 102
+  orig: 58, 145
+  offset: 10, 15
+  index: -1
+skill_1/billi_B/billi_B_83
+  rotate: false
+  xy: 265, 114
+  size: 41, 101
+  orig: 58, 145
+  offset: 10, 16
+  index: -1
+skill_1/billi_B/billi_B_84
+  rotate: false
+  xy: 308, 130
+  size: 41, 101
+  orig: 58, 145
+  offset: 10, 16
+  index: -1
+skill_1/billi_B/billi_B_85
+  rotate: false
+  xy: 351, 133
+  size: 41, 101
+  orig: 58, 145
+  offset: 10, 16
+  index: -1
+skill_1/billi_B/billi_B_86
+  rotate: false
+  xy: 394, 135
+  size: 41, 101
+  orig: 58, 145
+  offset: 10, 16
+  index: -1
+skill_1/billi_B/billi_B_87
+  rotate: true
+  xy: 265, 72
+  size: 40, 99
+  orig: 58, 145
+  offset: 11, 16
+  index: -1
+skill_1/billi_B/billi_B_88
+  rotate: true
+  xy: 259, 31
+  size: 39, 100
+  orig: 58, 145
+  offset: 11, 15
+  index: -1
+skill_1/billi_B/billi_B_89
+  rotate: false
+  xy: 366, 32
+  size: 39, 99
+  orig: 58, 145
+  offset: 11, 16
+  index: -1
+skill_1/billi_B/billi_B_90
+  rotate: false
+  xy: 407, 37
+  size: 37, 96
+  orig: 58, 145
+  offset: 13, 18
+  index: -1
+skill_1/billi_B/billi_B_91
+  rotate: false
+  xy: 223, 2
+  size: 34, 89
+  orig: 58, 145
+  offset: 14, 19
+  index: -1

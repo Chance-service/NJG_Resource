@@ -1,0 +1,15 @@
+info face="MatrixIIOT-Bold" size=45 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=4,4 outline=0
+common lineHeight=45 base=36 scaleW=200 scaleH=200 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Font-HT-RankNum_0.png"
+chars count=11
+char id=43   x=84    y=59    width=19    height=55    xoffset=-2    yoffset=-2    xadvance=15    page=0  chnl=15
+char id=48   x=93    y=0     width=26    height=55    xoffset=-2    yoffset=-2    xadvance=22    page=0  chnl=15
+char id=49   x=107   y=59    width=17    height=55    xoffset=-2    yoffset=-2    xadvance=13    page=0  chnl=15
+char id=50   x=153   y=0     width=24    height=55    xoffset=-2    yoffset=-2    xadvance=20    page=0  chnl=15
+char id=51   x=0     y=59    width=24    height=55    xoffset=-2    yoffset=-2    xadvance=20    page=0  chnl=15
+char id=52   x=123   y=0     width=26    height=55    xoffset=-2    yoffset=-2    xadvance=22    page=0  chnl=15
+char id=53   x=28    y=59    width=24    height=55    xoffset=-2    yoffset=-2    xadvance=20    page=0  chnl=15
+char id=54   x=0     y=0     width=27    height=55    xoffset=-2    yoffset=-2    xadvance=23    page=0  chnl=15
+char id=55   x=56    y=59    width=24    height=55    xoffset=-2    yoffset=-2    xadvance=20    page=0  chnl=15
+char id=56   x=31    y=0     width=27    height=55    xoffset=-2    yoffset=-2    xadvance=23    page=0  chnl=15
+char id=57   x=62    y=0     width=27    height=55    xoffset=-2    yoffset=-2    xadvance=23    page=0  chnl=15

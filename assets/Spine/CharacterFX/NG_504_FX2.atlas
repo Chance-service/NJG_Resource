@@ -1,0 +1,230 @@
+
+NG_504_FX2.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/beam/beam_00
+  rotate: false
+  xy: 236, 241
+  size: 232, 48
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_01
+  rotate: false
+  xy: 236, 291
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_02
+  rotate: false
+  xy: 236, 343
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_03
+  rotate: true
+  xy: 470, 346
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_04
+  rotate: false
+  xy: 2, 165
+  size: 232, 49
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_05
+  rotate: true
+  xy: 525, 346
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/beam_06
+  rotate: false
+  xy: 2, 271
+  size: 232, 54
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_0/beam/beam_07
+  rotate: false
+  xy: 2, 327
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_08
+  rotate: false
+  xy: 236, 455
+  size: 232, 59
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_09
+  rotate: false
+  xy: 2, 216
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 18
+  index: -1
+skill_0/beam/beam_10
+  rotate: false
+  xy: 236, 398
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 17
+  index: -1
+skill_0/beam/beam_11
+  rotate: false
+  xy: 2, 384
+  size: 232, 60
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/beam_12
+  rotate: false
+  xy: 2, 512
+  size: 232, 66
+  orig: 256, 90
+  offset: 11, 11
+  index: -1
+skill_0/beam/beam_13
+  rotate: false
+  xy: 2, 446
+  size: 232, 64
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_14
+  rotate: false
+  xy: 236, 516
+  size: 232, 62
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_0/beam/dust_00
+  rotate: false
+  xy: 218, 30
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 4
+  index: -1
+skill_0/beam/dust_01
+  rotate: false
+  xy: 266, 30
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 3
+  index: -1
+skill_0/beam/dust_02
+  rotate: true
+  xy: 172, 23
+  size: 48, 44
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+skill_1/boom/boom_01
+  rotate: false
+  xy: 323, 73
+  size: 50, 79
+  orig: 96, 136
+  offset: 22, 5
+  index: -1
+skill_1/boom/boom_02
+  rotate: false
+  xy: 180, 79
+  size: 52, 84
+  orig: 96, 136
+  offset: 20, 9
+  index: -1
+skill_1/boom/boom_03
+  rotate: false
+  xy: 417, 150
+  size: 58, 89
+  orig: 96, 136
+  offset: 17, 11
+  index: -1
+skill_1/boom/boom_04
+  rotate: true
+  xy: 2, 2
+  size: 66, 93
+  orig: 96, 136
+  offset: 14, 17
+  index: -1
+skill_1/boom/boom_05
+  rotate: true
+  xy: 234, 74
+  size: 78, 87
+  orig: 96, 136
+  offset: 8, 31
+  index: -1
+skill_1/boom/boom_06
+  rotate: false
+  xy: 2, 70
+  size: 88, 93
+  orig: 96, 136
+  offset: 3, 34
+  index: -1
+skill_1/boom/boom_07
+  rotate: false
+  xy: 470, 254
+  size: 95, 90
+  orig: 96, 136
+  offset: 0, 35
+  index: -1
+skill_1/boom/boom_08
+  rotate: true
+  xy: 236, 154
+  size: 85, 90
+  orig: 96, 136
+  offset: 2, 37
+  index: -1
+skill_1/boom/boom_09
+  rotate: false
+  xy: 92, 73
+  size: 86, 90
+  orig: 96, 136
+  offset: 2, 38
+  index: -1
+skill_1/boom/boom_10
+  rotate: true
+  xy: 328, 155
+  size: 84, 87
+  orig: 96, 136
+  offset: 4, 40
+  index: -1
+skill_1/boom/boom_11
+  rotate: false
+  xy: 477, 170
+  size: 81, 82
+  orig: 96, 136
+  offset: 6, 44
+  index: -1
+skill_1/boom/boom_12
+  rotate: true
+  xy: 477, 91
+  size: 77, 80
+  orig: 96, 136
+  offset: 8, 45
+  index: -1
+skill_1/boom/boom_13
+  rotate: true
+  xy: 375, 75
+  size: 73, 78
+  orig: 96, 136
+  offset: 10, 45
+  index: -1
+skill_1/boom/boom_14
+  rotate: true
+  xy: 97, 2
+  size: 69, 73
+  orig: 96, 136
+  offset: 12, 47
+  index: -1

@@ -1,0 +1,111 @@
+
+NG_HCG_001_B.png
+size: 3240,2138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1817, 84
+  size: 1029, 275
+  orig: 1029, 275
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2876, 71
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2819, 465
+  size: 268, 372
+  orig: 268, 372
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2819, 272
+  size: 191, 244
+  orig: 191, 244
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2458, 2
+  size: 416, 256
+  orig: 416, 256
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 1290, 1115
+  size: 1021, 1152
+  orig: 1021, 1152
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 2444, 1107
+  size: 1029, 794
+  orig: 1029, 794
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 50
+  size: 1286, 2086
+  orig: 1286, 2086
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1290, 65
+  size: 112, 428
+  orig: 112, 428
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2458, 260
+  size: 368, 359
+  orig: 368, 359
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2094, 56
+  size: 362, 563
+  orig: 362, 563
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1290, 179
+  size: 934, 525
+  orig: 934, 525
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2393, 630
+  size: 355, 475
+  orig: 355, 475
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2094, 621
+  size: 297, 492
+  orig: 297, 492
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2750, 735
+  size: 370, 344
+  orig: 370, 344
+  offset: 0, 0
+  index: -1

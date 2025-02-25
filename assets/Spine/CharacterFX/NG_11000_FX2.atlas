@@ -1,0 +1,242 @@
+
+NG_11000_FX2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/smoke/smoke_48
+  rotate: false
+  xy: 493, 503
+  size: 10, 7
+  orig: 240, 140
+  offset: 117, 25
+  index: -1
+skill_0/smoke/smoke_49
+  rotate: true
+  xy: 229, 287
+  size: 58, 27
+  orig: 240, 140
+  offset: 90, 20
+  index: -1
+skill_0/smoke/smoke_51
+  rotate: true
+  xy: 455, 123
+  size: 147, 55
+  orig: 240, 140
+  offset: 41, 11
+  index: -1
+skill_0/smoke/smoke_53
+  rotate: false
+  xy: 217, 7
+  size: 211, 84
+  orig: 240, 140
+  offset: 14, 6
+  index: -1
+skill_0/smoke/smoke_54
+  rotate: false
+  xy: 2, 3
+  size: 213, 89
+  orig: 240, 140
+  offset: 13, 5
+  index: -1
+skill_0/smoke/smoke_58
+  rotate: false
+  xy: 231, 156
+  size: 222, 114
+  orig: 240, 140
+  offset: 8, 4
+  index: -1
+skill_0/smoke/smoke_59
+  rotate: false
+  xy: 268, 383
+  size: 223, 127
+  orig: 240, 140
+  offset: 7, 3
+  index: -1
+skill_0/smoke/smoke_60
+  rotate: false
+  xy: 2, 214
+  size: 225, 131
+  orig: 240, 140
+  offset: 6, 3
+  index: -1
+skill_0/smoke/smoke_61
+  rotate: false
+  xy: 268, 272
+  size: 227, 109
+  orig: 240, 140
+  offset: 4, 2
+  index: -1
+skill_0/smoke/smoke_62
+  rotate: false
+  xy: 2, 94
+  size: 227, 118
+  orig: 240, 140
+  offset: 3, 3
+  index: -1
+skill_0/smoke/smoke_65
+  rotate: false
+  xy: 231, 93
+  size: 222, 61
+  orig: 240, 140
+  offset: 1, 2
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_00
+  rotate: false
+  xy: 455, 93
+  size: 45, 28
+  orig: 210, 100
+  offset: 18, 2
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_01
+  rotate: true
+  xy: 430, 20
+  size: 71, 46
+  orig: 210, 100
+  offset: 19, 2
+  index: -1
+skill_1/shadow
+  rotate: false
+  xy: 2, 347
+  size: 264, 163
+  orig: 264, 164
+  offset: 0, 1
+  index: -1
+
+NG_11000_FX22.png
+size: 509,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/smoke/smoke_50
+  rotate: true
+  xy: 167, 333
+  size: 110, 42
+  orig: 240, 140
+  offset: 65, 17
+  index: -1
+skill_0/smoke/smoke_52
+  rotate: true
+  xy: 435, 325
+  size: 182, 69
+  orig: 240, 140
+  offset: 28, 8
+  index: -1
+skill_0/smoke/smoke_55
+  rotate: true
+  xy: 2, 227
+  size: 216, 99
+  orig: 240, 140
+  offset: 12, 5
+  index: -1
+skill_0/smoke/smoke_56
+  rotate: true
+  xy: 230, 290
+  size: 217, 107
+  orig: 240, 140
+  offset: 11, 4
+  index: -1
+skill_0/smoke/smoke_57
+  rotate: true
+  xy: 2, 6
+  size: 219, 98
+  orig: 240, 140
+  offset: 10, 4
+  index: -1
+skill_0/smoke/smoke_63
+  rotate: false
+  xy: 2, 445
+  size: 226, 62
+  orig: 240, 140
+  offset: 2, 2
+  index: -1
+skill_0/smoke/smoke_64
+  rotate: true
+  xy: 103, 217
+  size: 226, 62
+  orig: 240, 140
+  offset: 1, 2
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_04
+  rotate: false
+  xy: 323, 6
+  size: 184, 91
+  orig: 210, 100
+  offset: 10, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_05
+  rotate: false
+  xy: 155, 99
+  size: 192, 93
+  orig: 210, 100
+  offset: 10, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_06
+  rotate: false
+  xy: 167, 194
+  size: 197, 94
+  orig: 210, 100
+  offset: 10, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_07
+  rotate: true
+  xy: 339, 311
+  size: 196, 94
+  orig: 210, 100
+  offset: 11, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_08
+  rotate: true
+  xy: 366, 123
+  size: 186, 94
+  orig: 210, 100
+  offset: 21, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_09
+  rotate: false
+  xy: 155, 3
+  size: 166, 94
+  orig: 210, 100
+  offset: 42, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_11
+  rotate: true
+  xy: 102, 60
+  size: 155, 51
+  orig: 210, 100
+  offset: 50, 3
+  index: -1
+
+NG_11000_FX23.png
+size: 239,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/smoke/smoke_66
+  rotate: true
+  xy: 172, 14
+  size: 223, 53
+  orig: 240, 140
+  offset: 1, 2
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_02
+  rotate: false
+  xy: 2, 2
+  size: 139, 76
+  orig: 210, 100
+  offset: 7, 2
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_03
+  rotate: false
+  xy: 2, 149
+  size: 168, 88
+  orig: 210, 100
+  offset: 9, 3
+  index: -1
+skill_1/jiankai_yan/jiankai_yan_10
+  rotate: false
+  xy: 2, 80
+  size: 165, 67
+  orig: 210, 100
+  offset: 42, 3
+  index: -1

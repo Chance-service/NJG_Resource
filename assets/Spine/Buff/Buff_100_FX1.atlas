@@ -1,0 +1,13 @@
+
+Buff_100_FX1.png
+size: 82,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snake_00
+  rotate: false
+  xy: 0, 0
+  size: 79, 82
+  orig: 88, 88
+  offset: 5, 3
+  index: -1

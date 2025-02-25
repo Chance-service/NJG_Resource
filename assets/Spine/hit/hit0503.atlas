@@ -1,0 +1,125 @@
+
+hit0503.png
+size: 703,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+soundhit_00
+  rotate: false
+  xy: 601, 275
+  size: 100, 102
+  orig: 233, 170
+  offset: 58, 33
+  index: -1
+soundhit_01
+  rotate: false
+  xy: 2, 564
+  size: 233, 137
+  orig: 233, 170
+  offset: 0, 17
+  index: -1
+soundhit_02
+  rotate: false
+  xy: 2, 425
+  size: 233, 137
+  orig: 233, 170
+  offset: 0, 17
+  index: -1
+soundhit_03
+  rotate: false
+  xy: 179, 217
+  size: 158, 158
+  orig: 233, 170
+  offset: 29, 3
+  index: -1
+soundhit_04
+  rotate: false
+  xy: 237, 531
+  size: 175, 170
+  orig: 233, 170
+  offset: 20, 0
+  index: -1
+soundhit_05
+  rotate: false
+  xy: 2, 253
+  size: 175, 170
+  orig: 233, 170
+  offset: 20, 0
+  index: -1
+soundhit_06
+  rotate: false
+  xy: 414, 534
+  size: 169, 167
+  orig: 233, 170
+  offset: 23, 0
+  index: -1
+soundhit_07
+  rotate: false
+  xy: 2, 89
+  size: 163, 162
+  orig: 233, 170
+  offset: 26, 1
+  index: -1
+soundhit_08
+  rotate: false
+  xy: 237, 377
+  size: 159, 152
+  orig: 233, 170
+  offset: 28, 6
+  index: -1
+soundhit_09
+  rotate: false
+  xy: 167, 75
+  size: 156, 140
+  orig: 233, 170
+  offset: 30, 12
+  index: -1
+soundhit_10
+  rotate: true
+  xy: 398, 377
+  size: 152, 132
+  orig: 233, 170
+  offset: 32, 17
+  index: -1
+soundhit_11
+  rotate: true
+  xy: 469, 222
+  size: 153, 130
+  orig: 233, 170
+  offset: 30, 20
+  index: -1
+soundhit_12
+  rotate: true
+  xy: 325, 66
+  size: 149, 125
+  orig: 233, 170
+  offset: 29, 26
+  index: -1
+soundhit_13
+  rotate: true
+  xy: 452, 68
+  size: 151, 127
+  orig: 233, 170
+  offset: 28, 26
+  index: -1
+soundhit_14
+  rotate: true
+  xy: 532, 379
+  size: 153, 128
+  orig: 233, 170
+  offset: 27, 25
+  index: -1
+soundhit_15
+  rotate: true
+  xy: 339, 221
+  size: 154, 128
+  orig: 233, 170
+  offset: 26, 25
+  index: -1
+soundhit_16
+  rotate: true
+  xy: 585, 579
+  size: 122, 111
+  orig: 233, 170
+  offset: 58, 25
+  index: -1

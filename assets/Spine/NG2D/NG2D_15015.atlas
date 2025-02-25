@@ -1,0 +1,654 @@
+
+NG2D_15015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Eye Closed
+  rotate: false
+  xy: 2, 3
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+FX/petals_00012
+  rotate: true
+  xy: 857, 506
+  size: 216, 165
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00018
+  rotate: true
+  xy: 857, 288
+  size: 216, 165
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00032
+  rotate: true
+  xy: 862, 724
+  size: 216, 160
+  orig: 216, 221
+  offset: 0, 53
+  index: -1
+FX/petals_00042
+  rotate: true
+  xy: 857, 70
+  size: 216, 165
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+H1
+  rotate: false
+  xy: 800, 74
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 313, 26
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+H3
+  rotate: true
+  xy: 833, 8
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 114, 12
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+H6
+  rotate: true
+  xy: 944, 2
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 917, 35
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+L Eyelash
+  rotate: false
+  xy: 398, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 717, 493
+  size: 138, 260
+  orig: 138, 260
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 544, 481
+  size: 171, 272
+  orig: 171, 272
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 393, 31
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+R Eyelash
+  rotate: false
+  xy: 445, 38
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+boob
+  rotate: false
+  xy: 670, 150
+  size: 173, 111
+  orig: 173, 111
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: true
+  xy: 917, 2
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 956, 43
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 544, 180
+  size: 124, 299
+  orig: 124, 299
+  offset: 0, 0
+  index: -1
+hand R cloth
+  rotate: true
+  xy: 659, 10
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 670, 263
+  size: 216, 185
+  orig: 216, 185
+  offset: 0, 0
+  index: -1
+skirt B
+  rotate: false
+  xy: 544, 755
+  size: 316, 185
+  orig: 316, 185
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 800, 16
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+tree 1
+  rotate: false
+  xy: 544, 18
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+tree 2
+  rotate: true
+  xy: 313, 2
+  size: 22, 83
+  orig: 22, 83
+  offset: 0, 0
+  index: -1
+tree 4
+  rotate: true
+  xy: 213, 15
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 544, 942
+  size: 472, 80
+  orig: 472, 80
+  offset: 0, 0
+  index: -1
+
+NG2D_150152.png
+size: 1013,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/petals_00000
+  rotate: false
+  xy: 575, 2
+  size: 216, 162
+  orig: 216, 221
+  offset: 0, 50
+  index: -1
+FX/petals_00002
+  rotate: false
+  xy: 793, 2
+  size: 216, 163
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00028
+  rotate: false
+  xy: 544, 504
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00030
+  rotate: false
+  xy: 762, 674
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00046
+  rotate: false
+  xy: 544, 843
+  size: 216, 168
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00048
+  rotate: false
+  xy: 139, 147
+  size: 216, 168
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00094
+  rotate: false
+  xy: 544, 335
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+FX/petals_00096
+  rotate: false
+  xy: 762, 505
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+FX/petals_00100
+  rotate: false
+  xy: 762, 336
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00102
+  rotate: false
+  xy: 357, 148
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00104
+  rotate: false
+  xy: 575, 166
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00106
+  rotate: false
+  xy: 544, 673
+  size: 216, 168
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00108
+  rotate: false
+  xy: 762, 843
+  size: 216, 168
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00114
+  rotate: false
+  xy: 793, 167
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+H5
+  rotate: true
+  xy: 139, 69
+  size: 76, 150
+  orig: 76, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 317
+  size: 540, 694
+  orig: 540, 694
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 2, 60
+  size: 135, 255
+  orig: 135, 255
+  offset: 0, 0
+  index: -1
+tree 3
+  rotate: false
+  xy: 291, 60
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+
+NG2D_150153.png
+size: 995,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/petals_00004
+  rotate: true
+  xy: 554, 441
+  size: 216, 163
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00006
+  rotate: true
+  xy: 501, 2
+  size: 216, 163
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00008
+  rotate: true
+  xy: 169, 105
+  size: 216, 164
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+FX/petals_00010
+  rotate: true
+  xy: 335, 223
+  size: 216, 164
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+FX/petals_00014
+  rotate: false
+  xy: 220, 827
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00016
+  rotate: false
+  xy: 438, 827
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00020
+  rotate: false
+  xy: 656, 827
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00036
+  rotate: true
+  xy: 719, 441
+  size: 216, 162
+  orig: 216, 221
+  offset: 0, 51
+  index: -1
+FX/petals_00038
+  rotate: true
+  xy: 664, 223
+  size: 216, 163
+  orig: 216, 221
+  offset: 0, 50
+  index: -1
+FX/petals_00040
+  rotate: true
+  xy: 388, 441
+  size: 216, 164
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00044
+  rotate: false
+  xy: 220, 659
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 47
+  index: -1
+FX/petals_00078
+  rotate: true
+  xy: 666, 5
+  size: 216, 162
+  orig: 216, 221
+  offset: 0, 52
+  index: -1
+FX/petals_00080
+  rotate: true
+  xy: 335, 5
+  size: 216, 164
+  orig: 216, 221
+  offset: 0, 52
+  index: -1
+FX/petals_00082
+  rotate: false
+  xy: 2, 323
+  size: 216, 165
+  orig: 216, 221
+  offset: 0, 51
+  index: -1
+FX/petals_00084
+  rotate: true
+  xy: 2, 105
+  size: 216, 165
+  orig: 216, 221
+  offset: 0, 51
+  index: -1
+FX/petals_00086
+  rotate: false
+  xy: 2, 658
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 50
+  index: -1
+FX/petals_00088
+  rotate: false
+  xy: 438, 659
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 50
+  index: -1
+FX/petals_00090
+  rotate: false
+  xy: 656, 659
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00092
+  rotate: true
+  xy: 220, 441
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 49
+  index: -1
+FX/petals_00098
+  rotate: false
+  xy: 2, 490
+  size: 216, 166
+  orig: 216, 221
+  offset: 0, 48
+  index: -1
+FX/petals_00112
+  rotate: true
+  xy: 829, 223
+  size: 216, 162
+  orig: 216, 221
+  offset: 0, 52
+  index: -1
+FX/petals_00116
+  rotate: false
+  xy: 2, 826
+  size: 216, 167
+  orig: 216, 221
+  offset: 0, 46
+  index: -1
+FX/petals_00118
+  rotate: true
+  xy: 830, 5
+  size: 216, 162
+  orig: 216, 221
+  offset: 0, 51
+  index: -1
+HB
+  rotate: true
+  xy: 501, 220
+  size: 219, 161
+  orig: 219, 161
+  offset: 0, 0
+  index: -1
+
+NG2D_150154.png
+size: 865,865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/petals_00022
+  rotate: true
+  xy: 699, 4
+  size: 216, 156
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00024
+  rotate: true
+  xy: 540, 2
+  size: 216, 157
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00026
+  rotate: false
+  xy: 600, 222
+  size: 216, 157
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00034
+  rotate: false
+  xy: 2, 702
+  size: 216, 161
+  orig: 216, 221
+  offset: 0, 52
+  index: -1
+FX/petals_00050
+  rotate: true
+  xy: 656, 429
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00052
+  rotate: false
+  xy: 438, 381
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00054
+  rotate: false
+  xy: 220, 380
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00056
+  rotate: false
+  xy: 164, 220
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00058
+  rotate: true
+  xy: 220, 2
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00060
+  rotate: true
+  xy: 380, 2
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00062
+  rotate: false
+  xy: 382, 220
+  size: 216, 158
+  orig: 216, 221
+  offset: 0, 56
+  index: -1
+FX/petals_00064
+  rotate: false
+  xy: 438, 541
+  size: 216, 159
+  orig: 216, 221
+  offset: 0, 55
+  index: -1
+FX/petals_00066
+  rotate: true
+  xy: 2, 429
+  size: 216, 160
+  orig: 216, 221
+  offset: 0, 54
+  index: -1
+FX/petals_00068
+  rotate: true
+  xy: 2, 211
+  size: 216, 160
+  orig: 216, 221
+  offset: 0, 54
+  index: -1
+FX/petals_00070
+  rotate: false
+  xy: 2, 49
+  size: 216, 160
+  orig: 216, 221
+  offset: 0, 54
+  index: -1
+FX/petals_00072
+  rotate: false
+  xy: 220, 540
+  size: 216, 160
+  orig: 216, 221
+  offset: 0, 54
+  index: -1
+FX/petals_00074
+  rotate: false
+  xy: 220, 702
+  size: 216, 161
+  orig: 216, 221
+  offset: 0, 53
+  index: -1
+FX/petals_00076
+  rotate: false
+  xy: 438, 702
+  size: 216, 161
+  orig: 216, 221
+  offset: 0, 53
+  index: -1
+FX/petals_00110
+  rotate: true
+  xy: 656, 647
+  size: 216, 161
+  orig: 216, 221
+  offset: 0, 53
+  index: -1

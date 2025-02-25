@@ -1,0 +1,188 @@
+
+Enemy01_FX1.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texture01/FX/FX01/Shape_FP_14_0000
+  rotate: false
+  xy: 225, 78
+  size: 21, 18
+  orig: 150, 85
+  offset: 11, 33
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0001
+  rotate: false
+  xy: 126, 113
+  size: 84, 22
+  orig: 150, 85
+  offset: 8, 32
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0002
+  rotate: false
+  xy: 125, 154
+  size: 97, 27
+  orig: 150, 85
+  offset: 5, 30
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0003
+  rotate: true
+  xy: 85, 43
+  size: 100, 39
+  orig: 150, 85
+  offset: 10, 22
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0004
+  rotate: true
+  xy: 38, 42
+  size: 101, 45
+  orig: 150, 85
+  offset: 12, 18
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0005
+  rotate: false
+  xy: 132, 200
+  size: 110, 49
+  orig: 150, 85
+  offset: 17, 15
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0006
+  rotate: false
+  xy: 2, 145
+  size: 121, 52
+  orig: 150, 85
+  offset: 16, 13
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0007
+  rotate: false
+  xy: 2, 199
+  size: 128, 50
+  orig: 150, 85
+  offset: 17, 12
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0008
+  rotate: true
+  xy: 2, 8
+  size: 135, 16
+  orig: 150, 85
+  offset: 15, 34
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0009
+  rotate: true
+  xy: 20, 11
+  size: 132, 16
+  orig: 150, 85
+  offset: 18, 34
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0010
+  rotate: false
+  xy: 132, 183
+  size: 105, 15
+  orig: 150, 85
+  offset: 45, 34
+  index: -1
+texture01/FX/FX01/Shape_FP_14_0011
+  rotate: false
+  xy: 126, 137
+  size: 96, 15
+  orig: 150, 85
+  offset: 54, 34
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0002
+  rotate: false
+  xy: 225, 98
+  size: 23, 19
+  orig: 75, 43
+  offset: 22, 14
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0003
+  rotate: true
+  xy: 225, 119
+  size: 29, 24
+  orig: 75, 43
+  offset: 21, 11
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0004
+  rotate: true
+  xy: 224, 150
+  size: 31, 25
+  orig: 75, 43
+  offset: 21, 10
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0005
+  rotate: false
+  xy: 177, 83
+  size: 33, 28
+  orig: 75, 43
+  offset: 22, 8
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0006
+  rotate: false
+  xy: 85, 11
+  size: 36, 30
+  orig: 75, 43
+  offset: 22, 7
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0007
+  rotate: false
+  xy: 38, 9
+  size: 45, 31
+  orig: 75, 43
+  offset: 22, 6
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0008
+  rotate: false
+  xy: 126, 47
+  size: 47, 31
+  orig: 75, 43
+  offset: 22, 6
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0009
+  rotate: false
+  xy: 126, 80
+  size: 49, 31
+  orig: 75, 43
+  offset: 22, 6
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0010
+  rotate: false
+  xy: 126, 33
+  size: 49, 12
+  orig: 75, 43
+  offset: 23, 17
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0011
+  rotate: true
+  xy: 212, 84
+  size: 51, 11
+  orig: 75, 43
+  offset: 22, 17
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0012
+  rotate: false
+  xy: 123, 20
+  size: 51, 11
+  orig: 75, 43
+  offset: 22, 17
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0013
+  rotate: false
+  xy: 123, 7
+  size: 51, 11
+  orig: 75, 43
+  offset: 22, 17
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0014
+  rotate: false
+  xy: 20, 2
+  size: 7, 7
+  orig: 75, 43
+  offset: 66, 21
+  index: -1
+texture01/FX/FX01/Shape_FP_16_0015
+  rotate: false
+  xy: 29, 2
+  size: 6, 7
+  orig: 75, 43
+  offset: 67, 21
+  index: -1

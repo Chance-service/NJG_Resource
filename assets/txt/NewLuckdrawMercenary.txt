@@ -1,0 +1,2 @@
+神将id	名字图片
+160	UI/Common/Activity/Act_TL_LuckyMercenary/Act_TL_LuckyMercenary_Font_ZhangJiao.png

@@ -1,0 +1,3 @@
+gachaid	id	动态	特效	chibi	picture
+172	23	Spine/NG2D,NG2D_23	Spine/NGUI,NGUI_53_Gacha1Summon_Dark	Spine/CharacterSpine,NG_23000	SummonPickup_Label_023.png
+173	18	Spine/NG2D,NG2D_18	Spine/NGUI,NGUI_53_Gacha1Summon_Wind	Spine/CharacterSpine,NG_18000	SummonPickup_Label_018.png

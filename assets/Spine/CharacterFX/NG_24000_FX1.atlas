@@ -1,0 +1,2701 @@
+
+NG_24000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_43
+  rotate: true
+  xy: 465, 116
+  size: 54, 45
+  orig: 105, 80
+  offset: 27, 24
+  index: -1
+skill_0/FX1/X light/X light_133
+  rotate: false
+  xy: 2, 374
+  size: 241, 136
+  orig: 243, 140
+  offset: 1, 2
+  index: -1
+skill_0/FX1/X light/X light_134
+  rotate: false
+  xy: 222, 72
+  size: 241, 136
+  orig: 243, 140
+  offset: 1, 2
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_01
+  rotate: true
+  xy: 496, 301
+  size: 13, 12
+  orig: 167, 167
+  offset: 77, 78
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_02
+  rotate: true
+  xy: 425, 211
+  size: 18, 21
+  orig: 167, 167
+  offset: 75, 73
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_03
+  rotate: true
+  xy: 465, 291
+  size: 23, 29
+  orig: 167, 167
+  offset: 72, 69
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_13
+  rotate: true
+  xy: 339, 211
+  size: 78, 84
+  orig: 167, 167
+  offset: 42, 41
+  index: -1
+skill_0/FX1/column/column_112
+  rotate: false
+  xy: 222, 210
+  size: 20, 162
+  orig: 63, 170
+  offset: 22, 4
+  index: -1
+skill_0/FX1/column/column_115
+  rotate: false
+  xy: 222, 210
+  size: 20, 162
+  orig: 63, 170
+  offset: 22, 4
+  index: -1
+skill_0/FX1/column/column_114
+  rotate: false
+  xy: 222, 210
+  size: 20, 162
+  orig: 63, 170
+  offset: 22, 4
+  index: -1
+skill_0/FX1/column/column_116
+  rotate: false
+  xy: 222, 210
+  size: 20, 162
+  orig: 63, 170
+  offset: 22, 4
+  index: -1
+skill_0/FX1/column/column_113
+  rotate: false
+  xy: 222, 210
+  size: 20, 162
+  orig: 63, 170
+  offset: 22, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_25
+  rotate: true
+  xy: 244, 211
+  size: 78, 93
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+skill_0/FX1/round exp/round exp_61
+  rotate: false
+  xy: 2, 154
+  size: 218, 218
+  orig: 240, 240
+  offset: 11, 12
+  index: -1
+skill_0/FX1/round exp/round exp_62
+  rotate: false
+  xy: 245, 291
+  size: 218, 219
+  orig: 240, 240
+  offset: 11, 12
+  index: -1
+skill_0/FX1/round exp/round exp_65
+  rotate: false
+  xy: 448, 214
+  size: 15, 15
+  orig: 240, 240
+  offset: 113, 114
+  index: -1
+skill_0/FX1/round exp/round exp_66
+  rotate: false
+  xy: 502, 296
+  size: 4, 3
+  orig: 240, 240
+  offset: 118, 120
+  index: -1
+skill_1/FX1/Front Fire/F_30
+  rotate: true
+  xy: 453, 2
+  size: 68, 57
+  orig: 118, 110
+  offset: 27, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_08
+  rotate: true
+  xy: 465, 364
+  size: 92, 43
+  orig: 190, 100
+  offset: 43, 30
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_15
+  rotate: false
+  xy: 214, 2
+  size: 167, 68
+  orig: 190, 100
+  offset: 7, 14
+  index: -1
+skill_1/FX1/assemble/assemble_05
+  rotate: false
+  xy: 2, 2
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+skill_1/FX1/assemble/assemble_07
+  rotate: false
+  xy: 2, 2
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+skill_1/FX1/assemble/assemble_06
+  rotate: false
+  xy: 2, 2
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+skill_1/FX1/bat fly/bat fly_61
+  rotate: false
+  xy: 465, 72
+  size: 42, 42
+  orig: 100, 128
+  offset: 25, 10
+  index: -1
+skill_1/FX1/bat fly/bat fly_62
+  rotate: true
+  xy: 465, 316
+  size: 46, 43
+  orig: 100, 128
+  offset: 22, 12
+  index: -1
+skill_1/FX1/bat fly/bat fly_63
+  rotate: true
+  xy: 465, 458
+  size: 52, 44
+  orig: 100, 128
+  offset: 19, 15
+  index: -1
+skill_1/FX1/bat fly/bat fly_64
+  rotate: true
+  xy: 465, 172
+  size: 57, 45
+  orig: 100, 128
+  offset: 16, 18
+  index: -1
+skill_1/FX1/bat fly/bat fly_71
+  rotate: false
+  xy: 425, 231
+  size: 85, 58
+  orig: 100, 128
+  offset: 8, 37
+  index: -1
+skill_1/FX1/bat fly/bat fly_80
+  rotate: true
+  xy: 448, 210
+  size: 2, 4
+  orig: 100, 128
+  offset: 20, 63
+  index: -1
+skill_1/FX1/bat fly/bat fly_81
+  rotate: true
+  xy: 458, 211
+  size: 1, 3
+  orig: 100, 128
+  offset: 20, 67
+  index: -1
+skill_1/FX1/bat fly/bat fly_82
+  rotate: false
+  xy: 454, 210
+  size: 2, 2
+  orig: 100, 128
+  offset: 19, 71
+  index: -1
+skill_1/FX1/bat fly/bat fly_83
+  rotate: false
+  xy: 509, 112
+  size: 1, 2
+  orig: 100, 128
+  offset: 19, 75
+  index: -1
+skill_1/FX1/energy/energy_78
+  rotate: false
+  xy: 383, 2
+  size: 68, 68
+  orig: 150, 150
+  offset: 41, 41
+  index: -1
+skill_1/FX1/energy/energy_91
+  rotate: false
+  xy: 496, 295
+  size: 4, 4
+  orig: 150, 150
+  offset: 73, 73
+  index: -1
+
+NG_24000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_42
+  rotate: true
+  xy: 473, 345
+  size: 44, 36
+  orig: 105, 80
+  offset: 32, 29
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_26
+  rotate: false
+  xy: 470, 144
+  size: 40, 199
+  orig: 63, 200
+  offset: 17, 1
+  index: -1
+skill_0/FX1/FireBall/FireBall_31
+  rotate: true
+  xy: 139, 252
+  size: 120, 103
+  orig: 125, 125
+  offset: 5, 6
+  index: -1
+skill_0/FX1/FireBall/FireBall_43
+  rotate: true
+  xy: 360, 144
+  size: 94, 102
+  orig: 125, 125
+  offset: 16, 11
+  index: -1
+skill_0/FX1/X light/X light_135
+  rotate: false
+  xy: 244, 378
+  size: 227, 132
+  orig: 243, 140
+  offset: 15, 6
+  index: -1
+skill_0/FX1/X light/X light_136
+  rotate: false
+  xy: 2, 374
+  size: 240, 136
+  orig: 243, 140
+  offset: 1, 2
+  index: -1
+skill_0/FX1/X light/X light_137
+  rotate: false
+  xy: 244, 240
+  size: 224, 136
+  orig: 243, 140
+  offset: 1, 2
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_119
+  rotate: true
+  xy: 365, 3
+  size: 139, 145
+  orig: 145, 183
+  offset: 3, 30
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_121
+  rotate: false
+  xy: 2, 2
+  size: 135, 140
+  orig: 145, 183
+  offset: 5, 34
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_04
+  rotate: true
+  xy: 473, 440
+  size: 29, 37
+  orig: 167, 167
+  offset: 69, 65
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_21
+  rotate: true
+  xy: 2, 144
+  size: 106, 116
+  orig: 167, 167
+  offset: 30, 25
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_26
+  rotate: true
+  xy: 2, 252
+  size: 120, 130
+  orig: 167, 167
+  offset: 23, 19
+  index: -1
+skill_0/FX1/column/column_102
+  rotate: true
+  xy: 197, 92
+  size: 50, 31
+  orig: 63, 170
+  offset: 7, 3
+  index: -1
+skill_0/FX1/column/column_103
+  rotate: true
+  xy: 197, 92
+  size: 50, 31
+  orig: 63, 170
+  offset: 7, 3
+  index: -1
+skill_0/FX1/column/column_117
+  rotate: false
+  xy: 230, 89
+  size: 12, 161
+  orig: 63, 170
+  offset: 26, 5
+  index: -1
+skill_0/FX1/column/column_118
+  rotate: false
+  xy: 230, 89
+  size: 12, 161
+  orig: 63, 170
+  offset: 26, 5
+  index: -1
+skill_0/FX1/column/column_119
+  rotate: false
+  xy: 230, 89
+  size: 12, 161
+  orig: 63, 170
+  offset: 26, 5
+  index: -1
+skill_0/FX1/front/front_097
+  rotate: false
+  xy: 244, 57
+  size: 114, 181
+  orig: 215, 205
+  offset: 39, 0
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_05
+  rotate: false
+  xy: 197, 57
+  size: 31, 33
+  orig: 190, 100
+  offset: 76, 30
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_06
+  rotate: true
+  xy: 473, 391
+  size: 47, 36
+  orig: 190, 100
+  offset: 65, 30
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_20
+  rotate: false
+  xy: 197, 2
+  size: 166, 53
+  orig: 190, 100
+  offset: 7, 29
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_89
+  rotate: false
+  xy: 139, 2
+  size: 56, 140
+  orig: 70, 145
+  offset: 4, 3
+  index: -1
+skill_1/FX1/energy/energy_82
+  rotate: false
+  xy: 120, 144
+  size: 108, 106
+  orig: 150, 150
+  offset: 21, 22
+  index: -1
+skill_1/FX1/energy/energy_90
+  rotate: true
+  xy: 473, 471
+  size: 39, 37
+  orig: 150, 150
+  offset: 56, 56
+  index: -1
+
+NG_24000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_47
+  rotate: false
+  xy: 253, 2
+  size: 91, 71
+  orig: 105, 80
+  offset: 8, 5
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_23
+  rotate: true
+  xy: 222, 292
+  size: 119, 185
+  orig: 125, 185
+  offset: 0, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_24
+  rotate: true
+  xy: 427, 80
+  size: 32, 82
+  orig: 63, 200
+  offset: 17, 56
+  index: -1
+skill_0/FX1/FireBall/FireBall_39
+  rotate: false
+  xy: 427, 205
+  size: 83, 94
+  orig: 125, 125
+  offset: 19, 18
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_108
+  rotate: true
+  xy: 222, 413
+  size: 97, 132
+  orig: 145, 183
+  offset: 24, 10
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_07
+  rotate: true
+  xy: 356, 413
+  size: 46, 56
+  orig: 167, 167
+  offset: 60, 56
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_19
+  rotate: false
+  xy: 409, 301
+  size: 101, 110
+  orig: 167, 167
+  offset: 32, 28
+  index: -1
+skill_0/FX1/column/column_127
+  rotate: true
+  xy: 346, 2
+  size: 3, 160
+  orig: 63, 170
+  offset: 31, 6
+  index: -1
+skill_0/FX1/front/front_096
+  rotate: true
+  xy: 221, 75
+  size: 215, 204
+  orig: 215, 205
+  offset: 0, 0
+  index: -1
+skill_0/FX1/main assemble/main assemble_42
+  rotate: false
+  xy: 427, 413
+  size: 83, 97
+  orig: 100, 100
+  offset: 8, 1
+  index: -1
+skill_0/FX1/round exp/round exp_63
+  rotate: false
+  xy: 2, 292
+  size: 218, 218
+  orig: 240, 240
+  offset: 11, 12
+  index: -1
+skill_0/FX1/round exp/round exp_64
+  rotate: false
+  xy: 2, 72
+  size: 217, 218
+  orig: 240, 240
+  offset: 11, 12
+  index: -1
+skill_1/FX1/Front Fire/F_27
+  rotate: true
+  xy: 427, 114
+  size: 89, 83
+  orig: 118, 110
+  offset: 14, 11
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_13
+  rotate: false
+  xy: 346, 7
+  size: 164, 66
+  orig: 190, 100
+  offset: 9, 15
+  index: -1
+skill_1/FX1/Ring Fire/ring_86
+  rotate: false
+  xy: 212, 2
+  size: 39, 68
+  orig: 40, 70
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_87
+  rotate: false
+  xy: 2, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_88
+  rotate: false
+  xy: 2, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_90
+  rotate: false
+  xy: 44, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_91
+  rotate: false
+  xy: 44, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_93
+  rotate: false
+  xy: 86, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_94
+  rotate: false
+  xy: 128, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_95
+  rotate: false
+  xy: 170, 2
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/bat fly/bat fly_66
+  rotate: false
+  xy: 356, 461
+  size: 69, 49
+  orig: 100, 128
+  offset: 10, 22
+  index: -1
+
+NG_24000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_31
+  rotate: false
+  xy: 404, 108
+  size: 43, 189
+  orig: 63, 200
+  offset: 8, 6
+  index: -1
+skill_0/FX1/FireBall/FireBall_23
+  rotate: false
+  xy: 431, 299
+  size: 78, 78
+  orig: 125, 125
+  offset: 24, 24
+  index: -1
+skill_0/FX1/FireBall/FireBall_26
+  rotate: true
+  xy: 431, 436
+  size: 74, 79
+  orig: 125, 125
+  offset: 26, 26
+  index: -1
+skill_0/FX1/FireBall/FireBall_51
+  rotate: false
+  xy: 223, 2
+  size: 114, 104
+  orig: 125, 125
+  offset: 9, 14
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_99
+  rotate: false
+  xy: 117, 2
+  size: 104, 103
+  orig: 145, 183
+  offset: 21, 4
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_20
+  rotate: true
+  xy: 2, 2
+  size: 103, 113
+  orig: 167, 167
+  offset: 31, 27
+  index: -1
+skill_0/FX1/front/front_089
+  rotate: false
+  xy: 216, 108
+  size: 186, 189
+  orig: 215, 205
+  offset: 13, 2
+  index: -1
+skill_0/FX1/front/front_090
+  rotate: false
+  xy: 216, 108
+  size: 186, 189
+  orig: 215, 205
+  offset: 13, 2
+  index: -1
+skill_0/FX1/front/front_093
+  rotate: false
+  xy: 2, 311
+  size: 213, 199
+  orig: 215, 205
+  offset: 1, 5
+  index: -1
+skill_0/FX1/front/front_098
+  rotate: false
+  xy: 2, 107
+  size: 212, 202
+  orig: 215, 205
+  offset: 0, 0
+  index: -1
+skill_0/FX1/round exp/round exp_60
+  rotate: false
+  xy: 217, 299
+  size: 212, 211
+  orig: 240, 240
+  offset: 14, 16
+  index: -1
+skill_1/FX1/Front Fire/F_23
+  rotate: false
+  xy: 339, 2
+  size: 109, 104
+  orig: 118, 110
+  offset: 6, 1
+  index: -1
+skill_1/FX1/Front Fire/F_24
+  rotate: false
+  xy: 339, 2
+  size: 109, 104
+  orig: 118, 110
+  offset: 6, 1
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_19
+  rotate: true
+  xy: 449, 131
+  size: 166, 61
+  orig: 190, 100
+  offset: 7, 29
+  index: -1
+skill_1/FX1/ball/ball_75
+  rotate: false
+  xy: 450, 2
+  size: 48, 35
+  orig: 50, 50
+  offset: 2, 7
+  index: -1
+skill_1/FX1/bat fly/bat fly_69
+  rotate: false
+  xy: 431, 379
+  size: 79, 55
+  orig: 100, 128
+  offset: 9, 32
+  index: -1
+skill_1/FX1/bat fly/bat fly_73
+  rotate: true
+  xy: 450, 39
+  size: 90, 60
+  orig: 100, 128
+  offset: 5, 43
+  index: -1
+
+NG_24000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_40
+  rotate: false
+  xy: 491, 6
+  size: 19, 18
+  orig: 105, 80
+  offset: 45, 40
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_26
+  rotate: false
+  xy: 91, 173
+  size: 121, 185
+  orig: 125, 185
+  offset: 4, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_31
+  rotate: true
+  xy: 91, 123
+  size: 48, 110
+  orig: 125, 185
+  offset: 38, 38
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_27
+  rotate: false
+  xy: 374, 10
+  size: 48, 199
+  orig: 63, 200
+  offset: 9, 1
+  index: -1
+skill_0/FX1/FireBall/FireBall_32
+  rotate: false
+  xy: 253, 2
+  size: 119, 119
+  orig: 125, 125
+  offset: 6, 6
+  index: -1
+skill_0/FX1/FireBall/FireBall_33
+  rotate: true
+  xy: 128, 2
+  size: 119, 123
+  orig: 125, 125
+  offset: 4, 2
+  index: -1
+skill_0/FX1/FireBall/FireBall_35
+  rotate: false
+  xy: 296, 126
+  size: 76, 83
+  orig: 125, 125
+  offset: 24, 25
+  index: -1
+skill_0/FX1/FireBall/FireBall_46
+  rotate: false
+  xy: 214, 123
+  size: 80, 86
+  orig: 125, 125
+  offset: 23, 23
+  index: -1
+skill_0/FX1/FireBall/FireBall_49
+  rotate: true
+  xy: 424, 220
+  size: 102, 86
+  orig: 125, 125
+  offset: 14, 21
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_14
+  rotate: false
+  xy: 426, 324
+  size: 83, 88
+  orig: 167, 167
+  offset: 40, 38
+  index: -1
+skill_0/FX1/front/front_091
+  rotate: false
+  xy: 2, 219
+  size: 87, 139
+  orig: 215, 205
+  offset: 97, 50
+  index: -1
+skill_0/FX1/main assemble/main assemble_51
+  rotate: false
+  xy: 426, 414
+  size: 84, 96
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_53
+  rotate: false
+  xy: 424, 123
+  size: 86, 95
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_54
+  rotate: false
+  xy: 424, 26
+  size: 86, 95
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_22
+  rotate: false
+  xy: 424, 2
+  size: 21, 22
+  orig: 190, 100
+  offset: 80, 66
+  index: -1
+skill_1/FX1/assemble/assemble_02
+  rotate: false
+  xy: 214, 363
+  size: 210, 147
+  orig: 210, 150
+  offset: 0, 1
+  index: -1
+skill_1/FX1/assemble/assemble_03
+  rotate: false
+  xy: 214, 363
+  size: 210, 147
+  orig: 210, 150
+  offset: 0, 1
+  index: -1
+skill_1/FX1/assemble/assemble_04
+  rotate: false
+  xy: 214, 363
+  size: 210, 147
+  orig: 210, 150
+  offset: 0, 1
+  index: -1
+skill_1/FX1/assemble/assemble_08
+  rotate: false
+  xy: 214, 211
+  size: 208, 150
+  orig: 210, 150
+  offset: 2, 0
+  index: -1
+skill_1/FX1/assemble/assemble_09
+  rotate: false
+  xy: 214, 211
+  size: 208, 150
+  orig: 210, 150
+  offset: 2, 0
+  index: -1
+skill_1/FX1/assemble/assemble_10
+  rotate: false
+  xy: 2, 360
+  size: 210, 150
+  orig: 210, 150
+  offset: 0, 0
+  index: -1
+skill_1/FX1/assemble/assemble_16
+  rotate: true
+  xy: 2, 2
+  size: 119, 124
+  orig: 210, 150
+  offset: 44, 15
+  index: -1
+skill_1/FX1/ball/ball_59
+  rotate: false
+  xy: 469, 4
+  size: 20, 20
+  orig: 50, 50
+  offset: 7, 17
+  index: -1
+skill_1/FX1/bat fly/bat fly_55
+  rotate: true
+  xy: 447, 3
+  size: 21, 20
+  orig: 100, 128
+  offset: 33, 4
+  index: -1
+skill_1/FX1/energy/energy_88
+  rotate: false
+  xy: 2, 123
+  size: 87, 86
+  orig: 150, 150
+  offset: 32, 32
+  index: -1
+
+NG_24000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_21
+  rotate: true
+  xy: 200, 6
+  size: 102, 127
+  orig: 125, 185
+  offset: 12, 58
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_28
+  rotate: true
+  xy: 2, 61
+  size: 49, 196
+  orig: 63, 200
+  offset: 7, 4
+  index: -1
+skill_0/FX1/FireBall/FireBall_38
+  rotate: false
+  xy: 405, 301
+  size: 103, 103
+  orig: 125, 125
+  offset: 12, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_101
+  rotate: true
+  xy: 394, 46
+  size: 121, 116
+  orig: 145, 183
+  offset: 12, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_103
+  rotate: true
+  xy: 405, 406
+  size: 104, 103
+  orig: 145, 183
+  offset: 21, 4
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_109
+  rotate: false
+  xy: 394, 169
+  size: 116, 130
+  orig: 145, 183
+  offset: 14, 10
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_09
+  rotate: true
+  xy: 2, 2
+  size: 57, 67
+  orig: 167, 167
+  offset: 54, 50
+  index: -1
+skill_0/FX1/column/column_107
+  rotate: true
+  xy: 329, 2
+  size: 42, 124
+  orig: 63, 170
+  offset: 11, 3
+  index: -1
+skill_0/FX1/column/column_108
+  rotate: true
+  xy: 329, 2
+  size: 42, 124
+  orig: 63, 170
+  offset: 11, 3
+  index: -1
+skill_0/FX1/front/front_079
+  rotate: false
+  xy: 2, 309
+  size: 204, 201
+  orig: 215, 205
+  offset: 5, 0
+  index: -1
+skill_0/FX1/front/front_080
+  rotate: false
+  xy: 2, 309
+  size: 204, 201
+  orig: 215, 205
+  offset: 5, 0
+  index: -1
+skill_0/FX1/front/front_082
+  rotate: false
+  xy: 208, 309
+  size: 195, 201
+  orig: 215, 205
+  offset: 10, 0
+  index: -1
+skill_0/FX1/front/front_092
+  rotate: false
+  xy: 200, 110
+  size: 192, 197
+  orig: 215, 205
+  offset: 6, 4
+  index: -1
+skill_0/FX1/round exp/round exp_59
+  rotate: true
+  xy: 2, 112
+  size: 195, 196
+  orig: 240, 240
+  offset: 22, 23
+  index: -1
+skill_1/FX1/Front Fire/F_16
+  rotate: false
+  xy: 329, 46
+  size: 63, 62
+  orig: 118, 110
+  offset: 30, 21
+  index: -1
+skill_1/FX1/ball/ball_63
+  rotate: false
+  xy: 455, 2
+  size: 49, 42
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+skill_1/FX1/ball/ball_71
+  rotate: true
+  xy: 155, 11
+  size: 48, 42
+  orig: 50, 50
+  offset: 0, 4
+  index: -1
+skill_1/FX1/bat fly/bat fly_70
+  rotate: false
+  xy: 71, 3
+  size: 82, 56
+  orig: 100, 128
+  offset: 8, 35
+  index: -1
+
+NG_24000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/FireBall/FireBall_36
+  rotate: true
+  xy: 413, 106
+  size: 123, 97
+  orig: 125, 125
+  offset: 2, 21
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_110
+  rotate: true
+  xy: 2, 2
+  size: 133, 141
+  orig: 145, 183
+  offset: 7, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_125
+  rotate: false
+  xy: 286, 2
+  size: 125, 133
+  orig: 145, 183
+  offset: 10, 39
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_33
+  rotate: false
+  xy: 145, 2
+  size: 139, 133
+  orig: 167, 167
+  offset: 14, 25
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_34
+  rotate: true
+  xy: 373, 231
+  size: 141, 136
+  orig: 167, 167
+  offset: 13, 24
+  index: -1
+skill_0/FX1/front/front_084
+  rotate: true
+  xy: 2, 137
+  size: 185, 179
+  orig: 215, 205
+  offset: 17, 0
+  index: -1
+skill_0/FX1/front/front_085
+  rotate: true
+  xy: 2, 137
+  size: 185, 179
+  orig: 215, 205
+  offset: 17, 0
+  index: -1
+skill_0/FX1/front/front_087
+  rotate: false
+  xy: 2, 324
+  size: 179, 186
+  orig: 215, 205
+  offset: 22, 0
+  index: -1
+skill_1/FX1/Front Fire/F_26
+  rotate: true
+  xy: 413, 2
+  size: 102, 97
+  orig: 118, 110
+  offset: 9, 5
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_17
+  rotate: false
+  xy: 183, 137
+  size: 168, 77
+  orig: 190, 100
+  offset: 7, 14
+  index: -1
+skill_1/FX1/assemble/assemble_11
+  rotate: false
+  xy: 183, 364
+  size: 188, 146
+  orig: 210, 150
+  offset: 13, 4
+  index: -1
+skill_1/FX1/assemble/assemble_12
+  rotate: false
+  xy: 183, 216
+  size: 188, 146
+  orig: 210, 150
+  offset: 13, 4
+  index: -1
+skill_1/FX1/assemble/assemble_14
+  rotate: true
+  xy: 373, 374
+  size: 136, 137
+  orig: 210, 150
+  offset: 38, 10
+  index: -1
+skill_1/FX1/assemble/assemble_15
+  rotate: true
+  xy: 373, 374
+  size: 136, 137
+  orig: 210, 150
+  offset: 38, 10
+  index: -1
+skill_1/FX1/ball/ball_77
+  rotate: false
+  xy: 353, 137
+  size: 33, 17
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+skill_1/FX1/bat fly/bat fly_54
+  rotate: true
+  xy: 388, 137
+  size: 17, 16
+  orig: 100, 128
+  offset: 34, 3
+  index: -1
+skill_1/FX1/energy/energy_77
+  rotate: false
+  xy: 353, 156
+  size: 58, 58
+  orig: 150, 150
+  offset: 46, 46
+  index: -1
+
+NG_24000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cross_01
+  rotate: true
+  xy: 2, 2
+  size: 116, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_22
+  rotate: false
+  xy: 275, 327
+  size: 120, 183
+  orig: 125, 185
+  offset: 4, 2
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_24
+  rotate: false
+  xy: 47, 138
+  size: 113, 185
+  orig: 125, 185
+  offset: 6, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_25
+  rotate: false
+  xy: 162, 138
+  size: 113, 185
+  orig: 125, 185
+  offset: 6, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_27
+  rotate: false
+  xy: 47, 325
+  size: 115, 185
+  orig: 125, 185
+  offset: 4, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_28
+  rotate: false
+  xy: 164, 325
+  size: 109, 185
+  orig: 125, 185
+  offset: 6, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_29
+  rotate: false
+  xy: 2, 316
+  size: 43, 194
+  orig: 63, 200
+  offset: 8, 4
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_30
+  rotate: false
+  xy: 2, 120
+  size: 43, 194
+  orig: 63, 200
+  offset: 8, 4
+  index: -1
+skill_0/FX1/FireBall/FireBall_37
+  rotate: false
+  xy: 249, 2
+  size: 104, 87
+  orig: 125, 125
+  offset: 18, 23
+  index: -1
+skill_0/FX1/FireBall/FireBall_52
+  rotate: false
+  xy: 277, 91
+  size: 118, 115
+  orig: 125, 125
+  offset: 7, 8
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_05
+  rotate: true
+  xy: 465, 135
+  size: 34, 44
+  orig: 167, 167
+  offset: 66, 62
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_23
+  rotate: false
+  xy: 397, 171
+  size: 112, 121
+  orig: 167, 167
+  offset: 27, 23
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_31
+  rotate: true
+  xy: 118, 2
+  size: 134, 129
+  orig: 167, 167
+  offset: 16, 27
+  index: -1
+skill_1/FX1/Front Fire/F_18
+  rotate: false
+  xy: 397, 403
+  size: 113, 107
+  orig: 118, 110
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Front Fire/F_19
+  rotate: false
+  xy: 397, 294
+  size: 113, 107
+  orig: 118, 110
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_02
+  rotate: true
+  xy: 249, 109
+  size: 27, 26
+  orig: 190, 100
+  offset: 78, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_14
+  rotate: true
+  xy: 397, 2
+  size: 167, 66
+  orig: 190, 100
+  offset: 7, 14
+  index: -1
+skill_1/FX1/Ring Fire/ring_89
+  rotate: false
+  xy: 355, 22
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_84
+  rotate: false
+  xy: 465, 37
+  size: 42, 60
+  orig: 70, 145
+  offset: 16, 40
+  index: -1
+skill_1/FX1/ball/ball_60
+  rotate: false
+  xy: 465, 99
+  size: 43, 34
+  orig: 50, 50
+  offset: 1, 8
+  index: -1
+skill_1/FX1/bat fly/bat fly_58
+  rotate: false
+  xy: 465, 2
+  size: 31, 33
+  orig: 100, 128
+  offset: 30, 6
+  index: -1
+skill_1/FX1/bat fly/bat fly_79
+  rotate: true
+  xy: 47, 125
+  size: 11, 67
+  orig: 100, 128
+  offset: 13, 59
+  index: -1
+skill_1/FX1/energy/energy_87
+  rotate: true
+  xy: 277, 208
+  size: 117, 118
+  orig: 150, 150
+  offset: 17, 15
+  index: -1
+
+NG_24000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_29
+  rotate: false
+  xy: 158, 2
+  size: 82, 156
+  orig: 125, 185
+  offset: 21, 13
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_30
+  rotate: false
+  xy: 158, 2
+  size: 82, 156
+  orig: 125, 185
+  offset: 21, 13
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_32
+  rotate: false
+  xy: 2, 330
+  size: 38, 180
+  orig: 63, 200
+  offset: 11, 12
+  index: -1
+skill_0/FX1/FireBall/FireBall_30
+  rotate: true
+  xy: 295, 34
+  size: 124, 94
+  orig: 125, 125
+  offset: 1, 15
+  index: -1
+skill_0/FX1/FireBall/FireBall_34
+  rotate: false
+  xy: 391, 142
+  size: 118, 112
+  orig: 125, 125
+  offset: 4, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_41
+  rotate: false
+  xy: 296, 228
+  size: 93, 103
+  orig: 125, 125
+  offset: 18, 9
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_114
+  rotate: false
+  xy: 42, 340
+  size: 145, 170
+  orig: 145, 183
+  offset: 0, 11
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_115
+  rotate: false
+  xy: 2, 156
+  size: 145, 172
+  orig: 145, 183
+  offset: 0, 11
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_116
+  rotate: false
+  xy: 189, 340
+  size: 145, 170
+  orig: 145, 183
+  offset: 0, 13
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_117
+  rotate: false
+  xy: 149, 160
+  size: 145, 168
+  orig: 145, 183
+  offset: 0, 15
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_22
+  rotate: true
+  xy: 391, 256
+  size: 109, 119
+  orig: 167, 167
+  offset: 28, 24
+  index: -1
+skill_0/FX1/column/column_120
+  rotate: true
+  xy: 42, 330
+  size: 8, 161
+  orig: 63, 170
+  offset: 28, 5
+  index: -1
+skill_0/FX1/column/column_121
+  rotate: true
+  xy: 42, 330
+  size: 8, 161
+  orig: 63, 170
+  offset: 28, 5
+  index: -1
+skill_0/FX1/column/column_122
+  rotate: true
+  xy: 42, 330
+  size: 8, 161
+  orig: 63, 170
+  offset: 28, 5
+  index: -1
+skill_0/FX1/column/column_123
+  rotate: true
+  xy: 205, 333
+  size: 5, 161
+  orig: 63, 170
+  offset: 30, 5
+  index: -1
+skill_0/FX1/column/column_124
+  rotate: true
+  xy: 205, 333
+  size: 5, 161
+  orig: 63, 170
+  offset: 30, 5
+  index: -1
+skill_0/FX1/front/front_094
+  rotate: true
+  xy: 2, 5
+  size: 149, 154
+  orig: 215, 205
+  offset: 48, 31
+  index: -1
+skill_0/FX1/front/front_095
+  rotate: true
+  xy: 2, 5
+  size: 149, 154
+  orig: 215, 205
+  offset: 48, 31
+  index: -1
+skill_0/FX1/main assemble/main assemble_23
+  rotate: false
+  xy: 326, 4
+  size: 33, 28
+  orig: 100, 100
+  offset: 31, 45
+  index: -1
+skill_1/FX1/Front Fire/F_15
+  rotate: true
+  xy: 448, 2
+  size: 42, 40
+  orig: 118, 110
+  offset: 40, 33
+  index: -1
+skill_1/FX1/Front Fire/F_28
+  rotate: false
+  xy: 296, 160
+  size: 75, 66
+  orig: 118, 110
+  offset: 22, 20
+  index: -1
+skill_1/FX1/Front Fire/F_29
+  rotate: false
+  xy: 296, 160
+  size: 75, 66
+  orig: 118, 110
+  offset: 22, 20
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_01
+  rotate: true
+  xy: 365, 340
+  size: 25, 24
+  orig: 190, 100
+  offset: 79, 28
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_03
+  rotate: false
+  xy: 295, 3
+  size: 29, 29
+  orig: 190, 100
+  offset: 77, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_04
+  rotate: false
+  xy: 336, 479
+  size: 30, 31
+  orig: 190, 100
+  offset: 76, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_11
+  rotate: true
+  xy: 242, 4
+  size: 154, 51
+  orig: 190, 100
+  offset: 14, 27
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_21
+  rotate: true
+  xy: 336, 340
+  size: 25, 27
+  orig: 190, 100
+  offset: 77, 57
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_91
+  rotate: false
+  xy: 391, 3
+  size: 55, 137
+  orig: 70, 145
+  offset: 5, 4
+  index: -1
+skill_1/FX1/assemble/assemble_19
+  rotate: false
+  xy: 336, 449
+  size: 30, 28
+  orig: 210, 150
+  offset: 77, 53
+  index: -1
+skill_1/FX1/ball/ball_76
+  rotate: true
+  xy: 336, 375
+  size: 42, 29
+  orig: 50, 50
+  offset: 6, 10
+  index: -1
+skill_1/FX1/bat fly/bat fly_56
+  rotate: true
+  xy: 361, 8
+  size: 24, 26
+  orig: 100, 128
+  offset: 32, 3
+  index: -1
+skill_1/FX1/bat fly/bat fly_57
+  rotate: true
+  xy: 336, 419
+  size: 28, 30
+  orig: 100, 128
+  offset: 31, 4
+  index: -1
+skill_1/FX1/bat fly/bat fly_75
+  rotate: true
+  xy: 448, 46
+  size: 94, 62
+  orig: 100, 128
+  offset: 3, 48
+  index: -1
+skill_1/FX1/energy/energy_84
+  rotate: false
+  xy: 368, 367
+  size: 142, 143
+  orig: 150, 150
+  offset: 3, 3
+  index: -1
+
+NG_24000_FX110.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_25
+  rotate: false
+  xy: 477, 156
+  size: 32, 81
+  orig: 63, 200
+  offset: 16, 3
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_111
+  rotate: true
+  xy: 149, 27
+  size: 145, 157
+  orig: 145, 183
+  offset: 0, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_112
+  rotate: false
+  xy: 2, 19
+  size: 145, 163
+  orig: 145, 183
+  offset: 0, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_113
+  rotate: true
+  xy: 339, 365
+  size: 145, 163
+  orig: 145, 183
+  offset: 0, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_118
+  rotate: true
+  xy: 327, 148
+  size: 141, 148
+  orig: 145, 183
+  offset: 2, 27
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_120
+  rotate: true
+  xy: 308, 8
+  size: 138, 143
+  orig: 145, 183
+  offset: 3, 32
+  index: -1
+skill_0/FX1/column/column_125
+  rotate: true
+  xy: 2, 2
+  size: 4, 161
+  orig: 63, 170
+  offset: 30, 5
+  index: -1
+skill_0/FX1/column/column_126
+  rotate: true
+  xy: 165, 2
+  size: 4, 161
+  orig: 63, 170
+  offset: 30, 5
+  index: -1
+skill_0/FX1/front/front_099
+  rotate: true
+  xy: 162, 174
+  size: 120, 163
+  orig: 215, 205
+  offset: 24, 8
+  index: -1
+skill_0/FX1/front/front_100
+  rotate: true
+  xy: 162, 174
+  size: 120, 163
+  orig: 215, 205
+  offset: 24, 8
+  index: -1
+skill_0/FX1/round exp/round exp_57
+  rotate: false
+  xy: 2, 184
+  size: 158, 158
+  orig: 240, 240
+  offset: 41, 42
+  index: -1
+skill_0/FX1/round exp/round exp_58
+  rotate: false
+  xy: 2, 344
+  size: 166, 166
+  orig: 240, 240
+  offset: 37, 38
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_16
+  rotate: false
+  xy: 338, 291
+  size: 168, 72
+  orig: 190, 100
+  offset: 7, 14
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_18
+  rotate: false
+  xy: 170, 296
+  size: 166, 69
+  orig: 190, 100
+  offset: 7, 23
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_90
+  rotate: false
+  xy: 453, 6
+  size: 56, 140
+  orig: 70, 145
+  offset: 4, 3
+  index: -1
+skill_1/FX1/assemble/assemble_13
+  rotate: false
+  xy: 170, 367
+  size: 167, 143
+  orig: 210, 150
+  offset: 23, 7
+  index: -1
+skill_1/FX1/ball/ball_61
+  rotate: true
+  xy: 477, 239
+  size: 50, 33
+  orig: 50, 50
+  offset: 0, 4
+  index: -1
+
+NG_24000_FX111.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/FireBall/FireBall_27
+  rotate: false
+  xy: 102, 2
+  size: 74, 80
+  orig: 125, 125
+  offset: 26, 26
+  index: -1
+skill_0/FX1/FireBall/FireBall_42
+  rotate: false
+  xy: 419, 233
+  size: 90, 102
+  orig: 125, 125
+  offset: 21, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_47
+  rotate: true
+  xy: 2, 2
+  size: 80, 98
+  orig: 125, 125
+  offset: 23, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_100
+  rotate: false
+  xy: 266, 2
+  size: 110, 110
+  orig: 145, 183
+  offset: 18, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_102
+  rotate: false
+  xy: 378, 4
+  size: 107, 108
+  orig: 145, 183
+  offset: 19, 1
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_122
+  rotate: false
+  xy: 2, 84
+  size: 131, 138
+  orig: 145, 183
+  offset: 7, 36
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_123
+  rotate: false
+  xy: 286, 372
+  size: 131, 138
+  orig: 145, 183
+  offset: 7, 36
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_12
+  rotate: false
+  xy: 178, 2
+  size: 73, 80
+  orig: 167, 167
+  offset: 45, 43
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_16
+  rotate: false
+  xy: 419, 414
+  size: 91, 96
+  orig: 167, 167
+  offset: 36, 34
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_27
+  rotate: true
+  xy: 286, 247
+  size: 123, 131
+  orig: 167, 167
+  offset: 21, 19
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_29
+  rotate: false
+  xy: 135, 84
+  size: 129, 124
+  orig: 167, 167
+  offset: 18, 29
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_30
+  rotate: true
+  xy: 291, 114
+  size: 131, 126
+  orig: 167, 167
+  offset: 17, 28
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_35
+  rotate: true
+  xy: 2, 224
+  size: 143, 138
+  orig: 167, 167
+  offset: 12, 23
+  index: -1
+skill_0/FX1/column/column_109
+  rotate: true
+  xy: 142, 210
+  size: 34, 147
+  orig: 63, 170
+  offset: 16, 4
+  index: -1
+skill_0/FX1/column/column_110
+  rotate: true
+  xy: 142, 210
+  size: 34, 147
+  orig: 63, 170
+  offset: 16, 4
+  index: -1
+skill_0/FX1/column/column_111
+  rotate: true
+  xy: 142, 210
+  size: 34, 147
+  orig: 63, 170
+  offset: 16, 4
+  index: -1
+skill_0/FX1/front/front_081
+  rotate: true
+  xy: 145, 246
+  size: 123, 139
+  orig: 215, 205
+  offset: 19, 14
+  index: -1
+skill_0/FX1/front/front_083
+  rotate: false
+  xy: 419, 120
+  size: 77, 111
+  orig: 215, 205
+  offset: 14, 26
+  index: -1
+skill_0/FX1/main assemble/main assemble_24
+  rotate: true
+  xy: 419, 337
+  size: 75, 91
+  orig: 100, 100
+  offset: 6, 4
+  index: -1
+skill_1/FX1/energy/energy_85
+  rotate: false
+  xy: 2, 369
+  size: 141, 141
+  orig: 150, 150
+  offset: 5, 4
+  index: -1
+skill_1/FX1/energy/energy_86
+  rotate: false
+  xy: 145, 371
+  size: 139, 139
+  orig: 150, 150
+  offset: 6, 5
+  index: -1
+
+NG_24000_FX112.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_48
+  rotate: true
+  xy: 454, 435
+  size: 75, 55
+  orig: 105, 80
+  offset: 27, 22
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_124
+  rotate: true
+  xy: 2, 265
+  size: 128, 136
+  orig: 145, 183
+  offset: 8, 37
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_126
+  rotate: true
+  xy: 287, 270
+  size: 123, 130
+  orig: 145, 183
+  offset: 11, 40
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_127
+  rotate: true
+  xy: 2, 143
+  size: 120, 128
+  orig: 145, 183
+  offset: 12, 40
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_128
+  rotate: true
+  xy: 2, 143
+  size: 120, 128
+  orig: 145, 183
+  offset: 12, 40
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_06
+  rotate: true
+  xy: 132, 143
+  size: 40, 50
+  orig: 167, 167
+  offset: 63, 59
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_08
+  rotate: true
+  xy: 354, 49
+  size: 51, 61
+  orig: 167, 167
+  offset: 57, 53
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_10
+  rotate: false
+  xy: 354, 196
+  size: 62, 72
+  orig: 167, 167
+  offset: 51, 47
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_28
+  rotate: true
+  xy: 2, 14
+  size: 127, 122
+  orig: 167, 167
+  offset: 19, 30
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_32
+  rotate: false
+  xy: 149, 315
+  size: 136, 131
+  orig: 167, 167
+  offset: 15, 26
+  index: -1
+skill_0/FX1/front/front_086
+  rotate: false
+  xy: 304, 7
+  size: 48, 52
+  orig: 215, 205
+  offset: 16, 56
+  index: -1
+skill_0/FX1/guang01_0000
+  rotate: true
+  xy: 126, 14
+  size: 127, 120
+  orig: 138, 138
+  offset: 6, 9
+  index: -1
+skill_0/FX1/main assemble/main assemble_26
+  rotate: true
+  xy: 417, 51
+  size: 96, 93
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_35
+  rotate: false
+  xy: 418, 149
+  size: 92, 97
+  orig: 100, 100
+  offset: 4, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_37
+  rotate: false
+  xy: 420, 337
+  size: 90, 96
+  orig: 100, 100
+  offset: 5, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_58
+  rotate: true
+  xy: 419, 248
+  size: 87, 90
+  orig: 100, 100
+  offset: 6, 6
+  index: -1
+skill_0/FX1/main assemble/main assemble_61
+  rotate: true
+  xy: 270, 185
+  size: 83, 82
+  orig: 100, 100
+  offset: 7, 11
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_09
+  rotate: true
+  xy: 306, 61
+  size: 122, 46
+  orig: 190, 100
+  offset: 29, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_12
+  rotate: false
+  xy: 2, 449
+  size: 159, 61
+  orig: 190, 100
+  offset: 11, 20
+  index: -1
+skill_1/FX1/Ring Fire/ring_92
+  rotate: true
+  xy: 236, 144
+  size: 39, 68
+  orig: 40, 70
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_85
+  rotate: true
+  xy: 354, 6
+  size: 41, 59
+  orig: 70, 145
+  offset: 15, 2
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_86
+  rotate: true
+  xy: 2, 395
+  size: 52, 145
+  orig: 70, 145
+  offset: 16, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_87
+  rotate: true
+  xy: 163, 448
+  size: 62, 145
+  orig: 70, 145
+  offset: 6, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_88
+  rotate: true
+  xy: 310, 447
+  size: 63, 142
+  orig: 70, 145
+  offset: 4, 3
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_92
+  rotate: true
+  xy: 287, 395
+  size: 50, 131
+  orig: 70, 145
+  offset: 8, 8
+  index: -1
+skill_1/FX1/ball/ball_73
+  rotate: false
+  xy: 184, 143
+  size: 50, 40
+  orig: 50, 50
+  offset: 0, 5
+  index: -1
+skill_1/FX1/ball/ball_74
+  rotate: false
+  xy: 184, 143
+  size: 50, 40
+  orig: 50, 50
+  offset: 0, 5
+  index: -1
+skill_1/FX1/bat fly/bat fly_68
+  rotate: true
+  xy: 248, 6
+  size: 76, 54
+  orig: 100, 128
+  offset: 9, 28
+  index: -1
+skill_1/FX1/bat fly/bat fly_74
+  rotate: true
+  xy: 354, 102
+  size: 92, 61
+  orig: 100, 128
+  offset: 4, 46
+  index: -1
+skill_1/FX1/bat fly/bat fly_77
+  rotate: true
+  xy: 417, 2
+  size: 47, 66
+  orig: 100, 128
+  offset: 13, 52
+  index: -1
+skill_1/FX1/energy/energy_83
+  rotate: false
+  xy: 140, 185
+  size: 128, 128
+  orig: 150, 150
+  offset: 10, 11
+  index: -1
+skill_1/FX1/energy/energy_89
+  rotate: true
+  xy: 248, 84
+  size: 58, 55
+  orig: 150, 150
+  offset: 46, 47
+  index: -1
+
+NG_24000_FX113.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_Ray100_emis
+  rotate: false
+  xy: 328, 52
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+atk/atk_44
+  rotate: true
+  xy: 351, 205
+  size: 65, 52
+  orig: 105, 80
+  offset: 21, 19
+  index: -1
+atk/atk_45
+  rotate: true
+  xy: 450, 347
+  size: 74, 59
+  orig: 105, 80
+  offset: 16, 14
+  index: -1
+glow
+  rotate: false
+  xy: 447, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+skill_0/FX1/FireBall/FireBall_45
+  rotate: true
+  xy: 151, 160
+  size: 107, 102
+  orig: 125, 125
+  offset: 10, 13
+  index: -1
+skill_0/FX1/X light/X light_132
+  rotate: true
+  xy: 2, 10
+  size: 121, 115
+  orig: 243, 140
+  offset: 59, 23
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_104
+  rotate: false
+  xy: 347, 326
+  size: 101, 101
+  orig: 145, 183
+  offset: 22, 5
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_105
+  rotate: true
+  xy: 402, 54
+  size: 70, 86
+  orig: 145, 183
+  offset: 34, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_106
+  rotate: true
+  xy: 347, 429
+  size: 81, 102
+  orig: 145, 183
+  offset: 29, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_107
+  rotate: false
+  xy: 52, 138
+  size: 97, 117
+  orig: 145, 183
+  offset: 24, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_98
+  rotate: true
+  xy: 411, 224
+  size: 100, 99
+  orig: 145, 183
+  offset: 23, 6
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_17
+  rotate: false
+  xy: 255, 166
+  size: 94, 101
+  orig: 167, 167
+  offset: 35, 32
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_18
+  rotate: false
+  xy: 228, 52
+  size: 98, 106
+  orig: 167, 167
+  offset: 33, 30
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_24
+  rotate: false
+  xy: 121, 386
+  size: 114, 124
+  orig: 167, 167
+  offset: 26, 22
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_25
+  rotate: false
+  xy: 2, 383
+  size: 117, 127
+  orig: 167, 167
+  offset: 24, 20
+  index: -1
+skill_0/FX1/column/column_104
+  rotate: true
+  xy: 295, 2
+  size: 48, 50
+  orig: 63, 170
+  offset: 9, 3
+  index: -1
+skill_0/FX1/column/column_105
+  rotate: true
+  xy: 255, 464
+  size: 46, 90
+  orig: 63, 170
+  offset: 9, 3
+  index: -1
+skill_0/FX1/column/column_106
+  rotate: true
+  xy: 255, 464
+  size: 46, 90
+  orig: 63, 170
+  offset: 9, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_30
+  rotate: false
+  xy: 405, 126
+  size: 97, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_38
+  rotate: false
+  xy: 255, 367
+  size: 89, 95
+  orig: 100, 100
+  offset: 5, 1
+  index: -1
+skill_0/FX1/round exp/round exp_56
+  rotate: false
+  xy: 2, 257
+  size: 124, 124
+  orig: 240, 240
+  offset: 58, 59
+  index: -1
+skill_1/FX1/Front Fire/F_20
+  rotate: true
+  xy: 128, 269
+  size: 115, 107
+  orig: 118, 110
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Front Fire/F_22
+  rotate: true
+  xy: 119, 24
+  size: 112, 107
+  orig: 118, 110
+  offset: 4, 0
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_10
+  rotate: true
+  xy: 2, 133
+  size: 122, 48
+  orig: 190, 100
+  offset: 29, 29
+  index: -1
+skill_1/FX1/Ring Fire/ring_84
+  rotate: true
+  xy: 328, 126
+  size: 38, 68
+  orig: 40, 70
+  offset: 2, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_85
+  rotate: true
+  xy: 328, 126
+  size: 38, 68
+  orig: 40, 70
+  offset: 2, 0
+  index: -1
+skill_1/FX1/ball/ball_66
+  rotate: false
+  xy: 347, 2
+  size: 48, 48
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+skill_1/FX1/ball/ball_68
+  rotate: false
+  xy: 397, 2
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+skill_1/FX1/ball/ball_69
+  rotate: false
+  xy: 397, 2
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+skill_1/FX1/bat fly/bat fly_59
+  rotate: false
+  xy: 351, 168
+  size: 35, 35
+  orig: 100, 128
+  offset: 28, 8
+  index: -1
+skill_1/FX1/bat fly/bat fly_67
+  rotate: false
+  xy: 337, 272
+  size: 72, 52
+  orig: 100, 128
+  offset: 9, 25
+  index: -1
+skill_1/FX1/bat fly/bat fly_72
+  rotate: true
+  xy: 451, 423
+  size: 87, 59
+  orig: 100, 128
+  offset: 7, 40
+  index: -1
+skill_1/FX1/bat fly/bat fly_78
+  rotate: true
+  xy: 228, 2
+  size: 48, 65
+  orig: 100, 128
+  offset: 13, 56
+  index: -1
+skill_1/FX1/energy/energy_81
+  rotate: false
+  xy: 237, 269
+  size: 98, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+
+NG_24000_FX114.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_41
+  rotate: false
+  xy: 357, 125
+  size: 32, 28
+  orig: 105, 80
+  offset: 38, 35
+  index: -1
+skill_0/FX1/FireBall/FireBall_29
+  rotate: true
+  xy: 2, 54
+  size: 95, 85
+  orig: 125, 125
+  offset: 5, 26
+  index: -1
+skill_0/FX1/FireBall/FireBall_48
+  rotate: false
+  xy: 398, 58
+  size: 92, 92
+  orig: 125, 125
+  offset: 18, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_50
+  rotate: false
+  xy: 268, 57
+  size: 87, 93
+  orig: 125, 125
+  offset: 19, 19
+  index: -1
+skill_0/FX1/main assemble/main assemble_27
+  rotate: false
+  xy: 299, 416
+  size: 97, 94
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_28
+  rotate: false
+  xy: 2, 415
+  size: 97, 95
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_29
+  rotate: false
+  xy: 101, 415
+  size: 97, 95
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_31
+  rotate: false
+  xy: 398, 318
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_32
+  rotate: true
+  xy: 2, 318
+  size: 95, 96
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_33
+  rotate: true
+  xy: 200, 415
+  size: 95, 97
+  orig: 100, 100
+  offset: 3, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_34
+  rotate: true
+  xy: 398, 416
+  size: 94, 97
+  orig: 100, 100
+  offset: 3, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_36
+  rotate: true
+  xy: 299, 322
+  size: 92, 97
+  orig: 100, 100
+  offset: 4, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_39
+  rotate: true
+  xy: 100, 325
+  size: 88, 96
+  orig: 100, 100
+  offset: 6, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_40
+  rotate: true
+  xy: 198, 326
+  size: 87, 96
+  orig: 100, 100
+  offset: 6, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_41
+  rotate: true
+  xy: 198, 239
+  size: 85, 96
+  orig: 100, 100
+  offset: 7, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_43
+  rotate: true
+  xy: 2, 234
+  size: 82, 96
+  orig: 100, 100
+  offset: 8, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_44
+  rotate: true
+  xy: 100, 155
+  size: 81, 96
+  orig: 100, 100
+  offset: 9, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_45
+  rotate: true
+  xy: 2, 151
+  size: 81, 96
+  orig: 100, 100
+  offset: 8, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_46
+  rotate: true
+  xy: 394, 235
+  size: 81, 96
+  orig: 100, 100
+  offset: 8, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_47
+  rotate: true
+  xy: 296, 238
+  size: 82, 96
+  orig: 100, 100
+  offset: 7, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_48
+  rotate: true
+  xy: 296, 155
+  size: 81, 96
+  orig: 100, 100
+  offset: 7, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_49
+  rotate: true
+  xy: 394, 152
+  size: 81, 96
+  orig: 100, 100
+  offset: 6, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_50
+  rotate: true
+  xy: 198, 155
+  size: 82, 96
+  orig: 100, 100
+  offset: 5, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_52
+  rotate: true
+  xy: 100, 238
+  size: 85, 96
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_55
+  rotate: false
+  xy: 89, 55
+  size: 87, 94
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_56
+  rotate: false
+  xy: 178, 57
+  size: 88, 93
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_07
+  rotate: false
+  xy: 294, 14
+  size: 67, 41
+  orig: 190, 100
+  offset: 56, 29
+  index: -1
+skill_1/FX1/Ring Fire/ring_96
+  rotate: true
+  xy: 363, 16
+  size: 39, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_97
+  rotate: false
+  xy: 357, 57
+  size: 39, 66
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/ball/ball_62
+  rotate: true
+  xy: 45, 2
+  size: 50, 39
+  orig: 50, 50
+  offset: 0, 3
+  index: -1
+skill_1/FX1/ball/ball_64
+  rotate: true
+  xy: 137, 4
+  size: 49, 41
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+skill_1/FX1/ball/ball_65
+  rotate: true
+  xy: 2, 2
+  size: 50, 41
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+skill_1/FX1/ball/ball_67
+  rotate: false
+  xy: 86, 3
+  size: 49, 49
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+skill_1/FX1/ball/ball_70
+  rotate: true
+  xy: 180, 7
+  size: 48, 46
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+skill_1/FX1/bat fly/bat fly_60
+  rotate: false
+  xy: 433, 17
+  size: 38, 39
+  orig: 100, 128
+  offset: 27, 9
+  index: -1
+skill_1/FX1/bat fly/bat fly_65
+  rotate: false
+  xy: 228, 8
+  size: 64, 47
+  orig: 100, 128
+  offset: 12, 20
+  index: -1
+
+NG_24000_FX115.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_46
+  rotate: false
+  xy: 258, 58
+  size: 83, 65
+  orig: 105, 80
+  offset: 12, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_24
+  rotate: false
+  xy: 180, 122
+  size: 76, 81
+  orig: 125, 125
+  offset: 25, 24
+  index: -1
+skill_0/FX1/FireBall/FireBall_25
+  rotate: true
+  xy: 267, 201
+  size: 74, 81
+  orig: 125, 125
+  offset: 26, 25
+  index: -1
+skill_0/FX1/FireBall/FireBall_28
+  rotate: true
+  xy: 258, 125
+  size: 74, 81
+  orig: 125, 125
+  offset: 26, 26
+  index: -1
+skill_0/FX1/FireBall/FireBall_40
+  rotate: true
+  xy: 182, 277
+  size: 85, 89
+  orig: 125, 125
+  offset: 17, 23
+  index: -1
+skill_0/FX1/FireBall/FireBall_44
+  rotate: true
+  xy: 2, 2
+  size: 82, 92
+  orig: 125, 125
+  offset: 21, 22
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_11
+  rotate: true
+  xy: 180, 53
+  size: 67, 76
+  orig: 167, 167
+  offset: 48, 45
+  index: -1
+skill_0/FX1/bats full screen/bats full screen_15
+  rotate: false
+  xy: 2, 176
+  size: 87, 92
+  orig: 167, 167
+  offset: 38, 36
+  index: -1
+skill_0/FX1/front/front_088
+  rotate: true
+  xy: 182, 205
+  size: 70, 83
+  orig: 215, 205
+  offset: 118, 90
+  index: -1
+skill_0/FX1/main assemble/main assemble_57
+  rotate: false
+  xy: 2, 270
+  size: 88, 92
+  orig: 100, 100
+  offset: 6, 5
+  index: -1
+skill_0/FX1/main assemble/main assemble_59
+  rotate: false
+  xy: 2, 86
+  size: 87, 88
+  orig: 100, 100
+  offset: 6, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_60
+  rotate: false
+  xy: 91, 121
+  size: 87, 85
+  orig: 100, 100
+  offset: 5, 9
+  index: -1
+skill_1/FX1/Front Fire/F_17
+  rotate: false
+  xy: 273, 277
+  size: 88, 85
+  orig: 118, 110
+  offset: 15, 11
+  index: -1
+skill_1/FX1/assemble/assemble_17
+  rotate: false
+  xy: 174, 13
+  size: 38, 38
+  orig: 210, 150
+  offset: 74, 48
+  index: -1
+skill_1/FX1/assemble/assemble_18
+  rotate: false
+  xy: 174, 13
+  size: 38, 38
+  orig: 210, 150
+  offset: 74, 48
+  index: -1
+skill_1/FX1/bat fly/bat fly_76
+  rotate: false
+  xy: 92, 208
+  size: 88, 64
+  orig: 100, 128
+  offset: 10, 50
+  index: -1
+skill_1/FX1/energy/energy_79
+  rotate: false
+  xy: 96, 41
+  size: 76, 78
+  orig: 150, 150
+  offset: 37, 36
+  index: -1
+skill_1/FX1/energy/energy_80
+  rotate: false
+  xy: 92, 274
+  size: 88, 88
+  orig: 150, 150
+  offset: 31, 31
+  index: -1

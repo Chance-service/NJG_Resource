@@ -1,0 +1,20 @@
+ID	group	activityId	pickUpId	Image	type	openDay	startTime	endTime
+1	1	159	0	Lobby_Banner_1	0		1696089600	1733068799
+2	0	163	0	Lobby_Banner_2	0		0	0
+3	0	999	0	Lobby_Banner_3	0		0	0
+4	1	175	0	lobby_BannerB001	1	4,5,6	0	0
+5	0	179	0	Lobby_Banner_179	0		0	0
+6	1	191	0		0		1741230000	1742399999
+7	0	147	0	Lobby_Banner_147	0		1739721600	1740276000
+8	0	147	0	Lobby_Banner_147	0		1740715200	1740931199
+9	0	197	23	Lobby_Banner_023	0		1740024000	1740239999
+10	0	197	1	Lobby_Banner_023	0		1740369600	1740585599
+11	0	197	2	Lobby_Banner_018	0		1740974400	1741190399
+12	1	195	0		1	1,2,3,4,5,6,7	0	0
+								
+								
+								
+								
+								
+								
+								

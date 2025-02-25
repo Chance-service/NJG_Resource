@@ -1,0 +1,335 @@
+
+Buff_62_FX1.png
+size: 650,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acron exp/acron exp_01
+  rotate: false
+  xy: 381, 100
+  size: 36, 39
+  orig: 109, 102
+  offset: 35, 24
+  index: -1
+acron exp/acron exp_02
+  rotate: false
+  xy: 60, 17
+  size: 41, 42
+  orig: 109, 102
+  offset: 33, 24
+  index: -1
+acron exp/acron exp_03
+  rotate: false
+  xy: 2, 2
+  size: 56, 57
+  orig: 109, 102
+  offset: 23, 21
+  index: -1
+acron exp/acron exp_04
+  rotate: true
+  xy: 305, 60
+  size: 69, 74
+  orig: 109, 102
+  offset: 18, 19
+  index: -1
+acron exp/acron exp_05
+  rotate: false
+  xy: 116, 157
+  size: 84, 87
+  orig: 109, 102
+  offset: 14, 6
+  index: -1
+acron exp/acron exp_06
+  rotate: false
+  xy: 202, 372
+  size: 104, 87
+  orig: 109, 102
+  offset: 4, 6
+  index: -1
+acron exp/acron exp_07
+  rotate: true
+  xy: 448, 276
+  size: 80, 86
+  orig: 109, 102
+  offset: 16, 6
+  index: -1
+acron exp/acron exp_08
+  rotate: true
+  xy: 573, 563
+  size: 85, 75
+  orig: 109, 102
+  offset: 16, 6
+  index: -1
+acron exp/acron exp_09
+  rotate: false
+  xy: 215, 76
+  size: 88, 79
+  orig: 109, 102
+  offset: 15, 3
+  index: -1
+acron exp/acron exp_10
+  rotate: false
+  xy: 446, 195
+  size: 88, 79
+  orig: 109, 102
+  offset: 15, 3
+  index: -1
+acron exp/acron exp_11
+  rotate: false
+  xy: 446, 112
+  size: 90, 81
+  orig: 109, 102
+  offset: 14, 2
+  index: -1
+acron exp/acron exp_12
+  rotate: false
+  xy: 536, 220
+  size: 91, 80
+  orig: 109, 102
+  offset: 14, 2
+  index: -1
+acron exp/acron exp_13
+  rotate: false
+  xy: 536, 302
+  size: 92, 81
+  orig: 109, 102
+  offset: 14, 3
+  index: -1
+acron exp/acron exp_14
+  rotate: false
+  xy: 111, 16
+  size: 91, 64
+  orig: 109, 102
+  offset: 14, 14
+  index: -1
+fall Acorn/fall Acorn_00
+  rotate: false
+  xy: 133, 401
+  size: 67, 154
+  orig: 70, 154
+  offset: 1, 0
+  index: -1
+fall Acorn/fall Acorn_01
+  rotate: true
+  xy: 311, 441
+  size: 67, 154
+  orig: 70, 154
+  offset: 1, 0
+  index: -1
+fall Acorn/fall Acorn_02
+  rotate: true
+  xy: 194, 580
+  size: 68, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+fall Acorn/fall Acorn_03
+  rotate: true
+  xy: 350, 580
+  size: 68, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+fall Acorn/fall Acorn_04
+  rotate: false
+  xy: 467, 425
+  size: 67, 153
+  orig: 70, 154
+  offset: 1, 1
+  index: -1
+fall Acorn/fall Acorn_05
+  rotate: true
+  xy: 308, 372
+  size: 67, 154
+  orig: 70, 154
+  offset: 1, 0
+  index: -1
+fall Acorn/fall Acorn_06
+  rotate: true
+  xy: 311, 510
+  size: 68, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+fall Acorn/fall Acorn_07
+  rotate: true
+  xy: 202, 302
+  size: 68, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+fall Acorn/fall Acorn_08
+  rotate: false
+  xy: 133, 246
+  size: 67, 153
+  orig: 70, 154
+  offset: 1, 1
+  index: -1
+fall Acorn/fall Acorn_09
+  rotate: true
+  xy: 202, 233
+  size: 67, 154
+  orig: 70, 154
+  offset: 1, 0
+  index: -1
+fall acorn hit/fall acorn hit_00
+  rotate: false
+  xy: 274, 50
+  size: 22, 24
+  orig: 140, 140
+  offset: 52, 9
+  index: -1
+fall acorn hit/fall acorn hit_01
+  rotate: false
+  xy: 274, 50
+  size: 22, 24
+  orig: 140, 140
+  offset: 52, 9
+  index: -1
+fall acorn hit/fall acorn hit_02
+  rotate: false
+  xy: 358, 281
+  size: 88, 89
+  orig: 140, 140
+  offset: 22, 0
+  index: -1
+fall acorn hit/fall acorn hit_03
+  rotate: false
+  xy: 2, 61
+  size: 107, 117
+  orig: 140, 140
+  offset: 18, 0
+  index: -1
+fall acorn hit/fall acorn hit_04
+  rotate: false
+  xy: 202, 461
+  size: 107, 117
+  orig: 140, 140
+  offset: 18, 0
+  index: -1
+fall acorn hit/fall acorn hit_05
+  rotate: false
+  xy: 2, 180
+  size: 112, 123
+  orig: 140, 140
+  offset: 13, 0
+  index: -1
+fall acorn hit/fall acorn hit_06
+  rotate: false
+  xy: 2, 431
+  size: 129, 124
+  orig: 140, 140
+  offset: 8, 0
+  index: -1
+fall acorn hit/fall acorn hit_07
+  rotate: false
+  xy: 2, 305
+  size: 129, 124
+  orig: 140, 140
+  offset: 8, 0
+  index: -1
+fall acorn hit/fall acorn hit_08
+  rotate: false
+  xy: 536, 458
+  size: 104, 103
+  orig: 140, 140
+  offset: 16, 13
+  index: -1
+fall acorn hit/fall acorn hit_09
+  rotate: true
+  xy: 202, 157
+  size: 74, 101
+  orig: 140, 140
+  offset: 32, 15
+  index: -1
+fall acorn hit/fall acorn hit_10
+  rotate: true
+  xy: 111, 82
+  size: 73, 102
+  orig: 140, 140
+  offset: 32, 15
+  index: -1
+fall acorn hit/fall acorn hit_11
+  rotate: false
+  xy: 305, 131
+  size: 72, 100
+  orig: 140, 140
+  offset: 33, 17
+  index: -1
+fall acorn hit/fall acorn hit_12
+  rotate: true
+  xy: 536, 385
+  size: 71, 99
+  orig: 140, 140
+  offset: 33, 19
+  index: -1
+soil
+  rotate: false
+  xy: 2, 557
+  size: 190, 91
+  orig: 195, 97
+  offset: 2, 4
+  index: -1
+spin Acorn/spin arcon_00
+  rotate: false
+  xy: 506, 580
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_01
+  rotate: true
+  xy: 464, 358
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_02
+  rotate: true
+  xy: 204, 9
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_03
+  rotate: false
+  xy: 379, 211
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_04
+  rotate: false
+  xy: 379, 141
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_05
+  rotate: false
+  xy: 538, 150
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_06
+  rotate: true
+  xy: 538, 84
+  size: 64, 68
+  orig: 90, 90
+  offset: 11, 8
+  index: -1
+spin Acorn/spin arcon_07
+  rotate: false
+  xy: 381, 30
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1
+spin Acorn/spin arcon_08
+  rotate: false
+  xy: 448, 42
+  size: 65, 68
+  orig: 90, 90
+  offset: 10, 8
+  index: -1

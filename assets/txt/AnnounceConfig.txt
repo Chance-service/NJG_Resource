@@ -1,0 +1,3 @@
+id	configURL	contentFolder	configFile
+1	http://c.mrj.51sfsy.com/mrj/Announce/	Content	AnnounceCfg.txt
+2	http://c.mrj.51sfsy.com/Dev/Announce/	Content	AnnounceCfg.txt

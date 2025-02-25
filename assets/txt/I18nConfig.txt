@@ -1,0 +1,4 @@
+id	languageType	srcPath	textIsLeft2Right	isForce	r2MvpRecharge	languageName	icon	usingLanguage
+1	0	English	1	0	1	en	0.png	@LangEN
+2	1	Chinese	1	0	0	cn	0.png	@LangCN
+3	2	Chinese_tw	1	0	1	tw	2.png	@LangTW

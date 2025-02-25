@@ -1,0 +1,12 @@
+﻿<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >亲爱的玩家，为了给大家提供更好的游戏体验，我们将于8月14日14:00-15:00进行合服，可能依据实际情况顺延或者提前结束，合服期间目标服务器的玩家将无法登录游戏，请提前做好下线准备，合服结束将发放合服福利，届时请到“邮件”中领取。</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >【目标服务器】</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >美人1区-美人5区合并成一组服务器</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >【合服福利】元宝*5000</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >【注意事项】</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >1、联盟数据保留</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >2、玩家数据保留，3天或三天以上未登录、等级未满9级、未充值账号，同时满足以上3个条件的账号角色会进行清理处理</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >3、充值数据保留</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >4、排行榜数据清除</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >5、玩家名字格式 [区号]玩家名字（比如玩家叫张三，区号为1001，合服之后的名字为[1001]张三）</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >6、联盟名字格式[区号]联盟名称（比如联盟名字叫丐帮，区号为1001，合服之后的名字为[1001]丐帮）</p></font>
+<font  color="#fff0d7" face = "Helvetica20" size ="100"><p style="margin:10px" >7、合服之后联盟盟主有一次修改联盟名称机会</p></font>

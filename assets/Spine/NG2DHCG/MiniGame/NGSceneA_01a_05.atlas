@@ -1,0 +1,34 @@
+
+NGSceneA_01a_05.png
+size: 1986,1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a
+  rotate: true
+  xy: 952, 137
+  size: 809, 589
+  orig: 809, 589
+  offset: 0, 0
+  index: -1
+2a
+  rotate: false
+  xy: 2, 2
+  size: 948, 944
+  orig: 948, 944
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 948
+  size: 1500, 1036
+  orig: 1500, 1036
+  offset: 0, 0
+  index: -1
+4a
+  rotate: true
+  xy: 1504, 1367
+  size: 617, 419
+  orig: 617, 419
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+NGUI_20_ChestGet.png
+size: 668,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest copy 4
+  rotate: false
+  xy: 524, 165
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+chest copy 5
+  rotate: false
+  xy: 382, 15
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+chest copy 6
+  rotate: false
+  xy: 2, 35
+  size: 298, 98
+  orig: 298, 98
+  offset: 0, 0
+  index: -1
+flash02
+  rotate: false
+  xy: 306, 446
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+gold01
+  rotate: false
+  xy: 533, 99
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gold02
+  rotate: false
+  xy: 599, 99
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gold03
+  rotate: false
+  xy: 533, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gold04
+  rotate: false
+  xy: 599, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gold05
+  rotate: false
+  xy: 465, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goldXX
+  rotate: false
+  xy: 382, 70
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+tc071801
+  rotate: false
+  xy: 2, 446
+  size: 302, 220
+  orig: 302, 220
+  offset: 0, 0
+  index: -1
+tc071802
+  rotate: true
+  xy: 2, 135
+  size: 309, 178
+  orig: 309, 178
+  offset: 0, 0
+  index: -1
+tc071802_2
+  rotate: true
+  xy: 182, 135
+  size: 309, 178
+  orig: 309, 178
+  offset: 0, 0
+  index: -1
+tc071803
+  rotate: true
+  xy: 617, 601
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+tc071804
+  rotate: false
+  xy: 478, 86
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+tc071805
+  rotate: true
+  xy: 302, 23
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+tc071807
+  rotate: true
+  xy: 302, 23
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+tc071806
+  rotate: false
+  xy: 2, 2
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+tc071808
+  rotate: true
+  xy: 524, 276
+  size: 210, 98
+  orig: 210, 98
+  offset: 0, 0
+  index: -1
+tc071809
+  rotate: false
+  xy: 306, 488
+  size: 309, 178
+  orig: 309, 178
+  offset: 0, 0
+  index: -1
+tc071809 (2)
+  rotate: true
+  xy: 362, 166
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,535 @@
+
+NG2D_21.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 58
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 955, 821
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+L Eyeball
+  rotate: false
+  xy: 158, 45
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+L Hair
+  rotate: false
+  xy: 133, 7
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: false
+  xy: 955, 865
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+R Eyeball
+  rotate: false
+  xy: 851, 39
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+R Hair
+  rotate: true
+  xy: 786, 21
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: false
+  xy: 955, 942
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00000
+  rotate: false
+  xy: 544, 778
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00002
+  rotate: false
+  xy: 544, 536
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00004
+  rotate: false
+  xy: 681, 778
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00006
+  rotate: false
+  xy: 544, 294
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00008
+  rotate: false
+  xy: 681, 536
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00010
+  rotate: false
+  xy: 818, 778
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00012
+  rotate: false
+  xy: 681, 294
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00014
+  rotate: true
+  xy: 544, 157
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00016
+  rotate: false
+  xy: 818, 536
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00018
+  rotate: false
+  xy: 818, 294
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00020
+  rotate: true
+  xy: 544, 20
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00022
+  rotate: false
+  xy: 786, 52
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+cloth L
+  rotate: false
+  xy: 923, 45
+  size: 92, 247
+  orig: 92, 247
+  offset: 0, 0
+  index: -1
+cloth mid
+  rotate: true
+  xy: 2, 2
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+
+NG2D_212.png
+size: 1021,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L Fur
+  rotate: true
+  xy: 154, 899
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+R Fur
+  rotate: true
+  xy: 2, 918
+  size: 101, 150
+  orig: 101, 150
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00024
+  rotate: true
+  xy: 295, 884
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00026
+  rotate: true
+  xy: 537, 884
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00028
+  rotate: true
+  xy: 779, 884
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00030
+  rotate: true
+  xy: 2, 762
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00032
+  rotate: true
+  xy: 244, 747
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00034
+  rotate: true
+  xy: 486, 747
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00036
+  rotate: true
+  xy: 728, 747
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00038
+  rotate: true
+  xy: 2, 625
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00040
+  rotate: true
+  xy: 244, 610
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00042
+  rotate: true
+  xy: 486, 610
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00044
+  rotate: true
+  xy: 728, 610
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00046
+  rotate: true
+  xy: 2, 488
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00048
+  rotate: true
+  xy: 244, 473
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00050
+  rotate: true
+  xy: 486, 473
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00052
+  rotate: true
+  xy: 728, 473
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00054
+  rotate: true
+  xy: 2, 351
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00056
+  rotate: true
+  xy: 244, 336
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00058
+  rotate: true
+  xy: 486, 336
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00060
+  rotate: true
+  xy: 728, 336
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00062
+  rotate: true
+  xy: 2, 214
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00064
+  rotate: true
+  xy: 244, 199
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00066
+  rotate: true
+  xy: 486, 199
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00068
+  rotate: true
+  xy: 728, 199
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00070
+  rotate: true
+  xy: 2, 77
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00072
+  rotate: true
+  xy: 244, 62
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00074
+  rotate: true
+  xy: 486, 62
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00076
+  rotate: true
+  xy: 728, 62
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+
+NG2D_213.png
+size: 1002,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snow FX/SnowFX_00078
+  rotate: true
+  xy: 2, 17
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00080
+  rotate: false
+  xy: 544, 760
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00082
+  rotate: true
+  xy: 244, 17
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00084
+  rotate: false
+  xy: 544, 518
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00086
+  rotate: false
+  xy: 681, 760
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00088
+  rotate: false
+  xy: 544, 276
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00090
+  rotate: false
+  xy: 681, 518
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00092
+  rotate: false
+  xy: 818, 760
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00094
+  rotate: false
+  xy: 681, 276
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00096
+  rotate: false
+  xy: 818, 518
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00098
+  rotate: false
+  xy: 818, 276
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00100
+  rotate: true
+  xy: 544, 139
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00102
+  rotate: true
+  xy: 486, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00104
+  rotate: false
+  xy: 786, 34
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 154
+  size: 540, 846
+  orig: 540, 846
+  offset: 0, 0
+  index: -1
+
+NG2D_214.png
+size: 518,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snow FX/SnowFX_00106
+  rotate: false
+  xy: 2, 276
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00108
+  rotate: false
+  xy: 2, 34
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00110
+  rotate: true
+  xy: 139, 381
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00112
+  rotate: false
+  xy: 381, 276
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00114
+  rotate: true
+  xy: 139, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00116
+  rotate: false
+  xy: 381, 34
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Snow FX/SnowFX_00118
+  rotate: true
+  xy: 139, 107
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1

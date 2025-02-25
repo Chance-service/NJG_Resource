@@ -1,0 +1,8 @@
+id	活动ID	名字图片              
+1	16	@DoubleRemainingtimeTxt1
+2	13	@DoubleRemainingtimeTxt2
+3	17	@DoubleRemainingtimeTxt3
+4	12	@DoubleRemainingtimeTxt4
+5	15	@DoubleRemainingtimeTxt5
+6	18	@DoubleRemainingtimeTxt7
+7	19	@DoubleRemainingtimeTxt8

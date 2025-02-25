@@ -1,0 +1,410 @@
+
+NGUI_05_RairtyUp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1/Pixel Hero Rairty Up_00003
+  rotate: true
+  xy: 843, 1686
+  size: 360, 597
+  orig: 360, 740
+  offset: 0, 93
+  index: -1
+FX1/Pixel Hero Rairty Up_00005
+  rotate: false
+  xy: 2, 158
+  size: 360, 604
+  orig: 360, 740
+  offset: 0, 86
+  index: -1
+FX1/Pixel Hero Rairty Up_00007
+  rotate: false
+  xy: 364, 431
+  size: 360, 590
+  orig: 360, 740
+  offset: 0, 100
+  index: -1
+FX1/Pixel Hero Rairty Up_00009
+  rotate: true
+  xy: 843, 1324
+  size: 360, 515
+  orig: 360, 740
+  offset: 0, 141
+  index: -1
+FX1/Pixel Hero Rairty Up_00011
+  rotate: true
+  xy: 1323, 938
+  size: 360, 479
+  orig: 360, 740
+  offset: 0, 151
+  index: -1
+FX1/Pixel Hero Rairty Up_00013
+  rotate: false
+  xy: 1192, 466
+  size: 360, 469
+  orig: 360, 740
+  offset: 0, 178
+  index: -1
+FX1/Pixel Hero Rairty Up_00019
+  rotate: false
+  xy: 806, 2
+  size: 342, 464
+  orig: 360, 740
+  offset: 18, 190
+  index: -1
+FX1/Pixel Hero Rairty Up_00029
+  rotate: true
+  xy: 1442, 1686
+  size: 360, 545
+  orig: 360, 740
+  offset: 0, 140
+  index: -1
+FX1/Pixel Hero Rairty Up_00031
+  rotate: false
+  xy: 2, 1406
+  size: 360, 640
+  orig: 360, 740
+  offset: 0, 50
+  index: -1
+FX1/Pixel Hero Rairty Up_00033
+  rotate: false
+  xy: 2, 764
+  size: 360, 640
+  orig: 360, 740
+  offset: 0, 50
+  index: -1
+FX3/AS01_0002
+  rotate: true
+  xy: 835, 937
+  size: 385, 486
+  orig: 600, 600
+  offset: 111, 34
+  index: -1
+FX3/AS01_0003
+  rotate: true
+  xy: 1360, 1300
+  size: 384, 487
+  orig: 600, 600
+  offset: 117, 45
+  index: -1
+FX3/XZ01_0001
+  rotate: false
+  xy: 2, 26
+  size: 139, 130
+  orig: 600, 600
+  offset: 223, 234
+  index: -1
+FX3/XZ01_0016
+  rotate: false
+  xy: 364, 2
+  size: 440, 427
+  orig: 600, 600
+  offset: 73, 82
+  index: -1
+FX3/XZ01_0018
+  rotate: true
+  xy: 1604, 9
+  size: 457, 434
+  orig: 600, 600
+  offset: 70, 84
+  index: -1
+FX3/XZ01_0019
+  rotate: true
+  xy: 1150, 2
+  size: 462, 452
+  orig: 600, 600
+  offset: 62, 71
+  index: -1
+FX3/XZ01_0022
+  rotate: true
+  xy: 1554, 468
+  size: 468, 447
+  orig: 600, 600
+  offset: 62, 71
+  index: -1
+FX3/XZ01_0023
+  rotate: false
+  xy: 726, 468
+  size: 464, 467
+  orig: 600, 600
+  offset: 66, 70
+  index: -1
+FX3/XZ01_0024
+  rotate: false
+  xy: 364, 1023
+  size: 469, 499
+  orig: 600, 600
+  offset: 63, 48
+  index: -1
+FX3/XZ01_0025
+  rotate: false
+  xy: 364, 1524
+  size: 477, 522
+  orig: 600, 600
+  offset: 53, 26
+  index: -1
+
+NGUI_05_RairtyUp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1/Pixel Hero Rairty Up_00001
+  rotate: true
+  xy: 369, 15
+  size: 300, 372
+  orig: 360, 740
+  offset: 0, 318
+  index: -1
+FX1/Pixel Hero Rairty Up_00015
+  rotate: false
+  xy: 382, 317
+  size: 360, 422
+  orig: 360, 740
+  offset: 0, 224
+  index: -1
+FX1/Pixel Hero Rairty Up_00017
+  rotate: true
+  xy: 1216, 894
+  size: 360, 394
+  orig: 360, 740
+  offset: 0, 235
+  index: -1
+FX1/Pixel Hero Rairty Up_00021
+  rotate: false
+  xy: 868, 788
+  size: 346, 466
+  orig: 360, 740
+  offset: 14, 189
+  index: -1
+FX1/Pixel Hero Rairty Up_00023
+  rotate: true
+  xy: 1250, 1266
+  size: 359, 458
+  orig: 360, 740
+  offset: 1, 195
+  index: -1
+FX1/Pixel Hero Rairty Up_00025
+  rotate: true
+  xy: 1608, 544
+  size: 348, 422
+  orig: 360, 740
+  offset: 1, 207
+  index: -1
+FX1/Pixel Hero Rairty Up_00027
+  rotate: false
+  xy: 1626, 172
+  size: 352, 370
+  orig: 360, 740
+  offset: 1, 239
+  index: -1
+FX1/Pixel Hero Rairty Up_00035
+  rotate: false
+  xy: 1673, 1662
+  size: 359, 384
+  orig: 360, 740
+  offset: 1, 229
+  index: -1
+FX1/Pixel Hero Rairty Up_00037
+  rotate: true
+  xy: 1283, 1687
+  size: 359, 388
+  orig: 360, 740
+  offset: 1, 225
+  index: -1
+FX1/Pixel Hero Rairty Up_00039
+  rotate: false
+  xy: 1247, 510
+  size: 359, 382
+  orig: 360, 740
+  offset: 1, 223
+  index: -1
+FX1/Pixel Hero Rairty Up_00041
+  rotate: true
+  xy: 1247, 149
+  size: 359, 377
+  orig: 360, 740
+  offset: 1, 224
+  index: -1
+FX1/Pixel Hero Rairty Up_00043
+  rotate: false
+  xy: 1612, 911
+  size: 359, 353
+  orig: 360, 740
+  offset: 1, 236
+  index: -1
+FX1/Pixel Hero Rairty Up_00047
+  rotate: false
+  xy: 1710, 1310
+  size: 319, 350
+  orig: 360, 740
+  offset: 15, 247
+  index: -1
+FX3/AS01_0001
+  rotate: true
+  xy: 744, 81
+  size: 339, 441
+  orig: 600, 600
+  offset: 132, 75
+  index: -1
+FX3/AS01_0004
+  rotate: false
+  xy: 2, 1571
+  size: 382, 475
+  orig: 600, 600
+  offset: 119, 46
+  index: -1
+FX3/XZ01_0009
+  rotate: true
+  xy: 2, 2
+  size: 348, 365
+  orig: 600, 600
+  offset: 118, 115
+  index: -1
+FX3/XZ01_0010
+  rotate: false
+  xy: 868, 422
+  size: 377, 364
+  orig: 600, 600
+  offset: 105, 115
+  index: -1
+FX3/XZ01_0011
+  rotate: false
+  xy: 867, 1256
+  size: 381, 369
+  orig: 600, 600
+  offset: 110, 108
+  index: -1
+FX3/XZ01_0012
+  rotate: true
+  xy: 2, 352
+  size: 390, 378
+  orig: 600, 600
+  offset: 106, 103
+  index: -1
+FX3/XZ01_0013
+  rotate: false
+  xy: 2, 744
+  size: 397, 397
+  orig: 600, 600
+  offset: 97, 93
+  index: -1
+FX3/XZ01_0014
+  rotate: true
+  xy: 452, 741
+  size: 407, 414
+  orig: 600, 600
+  offset: 92, 92
+  index: -1
+FX3/XZ01_0015
+  rotate: false
+  xy: 853, 1627
+  size: 428, 419
+  orig: 600, 600
+  offset: 77, 87
+  index: -1
+FX3/XZ01_0017
+  rotate: false
+  xy: 2, 1143
+  size: 448, 426
+  orig: 600, 600
+  offset: 68, 89
+  index: -1
+FX3/XZ01_0020
+  rotate: false
+  xy: 386, 1623
+  size: 465, 423
+  orig: 600, 600
+  offset: 55, 86
+  index: -1
+FX3/XZ01_0021
+  rotate: true
+  xy: 452, 1150
+  size: 471, 413
+  orig: 600, 600
+  offset: 57, 95
+  index: -1
+
+NGUI_05_RairtyUp3.png
+size: 1283,1283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1/Pixel Hero Rairty Up_00045
+  rotate: false
+  xy: 371, 573
+  size: 346, 355
+  orig: 360, 740
+  offset: 1, 228
+  index: -1
+FX1/Pixel Hero Rairty Up_00049
+  rotate: false
+  xy: 721, 279
+  size: 303, 311
+  orig: 360, 740
+  offset: 21, 253
+  index: -1
+FX1/Pixel Hero Rairty Up_00051
+  rotate: false
+  xy: 1003, 1003
+  size: 278, 278
+  orig: 360, 640
+  offset: 43, 230
+  index: -1
+FX3/AS01_0005
+  rotate: false
+  xy: 2, 882
+  size: 282, 399
+  orig: 600, 600
+  offset: 160, 94
+  index: -1
+FX3/XZ01_0002
+  rotate: false
+  xy: 721, 15
+  size: 285, 262
+  orig: 600, 600
+  offset: 152, 171
+  index: -1
+FX3/XZ01_0003
+  rotate: false
+  xy: 648, 935
+  size: 353, 346
+  orig: 600, 600
+  offset: 115, 124
+  index: -1
+FX3/XZ01_0004
+  rotate: true
+  xy: 371, 225
+  size: 346, 348
+  orig: 600, 600
+  offset: 117, 124
+  index: -1
+FX3/XZ01_0005
+  rotate: false
+  xy: 719, 592
+  size: 347, 341
+  orig: 600, 600
+  offset: 120, 136
+  index: -1
+FX3/XZ01_0006
+  rotate: false
+  xy: 2, 170
+  size: 344, 357
+  orig: 600, 600
+  offset: 119, 118
+  index: -1
+FX3/XZ01_0007
+  rotate: true
+  xy: 286, 930
+  size: 351, 360
+  orig: 600, 600
+  offset: 111, 121
+  index: -1
+FX3/XZ01_0008
+  rotate: true
+  xy: 2, 529
+  size: 351, 367
+  orig: 600, 600
+  offset: 113, 113
+  index: -1

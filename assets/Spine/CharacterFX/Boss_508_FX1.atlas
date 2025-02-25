@@ -1,0 +1,398 @@
+
+Boss_508_FX1.png
+size: 748,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/00000
+  rotate: false
+  xy: 667, 269
+  size: 78, 77
+  orig: 260, 195
+  offset: 92, 59
+  index: -1
+effect/00001
+  rotate: true
+  xy: 662, 348
+  size: 80, 77
+  orig: 260, 195
+  offset: 90, 59
+  index: -1
+effect/00002
+  rotate: false
+  xy: 528, 66
+  size: 89, 87
+  orig: 260, 195
+  offset: 85, 54
+  index: -1
+effect/00003
+  rotate: false
+  xy: 664, 180
+  size: 82, 82
+  orig: 260, 195
+  offset: 88, 58
+  index: -1
+effect/00004
+  rotate: false
+  xy: 398, 2
+  size: 71, 67
+  orig: 260, 195
+  offset: 96, 75
+  index: -1
+effect/00005
+  rotate: false
+  xy: 664, 132
+  size: 65, 46
+  orig: 260, 195
+  offset: 100, 76
+  index: -1
+effect/2_0000
+  rotate: false
+  xy: 2, 14
+  size: 164, 101
+  orig: 270, 270
+  offset: 4, 99
+  index: -1
+effect/2_0001
+  rotate: false
+  xy: 2, 585
+  size: 262, 161
+  orig: 270, 270
+  offset: 4, 38
+  index: -1
+effect/2_0002
+  rotate: false
+  xy: 2, 441
+  size: 262, 142
+  orig: 270, 270
+  offset: 4, 56
+  index: -1
+effect/2_0003
+  rotate: false
+  xy: 266, 438
+  size: 151, 143
+  orig: 270, 270
+  offset: 115, 51
+  index: -1
+effect/2_0004
+  rotate: false
+  xy: 511, 476
+  size: 124, 121
+  orig: 270, 270
+  offset: 143, 50
+  index: -1
+effect/2_0005
+  rotate: true
+  xy: 637, 474
+  size: 123, 93
+  orig: 270, 270
+  offset: 143, 57
+  index: -1
+effect/2_0006
+  rotate: false
+  xy: 511, 460
+  size: 122, 14
+  orig: 270, 270
+  offset: 143, 57
+  index: -1
+effect/A01
+  rotate: false
+  xy: 276, 146
+  size: 98, 48
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+effect/A02
+  rotate: true
+  xy: 664, 79
+  size: 51, 60
+  orig: 52, 60
+  offset: 1, 0
+  index: -1
+effect/A03
+  rotate: false
+  xy: 471, 9
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+effect/A04
+  rotate: true
+  xy: 664, 24
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+effect/A05
+  rotate: false
+  xy: 606, 9
+  size: 53, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+effect/breathline01
+  rotate: true
+  xy: 208, 88
+  size: 193, 19
+  orig: 193, 19
+  offset: 0, 0
+  index: -1
+effect/breathline04
+  rotate: true
+  xy: 208, 88
+  size: 193, 19
+  orig: 193, 19
+  offset: 0, 0
+  index: -1
+effect/breathline03
+  rotate: true
+  xy: 208, 88
+  size: 193, 19
+  orig: 193, 19
+  offset: 0, 0
+  index: -1
+effect/breathline02
+  rotate: true
+  xy: 208, 88
+  size: 193, 19
+  orig: 193, 19
+  offset: 0, 0
+  index: -1
+effect/breathwave01
+  rotate: true
+  xy: 732, 468
+  size: 182, 14
+  orig: 182, 16
+  offset: 0, 2
+  index: -1
+effect/breathwave02
+  rotate: false
+  xy: 381, 319
+  size: 127, 13
+  orig: 133, 20
+  offset: 5, 2
+  index: -1
+effect/breathwave03
+  rotate: false
+  xy: 2, 7
+  size: 116, 5
+  orig: 117, 5
+  offset: 0, 0
+  index: -1
+effect/breathwave04
+  rotate: true
+  xy: 208, 17
+  size: 69, 14
+  orig: 73, 15
+  offset: 0, 1
+  index: -1
+effect/dust01
+  rotate: true
+  xy: 229, 2
+  size: 135, 80
+  orig: 140, 81
+  offset: 5, 1
+  index: -1
+effect/dust02
+  rotate: true
+  xy: 311, 10
+  size: 134, 85
+  orig: 135, 86
+  offset: 1, 1
+  index: -1
+effect/dust03
+  rotate: false
+  xy: 398, 71
+  size: 125, 75
+  orig: 126, 76
+  offset: 0, 1
+  index: -1
+effect/images/00000
+  rotate: false
+  xy: 264, 320
+  size: 115, 116
+  orig: 288, 288
+  offset: 89, 84
+  index: -1
+effect/images/00003
+  rotate: false
+  xy: 491, 599
+  size: 209, 147
+  orig: 288, 288
+  offset: 42, 75
+  index: -1
+effect/images/00004
+  rotate: false
+  xy: 2, 117
+  size: 204, 164
+  orig: 288, 288
+  offset: 48, 66
+  index: -1
+effect/images/00006
+  rotate: false
+  xy: 266, 583
+  size: 223, 163
+  orig: 288, 288
+  offset: 35, 63
+  index: -1
+effect/images/00008
+  rotate: false
+  xy: 2, 283
+  size: 217, 156
+  orig: 288, 288
+  offset: 41, 68
+  index: -1
+effect/s_dark_00
+  rotate: true
+  xy: 619, 77
+  size: 76, 43
+  orig: 77, 44
+  offset: 1, 1
+  index: -1
+effect/s_dark_01
+  rotate: false
+  xy: 527, 20
+  size: 77, 44
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+effect/s_dark_02
+  rotate: true
+  xy: 702, 652
+  size: 94, 44
+  orig: 96, 45
+  offset: 1, 0
+  index: -1
+effect/s_dark_03
+  rotate: false
+  xy: 529, 155
+  size: 93, 41
+  orig: 95, 42
+  offset: 1, 1
+  index: -1
+effect/s_dark_04
+  rotate: false
+  xy: 529, 198
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+effect/s_dark_05
+  rotate: true
+  xy: 168, 17
+  size: 98, 38
+  orig: 99, 40
+  offset: 0, 1
+  index: -1
+effect/shock01
+  rotate: false
+  xy: 661, 430
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+effect/shock02
+  rotate: true
+  xy: 381, 334
+  size: 99, 127
+  orig: 105, 127
+  offset: 6, 0
+  index: -1
+effect/shock03
+  rotate: false
+  xy: 276, 196
+  size: 101, 122
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+effect/shock04
+  rotate: false
+  xy: 419, 435
+  size: 90, 146
+  orig: 91, 146
+  offset: 1, 0
+  index: -1
+effect/shock05
+  rotate: true
+  xy: 379, 235
+  size: 82, 134
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+effect/shock06
+  rotate: true
+  xy: 624, 155
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+effect/ult_00
+  rotate: true
+  xy: 221, 291
+  size: 148, 41
+  orig: 148, 41
+  offset: 0, 0
+  index: -1
+effect/ult_01
+  rotate: false
+  xy: 379, 195
+  size: 148, 38
+  orig: 148, 40
+  offset: 0, 1
+  index: -1
+effect/ult_02
+  rotate: false
+  xy: 511, 429
+  size: 148, 29
+  orig: 148, 34
+  offset: 0, 0
+  index: -1
+effect/ult_03
+  rotate: false
+  xy: 515, 264
+  size: 148, 22
+  orig: 148, 22
+  offset: 0, 0
+  index: -1
+effect/ult_04
+  rotate: false
+  xy: 515, 241
+  size: 147, 21
+  orig: 148, 22
+  offset: 1, 1
+  index: -1
+effect/ultkii_00
+  rotate: true
+  xy: 229, 139
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+effect/ultkii_01
+  rotate: false
+  xy: 376, 148
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+effect/ultkii_02
+  rotate: false
+  xy: 510, 382
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+effect/ultkii_03
+  rotate: false
+  xy: 510, 335
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+effect/ultkii_04
+  rotate: false
+  xy: 515, 288
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1

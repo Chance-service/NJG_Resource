@@ -1,0 +1,5 @@
+id	任务类型	数量	奖励	说明
+101	1	100	30000_104211_30	@accConsumeItemRewardDesc1
+102	2	50	30000_104212_10	@accConsumeItemRewardDesc2
+103	3	30	30000_104213_10	@accConsumeItemRewardDesc3
+104	4	100	30000_104101_10	@accConsumeItemRewardDesc4

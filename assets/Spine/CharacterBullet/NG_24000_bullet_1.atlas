@@ -1,0 +1,426 @@
+
+NG_24000_bullet_1.png
+size: 422,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_zidan/01_00000
+  rotate: true
+  xy: 2, 17
+  size: 65, 20
+  orig: 67, 40
+  offset: 0, 10
+  index: -1
+atk_zidan/01_00001
+  rotate: true
+  xy: 113, 19
+  size: 64, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00002
+  rotate: true
+  xy: 262, 130
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00003
+  rotate: true
+  xy: 284, 130
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00004
+  rotate: true
+  xy: 135, 19
+  size: 64, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00005
+  rotate: true
+  xy: 328, 149
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00006
+  rotate: true
+  xy: 157, 2
+  size: 62, 20
+  orig: 67, 40
+  offset: 3, 10
+  index: -1
+atk_zidan/01_00007
+  rotate: true
+  xy: 350, 149
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00008
+  rotate: false
+  xy: 244, 43
+  size: 61, 19
+  orig: 67, 40
+  offset: 4, 11
+  index: -1
+atk_zidan/01_00009
+  rotate: false
+  xy: 244, 22
+  size: 61, 19
+  orig: 67, 40
+  offset: 4, 10
+  index: -1
+atk_zidan/01_00010
+  rotate: true
+  xy: 223, 2
+  size: 62, 19
+  orig: 67, 40
+  offset: 3, 10
+  index: -1
+atk_zidan/01_00011
+  rotate: true
+  xy: 328, 84
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00012
+  rotate: true
+  xy: 24, 17
+  size: 65, 20
+  orig: 67, 40
+  offset: 0, 10
+  index: -1
+atk_zidan/01_00013
+  rotate: false
+  xy: 46, 63
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00014
+  rotate: false
+  xy: 46, 41
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00015
+  rotate: false
+  xy: 262, 108
+  size: 64, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00016
+  rotate: false
+  xy: 46, 19
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00017
+  rotate: false
+  xy: 157, 66
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00018
+  rotate: true
+  xy: 306, 130
+  size: 65, 20
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+atk_zidan/01_00019
+  rotate: true
+  xy: 350, 84
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00020
+  rotate: true
+  xy: 179, 2
+  size: 62, 20
+  orig: 67, 40
+  offset: 3, 10
+  index: -1
+atk_zidan/01_00021
+  rotate: true
+  xy: 372, 149
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00022
+  rotate: true
+  xy: 372, 84
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00023
+  rotate: false
+  xy: 244, 64
+  size: 61, 20
+  orig: 67, 40
+  offset: 4, 10
+  index: -1
+atk_zidan/01_00024
+  rotate: true
+  xy: 201, 2
+  size: 62, 20
+  orig: 67, 40
+  offset: 3, 10
+  index: -1
+atk_zidan/01_00025
+  rotate: true
+  xy: 394, 170
+  size: 63, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00026
+  rotate: true
+  xy: 394, 105
+  size: 63, 20
+  orig: 67, 40
+  offset: 3, 10
+  index: -1
+atk_zidan/01_00027
+  rotate: false
+  xy: 262, 86
+  size: 64, 20
+  orig: 67, 40
+  offset: 2, 10
+  index: -1
+atk_zidan/01_00028
+  rotate: false
+  xy: 316, 214
+  size: 65, 19
+  orig: 67, 40
+  offset: 1, 10
+  index: -1
+skill_1_zidan/02_00000
+  rotate: true
+  xy: 189, 88
+  size: 101, 34
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00030
+  rotate: true
+  xy: 189, 88
+  size: 101, 34
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00001
+  rotate: false
+  xy: 316, 235
+  size: 101, 34
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00002
+  rotate: false
+  xy: 318, 271
+  size: 102, 34
+  orig: 108, 38
+  offset: 2, 0
+  index: -1
+skill_1_zidan/02_00003
+  rotate: true
+  xy: 77, 85
+  size: 103, 34
+  orig: 108, 38
+  offset: 1, 1
+  index: -1
+skill_1_zidan/02_00004
+  rotate: false
+  xy: 107, 191
+  size: 103, 35
+  orig: 108, 38
+  offset: 1, 1
+  index: -1
+skill_1_zidan/02_00005
+  rotate: false
+  xy: 212, 197
+  size: 100, 35
+  orig: 108, 38
+  offset: 4, 1
+  index: -1
+skill_1_zidan/02_00006
+  rotate: false
+  xy: 2, 190
+  size: 103, 36
+  orig: 108, 38
+  offset: 1, 2
+  index: -1
+skill_1_zidan/02_00007
+  rotate: false
+  xy: 108, 345
+  size: 104, 36
+  orig: 108, 38
+  offset: 0, 2
+  index: -1
+skill_1_zidan/02_00008
+  rotate: false
+  xy: 318, 307
+  size: 102, 36
+  orig: 108, 38
+  offset: 2, 2
+  index: -1
+skill_1_zidan/02_00009
+  rotate: false
+  xy: 108, 228
+  size: 101, 36
+  orig: 108, 38
+  offset: 3, 1
+  index: -1
+skill_1_zidan/02_00010
+  rotate: false
+  xy: 214, 383
+  size: 103, 37
+  orig: 108, 38
+  offset: 1, 0
+  index: -1
+skill_1_zidan/02_00011
+  rotate: false
+  xy: 2, 266
+  size: 104, 36
+  orig: 108, 38
+  offset: 0, 1
+  index: -1
+skill_1_zidan/02_00012
+  rotate: false
+  xy: 319, 383
+  size: 101, 37
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00013
+  rotate: false
+  xy: 2, 343
+  size: 104, 37
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+skill_1_zidan/02_00014
+  rotate: false
+  xy: 108, 266
+  size: 101, 37
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00015
+  rotate: true
+  xy: 150, 88
+  size: 101, 37
+  orig: 108, 38
+  offset: 3, 0
+  index: -1
+skill_1_zidan/02_00016
+  rotate: false
+  xy: 108, 305
+  size: 102, 38
+  orig: 108, 38
+  offset: 2, 0
+  index: -1
+skill_1_zidan/02_00017
+  rotate: false
+  xy: 2, 382
+  size: 104, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+skill_1_zidan/02_00018
+  rotate: false
+  xy: 108, 383
+  size: 104, 37
+  orig: 108, 38
+  offset: 0, 1
+  index: -1
+skill_1_zidan/02_00019
+  rotate: false
+  xy: 2, 304
+  size: 104, 37
+  orig: 108, 38
+  offset: 0, 1
+  index: -1
+skill_1_zidan/02_00020
+  rotate: true
+  xy: 2, 84
+  size: 104, 35
+  orig: 108, 38
+  offset: 0, 2
+  index: -1
+skill_1_zidan/02_00021
+  rotate: true
+  xy: 225, 95
+  size: 100, 35
+  orig: 108, 38
+  offset: 4, 2
+  index: -1
+skill_1_zidan/02_00022
+  rotate: false
+  xy: 212, 271
+  size: 104, 34
+  orig: 108, 38
+  offset: 0, 2
+  index: -1
+skill_1_zidan/02_00023
+  rotate: false
+  xy: 214, 345
+  size: 104, 36
+  orig: 108, 38
+  offset: 0, 1
+  index: -1
+skill_1_zidan/02_00024
+  rotate: true
+  xy: 39, 85
+  size: 103, 36
+  orig: 108, 38
+  offset: 1, 1
+  index: -1
+skill_1_zidan/02_00025
+  rotate: false
+  xy: 2, 228
+  size: 104, 36
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+skill_1_zidan/02_00026
+  rotate: false
+  xy: 320, 345
+  size: 100, 36
+  orig: 108, 38
+  offset: 4, 0
+  index: -1
+skill_1_zidan/02_00027
+  rotate: false
+  xy: 212, 307
+  size: 104, 36
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+skill_1_zidan/02_00028
+  rotate: true
+  xy: 113, 85
+  size: 104, 35
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+skill_1_zidan/02_00029
+  rotate: false
+  xy: 211, 234
+  size: 103, 35
+  orig: 108, 38
+  offset: 1, 0
+  index: -1

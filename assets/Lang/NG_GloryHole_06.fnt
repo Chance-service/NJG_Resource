@@ -1,0 +1,17 @@
+info face="07AkazukinPop Heavy" size=72 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=5,5,5,5 spacing=5,5 outline=0
+common lineHeight=73 base=56 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="NG_GloryHole_06_0.png"
+chars count=13
+char id=33   x=171   y=54    width=21    height=48    xoffset=0     yoffset=13    xadvance=22    page=0  chnl=15
+char id=43   x=197   y=53    width=41    height=41    xoffset=-2    yoffset=21    xadvance=38    page=0  chnl=15
+char id=45   x=0     y=107   width=28    height=17    xoffset=-1    yoffset=33    xadvance=25    page=0  chnl=15
+char id=48   x=47    y=0     width=40    height=49    xoffset=-3    yoffset=13    xadvance=34    page=0  chnl=15
+char id=49   x=219   y=0     width=30    height=48    xoffset=-1    yoffset=13    xadvance=34    page=0  chnl=15
+char id=50   x=87    y=54    width=37    height=48    xoffset=-1    yoffset=13    xadvance=34    page=0  chnl=15
+char id=51   x=92    y=0     width=36    height=49    xoffset=-1    yoffset=13    xadvance=34    page=0  chnl=15
+char id=52   x=0     y=0     width=42    height=49    xoffset=-5    yoffset=13    xadvance=34    page=0  chnl=15
+char id=53   x=133   y=0     width=36    height=49    xoffset=-1    yoffset=13    xadvance=34    page=0  chnl=15
+char id=54   x=44    y=54    width=38    height=48    xoffset=-2    yoffset=13    xadvance=34    page=0  chnl=15
+char id=55   x=129   y=54    width=37    height=48    xoffset=-1    yoffset=13    xadvance=34    page=0  chnl=15
+char id=56   x=174   y=0     width=40    height=48    xoffset=-3    yoffset=13    xadvance=34    page=0  chnl=15
+char id=57   x=0     y=54    width=39    height=48    xoffset=-3    yoffset=13    xadvance=34    page=0  chnl=15

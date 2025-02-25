@@ -1,0 +1,2 @@
+id	level	award	up_param	down_param	time	number	reset_cost
+1	15	1001,1002	5	8	30	30	0,100

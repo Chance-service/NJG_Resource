@@ -1,0 +1,167 @@
+
+Buff_70_FX1.png
+size: 462,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F/B01_F_00
+  rotate: false
+  xy: 309, 364
+  size: 151, 48
+  orig: 192, 104
+  offset: 31, 26
+  index: -1
+F/B01_F_01
+  rotate: false
+  xy: 2, 414
+  size: 166, 46
+  orig: 192, 104
+  offset: 15, 26
+  index: -1
+F/B01_F_02
+  rotate: false
+  xy: 170, 414
+  size: 166, 46
+  orig: 192, 104
+  offset: 12, 26
+  index: -1
+F/B01_F_03
+  rotate: false
+  xy: 2, 366
+  size: 150, 46
+  orig: 192, 104
+  offset: 10, 26
+  index: -1
+F/B01_F_04
+  rotate: false
+  xy: 154, 366
+  size: 153, 46
+  orig: 192, 104
+  offset: 10, 26
+  index: -1
+F/B01_F_05
+  rotate: false
+  xy: 2, 318
+  size: 156, 46
+  orig: 192, 104
+  offset: 10, 26
+  index: -1
+F/B01_F_06
+  rotate: false
+  xy: 160, 314
+  size: 157, 48
+  orig: 192, 104
+  offset: 10, 25
+  index: -1
+F/B01_F_07
+  rotate: false
+  xy: 156, 263
+  size: 160, 49
+  orig: 192, 104
+  offset: 10, 25
+  index: -1
+F/B01_F_08
+  rotate: false
+  xy: 2, 212
+  size: 162, 49
+  orig: 192, 104
+  offset: 10, 25
+  index: -1
+F/B01_F_09
+  rotate: false
+  xy: 166, 212
+  size: 164, 49
+  orig: 192, 104
+  offset: 10, 25
+  index: -1
+F/B01_F_10
+  rotate: false
+  xy: 2, 161
+  size: 165, 49
+  orig: 192, 104
+  offset: 11, 25
+  index: -1
+F/B01_F_11
+  rotate: false
+  xy: 2, 110
+  size: 167, 49
+  orig: 192, 104
+  offset: 11, 25
+  index: -1
+F/B01_F_12
+  rotate: false
+  xy: 171, 110
+  size: 166, 49
+  orig: 192, 104
+  offset: 12, 25
+  index: -1
+F/B01_F_13
+  rotate: false
+  xy: 2, 59
+  size: 165, 49
+  orig: 192, 104
+  offset: 14, 25
+  index: -1
+F/B01_F_14
+  rotate: false
+  xy: 169, 59
+  size: 167, 49
+  orig: 192, 104
+  offset: 14, 25
+  index: -1
+F/B01_F_15
+  rotate: false
+  xy: 2, 8
+  size: 166, 49
+  orig: 192, 104
+  offset: 16, 25
+  index: -1
+F/B01_F_16
+  rotate: false
+  xy: 170, 8
+  size: 165, 49
+  orig: 192, 104
+  offset: 17, 25
+  index: -1
+F/B01_F_17
+  rotate: true
+  xy: 390, 38
+  size: 164, 49
+  orig: 192, 104
+  offset: 19, 25
+  index: -1
+F/B01_F_18
+  rotate: true
+  xy: 339, 40
+  size: 162, 49
+  orig: 192, 104
+  offset: 21, 25
+  index: -1
+F/B01_F_19
+  rotate: false
+  xy: 169, 161
+  size: 160, 49
+  orig: 192, 104
+  offset: 23, 25
+  index: -1
+F/B01_F_20
+  rotate: true
+  xy: 383, 204
+  size: 158, 49
+  orig: 192, 104
+  offset: 25, 25
+  index: -1
+F/B01_F_21
+  rotate: true
+  xy: 332, 206
+  size: 156, 49
+  orig: 192, 104
+  offset: 27, 25
+  index: -1
+F/B01_F_22
+  rotate: false
+  xy: 2, 268
+  size: 152, 48
+  orig: 192, 104
+  offset: 30, 26
+  index: -1

@@ -1,0 +1,146 @@
+
+Boss_510_atk_hit.png
+size: 660,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 460, 442
+  size: 84, 86
+  orig: 90, 90
+  offset: 3, 2
+  index: -1
+b_0005
+  rotate: false
+  xy: 550, 219
+  size: 65, 84
+  orig: 378, 538
+  offset: 157, 230
+  index: -1
+b_0006
+  rotate: false
+  xy: 550, 305
+  size: 75, 80
+  orig: 378, 538
+  offset: 151, 244
+  index: -1
+b_0007
+  rotate: false
+  xy: 460, 361
+  size: 80, 79
+  orig: 378, 538
+  offset: 149, 250
+  index: -1
+b_0008
+  rotate: false
+  xy: 546, 456
+  size: 85, 72
+  orig: 378, 538
+  offset: 148, 262
+  index: -1
+b_0009
+  rotate: false
+  xy: 546, 387
+  size: 87, 67
+  orig: 378, 538
+  offset: 147, 270
+  index: -1
+b_0010
+  rotate: false
+  xy: 633, 492
+  size: 14, 36
+  orig: 378, 538
+  offset: 180, 276
+  index: -1
+b_0011
+  rotate: false
+  xy: 2, 2
+  size: 41, 28
+  orig: 378, 538
+  offset: 145, 304
+  index: -1
+baocia_0005
+  rotate: true
+  xy: 277, 35
+  size: 93, 148
+  orig: 504, 504
+  offset: 217, 167
+  index: -1
+baocia_0006
+  rotate: true
+  xy: 427, 25
+  size: 104, 165
+  orig: 504, 504
+  offset: 213, 179
+  index: -1
+baocia_0007
+  rotate: true
+  xy: 86, 261
+  size: 112, 179
+  orig: 504, 504
+  offset: 210, 192
+  index: -1
+baocia_0008
+  rotate: true
+  xy: 268, 346
+  size: 120, 190
+  orig: 504, 504
+  offset: 208, 204
+  index: -1
+baocia_0009
+  rotate: true
+  xy: 455, 530
+  size: 128, 201
+  orig: 504, 504
+  offset: 205, 216
+  index: -1
+baocia_0010
+  rotate: false
+  xy: 415, 131
+  size: 133, 213
+  orig: 504, 504
+  offset: 203, 225
+  index: -1
+baocia_0011
+  rotate: false
+  xy: 277, 130
+  size: 136, 214
+  orig: 504, 504
+  offset: 202, 236
+  index: -1
+baocia_0012
+  rotate: false
+  xy: 2, 32
+  size: 137, 220
+  orig: 504, 504
+  offset: 202, 245
+  index: -1
+baocia_0013
+  rotate: false
+  xy: 141, 39
+  size: 134, 220
+  orig: 504, 504
+  offset: 202, 255
+  index: -1
+c_0005
+  rotate: false
+  xy: 268, 468
+  size: 185, 190
+  orig: 378, 538
+  offset: 96, 174
+  index: -1
+c_0006
+  rotate: false
+  xy: 86, 375
+  size: 180, 283
+  orig: 378, 538
+  offset: 99, 126
+  index: -1
+c_0007
+  rotate: false
+  xy: 2, 254
+  size: 82, 404
+  orig: 378, 538
+  offset: 143, 65
+  index: -1

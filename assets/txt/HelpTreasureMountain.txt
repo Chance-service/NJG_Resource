@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold28" > <p style="margin:10px"> 金银宝山 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24" > <p style="margin:10px"> ●金银宝山每日重置时间为0点。 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24" > <p style="margin:10px"> ● 每次收金币有概率暴击,获得更多金币。 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24" > <p style="margin:10px"> ● 提升vip特权可以提高购买金币的次数。</p></font><br/>

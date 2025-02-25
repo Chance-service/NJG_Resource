@@ -1,0 +1,69 @@
+
+NGSceneB_03a_01.png
+size: 799,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 2, 692
+  size: 454, 33
+  orig: 454, 33
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 458, 692
+  size: 201, 33
+  orig: 201, 33
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 578, 727
+  size: 214, 33
+  orig: 214, 33
+  offset: 0, 0
+  index: -1
+B1
+  rotate: false
+  xy: 2, 762
+  size: 795, 35
+  orig: 795, 35
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 2, 621
+  size: 298, 34
+  orig: 298, 34
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 2, 556
+  size: 252, 28
+  orig: 252, 28
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 2, 727
+  size: 574, 33
+  orig: 574, 33
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 2, 657
+  size: 308, 33
+  orig: 308, 33
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 2, 586
+  size: 255, 33
+  orig: 255, 33
+  offset: 0, 0
+  index: -1

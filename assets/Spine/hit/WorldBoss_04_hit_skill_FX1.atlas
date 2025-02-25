@@ -1,0 +1,76 @@
+
+WorldBoss_04_hit_skill_FX1.png
+size: 381,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/E50108/image/1_0000
+  rotate: false
+  xy: 160, 145
+  size: 113, 99
+  orig: 250, 250
+  offset: 69, 74
+  index: -1
+hit/E50108/image/1_0001
+  rotate: false
+  xy: 160, 246
+  size: 139, 133
+  orig: 250, 250
+  offset: 56, 57
+  index: -1
+hit/E50108/image/1_0002
+  rotate: false
+  xy: 2, 65
+  size: 143, 149
+  orig: 250, 250
+  offset: 55, 49
+  index: -1
+hit/E50108/image/1_0003
+  rotate: false
+  xy: 2, 216
+  size: 156, 163
+  orig: 250, 250
+  offset: 48, 42
+  index: -1
+hit/E50108/image/1_0004
+  rotate: false
+  xy: 147, 50
+  size: 97, 93
+  orig: 250, 250
+  offset: 73, 68
+  index: -1
+hit/E50108/image/1_0005
+  rotate: false
+  xy: 275, 155
+  size: 104, 89
+  orig: 250, 250
+  offset: 69, 77
+  index: -1
+hit/E50108/image/1_0006
+  rotate: false
+  xy: 301, 284
+  size: 74, 95
+  orig: 250, 250
+  offset: 98, 75
+  index: -1
+hit/E50108/image/1_0007
+  rotate: false
+  xy: 246, 41
+  size: 65, 102
+  orig: 250, 250
+  offset: 97, 71
+  index: -1
+hit/E50108/image/1_0008
+  rotate: true
+  xy: 2, 5
+  size: 58, 95
+  orig: 250, 250
+  offset: 95, 67
+  index: -1
+hit/E50108/image/1_0009
+  rotate: false
+  xy: 313, 57
+  size: 56, 96
+  orig: 250, 250
+  offset: 97, 64
+  index: -1

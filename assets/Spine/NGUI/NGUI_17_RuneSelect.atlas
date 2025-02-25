@@ -1,0 +1,20 @@
+
+NGUI_17_RuneSelect.png
+size: 261,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/round_Orange
+  rotate: false
+  xy: 2, 91
+  size: 168, 168
+  orig: 182, 182
+  offset: 7, 7
+  index: -1
+image/square
+  rotate: false
+  xy: 2, 2
+  size: 86, 87
+  orig: 98, 98
+  offset: 6, 6
+  index: -1

@@ -1,0 +1,20 @@
+
+Activity_141_flag.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Activity_141_2_flag
+  rotate: false
+  xy: 87, 125
+  size: 42, 21
+  orig: 44, 23
+  offset: 1, 1
+  index: -1
+Activity_141_flag
+  rotate: false
+  xy: 2, 2
+  size: 83, 144
+  orig: 83, 144
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,402 @@
+id	名称	职业	开启等级	消耗MP	冷却回合	技能脚本	技能描述	图标	战斗行动	战斗记录	roleid	条件
+1	@Skill_Name_1	1	5	100	1	1	@Skill_Desc_1	skill/S_1.png	1	1	0	
+2	@Skill_Name_2	1	30	200	1	36	@Skill_Desc_2	skill/S_2.png	1	1	0	
+3	@Skill_Name_3	1	20	150	1	3	@Skill_Desc_3	skill/S_3.png	1	1	0	
+4	@Skill_Name_4	0	0	150	1	4	@Skill_Desc_4	skill/S_4.png	1	1	0	
+5	@Skill_Name_5	1	40	200	1	5	@Skill_Desc_5	skill/S_5.png	1	1	0	
+6	@Skill_Name_6	1	10	200	1	6	@Skill_Desc_6	skill/S_6.png	1	1	0	
+7	@Skill_Name_7	0	0	0	1	7	@Skill_Desc_7	skill/S_7.png	1	1	0	
+8	@Skill_Name_8	1	15	300	1	8	@Skill_Desc_8	skill/S_8.png	1	1	0	
+9	@Skill_Name_9	0	0	100	1	9	@Skill_Desc_9	skill/S_9.png	1	1	0	
+10	@Skill_Name_10	1	25	300	1	10	@Skill_Desc_10	skill/S_10.png	1	1	0	
+11	@Skill_Name_11	0	0	100	1	11	@SkillListDesc_11	skill/S_11.png	1	1	0	
+12	@Skill_Name_12	2	5	100	1	41	@SkillListDesc_12	skill/S_12.png	1	1	0	
+13	@Skill_Name_13	0	0	200	1	13	@SkillListDesc_13	skill/S_13.png	1	1	0	
+14	@Skill_Name_14	2	10	200	1	14	@Skill_Desc_14	skill/S_14.png	1	1	0	
+15	@Skill_Name_15	0	0	200	1	15	@Skill_Desc_15	skill/S_15.png	1	1	0	
+16	@Skill_Name_16	0	0	150	1	16	@Skill_Desc_16	skill/S_16.png	1	1	0	
+17	@Skill_Name_17	2	40	400	1	17	@Skill_Desc_17	skill/S_17.png	1	1	0	
+18	@Skill_Name_18	0	0	300	1	18	@SkillListDesc_18	skill/S_18.png	1	1	0	
+19	@Skill_Name_19	2	20	200	1	19	@SkillListDesc_19	skill/S_19.png	1	1	0	
+20	@Skill_Name_20	2	30	250	1	20	@Skill_Desc_20	skill/S_20.png	1	1	0	
+21	@Skill_Name_21	3	10	200	1	21	@SkillListDesc_21	skill/S_21.png	1	1	0	
+22	@Skill_Name_22	0	0	150	1	22	@SkillListDesc_22	skill/S_22.png	1	1	0	
+23	@Skill_Name_23	3	30	200	1	23	@SkillListDesc_23	skill/S_23.png	1	1	0	
+24	@Skill_Name_24	0	0	200	1	24	@SkillListDesc_24	skill/S_24.png	1	1	0	
+25	@Skill_Name_25	0	0	0	1	25	@SkillListDesc_25	skill/S_25.png	1	1	0	
+26	@Skill_Name_26	3	15	250	1	26	@SkillListDesc_26	skill/S_26.png	1	1	0	
+27	@Skill_Name_27	3	20	100	1	27	@SkillListDesc_27	skill/S_27.png	1	1	0	
+28	@Skill_Name_28	3	50	350	1	28	@SkillListDesc_28	skill/S_28.png	1	1	0	
+29	@Skill_Name_29	3	5	150	1	29	@SkillListDesc_29	skill/S_29.png	1	1	0	
+30	@Skill_Name_30	0	0	0	1	30	@SkillListDesc_30	skill/S_30.png	1	1	0	
+33	@Skill_Name_30	0	0	500	1	33	@SkillListDesc_30	skill/S_33.png	1	1	0	
+34	@Skill_Name_30	0	0	500	1	34	@SkillListDesc_30	skill/S_34.png	1	1	0	
+35	@Skill_Name_30	0	0	500	1	35	@SkillListDesc_30	skill/S_35.png	1	1	0	
+36	@Skill_Name_30	0	0	500	1	36	@SkillListDesc_30	skill/S_36.png	1	1	0	
+39	@Skill_Name_30	0	0	500	1	39	@SkillListDesc_30	skill/S_39.png	1	1	0	
+40	@Skill_Name_30	0	0	500	1	40	@SkillListDesc_30	skill/S_40.png	1	1	0	
+41	@Skill_Name_30	0	0	500	1	41	@SkillListDesc_30	skill/S_41.png	1	1	0	
+44	@Skill_Name_30	0	0	500	1	44	@SkillListDesc_30	skill/S_44.png	1	1	0	
+45	@Skill_Name_30	0	0	500	1	45	@SkillListDesc_30	skill/S_45.png	1	1	0	
+46	@Skill_Name_30	0	0	500	1	46	@SkillListDesc_30	skill/S_46.png	1	1	0	
+47	@Skill_Name_30	0	0	500	1	47	@SkillListDesc_30	skill/S_47.png	1	1	0	
+48	@Skill_Name_30	0	0	500	1	48	@SkillListDesc_30	skill/S_48.png	1	1	0	
+101	@Skill_Name_30	0	0	500	1	10	@SkillListDesc_30	skill/S_101.png	1	1	0	
+102	@Skill_Name_102	1	50	300	1	32	@Skill_Desc_102	skill/S_102.png	1	1	0	
+103	@Skill_Name_103	0	0	500	1	38	@Skill_Desc_103	skill/S_103.png	1	1	0	
+104	@Skill_Name_104	0	0	500	1	37	@Skill_Desc_104	skill/S_104.png	1	1	0	
+105	@Skill_Name_105	3	40	0	1	42	@Skill_Desc_105	skill/S_105.png	1	1	0	
+106	@Skill_Name_106	0	0	500	1	43	@Skill_Desc_106	skill/S_106.png	1	1	0	
+110	@Skill_Name_110	2	15	250	1	110	@Skill_Desc_110	skill/S_110.png	1	1	0	
+111	@Skill_Name_111	2	25	250	1	111	@SkillListDesc_111	skill/S_111.png	1	1	0	
+112	@Skill_Name_112	2	50	400	1	112	@SkillListDesc_112	skill/S_112.png	1	1	0	
+120	@Skill_Name_120	3	25	250	1	120	@SkillListDesc_120	skill/S_120.png	1	1	0	
+1001	@Skill_Name_120	1001	4	100	1	1	@SkillListDesc_120	skill/S_1001.png	1	1	7	
+1002	@Skill_Name_120	1001	0	200	1	2	@SkillListDesc_120	skill/S_1002.png	1	1	7	
+1004	@Skill_Name_120	1001	8	150	1	4	@SkillListDesc_120	skill/S_1004.png	1	1	7	
+1007	@Skill_Name_120	1001	1	0	1	7	@SkillListDesc_120	skill/S_1007.png	1	1	7	
+1008	@Skill_Name_120	1001	9	300	1	8	@SkillListDesc_120	skill/S_1008.png	1	1	7	
+1009	@Skill_Name_120	1001	5	100	1	9	@SkillListDesc_120	skill/S_1009.png	1	1	7	
+1011	@Skill_Name_120	1002	4	100	1	11	@SkillListDesc_120	skill/S_1011.png	1	1	8	
+1012	@Skill_Name_120	1002	0	100	1	12	@SkillListDesc_120	skill/S_1012.png	1	1	8	
+1013	@Skill_Name_120	1002	1	200	1	13	@SkillListDesc_120	skill/S_1013.png	1	1	8	
+1014	@Skill_Name_120	1002	8	200	1	14	@SkillListDesc_120	skill/S_1014.png	1	1	8	
+1015	@Skill_Name_120	1002	5	200	1	15	@SkillListDesc_120	skill/S_1015.png	1	1	8	
+1018	@Skill_Name_120	1002	9	300	1	18	@SkillListDesc_120	skill/S_1018.png	1	1	8	
+1022	@Skill_Name_120	1003	1	150	1	22	@SkillListDesc_120	skill/S_1022.png	1	1	9	
+1023	@Skill_Name_120	1003	9	200	1	23	@SkillListDesc_120	skill/S_1023.png	1	1	9	
+1024	@Skill_Name_120	1003	0	200	1	24	@SkillListDesc_120	skill/S_1024.png	1	1	9	
+1026	@Skill_Name_120	1003	4	250	1	26	@SkillListDesc_120	skill/S_1026.png	1	1	9	
+1028	@Skill_Name_120	1003	5	350	1	28	@SkillListDesc_120	skill/S_1028.png	1	1	9	
+1029	@Skill_Name_120	1003	8	250	1	29	@SkillListDesc_120	skill/S_1029.png	1	1	9	
+5001	@Skill_Name_120	0	200	200	1	44	@SkillListDesc_120	skill/S_5001.png	1	1	0	
+5002	@Skill_Name_120	0	200	200	1	28	@SkillListDesc_120	skill/S_5002.png	1	1	0	
+5003	@Skill_Name_120	0	200	200	1	29	@SkillListDesc_120	skill/S_5003.png	1	1	0	
+5004	@Skill_Name_120	0	200	200	1	21	@SkillListDesc_120	skill/S_5004.png	1	1	0	
+5005	@Skill_Name_120	0	200	200	1	31	@SkillListDesc_120	skill/S_5005.png	1	1	0	
+5006	@Skill_Name_120	0	200	200	1	48	@SkillListDesc_120	skill/S_5006.png	1	1	0	
+5007	@Skill_Name_120	0	200	200	1	2	@SkillListDesc_120	skill/S_5007.png	1	1	0	
+5008	@Skill_Name_120	0	200	200	1	46	@SkillListDesc_120	skill/S_5008.png	1	1	0	
+5009	@Skill_Name_120	0	200	200	1	32	@SkillListDesc_120	skill/S_5009.png	1	1	0	
+5010	@Skill_Name_120	0	200	200	1	33	@SkillListDesc_120	skill/S_5010.png	1	1	0	
+5011	@Skill_Name_120	0	200	200	1	22	@SkillListDesc_120	skill/S_5011.png	1	1	0	
+5012	@Skill_Name_120	0	200	200	1	26	@SkillListDesc_120	skill/S_5012.png	1	1	0	
+5013	@Skill_Name_120	0	200	200	1	35	@SkillListDesc_120	skill/S_5013.png	1	1	0	
+5014	@Skill_Name_120	0	200	200	1	40	@SkillListDesc_120	skill/S_5014.png	1	1	0	
+5015	@Skill_Name_120	0	200	200	1	24	@SkillListDesc_120	skill/S_5015.png	1	1	0	
+5016	@Skill_Name_120	0	200	200	1	3	@SkillListDesc_120	skill/S_5016.png	1	1	0	
+5017	@Skill_Name_120	0	200	200	1	9	@SkillListDesc_120	skill/S_5017.png	1	1	0	
+5018	@Skill_Name_120	0	200	200	1	45	@SkillListDesc_120	skill/S_5018.png	1	1	0	
+5019	@Skill_Name_120	0	200	200	1	6	@SkillListDesc_120	skill/S_5019.png	1	1	0	
+5020	@Skill_Name_120	0	200	200	1	34	@SkillListDesc_120	skill/S_5020.png	1	1	0	
+5021	@Skill_Name_120	0	200	200	1	4	@SkillListDesc_120	skill/S_5021.png	1	1	0	
+5022	@Skill_Name_120	0	200	200	1	38	@SkillListDesc_120	skill/S_5022.png	1	1	0	
+5023	@Skill_Name_120	0	200	200	1	41	@SkillListDesc_120	skill/S_5023.png	1	1	0	
+3011	@Skill_Name_3011	1001	1	300	1	3011	@Skill_Desc_3011	skill/S_1.png	1	1	0	
+3021	@Skill_Name_3021	1001	1	300	1	3021	@Skill_Desc_2192	skill/S_102.png	1	1	0	
+3031	@Skill_Name_3031	1001	1	300	1	3031	@Skill_Desc_3031	skill/S_6.png	1	1	0	
+3041	@Skill_Name_3041	1001	1	300	1	3041	@Skill_Desc_3041	skill/S_2.png	1	1	0	
+3051	@Skill_Name_3051	1001	1	300	1	3051	@Skill_Desc_2193	skill/S_8.png	1	1	0	
+3061	@Skill_Name_3061	1001	1	300	1	3061	@Skill_Desc_3061	skill/S_5.png	1	1	0	
+3071	@Skill_Name_3071	1001	1	300	1	3071	@Skill_Desc_3071	skill/S_2061.png	1	1	0	
+3081	@Skill_Name_3081	1001	1	300	1	3081	@Skill_Desc_2194	skill/S_3.png	1	1	0	
+3091	@Skill_Name_3091	1001	1	300	1	3091	@Skill_Desc_3091	skill/S_2062.png	1	1	0	
+3101	@Skill_Name_3101	1002	1	300	1	3101	@Skill_Desc_3101	skill/S_14.png	1	1	0	
+3111	@Skill_Name_3111	1002	1	300	1	3111	@Skill_Desc_2195	skill/S_112.png	1	1	0	
+3121	@Skill_Name_3121	1002	1	300	1	3121	@Skill_Desc_3121	skill/S_17.png	1	1	0	
+3131	@Skill_Name_3131	1003	1	300	1	3131	@Skill_Desc_3131	skill/S_28.png	1	1	0	
+3141	@Skill_Name_3141	1003	1	300	1	3141	@Skill_Desc_2196	skill/S_26.png	1	1	0	
+3151	@Skill_Name_3151	1003	1	300	1	3151	@Skill_Desc_3151	skill/S_21.png	1	1	0	
+3161	@Skill_Name_3161	1003	1	300	1	3161	@Skill_Desc_3161	skill/S_29.png	1	1	0	
+3171	@Skill_Name_3171	1003	1	300	1	3171	@Skill_Desc_2197	skill/S_2131.png	1	1	0	
+4011	@Skill_Name_4011	1001	1	500	1	4011	@Skill_Desc_4011	skill/S_8.png	1	1	0	
+4021	@Skill_Name_4021	1002	1	500	1	4021	@Skill_Desc_4021	skill/S_110.png	1	1	0	
+4031	@Skill_Name_4031	1002	1	500	1	4031	@Skill_Desc_2198	skill/S_112.png	1	1	0	
+4041	@Skill_Name_4041	1003	1	500	1	4041	@Skill_Desc_4041	skill/S_28.png	1	1	0	
+4051	@Skill_Name_4051	1003	1	500	1	4051	@Skill_Desc_4051	skill/S_26.png	1	1	0	
+4061	@Skill_Name_4061	1003	1	500	1	4061	@Skill_Desc_2199	skill/S_23.png	1	1	0	
+4071	@Skill_Name_4071	1001	1	500	1	4071	@Skill_Desc_4071	skill/S_2081.png	1	1	0	
+4081	@Skill_Name_4081	1001	1	500	1	4081	@Skill_Desc_4081	skill/S_2081.png	1	1	0	
+4091	@Skill_Name_4091	1001	1	500	1	4091	@Skill_Desc_2200	skill/S_2081.png	1	1	0	
+4101	@Skill_Name_4101	1001	1	500	1	4101	@Skill_Desc_4101	skill/S_2081.png	1	1	0	
+2011	@Skill_Name_2011	1003	0	200	1	2011	@Skill_Desc_2011	skill/S_2011.png	1	1	101	@MercenaryOpenLevelTxt
+2012	@Skill_Name_2012	1003	2	450	1	2012	@Skill_Desc_2012	skill/S_2012.png	1	1	101	@MercenaryOpenLevelTxt
+2021	@Skill_Name_2021	1002	0	200	1	2021	@Skill_Desc_2021	skill/S_2021.png	1	1	102	@MercenaryOpenLevelTxt
+2022	@Skill_Name_2022	1002	2	400	1	2022	@Skill_Desc_2022	skill/S_2022.png	1	1	102	@MercenaryOpenLevelTxt
+2031	@Skill_Name_2031	1001	0	200	1	2031	@Skill_Desc_2031	skill/S_2031.png	1	1	103	@MercenaryOpenLevelTxt
+2032	@Skill_Name_2032	1001	2	400	1	2032	@Skill_Desc_2032	skill/S_2032.png	1	1	103	@MercenaryOpenLevelTxt
+2041	@Skill_Name_2041	1003	0	200	1	2041	@Skill_Desc_2041	skill/S_2041.png	1	1	203	@MercenaryOpenLevelTxt
+2042	@Skill_Name_2042	1003	2	500	1	2042	@Skill_Desc_2042	skill/S_2042.png	1	1	203	@MercenaryOpenLevelTxt
+2051	@Skill_Name_2051	1002	0	200	1	2051	@Skill_Desc_2051	skill/S_2051.png	1	1	105	@MercenaryOpenLevelTxt
+2052	@Skill_Name_2052	1002	2	450	1	2052	@Skill_Desc_2052	skill/S_2052.png	1	1	105	@MercenaryOpenLevelTxt
+2061	@Skill_Name_2061	1001	0	400	1	2061	@Skill_Desc_2061	skill/S_2061.png	1	1	119	@MercenaryOpenLevelTxt
+2062	@Skill_Name_2062	1001	2	400	1	2062	@Skill_Desc_2062	skill/S_2062.png	1	1	119	@MercenaryOpenLevelTxt
+2071	@Skill_Name_2071	1002	0	300	1	2071	@Skill_Desc_2071	skill/S_2071.png	1	1	184	@MercenaryOpenLevelTxt
+2072	@Skill_Name_2072	1002	2	500	1	2072	@Skill_Desc_2072	skill/S_2072.png	1	1	184	@MercenaryOpenLevelTxt
+2081	@Skill_Name_2081	1003	0	600	1	2081	@Skill_Desc_3085	skill/S_2131.png	1	1	187	@MercenaryOpenLevelTxt
+2082	@Skill_Name_2082	1003	2	600	1	2082	@Skill_Desc_3086	skill/S_2132.png	1	1	187	@MercenaryOpenLevelTxt
+2091	@Skill_Name_2091	1003	0	800	1	2091	@Skill_Desc_3023	skill/S_2091.png	1	1	185	@MercenaryOpenLevelTxt
+2092	@Skill_Name_2092	1003	2	800	1	2092	@Skill_Desc_3024	skill/S_2092.png	1	1	185	@MercenaryOpenLevelTxt
+2111	@Skill_Name_2111	1003	0	400	1	2111	@Skill_Desc_2111	skill/S_2111.png	1	1	144	@MercenaryOpenLevelTxt
+2112	@Skill_Name_2112	1003	2	500	1	2112	@Skill_Desc_2112	skill/S_2112.png	1	1	144	@MercenaryOpenLevelTxt
+2121	@Skill_Name_2121	1001	0	400	1	2121	@Skill_Desc_2121	skill/S_2121.png	1	1	118	@MercenaryOpenLevelTxt
+2122	@Skill_Name_2122	1001	2	500	1	2122	@Skill_Desc_2122	skill/S_2122.png	1	1	118	@MercenaryOpenLevelTxt
+2131	@Skill_Name_2131	1003	0	600	1	2131	@Skill_Desc_2131	skill/S_2131.png	1	1	153	@MercenaryOpenLevelTxt
+2132	@Skill_Name_2132	1003	2	600	1	2132	@Skill_Desc_2132	skill/S_2132.png	1	1	153	@MercenaryOpenLevelTxt
+2141	@Skill_Name_2141	1001	0	400	1	2141	@Skill_Desc_2141	skill/S_2141.png	1	1	114	@MercenaryOpenLevelTxt
+2142	@Skill_Name_2142	1001	2	400	1	2142	@Skill_Desc_2142	skill/S_2142.png	1	1	114	@MercenaryOpenLevelTxt
+2151	@Skill_Name_2151	1002	0	400	1	2151	@Skill_Desc_2151	skill/S_2151.png	1	1	155	@MercenaryOpenLevelTxt
+2152	@Skill_Name_2152	1002	2	400	1	2152	@Skill_Desc_2152	skill/S_2152.png	1	1	155	@MercenaryOpenLevelTxt
+2171	@Skill_Name_2171	1002	0	300	1	2171	@Skill_Desc_2171	skill/S_2171.png	1	1	134	@MercenaryOpenLevelTxt
+2172	@Skill_Name_2172	1002	2	300	1	2172	@Skill_Desc_2172	skill/S_2172.png	1	1	134	@MercenaryOpenLevelTxt
+2181	@Skill_Name_2181	1001	0	300	1	2181	@Skill_Desc_2181	skill/S_2181.png	1	1	136	@MercenaryOpenLevelTxt
+2182	@Skill_Name_2182	1001	2	300	1	2182	@Skill_Desc_2182	skill/S_2182.png	1	1	136	@MercenaryOpenLevelTxt
+2191	@Skill_Name_2191	1001	0	400	1	2191	@Skill_Desc_2191	skill/S_2191.png	1	1	132	@MercenaryOpenLevelTxt
+2192	@Skill_Name_2192	1001	2	400	1	2192	@Skill_Desc_2192	skill/S_2192.png	1	1	132	@MercenaryOpenLevelTxt
+2201	@Skill_Name_2201	1001	0	400	1	2201	@Skill_Desc_2201	skill/S_2201.png	1	1	120	@MercenaryOpenLevelTxt
+2202	@Skill_Name_2202	1001	2	400	1	2202	@Skill_Desc_2202	skill/S_2202.png	1	1	120	@MercenaryOpenLevelTxt
+2211	@Skill_Name_2211	1003	0	400	1	2211	@Skill_Desc_2211	skill/S_2211.png	1	1	127	@MercenaryOpenLevelTxt
+2212	@Skill_Name_2212	1003	2	400	1	2212	@Skill_Desc_2212	skill/S_2212.png	1	1	127	@MercenaryOpenLevelTxt
+2221	@Skill_Name_2221	1001	0	200	1	2221	@Skill_Desc_2221	skill/S_2221.png	1	1	131	@MercenaryOpenLevelTxt
+2222	@Skill_Name_2222	1001	2	300	1	2222	@Skill_Desc_2222	skill/S_8.png	1	1	131	@MercenaryOpenLevelTxt
+2231	@Skill_Name_2231	1001	0	400	1	2231	@Skill_Desc_2231	skill/S_2231.png	1	1	123	@MercenaryOpenLevelTxt
+2232	@Skill_Name_2232	1001	2	500	1	2232	@Skill_Desc_2232	skill/S_2232.png	1	1	123	@MercenaryOpenLevelTxt
+2241	@Skill_Name_2241	1001	0	400	1	2241	@Skill_Desc_2241	skill/S_2241.png	1	1	124	@MercenaryOpenLevelTxt
+2242	@Skill_Name_2242	1001	2	400	1	2242	@Skill_Desc_2242	skill/S_2242.png	1	1	124	@MercenaryOpenLevelTxt
+2251	@Skill_Name_2251	1003	0	400	1	2251	@Skill_Desc_2251	skill/S_2251.png	1	1	108	@MercenaryOpenLevelTxt
+2252	@Skill_Name_2252	1003	2	500	1	2252	@Skill_Desc_2252	skill/S_2252.png	1	1	108	@MercenaryOpenLevelTxt
+2271	@Skill_Name_2271	1003	0	400	1	2271	@Skill_Desc_2271	skill/S_2271.png	1	1	115	@MercenaryOpenLevelTxt
+2272	@Skill_Name_2272	1003	2	400	1	2272	@Skill_Desc_2272	skill/S_2272.png	1	1	115	@MercenaryOpenLevelTxt
+2281	@Skill_Name_2281	1002	0	400	1	2281	@Skill_Desc_2757	skill/S_2281.png	1	1	107	@MercenaryOpenLevelTxt
+2282	@Skill_Name_2282	1002	2	400	1	2282	@Skill_Desc_2758	skill/S_2282.png	1	1	107	@MercenaryOpenLevelTxt
+2291	@Skill_Name_2291	1003	0	400	1	2291	@Skill_Desc_2291	skill/S_2291.png	1	1	158	@MercenaryOpenLevelTxt
+2292	@Skill_Name_2292	1003	2	500	1	2292	@Skill_Desc_2292	skill/S_2292.png	1	1	158	@MercenaryOpenLevelTxt
+2301	@Skill_Name_2301	1002	0	400	1	2301	@Skill_Desc_2151	skill/S_2151.png	1	1	126	@MercenaryOpenLevelTxt
+2302	@Skill_Name_2302	1002	2	450	1	2302	@Skill_Desc_2052	skill/S_2052.png	1	1	126	@MercenaryOpenLevelTxt
+2321	@Skill_Name_2321	1001	0	400	1	2321	@Skill_Desc_2321	skill/S_2321.png	1	1	174	@MercenaryOpenLevelTxt
+2322	@Skill_Name_2322	1001	2	400	1	2322	@Skill_Desc_2322	skill/S_2322.png	1	1	174	@MercenaryOpenLevelTxt
+2331	@Skill_Name_2331	1001	0	400	1	2331	@Skill_Desc_2331	skill/S_2331.png	1	1	133	@MercenaryOpenLevelTxt
+2332	@Skill_Name_2332	1001	2	500	1	2332	@Skill_Desc_2332	skill/S_2332.png	1	1	133	@MercenaryOpenLevelTxt
+2341	@Skill_Name_2341	1002	0	300	1	2341	@Skill_Desc_2341	skill/S_2341.png	1	1	117	@MercenaryOpenLevelTxt
+2342	@Skill_Name_2342	1002	2	400	1	2342	@Skill_Desc_2342	skill/S_2342.png	1	1	117	@MercenaryOpenLevelTxt
+2351	@Skill_Name_2351	1003	0	400	1	2351	@Skill_Desc_2351	skill/S_2351.png	1	1	111	@MercenaryOpenLevelTxt
+2352	@Skill_Name_2352	1003	2	500	1	2352	@Skill_Desc_2352	skill/S_2352.png	1	1	111	@MercenaryOpenLevelTxt
+2361	@Skill_Name_2361	1001	0	400	1	2361	@Skill_Desc_2361	skill/S_2361.png	1	1	193	@MercenaryOpenLevelTxt
+2362	@Skill_Name_2362	1001	2	400	1	2362	@Skill_Desc_2362	skill/S_2362.png	1	1	193	@MercenaryOpenLevelTxt
+2371	@Skill_Name_2371	1002	0	400	1	2371	@Skill_Desc_2371	skill/S_2371.png	1	1	150	@MercenaryOpenLevelTxt
+2372	@Skill_Name_2372	1002	2	400	1	2372	@Skill_Desc_2372	skill/S_2372.png	1	1	150	@MercenaryOpenLevelTxt
+2381	@Skill_Name_2381	1001	0	400	1	2381	@Skill_Desc_2381	skill/S_2381.png	1	1	137	@MercenaryOpenLevelTxt
+2382	@Skill_Name_2382	1001	2	400	1	2382	@Skill_Desc_2382	skill/S_2382.png	1	1	137	@MercenaryOpenLevelTxt
+2391	@Skill_Name_2391	1003	0	600	1	2391	@Skill_Desc_2391	skill/S_2391.png	1	1	116	@MercenaryOpenLevelTxt
+2392	@Skill_Name_2392	1003	2	600	1	2392	@Skill_Desc_2392	skill/S_2392.png	1	1	116	@MercenaryOpenLevelTxt
+2401	@Skill_Name_2401	1002	0	400	1	2401	@Skill_Desc_2401	skill/S_2401.png	1	1	162	@MercenaryOpenLevelTxt
+2402	@Skill_Name_2402	1002	2	400	1	2402	@Skill_Desc_2402	skill/S_2402.png	1	1	162	@MercenaryOpenLevelTxt
+2411	@Skill_Name_2411	1003	0	500	1	2411	@Skill_Desc_2411	skill/S_2411.png	1	1	177	@MercenaryOpenLevelTxt
+2412	@Skill_Name_2412	1003	2	500	1	2412	@Skill_Desc_2412	skill/S_2412.png	1	1	177	@MercenaryOpenLevelTxt
+2421	@Skill_Name_2421	1001	0	400	1	2421	@Skill_Desc_2421	skill/S_2421.png	1	1	146	@MercenaryOpenLevelTxt
+2422	@Skill_Name_2422	1001	2	400	1	2422	@Skill_Desc_2422	skill/S_2422.png	1	1	146	@MercenaryOpenLevelTxt
+2431	@Skill_Name_2777	1003	0	500	1	2777	@Skill_Desc_3021	skill/S_2431.png	1	1	201	@MercenaryOpenLevelTxt
+2432	@Skill_Name_2432	1003	2	500	1	2432	@Skill_Desc_2754	skill/S_2432.png	1	1	201	@MercenaryOpenLevelTxt
+2441	@Skill_Name_2441	1003	0	400	1	2441	@Skill_Desc_3065	skill/S_2111.png	1	1	142	@MercenaryOpenLevelTxt
+2442	@Skill_Name_2442	1003	2	500	1	2442	@Skill_Desc_3066	skill/S_2252.png	1	1	142	@MercenaryOpenLevelTxt
+2451	@Skill_Name_2451	1002	0	500	1	2451	@Skill_Desc_2451	skill/S_2451.png	1	1	152	@MercenaryOpenLevelTxt
+2452	@Skill_Name_2452	1002	2	500	1	2452	@Skill_Desc_2452	skill/S_2452.png	1	1	152	@MercenaryOpenLevelTxt
+2471	@Skill_Name_2471	1001	0	400	1	2471	@Skill_Desc_2471	skill/S_2471.png	1	1	157	@MercenaryOpenLevelTxt
+2472	@Skill_Name_2472	1001	2	500	1	2472	@Skill_Desc_2472	skill/S_2472.png	1	1	157	@MercenaryOpenLevelTxt
+2491	@Skill_Name_2491	1001	0	400	1	2491	@Skill_Desc_2491	skill/S_2491.png	1	1	197	@MercenaryOpenLevelTxt
+2492	@Skill_Name_2492	1001	2	400	1	2492	@Skill_Desc_2492	skill/S_2492.png	1	1	197	@MercenaryOpenLevelTxt
+2501	@Skill_Name_2501	1002	0	400	1	2501	@Skill_Desc_2501	skill/S_2501.png	1	1	182	@MercenaryOpenLevelTxt
+2502	@Skill_Name_2502	1002	2	400	1	2502	@Skill_Desc_2502	skill/S_2502.png	1	1	182	@MercenaryOpenLevelTxt
+2511	@Skill_Name_2511	1002	0	500	1	2511	@Skill_Desc_2511	skill/S_2511.png	1	1	180	@MercenaryOpenLevelTxt
+2512	@Skill_Name_2512	1002	2	500	1	2512	@Skill_Desc_2512	skill/S_2512.png	1	1	180	@MercenaryOpenLevelTxt
+2531	@Skill_Name_2531	1003	0	400	1	2531	@Skill_Desc_2531	skill/S_2531.png	1	1	113	@MercenaryOpenLevelTxt
+2532	@Skill_Name_2532	1003	2	400	1	2532	@Skill_Desc_2532	skill/S_2532.png	1	1	113	@MercenaryOpenLevelTxt
+2541	@Skill_Name_2541	1002	0	500	1	2541	@Skill_Desc_2541	skill/S_2541.png	1	1	207	@MercenaryOpenLevelTxt
+2542	@Skill_Name_2542	1002	2	500	1	2542	@Skill_Desc_3081	skill/S_2542.png	1	1	207	@MercenaryOpenLevelTxt
+2551	@Skill_Name_2551	1002	0	400	1	2551	@Skill_Desc_2551	skill/S_2551.png	1	1	112	@MercenaryOpenLevelTxt
+2552	@Skill_Name_2552	1002	2	400	1	2552	@Skill_Desc_2552	skill/S_2552.png	1	1	112	@MercenaryOpenLevelTxt
+2561	@Skill_Name_2561	1001	0	500	1	2561	@Skill_Desc_3051	skill/S_2561.png	1	1	156	@MercenaryOpenLevelTxt
+2562	@Skill_Name_2562	1001	2	500	1	2562	@Skill_Desc_3052	skill/S_2562.png	1	1	156	@MercenaryOpenLevelTxt
+2571	@Skill_Name_2571	1001	0	400	1	2571	@Skill_Desc_2571	skill/S_2571.png	1	1	205	@MercenaryOpenLevelTxt
+2572	@Skill_Name_2572	1001	2	400	1	2572	@Skill_Desc_2572	skill/S_2572.png	1	1	205	@MercenaryOpenLevelTxt
+2581	@Skill_Name_2581	1003	0	400	1	2581	@Skill_Desc_2581	skill/S_2581.png	1	1	122	@MercenaryOpenLevelTxt
+2582	@Skill_Name_2582	1003	2	400	1	2582	@Skill_Desc_2582	skill/S_2582.png	1	1	122	@MercenaryOpenLevelTxt
+2601	@Skill_Name_2601	1003	0	600	1	2601	@Skill_Desc_2755	skill/S_2391.png	1	1	135	@MercenaryOpenLevelTxt
+2602	@Skill_Name_2602	1003	2	800	1	2602	@Skill_Desc_2756	skill/S_2092.png	1	1	135	@MercenaryOpenLevelTxt
+2611	@Skill_Name_2611	1001	0	400	1	2611	@Skill_Desc_2611	skill/S_2611.png	1	1	206	@MercenaryOpenLevelTxt
+2612	@Skill_Name_2612	1001	2	500	1	2612	@Skill_Desc_2612	skill/S_2612.png	1	1	206	@MercenaryOpenLevelTxt
+2631	@Skill_Name_2631	1002	0	400	1	2631	@Skill_Desc_2631	skill/S_2631.png	1	1	163	@MercenaryOpenLevelTxt
+2632	@Skill_Name_2632	1002	2	400	1	2632	@Skill_Desc_2632	skill/S_2632.png	1	1	163	@MercenaryOpenLevelTxt
+2651	@Skill_Name_2651	1001	0	500	1	2651	@Skill_Desc_3019	skill/S_2651.png	1	1	148	@MercenaryOpenLevelTxt
+2652	@Skill_Name_2652	1001	2	500	1	2652	@Skill_Desc_3020	skill/S_2652.png	1	1	148	@MercenaryOpenLevelTxt
+2661	@Skill_Name_2661	1003	0	500	1	2661	@Skill_Desc_3011	skill/S_2661.png	1	1	140	@MercenaryOpenLevelTxt
+2662	@Skill_Name_2662	1003	2	500	1	2662	@Skill_Desc_3012	skill/S_2662.png	1	1	140	@MercenaryOpenLevelTxt
+2671	@Skill_Name_2671	1003	0	500	1	2671	@Skill_Desc_3001	skill/S_2671.png	1	1	129	@MercenaryOpenLevelTxt
+2672	@Skill_Name_2672	1003	2	500	1	2672	@Skill_Desc_3002	skill/S_2672.png	1	1	129	@MercenaryOpenLevelTxt
+2681	@Skill_Name_2681	1001	0	500	1	2681	@Skill_Desc_2681	skill/S_2681.png	1	1	194	@MercenaryOpenLevelTxt
+2682	@Skill_Name_2682	1001	2	500	1	2682	@Skill_Desc_2712	skill/S_2712.png	1	1	194	@MercenaryOpenLevelTxt
+2691	@Skill_Name_2691	1002	0	500	1	2691	@Skill_Desc_3083	skill/S_2691.png	1	1	208	@MercenaryOpenLevelTxt
+2692	@Skill_Name_2692	1002	2	500	1	2692	@Skill_Desc_3084	skill/S_2692.png	1	1	208	@MercenaryOpenLevelTxt
+2701	@Skill_Name_2701	1002	0	400	1	2701	@Skill_Desc_2701	skill/S_2701.png	1	1	141	@MercenaryOpenLevelTxt
+2702	@Skill_Name_2702	1002	2	400	1	2702	@Skill_Desc_2702	skill/S_2702.png	1	1	141	@MercenaryOpenLevelTxt
+2711	@Skill_Name_2711	1001	0	500	1	2711	@Skill_Desc_3005	skill/S_2711.png	1	1	106	@MercenaryOpenLevelTxt
+2712	@Skill_Name_2712	1001	2	500	1	2712	@Skill_Desc_3006	skill/S_2712.png	1	1	106	@MercenaryOpenLevelTxt
+2721	@Skill_Name_2721	1002	0	500	1	2721	@Skill_Desc_2691	skill/S_3001.png	1	1	166	@MercenaryOpenLevelTxt
+2722	@Skill_Name_2722	1002	2	500	1	2722	@Skill_Desc_2542	skill/S_2671.png	1	1	166	@MercenaryOpenLevelTxt
+2731	@Skill_Name_2731	1002	0	500	1	2731	@Skill_Desc_2731	skill/S_2731.png	1	1	128	@MercenaryOpenLevelTxt
+2732	@Skill_Name_2732	1002	2	500	1	2732	@Skill_Desc_2732	skill/S_2732.png	1	1	128	@MercenaryOpenLevelTxt
+2751	@Skill_Name_2751	1003	0	600	1	2751	@Skill_Desc_3015	skill/S_2751.png	1	1	186	@MercenaryOpenLevelTxt
+2752	@Skill_Name_2752	1003	2	900	1	2752	@Skill_Desc_3016	skill/S_2752.png	1	1	186	@MercenaryOpenLevelTxt
+2753	@Skill_Name_2753	1002	0	300	1	2753	@Skill_Desc_2071	skill/S_2071.png	1	1	170	@MercenaryOpenLevelTxt
+2754	@Skill_Name_2754	1002	2	400	1	2754	@Skill_Desc_2552	skill/S_2552.png	1	1	170	@MercenaryOpenLevelTxt
+2755	@Skill_Name_2755	1002	0	400	1	2755	@Skill_Desc_2151	skill/S_2151.png	1	1	167	@MercenaryOpenLevelTxt
+2756	@Skill_Name_2756	1002	2	400	1	2756	@Skill_Desc_2632	skill/S_2632.png	1	1	167	@MercenaryOpenLevelTxt
+2757	@Skill_Name_2521	1002	0	200	1	2757	@Skill_Desc_2051	skill/S_2521.png	1	1	204	@MercenaryOpenLevelTxt
+2758	@Skill_Name_2522	1002	2	400	1	2758	@Skill_Desc_2402	skill/S_2522.png	1	1	204	@MercenaryOpenLevelTxt
+2759	@Skill_Name_2161	1003	0	400	1	2759	@Skill_Desc_2111	skill/S_2111.png	1	1	121	@MercenaryOpenLevelTxt
+2760	@Skill_Name_2162	1003	2	500	1	2760	@Skill_Desc_2412	skill/S_2412.png	1	1	121	@MercenaryOpenLevelTxt
+2761	@Skill_Name_2761	1003	0	400	1	2761	@Skill_Desc_2761	skill/S_2211.png	1	1	154	@MercenaryOpenLevelTxt
+2762	@Skill_Name_2762	1003	2	500	1	2762	@Skill_Desc_2352	skill/S_2352.png	1	1	154	@MercenaryOpenLevelTxt
+2763	@Skill_Name_2741	1001	0	500	1	2763	@Skill_Desc_3003	skill/S_2561.png	1	1	138	@MercenaryOpenLevelTxt
+2764	@Skill_Name_2742	1001	2	500	1	2764	@Skill_Desc_3004	skill/S_2472.png	1	1	138	@MercenaryOpenLevelTxt
+2765	@Skill_Name_2481	1001	0	400	1	2765	@Skill_Desc_2765	skill/S_2571.png	1	1	165	@MercenaryOpenLevelTxt
+2766	@Skill_Name_2482	1001	2	500	1	2766	@Skill_Desc_2766	skill/S_2472.png	1	1	165	@MercenaryOpenLevelTxt
+2767	@Skill_Name_2591	1001	0	400	1	2767	@Skill_Desc_3013	skill/S_2471.png	1	1	198	@MercenaryOpenLevelTxt
+2768	@Skill_Name_2592	1001	2	500	1	2768	@Skill_Desc_3014	skill/S_2562.png	1	1	198	@MercenaryOpenLevelTxt
+2769	@Skill_Name_2769	1002	0	500	1	2769	@Skill_Desc_3039	skill/S_2511.png	1	1	130	@MercenaryOpenLevelTxt
+2770	@Skill_Name_2770	1002	2	500	1	2770	@Skill_Desc_3040	skill/S_2692.png	1	1	130	@MercenaryOpenLevelTxt
+2771	@Skill_Name_2771	1003	0	800	1	2771	@Skill_Desc_2091	skill/S_2091.png	1	1	169	@MercenaryOpenLevelTxt
+2772	@Skill_Name_2772	1003	2	500	1	2772	@Skill_Desc_2602	skill/S_2602.png	1	1	169	@MercenaryOpenLevelTxt
+2773	@Skill_Name_2261	1003	0	500	1	2773	@Skill_Desc_2773	skill/S_2661.png	1	1	196	@MercenaryOpenLevelTxt
+2774	@Skill_Name_2262	1003	2	500	1	2774	@Skill_Desc_2774	skill/S_2662.png	1	1	196	@MercenaryOpenLevelTxt
+2775	@Skill_Name_2621	1001	0	500	1	2775	@Skill_Desc_2775	skill/S_2651.png	1	1	147	@MercenaryOpenLevelTxt
+2776	@Skill_Name_2622	1001	2	500	1	2776	@Skill_Desc_2776	skill/S_2712.png	1	1	147	@MercenaryOpenLevelTxt
+2777	@Skill_Name_2431	1002	0	500	1	2431	@Skill_Desc_2753	skill/S_2731.png	1	1	151	@MercenaryOpenLevelTxt
+2778	@Skill_Name_2778	1002	2	400	1	2778	@Skill_Desc_3022	skill/S_2282.png	1	1	151	@MercenaryOpenLevelTxt
+2779	@Skill_Name_2779	1001	0	400	1	2779	@Skill_Desc_2779	skill/S_2471.png	1	1	159	@MercenaryOpenLevelTxt
+2780	@Skill_Name_2780	1001	2	500	1	2780	@Skill_Desc_2780	skill/S_2232.png	1	1	159	@MercenaryOpenLevelTxt
+2781	@Skill_Name_2781	1001	0	400	1	2781	@Skill_Desc_2781	skill/S_2231.png	1	1	176	@MercenaryOpenLevelTxt
+2782	@Skill_Name_2782	1001	2	500	1	2782	@Skill_Desc_2782	skill/S_2612.png	1	1	176	@MercenaryOpenLevelTxt
+2783	@Skill_Name_2783	1001	0	500	1	2783	@Skill_Desc_2783	skill/S_2681.png	1	1	181	@MercenaryOpenLevelTxt
+2784	@Skill_Name_2784	1001	2	500	1	2784	@Skill_Desc_2784	skill/S_2472.png	1	1	181	@MercenaryOpenLevelTxt
+2785	@Skill_Name_2785	1001	0	500	1	2785	@Skill_Desc_3059	skill/S_2711.png	1	1	189	@MercenaryOpenLevelTxt
+2786	@Skill_Name_2786	1001	2	500	1	2786	@Skill_Desc_3060	skill/S_2652.png	1	1	189	@MercenaryOpenLevelTxt
+2787	@Skill_Name_2787	1001	0	500	1	2787	@Skill_Desc_3055	skill/S_2561.png	1	1	192	@MercenaryOpenLevelTxt
+2788	@Skill_Name_2788	1001	2	500	1	2788	@Skill_Desc_3056	skill/S_2332.png	1	1	192	@MercenaryOpenLevelTxt
+2789	@Skill_Name_2461	1001	0	500	1	2789	@Skill_Desc_2651	skill/S_2651.png	1	1	195	@MercenaryOpenLevelTxt
+2790	@Skill_Name_2462	1001	2	500	1	2790	@Skill_Desc_2562	skill/S_2562.png	1	1	195	@MercenaryOpenLevelTxt
+2791	@Skill_Name_2311	1001	0	500	1	2791	@Skill_Desc_3043	skill/S_2651.png	1	1	200	@MercenaryOpenLevelTxt
+2792	@Skill_Name_2312	1001	2	500	1	2792	@Skill_Desc_3044	skill/S_2612.png	1	1	200	@MercenaryOpenLevelTxt
+2793	@Skill_Name_2793	1002	0	500	1	2793	@Skill_Desc_3049	skill/S_2721.png	1	1	145	@MercenaryOpenLevelTxt
+2794	@Skill_Name_2794	1002	2	400	1	2794	@Skill_Desc_3050	skill/S_2282.png	1	1	145	@MercenaryOpenLevelTxt
+2795	@Skill_Name_2795	1002	0	400	1	2795	@Skill_Desc_2795	skill/S_2281.png	1	1	149	@MercenaryOpenLevelTxt
+2796	@Skill_Name_2796	1002	2	500	1	2796	@Skill_Desc_2796	skill/S_2452.png	1	1	149	@MercenaryOpenLevelTxt
+2797	@Skill_Name_2797	1002	0	500	1	2797	@Skill_Desc_3079	skill/S_2451.png	1	1	161	@MercenaryOpenLevelTxt
+2798	@Skill_Name_2798	1002	2	500	1	2798	@Skill_Desc_3080	skill/S_2512.png	1	1	161	@MercenaryOpenLevelTxt
+2799	@Skill_Name_2799	1002	0	500	1	2799	@Skill_Desc_3033	skill/S_2511.png	1	1	190	@MercenaryOpenLevelTxt
+2800	@Skill_Name_2800	1002	2	500	1	2800	@Skill_Desc_3034	skill/S_2732.png	1	1	190	@MercenaryOpenLevelTxt
+2801	@Skill_Name_2801	1002	0	500	1	2801	@Skill_Desc_2801	skill/S_2731.png	1	1	202	@MercenaryOpenLevelTxt
+2802	@Skill_Name_2802	1002	2	500	1	2802	@Skill_Desc_2802	skill/S_2722.png	1	1	202	@MercenaryOpenLevelTxt
+2803	@Skill_Name_2803	1003	0	500	1	2803	@Skill_Desc_3077	skill/S_2671.png	1	1	125	@MercenaryOpenLevelTxt
+2804	@Skill_Name_2804	1003	2	800	1	2804	@Skill_Desc_3078	skill/S_2092.png	1	1	125	@MercenaryOpenLevelTxt
+2805	@Skill_Name_2805	1003	0	500	1	2805	@Skill_Desc_3063	skill/S_2661.png	1	1	143	@MercenaryOpenLevelTxt
+2806	@Skill_Name_2806	1003	2	600	1	2806	@Skill_Desc_3064	skill/S_2392.png	1	1	143	@MercenaryOpenLevelTxt
+2807	@Skill_Name_2807	1003	0	500	1	2807	@Skill_Desc_2601	skill/S_2601.png	1	1	160	@MercenaryOpenLevelTxt
+2808	@Skill_Name_2808	1003	2	900	1	2808	@Skill_Desc_2752	skill/S_2752.png	1	1	160	@MercenaryOpenLevelTxt
+2809	@Skill_Name_2809	1002	0	500	1	2809	@Skill_Desc_2809	skill/S_2541.png	1	1	172	@MercenaryOpenLevelTxt
+2810	@Skill_Name_2810	1003	2	500	1	2810	@Skill_Desc_2810	skill/S_2602.png	1	1	172	@MercenaryOpenLevelTxt
+2811	@Skill_Name_2811	1003	0	400	1	2811	@Skill_Desc_3037	skill/S_2091.png	1	1	173	@MercenaryOpenLevelTxt
+2812	@Skill_Name_2812	1003	2	500	1	2812	@Skill_Desc_3038	skill/S_2752.png	1	1	173	@MercenaryOpenLevelTxt
+2813	@Skill_Name_2813	1003	0	500	1	2813	@Skill_Desc_2813	skill/S_2661.png	1	1	175	@MercenaryOpenLevelTxt
+2814	@Skill_Name_2814	1003	2	500	1	2814	@Skill_Desc_2814	skill/S_2672.png	1	1	175	@MercenaryOpenLevelTxt
+2815	@Skill_Name_2815	1003	0	500	1	2815	@Skill_Desc_2815	skill/S_2601.png	1	1	183	@MercenaryOpenLevelTxt
+2816	@Skill_Name_2816	1003	2	500	1	2816	@Skill_Desc_2816	skill/S_2662.png	1	1	183	@MercenaryOpenLevelTxt
+2817	@Skill_Name_2817	1003	0	500	1	2817	@Skill_Desc_2671	skill/S_2671.png	1	1	188	@MercenaryOpenLevelTxt
+2818	@Skill_Name_2818	1003	2	500	1	2818	@Skill_Desc_2672	skill/S_2672.png	1	1	188	@MercenaryOpenLevelTxt
+2819	@Skill_Name_2819	1003	0	600	1	2819	@Skill_Desc_3029	skill/S_2751.png	1	1	199	@MercenaryOpenLevelTxt
+2820	@Skill_Name_2820	1003	2	600	1	2820	@Skill_Desc_3030	skill/S_2392.png	1	1	199	@MercenaryOpenLevelTxt
+2821	@Skill_Name_2821	1001	0	500	1	2821	@Skill_Desc_2821	skill/S_2681.png	1	1	168	@MercenaryOpenLevelTxt
+2822	@Skill_Name_2822	1001	2	500	1	2822	@Skill_Desc_2822	skill/S_2682.png	1	1	168	@MercenaryOpenLevelTxt
+2823	@Skill_Name_2823	1001	0	500	1	2823	@Skill_Desc_2823	skill/S_2651.png	1	1	171	@MercenaryOpenLevelTxt
+2824	@Skill_Name_2824	1001	2	500	1	2824	@Skill_Desc_2824	skill/S_2472.png	1	1	171	@MercenaryOpenLevelTxt
+2825	@Skill_Name_2825	1001	0	500	1	2825	@Skill_Desc_3025	skill/S_2561.png	1	1	178	@MercenaryOpenLevelTxt
+2826	@Skill_Name_2826	1001	2	500	1	2826	@Skill_Desc_3026	skill/S_2612.png	1	1	178	@MercenaryOpenLevelTxt
+2827	@Skill_Name_2827	1001	0	400	1	2827	@Skill_Desc_3047	skill/S_2331.png	1	1	179	@MercenaryOpenLevelTxt
+2828	@Skill_Name_2828	1001	2	400	1	2828	@Skill_Desc_3048	skill/S_2572.png	1	1	179	@MercenaryOpenLevelTxt
+2829	@Skill_Name_2829	1001	0	400	1	2829	@Skill_Desc_3053	skill/S_2231.png	1	1	191	@MercenaryOpenLevelTxt
+2830	@Skill_Name_2830	1001	2	500	1	2830	@Skill_Desc_3054	skill/S_2682.png	1	1	191	@MercenaryOpenLevelTxt
+2831	@Skill_Name_2831	1002	0	500	1	2831	@Skill_Desc_2831	skill/S_2721.png	1	1	139	@MercenaryOpenLevelTxt
+2832	@Skill_Name_2832	1002	2	500	1	2832	@Skill_Desc_2722	skill/S_2722.png	1	1	139	@MercenaryOpenLevelTxt
+2833	@Skill_Name_2833	1002	0	500	1	2833	@Skill_Desc_3075	skill/S_2541.png	1	1	109	@MercenaryOpenLevelTxt
+2834	@Skill_Name_2834	1002	2	500	1	2834	@Skill_Desc_3076	skill/S_2542.png	1	1	109	@MercenaryOpenLevelTxt
+2835	@Skill_Name_2835	1001	0	500	1	2835	@Skill_Desc_2835	skill/S_2651.png	1	1	209	@MercenaryOpenLevelTxt
+2836	@Skill_Name_2836	1001	2	500	1	2836	@Skill_Desc_2836	skill/S_2332.png	1	1	209	@MercenaryOpenLevelTxt
+2837	@Skill_Name_2837	1001	0	500	1	2837	@Skill_Desc_2711	skill/S_2711.png	1	1	210	@MercenaryOpenLevelTxt
+2838	@Skill_Name_2838	1001	2	500	1	2838	@Skill_Desc_2652	skill/S_2652.png	1	1	210	@MercenaryOpenLevelTxt
+2839	@Skill_Name_2839	1002	0	500	1	2839	@Skill_Desc_2721	skill/S_2721.png	1	1	211	@MercenaryOpenLevelTxt
+2840	@Skill_Name_2840	1002	2	400	1	2840	@Skill_Desc_2282	skill/S_2282.png	1	1	211	@MercenaryOpenLevelTxt
+2841	@Skill_Name_2841	1002	0	400	1	2841	@Skill_Desc_2841	skill/S_2281.png	1	1	212	@MercenaryOpenLevelTxt
+2842	@Skill_Name_2842	1002	2	500	1	2842	@Skill_Desc_2842	skill/S_2692.png	1	1	212	@MercenaryOpenLevelTxt
+2843	@Skill_Name_2843	1003	0	500	1	2843	@Skill_Desc_2843	skill/S_2431.png	1	1	213	@MercenaryOpenLevelTxt
+2844	@Skill_Name_2844	1003	2	500	1	2844	@Skill_Desc_2844	skill/S_2432.png	1	1	213	@MercenaryOpenLevelTxt
+2845	@Skill_Name_2845	1001	0	500	1	2845	@Skill_Desc_3007	skill/S_2651.png	1	1	214	@MercenaryOpenLevelTxt
+2846	@Skill_Name_2846	1001	2	500	1	2846	@Skill_Desc_3008	skill/S_2612.png	1	1	214	@MercenaryOpenLevelTxt
+2847	@Skill_Name_2847	1003	0	500	1	2847	@Skill_Desc_3009	skill/S_2431.png	1	1	215	@MercenaryOpenLevelTxt
+2848	@Skill_Name_2848	1003	2	500	1	2848	@Skill_Desc_3010	skill/S_2432.png	1	1	215	@MercenaryOpenLevelTxt
+2849	@Skill_Name_2849	1002	0	500	1	2849	@Skill_Desc_3017	skill/S_2731.png	1	1	216	@MercenaryOpenLevelTxt
+2850	@Skill_Name_2850	1002	2	500	1	2850	@Skill_Desc_3018	skill/S_2722.png	1	1	216	@MercenaryOpenLevelTxt
+2851	@Skill_Name_2851	1001	0	400	1	2851	@Skill_Desc_2621	skill/S_2061.png	1	1	217	@MercenaryOpenLevelTxt
+2852	@Skill_Name_2852	1001	2	400	1	2852	@Skill_Desc_2622	skill/S_2062.png	1	1	217	@MercenaryOpenLevelTxt
+2853	@Skill_Name_2853	1001	0	500	1	2853	@Skill_Desc_3041	skill/S_2651.png	1	1	218	@MercenaryOpenLevelTxt
+2854	@Skill_Name_2854	1001	2	500	1	2854	@Skill_Desc_3042	skill/S_2612.png	1	1	218	@MercenaryOpenLevelTxt
+2855	@Skill_Name_2855	1002	0	500	1	2855	@Skill_Desc_3045	skill/S_2731.png	1	1	219	@MercenaryOpenLevelTxt
+2856	@Skill_Name_2856	1002	2	500	1	2856	@Skill_Desc_3046	skill/S_2722.png	1	1	219	@MercenaryOpenLevelTxt
+2857	@Skill_Name_2857	1003	0	500	1	2857	@Skill_Desc_3027	skill/S_2431.png	1	1	220	@MercenaryOpenLevelTxt
+2858	@Skill_Name_2858	1003	2	500	1	2858	@Skill_Desc_3028	skill/S_2432.png	1	1	220	@MercenaryOpenLevelTxt
+2859	@Skill_Name_2859	1003	0	500	1	2859	@Skill_Desc_3035	skill/S_2671.png	1	1	221	@MercenaryOpenLevelTxt
+2860	@Skill_Name_2860	1003	2	500	1	2860	@Skill_Desc_3036	skill/S_2672.png	1	1	221	@MercenaryOpenLevelTxt
+2861	@Skill_Name_2861	1001	0	400	1	2861	@Skill_Desc_2281	skill/S_2281.png	1	1	222	@MercenaryOpenLevelTxt
+2862	@Skill_Name_2862	1001	2	400	1	2862	@Skill_Desc_2692	skill/S_2692.png	1	1	222	@MercenaryOpenLevelTxt
+2863	@Skill_Name_2863	1001	0	400	1	2863	@Skill_Desc_2461	skill/S_2461.png	1	1	223	@MercenaryOpenLevelTxt
+2864	@Skill_Name_2864	1001	2	400	1	2864	@Skill_Desc_2462	skill/S_2462.png	1	1	223	@MercenaryOpenLevelTxt
+2865	@Skill_Name_2865	1003	0	500	1	2865	@Skill_Desc_2441	skill/S_2441.png	1	1	224	@MercenaryOpenLevelTxt
+2866	@Skill_Name_2866	1003	2	500	1	2866	@Skill_Desc_2442	skill/S_2442.png	1	1	224	@MercenaryOpenLevelTxt
+2867	@Skill_Name_2867	1001	0	400	1	2867	@Skill_Desc_2481	skill/S_2431.png	1	1	225	@MercenaryOpenLevelTxt
+2868	@Skill_Name_2868	1001	2	400	1	2868	@Skill_Desc_2482	skill/S_2432.png	1	1	225	@MercenaryOpenLevelTxt
+2869	@Skill_Name_2869	1001	0	400	1	2869	@Skill_Desc_2741	skill/S_2741.png	1	1	226	@MercenaryOpenLevelTxt
+2870	@Skill_Name_2870	1001	2	400	1	2870	@Skill_Desc_2742	skill/S_2742.png	1	1	226	@MercenaryOpenLevelTxt
+2871	@Skill_Name_2871	1002	0	400	1	2871	@Skill_Desc_2301	skill/S_2301.png	1	1	227	@MercenaryOpenLevelTxt
+2872	@Skill_Name_2872	1002	2	400	1	2872	@Skill_Desc_2302	skill/S_2302.png	1	1	227	@MercenaryOpenLevelTxt
+2873	@Skill_Name_2873	1002	0	500	1	2873	@Skill_Desc_3067	skill/S_2651.png	1	1	228	@MercenaryOpenLevelTxt
+2874	@Skill_Name_2874	1002	2	500	1	2874	@Skill_Desc_3068	skill/S_2612.png	1	1	228	@MercenaryOpenLevelTxt
+2875	@Skill_Name_2875	1003	0	500	1	2875	@Skill_Desc_3069	skill/S_2731.png	1	1	229	@MercenaryOpenLevelTxt
+2876	@Skill_Name_2876	1003	2	500	1	2876	@Skill_Desc_3070	skill/S_2722.png	1	1	229	@MercenaryOpenLevelTxt
+2877	@Skill_Name_2877	1003	0	500	1	2877	@Skill_Desc_3071	skill/S_2431.png	1	1	230	@MercenaryOpenLevelTxt
+2878	@Skill_Name_2878	1003	2	500	1	2878	@Skill_Desc_3072	skill/S_2432.png	1	1	230	@MercenaryOpenLevelTxt
+2879	@Skill_Name_2879	1001	0	500	1	2879	@Skill_Desc_3073	skill/S_2671.png	1	1	231	@MercenaryOpenLevelTxt
+2880	@Skill_Name_2880	1001	2	500	1	2880	@Skill_Desc_3074	skill/S_2672.png	1	1	231	@MercenaryOpenLevelTxt
+2881	@Skill_Name_2881	1001	0	400	1	2881	@Skill_Desc_2881	skill/S_2131.png	1	1	232	@MercenaryOpenLevelTxt
+2882	@Skill_Name_2882	1001	2	400	1	2882	@Skill_Desc_2882	skill/S_2132.png	1	1	232	@MercenaryOpenLevelTxt
+2883	@Skill_Name_2883	1003	0	500	1	2883	@Skill_Desc_2883	skill/S_2541.png	1	1	233	@MercenaryOpenLevelTxt
+2884	@Skill_Name_2884	1003	2	500	1	2884	@Skill_Desc_2884	skill/S_2542.png	1	1	233	@MercenaryOpenLevelTxt
+2885	@Skill_Name_2885	1003	0	500	1	2885	@Skill_Desc_2885	skill/S_2541.png	1	1	234	@MercenaryOpenLevelTxt
+2886	@Skill_Name_2886	1003	2	500	1	2886	@Skill_Desc_2886	skill/S_2542.png	1	1	234	@MercenaryOpenLevelTxt
+2887	@Skill_Name_2887	1003	0	500	1	2887	@Skill_Desc_2887	skill/S_2431.png	1	1	235	@MercenaryOpenLevelTxt
+2888	@Skill_Name_2888	1003	2	500	1	2888	@Skill_Desc_2888	skill/S_2432.png	1	1	235	@MercenaryOpenLevelTxt
+2889	@Skill_Name_2889	1001	0	500	1	2889	@Skill_Desc_2889	skill/S_2741.png	1	1	236	@MercenaryOpenLevelTxt
+2890	@Skill_Name_2890	1001	2	500	1	2890	@Skill_Desc_2890	skill/S_2742.png	1	1	236	@MercenaryOpenLevelTxt
+2891	@Skill_Name_2891	1002	0	400	1	2891	@Skill_Desc_2891	skill/S_2301.png	1	1	237	@MercenaryOpenLevelTxt
+2892	@Skill_Name_2892	1002	2	400	1	2892	@Skill_Desc_2892	skill/S_2302.png	1	1	237	@MercenaryOpenLevelTxt
+2893	@Skill_Name_2893	1003	0	500	1	2893	@Skill_Desc_2893	skill/S_2531.png	1	1	238	@MercenaryOpenLevelTxt
+2894	@Skill_Name_2894	1003	2	500	1	2894	@Skill_Desc_2894	skill/S_2582.png	1	1	238	@MercenaryOpenLevelTxt
+2895	@Skill_Name_2857	1003	0	500	1	2857	@Skill_Desc_3027	skill/S_2431.png	1	1	239	@MercenaryOpenLevelTxt
+2896	@Skill_Name_2858	1003	2	500	1	2858	@Skill_Desc_3028	skill/S_2432.png	1	1	239	@MercenaryOpenLevelTxt
+2897	@Skill_Name_2835	1001	0	500	1	2835	@Skill_Desc_2835	skill/S_2651.png	1	1	240	@MercenaryOpenLevelTxt
+2898	@Skill_Name_2836	1001	2	500	1	2836	@Skill_Desc_2836	skill/S_2332.png	1	1	240	@MercenaryOpenLevelTxt
+9999	@Skill_Name_2811	1003	0	400	1	2811	@Skill_Desc_3037	skill/S_2091.png	1	1	173	@MercenaryOpenLevelTxt
+9998	@Skill_Name_2793	1002	0	500	1	2793	@Skill_Desc_3049	skill/S_2721.png	1	1	145	@MercenaryOpenLevelTxt
+9997	@Skill_Name_2823	1001	0	500	1	2823	@Skill_Desc_2823	skill/S_2651.png	1	1	171	@MercenaryOpenLevelTxt
+9996	@Skill_Name_2822	1001	2	500	1	2822	@Skill_Desc_2822	skill/S_2682.png	1	1	168	@MercenaryOpenLevelTxt
+9995	@Skill_Name_2819	1003	0	600	1	2819	@Skill_Desc_3029	skill/S_2751.png	1	1	199	@MercenaryOpenLevelTxt
+9994	@Skill_Name_2864	1001	2	400	1	2864	@Skill_Desc_2462	skill/S_2462.png	1	1	223	@MercenaryOpenLevelTxt
+9993	@Skill_Name_2662	1003	2	500	1	2662	@Skill_Desc_3012	skill/S_2662.png	1	1	140	@MercenaryOpenLevelTxt

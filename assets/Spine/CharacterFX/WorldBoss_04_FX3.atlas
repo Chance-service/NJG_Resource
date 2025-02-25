@@ -1,0 +1,188 @@
+
+WorldBoss_04_FX3.png
+size: 682,682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/groundsplit_00
+  rotate: false
+  xy: 282, 262
+  size: 32, 18
+  orig: 210, 92
+  offset: 17, 10
+  index: -1
+atk/groundsplit_01
+  rotate: true
+  xy: 609, 507
+  size: 98, 42
+  orig: 210, 92
+  offset: 9, 4
+  index: -1
+atk/groundsplit_02
+  rotate: false
+  xy: 493, 176
+  size: 161, 83
+  orig: 210, 92
+  offset: 4, 3
+  index: -1
+atk/groundsplit_03
+  rotate: false
+  xy: 398, 522
+  size: 209, 83
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_04
+  rotate: false
+  xy: 71, 229
+  size: 209, 84
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_05
+  rotate: false
+  xy: 44, 142
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_06
+  rotate: false
+  xy: 387, 436
+  size: 209, 84
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_07
+  rotate: false
+  xy: 44, 54
+  size: 208, 86
+  orig: 210, 92
+  offset: 1, 0
+  index: -1
+atk/groundsplit_08
+  rotate: false
+  xy: 371, 348
+  size: 208, 86
+  orig: 210, 92
+  offset: 1, 1
+  index: -1
+atk/groundsplit_09
+  rotate: false
+  xy: 71, 403
+  size: 209, 87
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_10
+  rotate: false
+  xy: 371, 261
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_11
+  rotate: false
+  xy: 282, 174
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 1
+  index: -1
+atk/groundsplit_12
+  rotate: false
+  xy: 255, 87
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_13
+  rotate: false
+  xy: 71, 315
+  size: 209, 86
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_14
+  rotate: true
+  xy: 282, 282
+  size: 208, 87
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_15
+  rotate: true
+  xy: 598, 299
+  size: 206, 79
+  orig: 210, 92
+  offset: 0, 1
+  index: -1
+atk/groundsplit_16
+  rotate: false
+  xy: 466, 90
+  size: 206, 82
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_17
+  rotate: false
+  xy: 254, 2
+  size: 207, 83
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+flysmoke/flysmoke_08
+  rotate: false
+  xy: 44, 15
+  size: 99, 13
+  orig: 360, 88
+  offset: 118, 75
+  index: -1
+flysmoke/flysmoke_09
+  rotate: false
+  xy: 44, 30
+  size: 138, 22
+  orig: 360, 88
+  offset: 100, 66
+  index: -1
+flysmoke/flysmoke_10
+  rotate: true
+  xy: 2, 10
+  size: 250, 40
+  orig: 360, 88
+  offset: 45, 48
+  index: -1
+flysmoke/flysmoke_11
+  rotate: false
+  xy: 71, 492
+  size: 314, 48
+  orig: 360, 88
+  offset: 16, 40
+  index: -1
+flysmoke/flysmoke_12
+  rotate: false
+  xy: 71, 542
+  size: 325, 63
+  orig: 360, 88
+  offset: 9, 25
+  index: -1
+flysmoke/flysmoke_13
+  rotate: false
+  xy: 344, 607
+  size: 336, 73
+  orig: 360, 88
+  offset: 4, 14
+  index: -1
+flysmoke/flysmoke_14
+  rotate: false
+  xy: 2, 607
+  size: 340, 73
+  orig: 360, 88
+  offset: 2, 13
+  index: -1
+flysmoke/flysmoke_15
+  rotate: true
+  xy: 2, 262
+  size: 343, 67
+  orig: 360, 88
+  offset: 1, 12
+  index: -1

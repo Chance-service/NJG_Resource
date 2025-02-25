@@ -1,0 +1,41 @@
+
+NGSceneA_02a_18.png
+size: 919,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 606, 191
+  size: 153, 185
+  orig: 153, 185
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 163
+  size: 602, 754
+  orig: 602, 754
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 159, 244
+  orig: 159, 244
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 248, 13
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 606, 378
+  size: 539, 304
+  orig: 539, 304
+  offset: 0, 0
+  index: -1

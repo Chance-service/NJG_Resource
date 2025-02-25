@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold32"><p style="margin:10px">体力修行 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ● 修行效果适用于所有忍娘，仅消耗”魂灵露水”。 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ● 魂灵露水可以用于圣所中的体力修行，提升所有英雄的基础属性。</p></font>

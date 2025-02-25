@@ -1,0 +1,104 @@
+
+hit0304.png
+size: 541,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magehit_00
+  rotate: false
+  xy: 75, 60
+  size: 61, 60
+  orig: 170, 150
+  offset: 50, 46
+  index: -1
+magehit_01
+  rotate: false
+  xy: 75, 60
+  size: 61, 60
+  orig: 170, 150
+  offset: 50, 46
+  index: -1
+magehit_02
+  rotate: false
+  xy: 2, 59
+  size: 71, 61
+  orig: 170, 150
+  offset: 47, 46
+  index: -1
+magehit_03
+  rotate: false
+  xy: 172, 2
+  size: 156, 123
+  orig: 170, 150
+  offset: 8, 7
+  index: -1
+magehit_04
+  rotate: false
+  xy: 174, 127
+  size: 164, 135
+  orig: 170, 150
+  offset: 4, 4
+  index: -1
+magehit_05
+  rotate: false
+  xy: 2, 122
+  size: 168, 137
+  orig: 170, 150
+  offset: 2, 2
+  index: -1
+magehit_06
+  rotate: false
+  xy: 2, 401
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_07
+  rotate: false
+  xy: 2, 261
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_08
+  rotate: false
+  xy: 174, 401
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_09
+  rotate: false
+  xy: 174, 264
+  size: 170, 135
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_10
+  rotate: false
+  xy: 346, 405
+  size: 170, 134
+  orig: 170, 150
+  offset: 0, 2
+  index: -1
+magehit_11
+  rotate: false
+  xy: 346, 272
+  size: 169, 131
+  orig: 170, 150
+  offset: 1, 3
+  index: -1
+magehit_12
+  rotate: false
+  xy: 346, 142
+  size: 165, 128
+  orig: 170, 150
+  offset: 4, 5
+  index: -1
+magehit_13
+  rotate: false
+  xy: 340, 14
+  size: 161, 126
+  orig: 170, 150
+  offset: 6, 6
+  index: -1

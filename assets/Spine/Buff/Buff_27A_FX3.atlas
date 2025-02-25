@@ -1,0 +1,111 @@
+
+Buff_27A_FX3.png
+size: 594,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1107
+  rotate: false
+  xy: 526, 23
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+FX27/dihuoa_0000
+  rotate: true
+  xy: 478, 93
+  size: 177, 101
+  orig: 326, 326
+  offset: 73, 124
+  index: -1
+FX27/dihuoa_0002
+  rotate: true
+  xy: 127, 31
+  size: 192, 116
+  orig: 326, 326
+  offset: 70, 109
+  index: -1
+FX27/dihuoa_0004
+  rotate: true
+  xy: 370, 272
+  size: 188, 113
+  orig: 326, 326
+  offset: 66, 109
+  index: -1
+FX27/dihuoa_0006
+  rotate: true
+  xy: 0, 31
+  size: 192, 125
+  orig: 326, 326
+  offset: 67, 109
+  index: -1
+FX27/dihuoa_0008
+  rotate: true
+  xy: 0, 225
+  size: 193, 132
+  orig: 326, 326
+  offset: 69, 109
+  index: -1
+FX27/dihuoa_0010
+  rotate: false
+  xy: 189, 462
+  size: 189, 132
+  orig: 326, 326
+  offset: 67, 109
+  index: -1
+FX27/dihuoa_0012
+  rotate: false
+  xy: 380, 466
+  size: 189, 128
+  orig: 326, 326
+  offset: 66, 109
+  index: -1
+FX27/dihuoa_0014
+  rotate: true
+  xy: 248, 273
+  size: 187, 120
+  orig: 326, 326
+  offset: 66, 109
+  index: -1
+FX27/dihuoa_0016
+  rotate: true
+  xy: 245, 39
+  size: 184, 111
+  orig: 326, 326
+  offset: 69, 109
+  index: -1
+FX27/dihuoa_0018
+  rotate: true
+  xy: 134, 225
+  size: 193, 112
+  orig: 326, 326
+  offset: 67, 109
+  index: -1
+FX27/dihuoa_0020
+  rotate: true
+  xy: 485, 279
+  size: 185, 105
+  orig: 326, 326
+  offset: 70, 110
+  index: -1
+FX27/dihuoa_0022
+  rotate: true
+  xy: 358, 91
+  size: 179, 118
+  orig: 326, 326
+  offset: 70, 111
+  index: -1
+FX27/dihuoa_0024
+  rotate: false
+  xy: 358, 7
+  size: 166, 82
+  orig: 326, 326
+  offset: 77, 141
+  index: -1
+FX27/img_001
+  rotate: false
+  xy: 0, 420
+  size: 187, 174
+  orig: 326, 326
+  offset: 69, 76
+  index: -1

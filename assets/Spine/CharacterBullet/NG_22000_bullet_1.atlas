@@ -1,0 +1,167 @@
+
+NG_22000_bullet_1.png
+size: 306,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+skill_1/billi_F/billi_73
+  rotate: true
+  xy: 122, 38
+  size: 32, 65
+  orig: 70, 132
+  offset: 20, 49
+  index: -1
+skill_1/billi_F/billi_74
+  rotate: false
+  xy: 247, 113
+  size: 32, 80
+  orig: 70, 132
+  offset: 20, 49
+  index: -1
+skill_1/billi_F/billi_75
+  rotate: false
+  xy: 48, 58
+  size: 32, 121
+  orig: 70, 132
+  offset: 16, 10
+  index: -1
+skill_1/billi_F/billi_76
+  rotate: false
+  xy: 82, 60
+  size: 38, 121
+  orig: 70, 132
+  offset: 16, 9
+  index: -1
+skill_1/billi_F/billi_77
+  rotate: false
+  xy: 2, 57
+  size: 44, 122
+  orig: 70, 132
+  offset: 17, 6
+  index: -1
+skill_1/billi_F/billi_78
+  rotate: false
+  xy: 52, 183
+  size: 49, 121
+  orig: 70, 132
+  offset: 10, 7
+  index: -1
+skill_1/billi_F/billi_79
+  rotate: false
+  xy: 103, 183
+  size: 49, 121
+  orig: 70, 132
+  offset: 10, 7
+  index: -1
+skill_1/billi_F/billi_80
+  rotate: false
+  xy: 2, 181
+  size: 48, 123
+  orig: 70, 132
+  offset: 11, 4
+  index: -1
+skill_1/billi_F/billi_81
+  rotate: false
+  xy: 154, 188
+  size: 48, 116
+  orig: 70, 132
+  offset: 14, 8
+  index: -1
+skill_1/billi_F/billi_82
+  rotate: false
+  xy: 204, 195
+  size: 46, 109
+  orig: 70, 132
+  offset: 16, 13
+  index: -1
+skill_1/billi_F/billi_83
+  rotate: false
+  xy: 252, 195
+  size: 45, 109
+  orig: 70, 132
+  offset: 17, 8
+  index: -1
+skill_1/billi_F/billi_84
+  rotate: false
+  xy: 122, 72
+  size: 45, 109
+  orig: 70, 132
+  offset: 17, 8
+  index: -1
+skill_1/billi_F/billi_85
+  rotate: false
+  xy: 169, 81
+  size: 45, 105
+  orig: 70, 132
+  offset: 17, 8
+  index: -1
+skill_1/billi_F/billi_86
+  rotate: false
+  xy: 216, 88
+  size: 29, 105
+  orig: 70, 132
+  offset: 22, 9
+  index: -1
+skill_1/billi_F/billi_87
+  rotate: true
+  xy: 281, 159
+  size: 34, 23
+  orig: 70, 132
+  offset: 18, 15
+  index: -1
+skill_1/billi_F/billi_88
+  rotate: false
+  xy: 221, 25
+  size: 26, 24
+  orig: 70, 132
+  offset: 24, 11
+  index: -1
+skill_1/billi_F/billi_89
+  rotate: false
+  xy: 249, 29
+  size: 24, 26
+  orig: 70, 132
+  offset: 25, 15
+  index: -1
+skill_1/billi_F/billi_90
+  rotate: false
+  xy: 247, 84
+  size: 34, 27
+  orig: 70, 132
+  offset: 18, 16
+  index: -1
+skill_1/billi_F/billi_91
+  rotate: true
+  xy: 189, 43
+  size: 36, 30
+  orig: 70, 132
+  offset: 18, 16
+  index: -1
+skill_1/billi_F/billi_93
+  rotate: true
+  xy: 221, 51
+  size: 35, 24
+  orig: 70, 132
+  offset: 18, 24
+  index: -1
+skill_1/billi_F/billi_94
+  rotate: true
+  xy: 221, 51
+  size: 35, 24
+  orig: 70, 132
+  offset: 18, 24
+  index: -1
+skill_1/billi_F/billi_96
+  rotate: false
+  xy: 247, 57
+  size: 34, 25
+  orig: 70, 132
+  offset: 18, 24
+  index: -1

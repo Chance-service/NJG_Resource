@@ -1,0 +1,293 @@
+
+NG_22000_FX2.png
+size: 483,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B smoke/b smoke_54
+  rotate: false
+  xy: 381, 36
+  size: 42, 47
+  orig: 113, 70
+  offset: 66, 8
+  index: -1
+B smoke/b smoke_55
+  rotate: true
+  xy: 331, 37
+  size: 46, 48
+  orig: 113, 70
+  offset: 61, 8
+  index: -1
+B smoke/b smoke_56
+  rotate: false
+  xy: 109, 2
+  size: 72, 50
+  orig: 113, 70
+  offset: 35, 7
+  index: -1
+B smoke/b smoke_57
+  rotate: false
+  xy: 329, 207
+  size: 75, 57
+  orig: 113, 70
+  offset: 32, 0
+  index: -1
+B smoke/b smoke_58
+  rotate: true
+  xy: 276, 111
+  size: 77, 60
+  orig: 113, 70
+  offset: 29, 0
+  index: -1
+B smoke/b smoke_59
+  rotate: true
+  xy: 214, 88
+  size: 79, 60
+  orig: 113, 70
+  offset: 24, 0
+  index: -1
+B smoke/b smoke_60
+  rotate: true
+  xy: 275, 190
+  size: 79, 52
+  orig: 113, 70
+  offset: 21, 9
+  index: -1
+B smoke/b smoke_61
+  rotate: true
+  xy: 276, 48
+  size: 61, 53
+  orig: 113, 70
+  offset: 18, 8
+  index: -1
+B smoke/b smoke_62
+  rotate: false
+  xy: 408, 86
+  size: 64, 56
+  orig: 113, 70
+  offset: 14, 7
+  index: -1
+B smoke/b smoke_63
+  rotate: false
+  xy: 406, 207
+  size: 67, 57
+  orig: 113, 70
+  offset: 11, 6
+  index: -1
+B smoke/b smoke_64
+  rotate: false
+  xy: 338, 85
+  size: 68, 58
+  orig: 113, 70
+  offset: 9, 6
+  index: -1
+B smoke/b smoke_65
+  rotate: false
+  xy: 338, 145
+  size: 69, 60
+  orig: 113, 70
+  offset: 7, 5
+  index: -1
+B smoke/b smoke_66
+  rotate: false
+  xy: 409, 144
+  size: 66, 61
+  orig: 113, 70
+  offset: 6, 4
+  index: -1
+skill_1/flow_B/flow_B_33
+  rotate: false
+  xy: 330, 286
+  size: 45, 89
+  orig: 70, 123
+  offset: 14, 12
+  index: -1
+skill_1/flow_B/flow_B_34
+  rotate: true
+  xy: 377, 266
+  size: 52, 92
+  orig: 70, 123
+  offset: 9, 9
+  index: -1
+skill_1/flow_B/flow_B_35
+  rotate: true
+  xy: 377, 320
+  size: 52, 94
+  orig: 70, 123
+  offset: 9, 10
+  index: -1
+skill_1/flow_B/flow_B_36
+  rotate: true
+  xy: 381, 374
+  size: 52, 100
+  orig: 70, 123
+  offset: 9, 9
+  index: -1
+skill_1/flow_B/flow_B_37
+  rotate: false
+  xy: 112, 166
+  size: 52, 102
+  orig: 70, 123
+  offset: 9, 9
+  index: -1
+skill_1/flow_B/flow_B_38
+  rotate: false
+  xy: 112, 62
+  size: 51, 102
+  orig: 70, 123
+  offset: 9, 8
+  index: -1
+skill_1/flow_B/flow_B_39
+  rotate: false
+  xy: 223, 271
+  size: 51, 102
+  orig: 70, 123
+  offset: 8, 9
+  index: -1
+skill_1/flow_B/flow_B_40
+  rotate: true
+  xy: 276, 377
+  size: 51, 103
+  orig: 70, 123
+  offset: 8, 8
+  index: -1
+skill_1/flow_B/flow_B_41
+  rotate: false
+  xy: 2, 375
+  size: 54, 106
+  orig: 70, 123
+  offset: 7, 8
+  index: -1
+skill_1/flow_B/flow_B_42
+  rotate: false
+  xy: 58, 160
+  size: 52, 105
+  orig: 70, 123
+  offset: 9, 8
+  index: -1
+skill_1/flow_B/flow_B_43
+  rotate: false
+  xy: 58, 267
+  size: 52, 106
+  orig: 70, 123
+  offset: 9, 7
+  index: -1
+skill_1/flow_B/flow_B_44
+  rotate: true
+  xy: 276, 430
+  size: 51, 105
+  orig: 70, 123
+  offset: 10, 8
+  index: -1
+skill_1/flow_B/flow_B_45
+  rotate: true
+  xy: 2, 2
+  size: 50, 105
+  orig: 70, 123
+  offset: 11, 8
+  index: -1
+skill_1/flow_B/flow_B_46
+  rotate: false
+  xy: 113, 377
+  size: 54, 104
+  orig: 70, 123
+  offset: 10, 8
+  index: -1
+skill_1/flow_B/flow_B_47
+  rotate: false
+  xy: 2, 54
+  size: 54, 104
+  orig: 70, 123
+  offset: 10, 9
+  index: -1
+skill_1/flow_B/flow_B_48
+  rotate: false
+  xy: 2, 267
+  size: 54, 106
+  orig: 70, 123
+  offset: 10, 7
+  index: -1
+skill_1/flow_B/flow_B_49
+  rotate: true
+  xy: 169, 428
+  size: 53, 105
+  orig: 70, 123
+  offset: 10, 8
+  index: -1
+skill_1/flow_B/flow_B_50
+  rotate: false
+  xy: 276, 274
+  size: 52, 101
+  orig: 70, 123
+  offset: 10, 8
+  index: -1
+skill_1/flow_B/flow_B_51
+  rotate: true
+  xy: 383, 428
+  size: 53, 97
+  orig: 70, 123
+  offset: 9, 7
+  index: -1
+skill_1/flow_B/flow_B_52
+  rotate: false
+  xy: 58, 375
+  size: 53, 106
+  orig: 70, 123
+  offset: 9, 7
+  index: -1
+skill_1/flow_B/flow_B_53
+  rotate: false
+  xy: 58, 54
+  size: 52, 104
+  orig: 70, 123
+  offset: 9, 8
+  index: -1
+skill_1/flow_B/flow_B_54
+  rotate: false
+  xy: 2, 160
+  size: 54, 105
+  orig: 70, 123
+  offset: 7, 8
+  index: -1
+skill_1/flow_B/flow_B_55
+  rotate: true
+  xy: 169, 375
+  size: 51, 104
+  orig: 70, 123
+  offset: 9, 8
+  index: -1
+skill_1/flow_B/flow_B_56
+  rotate: false
+  xy: 112, 270
+  size: 52, 103
+  orig: 70, 123
+  offset: 8, 8
+  index: -1
+skill_1/flow_B/flow_B_57
+  rotate: false
+  xy: 166, 272
+  size: 55, 101
+  orig: 70, 123
+  offset: 8, 10
+  index: -1
+skill_1/flow_B/flow_B_58
+  rotate: false
+  xy: 166, 169
+  size: 53, 101
+  orig: 70, 123
+  offset: 8, 10
+  index: -1
+skill_1/flow_B/flow_B_59
+  rotate: false
+  xy: 221, 170
+  size: 52, 99
+  orig: 70, 123
+  offset: 9, 10
+  index: -1
+skill_1/flow_B/flow_B_60
+  rotate: false
+  xy: 165, 77
+  size: 47, 87
+  orig: 70, 123
+  offset: 10, 10
+  index: -1

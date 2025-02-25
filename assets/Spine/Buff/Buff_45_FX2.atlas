@@ -1,0 +1,111 @@
+
+Buff_45_FX2.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B/B01_B_00
+  rotate: false
+  xy: 2, 170
+  size: 94, 49
+  orig: 104, 56
+  offset: 6, 7
+  index: -1
+B/B01_B_01
+  rotate: false
+  xy: 2, 221
+  size: 95, 49
+  orig: 104, 56
+  offset: 4, 7
+  index: -1
+B/B01_B_02
+  rotate: false
+  xy: 99, 221
+  size: 93, 49
+  orig: 104, 56
+  offset: 4, 7
+  index: -1
+B/B01_B_03
+  rotate: false
+  xy: 2, 68
+  size: 90, 49
+  orig: 104, 56
+  offset: 4, 7
+  index: -1
+B/B01_B_04
+  rotate: false
+  xy: 2, 18
+  size: 87, 48
+  orig: 104, 56
+  offset: 4, 8
+  index: -1
+B/B01_B_05
+  rotate: false
+  xy: 94, 19
+  size: 83, 48
+  orig: 104, 56
+  offset: 5, 8
+  index: -1
+B/B01_B_06
+  rotate: false
+  xy: 194, 172
+  size: 71, 48
+  orig: 104, 56
+  offset: 12, 8
+  index: -1
+B/B01_B_07
+  rotate: false
+  xy: 180, 69
+  size: 44, 48
+  orig: 104, 56
+  offset: 35, 8
+  index: -1
+B/B01_B_08
+  rotate: false
+  xy: 179, 19
+  size: 44, 48
+  orig: 104, 56
+  offset: 30, 8
+  index: -1
+B/B01_B_09
+  rotate: false
+  xy: 186, 120
+  size: 44, 48
+  orig: 104, 56
+  offset: 25, 8
+  index: -1
+B/B01_B_10
+  rotate: false
+  xy: 194, 222
+  size: 76, 48
+  orig: 104, 56
+  offset: 20, 8
+  index: -1
+B/B01_B_11
+  rotate: false
+  xy: 94, 69
+  size: 84, 48
+  orig: 104, 56
+  offset: 16, 8
+  index: -1
+B/B01_B_12
+  rotate: false
+  xy: 97, 119
+  size: 87, 49
+  orig: 104, 56
+  offset: 13, 7
+  index: -1
+B/B01_B_13
+  rotate: false
+  xy: 98, 170
+  size: 91, 49
+  orig: 104, 56
+  offset: 10, 7
+  index: -1
+B/B01_B_14
+  rotate: false
+  xy: 2, 119
+  size: 93, 49
+  orig: 104, 56
+  offset: 7, 7
+  index: -1

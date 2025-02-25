@@ -1,0 +1,4 @@
+被动ID	职业	被动名称	基本描述	下脚注	图标	基本数值1	成长数值1	基本数值2	成长数值2	首页下脚注
+3001	1	@SkillPassive3001_Name	@SkillPassive3001_Des	@SkillPassive3001_Note	skill/S_P_1.png	0.08	0.02	2.4	0.6	@skillPassivePageNote
+3002	2	@SkillPassive3002_Name	@SkillPassive3002_Des	@SkillPassive3002_Note	skill/S_P_2.png	1.16	0.04	5	1.25	@skillPassivePageNote
+3003	3	@SkillPassive3003_Name	@SkillPassive3003_Des	@SkillPassive3003_Note	skill/S_P_3.png	20	1	0	0	@skillPassivePageNote

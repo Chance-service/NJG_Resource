@@ -1,0 +1,160 @@
+
+NGUI_62_SpiritSumTra.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX01_00000
+  rotate: false
+  xy: 2, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00001
+  rotate: false
+  xy: 2, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00002
+  rotate: false
+  xy: 604, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00003
+  rotate: false
+  xy: 2, 964
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00004
+  rotate: false
+  xy: 604, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00005
+  rotate: false
+  xy: 1206, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00006
+  rotate: false
+  xy: 2, 2
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00007
+  rotate: false
+  xy: 604, 964
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00008
+  rotate: false
+  xy: 1206, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00009
+  rotate: false
+  xy: 1808, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00010
+  rotate: false
+  xy: 604, 2
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00011
+  rotate: false
+  xy: 1206, 964
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00012
+  rotate: false
+  xy: 1808, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00013
+  rotate: false
+  xy: 2410, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00014
+  rotate: false
+  xy: 1206, 2
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00015
+  rotate: false
+  xy: 1808, 964
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00016
+  rotate: false
+  xy: 2410, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00017
+  rotate: false
+  xy: 3012, 2888
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00018
+  rotate: false
+  xy: 1808, 2
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00019
+  rotate: false
+  xy: 2410, 964
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00020
+  rotate: false
+  xy: 3012, 1926
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1
+images/FX01_00021
+  rotate: false
+  xy: 2410, 2
+  size: 600, 960
+  orig: 600, 960
+  offset: 0, 0
+  index: -1

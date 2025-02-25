@@ -1,0 +1,327 @@
+
+NG_503_FX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flysmoke/flysmoke_08
+  rotate: true
+  xy: 873, 583
+  size: 87, 12
+  orig: 315, 77
+  offset: 103, 65
+  index: -1
+flysmoke/flysmoke_09
+  rotate: true
+  xy: 998, 900
+  size: 122, 19
+  orig: 315, 77
+  offset: 87, 58
+  index: -1
+flysmoke/flysmoke_10
+  rotate: true
+  xy: 961, 803
+  size: 219, 35
+  orig: 315, 77
+  offset: 39, 42
+  index: -1
+flysmoke/flysmoke_11
+  rotate: false
+  xy: 354, 542
+  size: 275, 42
+  orig: 315, 77
+  offset: 14, 35
+  index: -1
+flysmoke/flysmoke_12
+  rotate: false
+  xy: 2, 334
+  size: 284, 55
+  orig: 315, 77
+  offset: 8, 22
+  index: -1
+flysmoke/flysmoke_13
+  rotate: true
+  xy: 895, 729
+  size: 293, 64
+  orig: 315, 77
+  offset: 4, 12
+  index: -1
+flysmoke/flysmoke_14
+  rotate: false
+  xy: 2, 391
+  size: 297, 64
+  orig: 315, 77
+  offset: 2, 11
+  index: -1
+flysmoke/flysmoke_15
+  rotate: false
+  xy: 354, 586
+  size: 300, 58
+  orig: 315, 77
+  offset: 1, 11
+  index: -1
+skill_0/Ring-3D
+  rotate: false
+  xy: 680, 8
+  size: 86, 38
+  orig: 98, 47
+  offset: 7, 4
+  index: -1
+skill_0/bottom magna/magna_26
+  rotate: true
+  xy: 2, 5
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_27
+  rotate: true
+  xy: 169, 6
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_28
+  rotate: false
+  xy: 522, 375
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_29
+  rotate: false
+  xy: 496, 48
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_30
+  rotate: true
+  xy: 650, 215
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_31
+  rotate: false
+  xy: 656, 48
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_32
+  rotate: true
+  xy: 706, 512
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_33
+  rotate: false
+  xy: 162, 166
+  size: 158, 166
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_34
+  rotate: true
+  xy: 354, 382
+  size: 158, 166
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_35
+  rotate: false
+  xy: 322, 214
+  size: 158, 166
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_36
+  rotate: false
+  xy: 2, 165
+  size: 158, 167
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_37
+  rotate: true
+  xy: 482, 215
+  size: 158, 166
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_38
+  rotate: false
+  xy: 336, 46
+  size: 158, 166
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_39
+  rotate: false
+  xy: 816, 48
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_40
+  rotate: false
+  xy: 817, 345
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/ground/ground_12
+  rotate: false
+  xy: 2, 835
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/ground/ground_13
+  rotate: false
+  xy: 2, 646
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/ground/ground_14
+  rotate: false
+  xy: 354, 835
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/ground/ground_15
+  rotate: false
+  xy: 2, 457
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/ground/ground_16
+  rotate: false
+  xy: 354, 646
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/ground/ground_17
+  rotate: true
+  xy: 706, 672
+  size: 350, 187
+  orig: 350, 193
+  offset: 0, 3
+  index: -1
+skill_0/smoke/smoke_38
+  rotate: true
+  xy: 682, 375
+  size: 47, 28
+  orig: 105, 70
+  offset: 3, 42
+  index: -1
+skill_0/smoke/smoke_39
+  rotate: true
+  xy: 288, 334
+  size: 55, 32
+  orig: 105, 70
+  offset: 1, 38
+  index: -1
+skill_0/smoke/smoke_40
+  rotate: true
+  xy: 301, 391
+  size: 64, 35
+  orig: 105, 70
+  offset: 1, 33
+  index: -1
+skill_0/smoke/smoke_41
+  rotate: false
+  xy: 682, 424
+  size: 74, 39
+  orig: 105, 70
+  offset: 1, 27
+  index: -1
+skill_0/smoke/smoke_42
+  rotate: false
+  xy: 852, 6
+  size: 77, 40
+  orig: 105, 70
+  offset: 1, 24
+  index: -1
+skill_0/smoke/smoke_43
+  rotate: false
+  xy: 895, 682
+  size: 84, 45
+  orig: 105, 70
+  offset: 0, 19
+  index: -1
+skill_0/smoke/smoke_44
+  rotate: false
+  xy: 682, 465
+  size: 87, 45
+  orig: 105, 70
+  offset: 0, 17
+  index: -1
+skill_0/smoke/smoke_45
+  rotate: false
+  xy: 496, 2
+  size: 89, 44
+  orig: 105, 70
+  offset: 0, 16
+  index: -1
+skill_0/smoke/smoke_46
+  rotate: false
+  xy: 336, 6
+  size: 91, 38
+  orig: 105, 70
+  offset: 1, 16
+  index: -1
+skill_0/smoke/smoke_47
+  rotate: false
+  xy: 587, 9
+  size: 91, 37
+  orig: 105, 70
+  offset: 3, 15
+  index: -1
+skill_0/smoke/smoke_48
+  rotate: false
+  xy: 768, 11
+  size: 82, 35
+  orig: 105, 70
+  offset: 13, 14
+  index: -1
+
+NG_503_FX32.png
+size: 336,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bottom magna/magna_41
+  rotate: false
+  xy: 2, 169
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_42
+  rotate: false
+  xy: 2, 2
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_43
+  rotate: false
+  xy: 162, 169
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+skill_0/bottom magna/magna_44
+  rotate: false
+  xy: 162, 2
+  size: 158, 165
+  orig: 158, 170
+  offset: 0, 0
+  index: -1

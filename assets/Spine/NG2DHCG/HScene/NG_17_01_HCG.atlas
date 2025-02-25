@@ -1,0 +1,285 @@
+
+NG_17_01_HCG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boob2
+  rotate: true
+  xy: 1413, 599
+  size: 743, 554
+  orig: 743, 554
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 1943, 348
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Eye_L2
+  rotate: false
+  xy: 90, 18
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 2, 15
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Eye_R2
+  rotate: false
+  xy: 1935, 1404
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+Eye_R4
+  rotate: false
+  xy: 2, 6
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Eyebrow_L
+  rotate: false
+  xy: 153, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Eyebrow_R
+  rotate: false
+  xy: 1413, 73
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Man
+  rotate: true
+  xy: 1935, 1445
+  size: 601, 108
+  orig: 601, 108
+  offset: 0, 0
+  index: -1
+Man_leg_R
+  rotate: false
+  xy: 1413, 83
+  size: 528, 514
+  orig: 528, 514
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1943, 296
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1943, 321
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1978, 1358
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2011, 380
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1935, 1344
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 702
+  size: 1409, 640
+  orig: 1409, 640
+  offset: 0, 0
+  index: -1
+legV2
+  rotate: false
+  xy: 2, 60
+  size: 1409, 640
+  orig: 1409, 640
+  offset: 0, 0
+  index: -1
+man2
+  rotate: false
+  xy: 2, 1344
+  size: 1931, 702
+  orig: 1931, 702
+  offset: 0, 0
+  index: -1
+penis2
+  rotate: false
+  xy: 1943, 407
+  size: 101, 190
+  orig: 101, 190
+  offset: 0, 0
+  index: -1
+
+NG_17_01_HCG2.png
+size: 2019,2019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 1504, 81
+  size: 828, 203
+  orig: 828, 203
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 599, 61
+  size: 437, 196
+  orig: 437, 196
+  offset: 0, 0
+  index: -1
+Arm_L2
+  rotate: true
+  xy: 1709, 548
+  size: 361, 302
+  orig: 361, 302
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1066, 109
+  size: 235, 225
+  orig: 235, 225
+  offset: 0, 0
+  index: -1
+Boob
+  rotate: false
+  xy: 1413, 1455
+  size: 446, 562
+  orig: 446, 562
+  offset: 0, 0
+  index: -1
+Boob2V2
+  rotate: true
+  xy: 2, 2
+  size: 325, 327
+  orig: 325, 327
+  offset: 0, 0
+  index: -1
+Boob3
+  rotate: true
+  xy: 1861, 1465
+  size: 277, 129
+  orig: 277, 129
+  offset: 0, 0
+  index: -1
+BoobV2
+  rotate: false
+  xy: 1041, 813
+  size: 446, 562
+  orig: 446, 562
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 331, 18
+  size: 266, 309
+  orig: 266, 309
+  offset: 0, 0
+  index: -1
+FaceV2
+  rotate: false
+  xy: 1709, 237
+  size: 266, 309
+  orig: 266, 309
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: false
+  xy: 687, 259
+  size: 377, 443
+  orig: 377, 443
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 2, 704
+  size: 1037, 671
+  orig: 1037, 671
+  offset: 0, 0
+  index: -1
+Man_leg_L
+  rotate: false
+  xy: 2, 329
+  size: 683, 373
+  orig: 683, 373
+  offset: 0, 0
+  index: -1
+bg01
+  rotate: true
+  xy: 1489, 911
+  size: 542, 312
+  orig: 542, 312
+  offset: 0, 0
+  index: -1
+bg05
+  rotate: false
+  xy: 1303, 123
+  size: 140, 211
+  orig: 140, 211
+  offset: 0, 0
+  index: -1
+cos_1
+  rotate: false
+  xy: 1709, 83
+  size: 246, 152
+  orig: 246, 152
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1066, 336
+  size: 475, 436
+  orig: 475, 436
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 2, 1377
+  size: 1409, 640
+  orig: 1409, 640
+  offset: 0, 0
+  index: -1
+penis
+  rotate: false
+  xy: 1861, 1744
+  size: 140, 273
+  orig: 140, 273
+  offset: 0, 0
+  index: -1
+pussy
+  rotate: false
+  xy: 1803, 1259
+  size: 155, 194
+  orig: 155, 194
+  offset: 0, 0
+  index: -1

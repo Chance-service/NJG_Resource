@@ -1,0 +1,174 @@
+
+NGSceneB_01a_01.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 371, 214
+  size: 166, 33
+  orig: 166, 33
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 2, 2
+  size: 274, 32
+  orig: 274, 32
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 314, 178
+  size: 243, 34
+  orig: 243, 34
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 281, 36
+  size: 246, 33
+  orig: 246, 33
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 2, 176
+  size: 310, 36
+  orig: 310, 36
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 278, 2
+  size: 204, 32
+  orig: 204, 32
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 2, 106
+  size: 288, 33
+  orig: 288, 33
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 285, 71
+  size: 267, 33
+  orig: 267, 33
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 312, 141
+  size: 200, 33
+  orig: 200, 33
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 2, 214
+  size: 367, 33
+  orig: 367, 33
+  offset: 0, 0
+  index: -1
+b12
+  rotate: false
+  xy: 2, 452
+  size: 456, 33
+  orig: 456, 33
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 2, 487
+  size: 496, 33
+  orig: 496, 33
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 2, 417
+  size: 453, 33
+  orig: 453, 33
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 2, 36
+  size: 277, 33
+  orig: 277, 33
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 2, 249
+  size: 374, 27
+  orig: 374, 27
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 2, 313
+  size: 423, 33
+  orig: 423, 33
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 2, 383
+  size: 439, 32
+  orig: 439, 32
+  offset: 0, 0
+  index: -1
+c11
+  rotate: false
+  xy: 2, 348
+  size: 438, 33
+  orig: 438, 33
+  offset: 0, 0
+  index: -1
+c12
+  rotate: false
+  xy: 2, 141
+  size: 308, 33
+  orig: 308, 33
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 71
+  size: 281, 33
+  orig: 281, 33
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2, 557
+  size: 584, 33
+  orig: 584, 33
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 292, 106
+  size: 226, 33
+  orig: 226, 33
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 2, 522
+  size: 571, 33
+  orig: 571, 33
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 2, 278
+  size: 388, 33
+  orig: 388, 33
+  offset: 0, 0
+  index: -1

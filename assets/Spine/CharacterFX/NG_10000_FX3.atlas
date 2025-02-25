@@ -1,0 +1,623 @@
+
+NG_10000_FX3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00058
+  rotate: true
+  xy: 478, 59
+  size: 35, 22
+  orig: 185, 149
+  offset: 72, 60
+  index: -1
+dilie/1_00059
+  rotate: true
+  xy: 478, 96
+  size: 46, 29
+  orig: 185, 149
+  offset: 66, 55
+  index: -1
+skill_0_bo/01_00004
+  rotate: false
+  xy: 252, 17
+  size: 224, 115
+  orig: 243, 128
+  offset: 9, 0
+  index: -1
+skill_0_dilie/01_00002
+  rotate: false
+  xy: 2, 323
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00003
+  rotate: false
+  xy: 2, 134
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00004
+  rotate: false
+  xy: 213, 323
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00005
+  rotate: false
+  xy: 213, 134
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_1_dilie/01_00043
+  rotate: true
+  xy: 424, 328
+  size: 182, 86
+  orig: 215, 123
+  offset: 17, 13
+  index: -1
+skill_1_dilie/01_00049
+  rotate: true
+  xy: 424, 144
+  size: 182, 85
+  orig: 215, 123
+  offset: 17, 15
+  index: -1
+skill_1_dilie/01_00050
+  rotate: true
+  xy: 424, 144
+  size: 182, 85
+  orig: 215, 123
+  offset: 17, 15
+  index: -1
+skill_1_diyanwu/01_00013
+  rotate: false
+  xy: 2, 17
+  size: 248, 115
+  orig: 268, 188
+  offset: 8, 27
+  index: -1
+skill_1_diyanwu/01_00020
+  rotate: true
+  xy: 2, 2
+  size: 13, 79
+  orig: 268, 188
+  offset: 15, 35
+  index: -1
+
+NG_10000_FX32.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00061
+  rotate: true
+  xy: 191, 303
+  size: 91, 51
+  orig: 185, 149
+  offset: 46, 41
+  index: -1
+dilie/1_00063
+  rotate: true
+  xy: 441, 302
+  size: 99, 57
+  orig: 185, 149
+  offset: 42, 36
+  index: -1
+dilie/1_00064
+  rotate: true
+  xy: 441, 403
+  size: 107, 63
+  orig: 185, 149
+  offset: 36, 31
+  index: -1
+dilie/1_00065
+  rotate: true
+  xy: 440, 13
+  size: 112, 68
+  orig: 185, 149
+  offset: 31, 27
+  index: -1
+skill_0_dilie/01_00006
+  rotate: true
+  xy: 252, 301
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00007
+  rotate: true
+  xy: 2, 185
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00012
+  rotate: false
+  xy: 2, 6
+  size: 209, 90
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00013
+  rotate: false
+  xy: 213, 6
+  size: 209, 90
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_1_dilie/01_00044
+  rotate: false
+  xy: 2, 99
+  size: 182, 84
+  orig: 215, 123
+  offset: 17, 13
+  index: -1
+skill_1_dilie/01_00073
+  rotate: true
+  xy: 440, 127
+  size: 172, 70
+  orig: 215, 123
+  offset: 22, 23
+  index: -1
+skill_1_diyanwu/01_00012
+  rotate: false
+  xy: 2, 396
+  size: 248, 114
+  orig: 268, 188
+  offset: 9, 27
+  index: -1
+skill_1_diyanwu/01_00014
+  rotate: false
+  xy: 191, 199
+  size: 247, 100
+  orig: 268, 188
+  offset: 7, 26
+  index: -1
+skill_1_diyanwu/01_00015
+  rotate: false
+  xy: 191, 98
+  size: 247, 99
+  orig: 268, 188
+  offset: 6, 26
+  index: -1
+
+NG_10000_FX33.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00060
+  rotate: true
+  xy: 460, 62
+  size: 87, 49
+  orig: 185, 149
+  offset: 48, 42
+  index: -1
+skill_0_bo/01_00002
+  rotate: false
+  xy: 247, 2
+  size: 211, 108
+  orig: 243, 128
+  offset: 16, 4
+  index: -1
+skill_0_dilie/01_00000
+  rotate: true
+  xy: 375, 151
+  size: 119, 120
+  orig: 218, 193
+  offset: 58, 17
+  index: -1
+skill_0_dilie/01_00008
+  rotate: false
+  xy: 2, 323
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00009
+  rotate: false
+  xy: 213, 323
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00010
+  rotate: true
+  xy: 2, 112
+  size: 209, 187
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00011
+  rotate: true
+  xy: 191, 112
+  size: 209, 182
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_1_diyanwu/01_00016
+  rotate: false
+  xy: 2, 11
+  size: 243, 99
+  orig: 268, 188
+  offset: 6, 25
+  index: -1
+skill_1_diyanwu/01_00019
+  rotate: true
+  xy: 424, 272
+  size: 238, 81
+  orig: 268, 188
+  offset: 12, 33
+  index: -1
+
+NG_10000_FX34.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00062
+  rotate: false
+  xy: 2, 2
+  size: 95, 54
+  orig: 185, 149
+  offset: 44, 39
+  index: -1
+skill_0_bo/01_00001
+  rotate: true
+  xy: 405, 13
+  size: 203, 103
+  orig: 243, 128
+  offset: 20, 7
+  index: -1
+skill_0_dilie/01_00001
+  rotate: true
+  xy: 244, 7
+  size: 209, 159
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_1_diyanwu/01_00007
+  rotate: false
+  xy: 2, 58
+  size: 237, 110
+  orig: 268, 188
+  offset: 17, 29
+  index: -1
+skill_1_diyanwu/01_00008
+  rotate: false
+  xy: 2, 170
+  size: 240, 110
+  orig: 268, 188
+  offset: 15, 29
+  index: -1
+skill_1_diyanwu/01_00009
+  rotate: false
+  xy: 2, 282
+  size: 242, 111
+  orig: 268, 188
+  offset: 14, 28
+  index: -1
+skill_1_diyanwu/01_00010
+  rotate: false
+  xy: 250, 397
+  size: 245, 112
+  orig: 268, 188
+  offset: 12, 28
+  index: -1
+skill_1_diyanwu/01_00011
+  rotate: false
+  xy: 2, 395
+  size: 246, 114
+  orig: 268, 188
+  offset: 11, 27
+  index: -1
+skill_1_diyanwu/01_00017
+  rotate: false
+  xy: 250, 308
+  size: 243, 87
+  orig: 268, 188
+  offset: 6, 25
+  index: -1
+skill_1_diyanwu/01_00018
+  rotate: false
+  xy: 246, 218
+  size: 242, 88
+  orig: 268, 188
+  offset: 8, 25
+  index: -1
+
+NG_10000_FX35.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00068
+  rotate: false
+  xy: 184, 34
+  size: 144, 87
+  orig: 185, 149
+  offset: 14, 13
+  index: -1
+skill_0_bo/01_00000
+  rotate: true
+  xy: 450, 391
+  size: 119, 60
+  orig: 243, 128
+  offset: 62, 33
+  index: -1
+skill_0_bo/01_00003
+  rotate: false
+  xy: 229, 399
+  size: 219, 111
+  orig: 243, 128
+  offset: 12, 2
+  index: -1
+skill_0_bo/01_00005
+  rotate: false
+  xy: 2, 396
+  size: 225, 114
+  orig: 243, 128
+  offset: 9, 2
+  index: -1
+skill_0_dilie/01_00014
+  rotate: false
+  xy: 229, 307
+  size: 209, 90
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00015
+  rotate: false
+  xy: 2, 305
+  size: 209, 89
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00016
+  rotate: false
+  xy: 213, 216
+  size: 209, 89
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00017
+  rotate: false
+  xy: 2, 214
+  size: 209, 89
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_0_dilie/01_00018
+  rotate: true
+  xy: 2, 4
+  size: 208, 89
+  orig: 218, 193
+  offset: 6, 6
+  index: -1
+skill_1_dilie/01_00047
+  rotate: false
+  xy: 213, 125
+  size: 182, 89
+  orig: 215, 123
+  offset: 17, 11
+  index: -1
+skill_1_dilie/01_00048
+  rotate: true
+  xy: 93, 30
+  size: 182, 89
+  orig: 215, 123
+  offset: 17, 11
+  index: -1
+skill_1_dilie/01_00051
+  rotate: true
+  xy: 424, 123
+  size: 182, 83
+  orig: 215, 123
+  offset: 17, 17
+  index: -1
+skill_1_dilie/01_00070
+  rotate: false
+  xy: 330, 49
+  size: 178, 72
+  orig: 215, 123
+  offset: 19, 22
+  index: -1
+
+NG_10000_FX36.png
+size: 506,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00067
+  rotate: true
+  xy: 370, 2
+  size: 134, 82
+  orig: 185, 149
+  offset: 19, 17
+  index: -1
+skill_1_dilie/01_00041
+  rotate: false
+  xy: 186, 179
+  size: 182, 78
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00042
+  rotate: false
+  xy: 2, 11
+  size: 182, 78
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00045
+  rotate: false
+  xy: 2, 172
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 18
+  index: -1
+skill_1_dilie/01_00046
+  rotate: false
+  xy: 186, 422
+  size: 182, 82
+  orig: 215, 123
+  offset: 17, 18
+  index: -1
+skill_1_dilie/01_00052
+  rotate: false
+  xy: 2, 421
+  size: 182, 83
+  orig: 215, 123
+  offset: 17, 17
+  index: -1
+skill_1_dilie/01_00053
+  rotate: false
+  xy: 186, 340
+  size: 182, 80
+  orig: 215, 123
+  offset: 17, 20
+  index: -1
+skill_1_dilie/01_00054
+  rotate: false
+  xy: 2, 253
+  size: 182, 81
+  orig: 215, 123
+  offset: 17, 19
+  index: -1
+skill_1_dilie/01_00055
+  rotate: false
+  xy: 2, 253
+  size: 182, 81
+  orig: 215, 123
+  offset: 17, 19
+  index: -1
+skill_1_dilie/01_00056
+  rotate: false
+  xy: 186, 99
+  size: 182, 78
+  orig: 215, 123
+  offset: 17, 18
+  index: -1
+skill_1_dilie/01_00057
+  rotate: true
+  xy: 370, 138
+  size: 182, 78
+  orig: 215, 123
+  offset: 17, 18
+  index: -1
+skill_1_dilie/01_00058
+  rotate: false
+  xy: 186, 259
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 17
+  index: -1
+skill_1_dilie/01_00059
+  rotate: false
+  xy: 2, 336
+  size: 182, 83
+  orig: 215, 123
+  offset: 17, 17
+  index: -1
+skill_1_dilie/01_00060
+  rotate: true
+  xy: 370, 322
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00061
+  rotate: false
+  xy: 2, 91
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00062
+  rotate: false
+  xy: 2, 91
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00063
+  rotate: false
+  xy: 2, 91
+  size: 182, 79
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00064
+  rotate: false
+  xy: 186, 23
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+
+NG_10000_FX37.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie/1_00066
+  rotate: false
+  xy: 186, 31
+  size: 123, 75
+  orig: 185, 149
+  offset: 25, 22
+  index: -1
+skill_1_dilie/01_00065
+  rotate: false
+  xy: 2, 290
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00066
+  rotate: false
+  xy: 2, 214
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00067
+  rotate: false
+  xy: 2, 138
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00068
+  rotate: false
+  xy: 2, 62
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00069
+  rotate: true
+  xy: 186, 108
+  size: 182, 74
+  orig: 215, 123
+  offset: 17, 21
+  index: -1
+skill_1_dilie/01_00071
+  rotate: false
+  xy: 186, 292
+  size: 178, 72
+  orig: 215, 123
+  offset: 19, 22
+  index: -1
+skill_1_dilie/01_00072
+  rotate: true
+  xy: 262, 115
+  size: 175, 72
+  orig: 215, 123
+  offset: 21, 22
+  index: -1

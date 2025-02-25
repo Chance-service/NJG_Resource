@@ -1,0 +1,139 @@
+
+hit0302.png
+size: 643,643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magehit_00
+  rotate: false
+  xy: 556, 200
+  size: 61, 60
+  orig: 170, 150
+  offset: 50, 46
+  index: -1
+magehit_01
+  rotate: false
+  xy: 556, 200
+  size: 61, 60
+  orig: 170, 150
+  offset: 50, 46
+  index: -1
+magehit_02
+  rotate: false
+  xy: 556, 262
+  size: 71, 61
+  orig: 170, 150
+  offset: 47, 46
+  index: -1
+magehit_03
+  rotate: true
+  xy: 518, 485
+  size: 156, 123
+  orig: 170, 150
+  offset: 8, 7
+  index: -1
+magehit_04
+  rotate: true
+  xy: 281, 194
+  size: 164, 135
+  orig: 170, 150
+  offset: 4, 4
+  index: -1
+magehit_05
+  rotate: true
+  xy: 142, 190
+  size: 168, 137
+  orig: 170, 150
+  offset: 2, 2
+  index: -1
+magehit_06
+  rotate: false
+  xy: 174, 503
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_07
+  rotate: true
+  xy: 2, 188
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_08
+  rotate: false
+  xy: 346, 503
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_09
+  rotate: true
+  xy: 2, 16
+  size: 170, 138
+  orig: 170, 150
+  offset: 0, 1
+  index: -1
+magehit_10
+  rotate: false
+  xy: 2, 502
+  size: 170, 139
+  orig: 170, 150
+  offset: 0, 2
+  index: -1
+magehit_11
+  rotate: false
+  xy: 2, 360
+  size: 169, 140
+  orig: 170, 150
+  offset: 1, 3
+  index: -1
+magehit_12
+  rotate: true
+  xy: 142, 23
+  size: 165, 140
+  orig: 170, 150
+  offset: 4, 5
+  index: -1
+magehit_13
+  rotate: false
+  xy: 332, 362
+  size: 161, 139
+  orig: 170, 150
+  offset: 6, 6
+  index: -1
+magehit_14
+  rotate: true
+  xy: 495, 325
+  size: 158, 139
+  orig: 170, 150
+  offset: 7, 7
+  index: -1
+magehit_15
+  rotate: false
+  xy: 173, 360
+  size: 157, 140
+  orig: 170, 150
+  offset: 8, 7
+  index: -1
+magehit_16
+  rotate: true
+  xy: 284, 56
+  size: 136, 132
+  orig: 170, 150
+  offset: 14, 15
+  index: -1
+magehit_17
+  rotate: false
+  xy: 418, 191
+  size: 136, 132
+  orig: 170, 150
+  offset: 14, 15
+  index: -1
+magehit_18
+  rotate: false
+  xy: 418, 57
+  size: 136, 132
+  orig: 170, 150
+  offset: 14, 15
+  index: -1

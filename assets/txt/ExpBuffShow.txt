@@ -1,0 +1,4 @@
+id	类型	副将id	觉醒等级	活动id	经验加成	icon	描述1	描述2
+1	1	102	0	84	12	UI/ExpAddPageIcon/S_B_10041.png	@ExpAddInfoTxt_1	@ExpAddLockTxt_1
+2	2	102	1	0	15	UI/ExpAddPageIcon/S_B_10041.png	@ExpAddInfoTxt_2	@ExpAddLockTxt_2
+3	3	0	0	129	8	UI/ExpAddPageIcon/NewWeekCard.png	@ExpAddInfoTxt_5	@ExpAddLockTxt_5

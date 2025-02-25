@@ -1,0 +1,20 @@
+
+NGUI_75_WorldMapHeart.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/WoridMapHeart_0
+  rotate: false
+  xy: 2, 2
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+images/WoridMapHeart_1
+  rotate: false
+  xy: 135, 63
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

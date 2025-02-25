@@ -1,0 +1,167 @@
+
+Boss_511_FX1.png
+size: 446,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/3/shuiji_0000
+  rotate: false
+  xy: 153, 255
+  size: 88, 72
+  orig: 140, 140
+  offset: 27, 34
+  index: -1
+FX/3/shuiji_0001
+  rotate: false
+  xy: 153, 182
+  size: 88, 71
+  orig: 140, 140
+  offset: 27, 35
+  index: -1
+FX/3/shuiji_0002
+  rotate: false
+  xy: 243, 257
+  size: 87, 70
+  orig: 140, 140
+  offset: 28, 38
+  index: -1
+FX/3/shuiji_0003
+  rotate: false
+  xy: 153, 108
+  size: 84, 72
+  orig: 140, 140
+  offset: 30, 38
+  index: -1
+FX/3/shuiji_0004
+  rotate: false
+  xy: 243, 181
+  size: 80, 74
+  orig: 140, 140
+  offset: 33, 38
+  index: -1
+FX/3/shuiji_0005
+  rotate: false
+  xy: 239, 103
+  size: 80, 76
+  orig: 140, 140
+  offset: 33, 38
+  index: -1
+FX/3/shuiji_0006
+  rotate: false
+  xy: 332, 229
+  size: 80, 76
+  orig: 140, 140
+  offset: 33, 38
+  index: -1
+FX/3/shuiji_0007
+  rotate: true
+  xy: 306, 39
+  size: 62, 57
+  orig: 140, 140
+  offset: 35, 56
+  index: -1
+FX/3/shuiji_0008
+  rotate: false
+  xy: 146, 2
+  size: 51, 43
+  orig: 140, 140
+  offset: 38, 61
+  index: -1
+FX/charge_thunder_3
+  rotate: false
+  xy: 2, 43
+  size: 142, 59
+  orig: 142, 59
+  offset: 0, 0
+  index: -1
+FX/charge_thunder_4
+  rotate: false
+  xy: 2, 346
+  size: 190, 98
+  orig: 190, 98
+  offset: 0, 0
+  index: -1
+FX/shock01
+  rotate: true
+  xy: 2, 2
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+FX/shock02
+  rotate: true
+  xy: 153, 47
+  size: 59, 76
+  orig: 63, 76
+  offset: 4, 0
+  index: -1
+FX/shock03
+  rotate: true
+  xy: 231, 41
+  size: 60, 73
+  orig: 61, 77
+  offset: 1, 0
+  index: -1
+FX/shock04
+  rotate: true
+  xy: 339, 307
+  size: 54, 87
+  orig: 55, 87
+  offset: 1, 0
+  index: -1
+FX/shock05
+  rotate: true
+  xy: 325, 178
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+FX/shock06
+  rotate: false
+  xy: 84, 19
+  size: 24, 22
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+ROCK05
+  rotate: false
+  xy: 2, 222
+  size: 149, 122
+  orig: 149, 122
+  offset: 0, 0
+  index: -1
+ROCK06
+  rotate: false
+  xy: 2, 104
+  size: 149, 116
+  orig: 149, 116
+  offset: 0, 0
+  index: -1
+ROCK07
+  rotate: true
+  xy: 194, 329
+  size: 115, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 29, 7
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+rock01
+  rotate: false
+  xy: 321, 106
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+rock03
+  rotate: false
+  xy: 339, 363
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1

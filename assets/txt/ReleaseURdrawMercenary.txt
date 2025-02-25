@@ -1,0 +1,12 @@
+神将id	名字图片	动画缩放	动画位置偏移	最小连抽次数	最大连抽次数
+161	UI/Common/Activity/Act_TL_LuckyMercenary/Role_Name_Font_DaQiao.png	1.2	-70,-300	3	9
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

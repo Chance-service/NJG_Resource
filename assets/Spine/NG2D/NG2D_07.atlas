@@ -1,0 +1,1019 @@
+
+NG2D_07.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Bird FX/bird_00001
+  rotate: false
+  xy: 902, 282
+  size: 4, 9
+  orig: 540, 156
+  offset: 0, 37
+  index: -1
+Bird FX/bird_00003
+  rotate: true
+  xy: 928, 122
+  size: 15, 20
+  orig: 540, 156
+  offset: 0, 35
+  index: -1
+Bird FX/bird_00007
+  rotate: true
+  xy: 1000, 655
+  size: 38, 20
+  orig: 540, 156
+  offset: 0, 25
+  index: -1
+Bird FX/bird_00011
+  rotate: true
+  xy: 917, 139
+  size: 50, 24
+  orig: 540, 156
+  offset: 11, 25
+  index: -1
+Bird FX/bird_00013
+  rotate: true
+  xy: 917, 191
+  size: 51, 24
+  orig: 540, 156
+  offset: 21, 28
+  index: -1
+Bird FX/bird_00019
+  rotate: true
+  xy: 976, 587
+  size: 106, 22
+  orig: 540, 156
+  offset: 0, 29
+  index: -1
+Bird FX/bird_00021
+  rotate: true
+  xy: 976, 695
+  size: 117, 26
+  orig: 540, 156
+  offset: 0, 27
+  index: -1
+Bird FX/bird_00031
+  rotate: false
+  xy: 810, 63
+  size: 138, 55
+  orig: 540, 156
+  offset: 47, 32
+  index: -1
+Bird FX/bird_00037
+  rotate: false
+  xy: 544, 2
+  size: 220, 59
+  orig: 540, 156
+  offset: 8, 35
+  index: -1
+Bird FX/bird_00045
+  rotate: true
+  xy: 950, 84
+  size: 223, 72
+  orig: 540, 156
+  offset: 62, 34
+  index: -1
+Bird FX/bird_00079
+  rotate: true
+  xy: 825, 282
+  size: 238, 75
+  orig: 540, 156
+  offset: 290, 47
+  index: -1
+Bird FX/bird_00081
+  rotate: true
+  xy: 897, 575
+  size: 237, 77
+  orig: 540, 156
+  offset: 303, 45
+  index: -1
+Bird FX/bird_00085
+  rotate: false
+  xy: 2, 2
+  size: 168, 58
+  orig: 540, 156
+  offset: 330, 58
+  index: -1
+Bird FX/bird_00087
+  rotate: false
+  xy: 766, 2
+  size: 171, 59
+  orig: 540, 156
+  offset: 343, 58
+  index: -1
+Bird FX/bird_00095
+  rotate: false
+  xy: 303, 3
+  size: 140, 57
+  orig: 540, 156
+  offset: 397, 63
+  index: -1
+Bird FX/bird_00097
+  rotate: false
+  xy: 172, 2
+  size: 129, 58
+  orig: 540, 156
+  offset: 411, 63
+  index: -1
+Bird FX/bird_00107
+  rotate: true
+  xy: 939, 2
+  size: 59, 53
+  orig: 540, 156
+  offset: 478, 73
+  index: -1
+Bird FX/bird_00111
+  rotate: true
+  xy: 917, 120
+  size: 17, 9
+  orig: 540, 156
+  offset: 504, 119
+  index: -1
+Bird FX/bird_00113
+  rotate: false
+  xy: 976, 575
+  size: 17, 10
+  orig: 540, 156
+  offset: 517, 121
+  index: -1
+Bird FX/bird_00115
+  rotate: false
+  xy: 445, 4
+  size: 9, 15
+  orig: 540, 156
+  offset: 531, 122
+  index: -1
+H3
+  rotate: true
+  xy: 445, 21
+  size: 39, 81
+  orig: 47, 89
+  offset: 4, 4
+  index: -1
+H5
+  rotate: false
+  xy: 917, 244
+  size: 31, 63
+  orig: 39, 71
+  offset: 4, 4
+  index: -1
+H6
+  rotate: false
+  xy: 994, 4
+  size: 28, 78
+  orig: 36, 86
+  offset: 4, 4
+  index: -1
+HB
+  rotate: false
+  xy: 902, 309
+  size: 120, 96
+  orig: 128, 104
+  offset: 4, 4
+  index: -1
+L Eye Opened
+  rotate: false
+  xy: 950, 66
+  size: 28, 16
+  orig: 36, 24
+  offset: 4, 4
+  index: -1
+L Pupil
+  rotate: false
+  xy: 810, 129
+  size: 13, 10
+  orig: 21, 18
+  offset: 4, 4
+  index: -1
+Lash L
+  rotate: true
+  xy: 810, 169
+  size: 29, 13
+  orig: 37, 21
+  offset: 4, 4
+  index: -1
+Lash R
+  rotate: true
+  xy: 1004, 788
+  size: 24, 18
+  orig: 32, 26
+  offset: 4, 4
+  index: -1
+Light FX/Light_00001
+  rotate: false
+  xy: 825, 120
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+R Pupil
+  rotate: true
+  xy: 902, 293
+  size: 14, 13
+  orig: 22, 21
+  offset: 4, 4
+  index: -1
+body
+  rotate: false
+  xy: 544, 200
+  size: 279, 822
+  orig: 279, 822
+  offset: 0, 0
+  index: -1
+boob
+  rotate: true
+  xy: 902, 407
+  size: 166, 120
+  orig: 174, 128
+  offset: 4, 4
+  index: -1
+eye L BG
+  rotate: true
+  xy: 810, 141
+  size: 26, 13
+  orig: 34, 21
+  offset: 4, 4
+  index: -1
+eye R BG
+  rotate: true
+  xy: 1004, 763
+  size: 23, 18
+  orig: 31, 26
+  offset: 4, 4
+  index: -1
+leg R
+  rotate: true
+  xy: 544, 63
+  size: 135, 264
+  orig: 143, 272
+  offset: 4, 4
+  index: -1
+skirt FL
+  rotate: false
+  xy: 825, 814
+  size: 189, 208
+  orig: 189, 208
+  offset: 0, 0
+  index: -1
+skirt FR
+  rotate: false
+  xy: 825, 522
+  size: 70, 290
+  orig: 78, 298
+  offset: 4, 4
+  index: -1
+
+NG2D_072.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird FX/bird_00005
+  rotate: true
+  xy: 957, 671
+  size: 27, 26
+  orig: 540, 156
+  offset: 0, 28
+  index: -1
+Bird FX/bird_00009
+  rotate: false
+  xy: 132, 534
+  size: 49, 24
+  orig: 540, 156
+  offset: 0, 23
+  index: -1
+Bird FX/bird_00015
+  rotate: true
+  xy: 985, 646
+  size: 52, 33
+  orig: 540, 156
+  offset: 32, 28
+  index: -1
+Bird FX/bird_00017
+  rotate: true
+  xy: 943, 617
+  size: 52, 33
+  orig: 540, 156
+  offset: 43, 28
+  index: -1
+Bird FX/bird_00025
+  rotate: true
+  xy: 957, 409
+  size: 143, 48
+  orig: 540, 156
+  offset: 0, 31
+  index: -1
+Bird FX/bird_00027
+  rotate: true
+  xy: 957, 265
+  size: 142, 47
+  orig: 540, 156
+  offset: 15, 32
+  index: -1
+Bird FX/bird_00029
+  rotate: false
+  xy: 815, 259
+  size: 140, 52
+  orig: 540, 156
+  offset: 31, 32
+  index: -1
+Bird FX/bird_00033
+  rotate: false
+  xy: 804, 644
+  size: 137, 54
+  orig: 540, 156
+  offset: 62, 30
+  index: -1
+Bird FX/bird_00035
+  rotate: false
+  xy: 588, 638
+  size: 214, 60
+  orig: 540, 156
+  offset: 0, 33
+  index: -1
+Bird FX/bird_00039
+  rotate: false
+  xy: 365, 637
+  size: 221, 61
+  orig: 540, 156
+  offset: 21, 35
+  index: -1
+Bird FX/bird_00041
+  rotate: false
+  xy: 365, 240
+  size: 222, 64
+  orig: 540, 156
+  offset: 34, 35
+  index: -1
+Bird FX/bird_00043
+  rotate: false
+  xy: 236, 80
+  size: 222, 70
+  orig: 540, 156
+  offset: 48, 36
+  index: -1
+Bird FX/bird_00047
+  rotate: false
+  xy: 592, 180
+  size: 223, 62
+  orig: 540, 156
+  offset: 75, 36
+  index: -1
+Bird FX/bird_00049
+  rotate: false
+  xy: 589, 244
+  size: 224, 62
+  orig: 540, 156
+  offset: 89, 38
+  index: -1
+Bird FX/bird_00051
+  rotate: false
+  xy: 363, 562
+  size: 225, 62
+  orig: 540, 156
+  offset: 102, 39
+  index: -1
+Bird FX/bird_00053
+  rotate: false
+  xy: 474, 24
+  size: 226, 66
+  orig: 540, 156
+  offset: 115, 39
+  index: -1
+Bird FX/bird_00055
+  rotate: false
+  xy: 127, 152
+  size: 227, 71
+  orig: 540, 156
+  offset: 129, 40
+  index: -1
+Bird FX/bird_00057
+  rotate: true
+  xy: 80, 296
+  size: 228, 74
+  orig: 540, 156
+  offset: 142, 37
+  index: -1
+Bird FX/bird_00059
+  rotate: false
+  xy: 132, 560
+  size: 229, 64
+  orig: 540, 156
+  offset: 155, 40
+  index: -1
+Bird FX/bird_00061
+  rotate: true
+  xy: 156, 303
+  size: 229, 63
+  orig: 540, 156
+  offset: 169, 42
+  index: -1
+Bird FX/bird_00063
+  rotate: false
+  xy: 132, 626
+  size: 231, 64
+  orig: 540, 156
+  offset: 182, 42
+  index: -1
+Bird FX/bird_00065
+  rotate: false
+  xy: 2, 2
+  size: 231, 68
+  orig: 540, 156
+  offset: 196, 42
+  index: -1
+Bird FX/bird_00067
+  rotate: false
+  xy: 2, 72
+  size: 232, 74
+  orig: 540, 156
+  offset: 209, 43
+  index: -1
+Bird FX/bird_00069
+  rotate: true
+  xy: 2, 291
+  size: 233, 76
+  orig: 540, 156
+  offset: 223, 41
+  index: -1
+Bird FX/bird_00071
+  rotate: false
+  xy: 356, 158
+  size: 234, 65
+  orig: 540, 156
+  offset: 236, 44
+  index: -1
+Bird FX/bird_00073
+  rotate: false
+  xy: 460, 92
+  size: 236, 64
+  orig: 540, 156
+  offset: 249, 46
+  index: -1
+Bird FX/bird_00075
+  rotate: false
+  xy: 235, 4
+  size: 237, 66
+  orig: 540, 156
+  offset: 262, 46
+  index: -1
+Bird FX/bird_00077
+  rotate: false
+  xy: 127, 225
+  size: 236, 69
+  orig: 540, 156
+  offset: 277, 46
+  index: -1
+Bird FX/bird_00083
+  rotate: false
+  xy: 698, 116
+  size: 223, 62
+  orig: 540, 156
+  offset: 317, 53
+  index: -1
+Bird FX/bird_00089
+  rotate: false
+  xy: 762, 574
+  size: 173, 62
+  orig: 540, 156
+  offset: 357, 59
+  index: -1
+Bird FX/bird_00091
+  rotate: false
+  xy: 590, 567
+  size: 170, 69
+  orig: 540, 156
+  offset: 370, 59
+  index: -1
+Bird FX/bird_00093
+  rotate: false
+  xy: 864, 46
+  size: 143, 68
+  orig: 540, 156
+  offset: 383, 59
+  index: -1
+Bird FX/bird_00099
+  rotate: true
+  xy: 923, 141
+  size: 116, 60
+  orig: 540, 156
+  offset: 424, 63
+  index: -1
+Bird FX/bird_00101
+  rotate: false
+  xy: 817, 195
+  size: 103, 62
+  orig: 540, 156
+  offset: 437, 64
+  index: -1
+Bird FX/bird_00103
+  rotate: true
+  xy: 869, 320
+  size: 90, 67
+  orig: 540, 156
+  offset: 450, 66
+  index: -1
+H1
+  rotate: true
+  xy: 937, 581
+  size: 34, 38
+  orig: 42, 46
+  offset: 4, 4
+  index: -1
+H2
+  rotate: true
+  xy: 936, 10
+  size: 34, 65
+  orig: 42, 73
+  offset: 4, 4
+  index: -1
+H4
+  rotate: true
+  xy: 977, 554
+  size: 51, 45
+  orig: 59, 53
+  offset: 4, 4
+  index: -1
+H7
+  rotate: true
+  xy: 978, 607
+  size: 37, 44
+  orig: 45, 52
+  offset: 4, 4
+  index: -1
+Light FX/Light_00003
+  rotate: false
+  xy: 221, 398
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00005
+  rotate: true
+  xy: 221, 306
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00007
+  rotate: false
+  xy: 313, 398
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00009
+  rotate: true
+  xy: 383, 306
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00011
+  rotate: false
+  xy: 405, 400
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00013
+  rotate: false
+  xy: 497, 400
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00015
+  rotate: true
+  xy: 545, 308
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00017
+  rotate: true
+  xy: 702, 24
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00019
+  rotate: false
+  xy: 589, 400
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00021
+  rotate: false
+  xy: 923, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00023
+  rotate: false
+  xy: 923, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00025
+  rotate: false
+  xy: 260, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00027
+  rotate: false
+  xy: 260, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00029
+  rotate: false
+  xy: 681, 405
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00031
+  rotate: true
+  xy: 707, 313
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00033
+  rotate: false
+  xy: 773, 412
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00035
+  rotate: false
+  xy: 865, 412
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00037
+  rotate: false
+  xy: 352, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00039
+  rotate: false
+  xy: 352, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00041
+  rotate: false
+  xy: 444, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00043
+  rotate: false
+  xy: 444, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00045
+  rotate: false
+  xy: 536, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00047
+  rotate: false
+  xy: 536, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00049
+  rotate: true
+  xy: 628, 932
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00051
+  rotate: false
+  xy: 790, 862
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00053
+  rotate: true
+  xy: 628, 840
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00055
+  rotate: false
+  xy: 790, 700
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00057
+  rotate: true
+  xy: 628, 748
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+R Eye Opened
+  rotate: false
+  xy: 183, 535
+  size: 27, 23
+  orig: 35, 31
+  offset: 4, 4
+  index: -1
+bird
+  rotate: true
+  xy: 2, 526
+  size: 164, 128
+  orig: 172, 136
+  offset: 4, 4
+  index: -1
+eye closed
+  rotate: false
+  xy: 864, 10
+  size: 70, 34
+  orig: 76, 34
+  offset: 3, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 148
+  size: 141, 123
+  orig: 149, 131
+  offset: 4, 4
+  index: -1
+skirt B
+  rotate: false
+  xy: 2, 692
+  size: 256, 330
+  orig: 264, 338
+  offset: 4, 4
+  index: -1
+
+NG2D_073.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird FX/bird_00023
+  rotate: false
+  xy: 2, 17
+  size: 129, 49
+  orig: 540, 156
+  offset: 0, 29
+  index: -1
+Bird FX/bird_00105
+  rotate: false
+  xy: 133, 2
+  size: 60, 64
+  orig: 540, 156
+  offset: 465, 69
+  index: -1
+Bird FX/bird_00109
+  rotate: true
+  xy: 541, 135
+  size: 49, 52
+  orig: 540, 156
+  offset: 491, 74
+  index: -1
+Light FX/Light_00059
+  rotate: false
+  xy: 2, 554
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00061
+  rotate: false
+  xy: 2, 392
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00063
+  rotate: false
+  xy: 2, 230
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00065
+  rotate: false
+  xy: 2, 68
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00067
+  rotate: true
+  xy: 94, 624
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00069
+  rotate: true
+  xy: 256, 624
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00071
+  rotate: true
+  xy: 418, 624
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00073
+  rotate: false
+  xy: 580, 554
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00075
+  rotate: true
+  xy: 94, 532
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00077
+  rotate: true
+  xy: 256, 532
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00079
+  rotate: true
+  xy: 418, 532
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00081
+  rotate: false
+  xy: 580, 392
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00083
+  rotate: false
+  xy: 94, 230
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00085
+  rotate: true
+  xy: 94, 440
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00087
+  rotate: false
+  xy: 94, 68
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00089
+  rotate: false
+  xy: 186, 278
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00091
+  rotate: true
+  xy: 256, 440
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00093
+  rotate: true
+  xy: 418, 440
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00095
+  rotate: false
+  xy: 186, 116
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00097
+  rotate: true
+  xy: 195, 24
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00099
+  rotate: true
+  xy: 278, 348
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00101
+  rotate: false
+  xy: 440, 278
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00103
+  rotate: true
+  xy: 278, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00105
+  rotate: true
+  xy: 278, 164
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00107
+  rotate: false
+  xy: 357, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00109
+  rotate: true
+  xy: 440, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00111
+  rotate: true
+  xy: 532, 300
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00113
+  rotate: false
+  xy: 602, 138
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00115
+  rotate: false
+  xy: 449, 24
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Light FX/Light_00117
+  rotate: true
+  xy: 541, 43
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1

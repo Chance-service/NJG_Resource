@@ -1,0 +1,321 @@
+
+Buff_93_FX1.png
+size: 966,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Buff_93_00
+  rotate: false
+  xy: 816, 440
+  size: 131, 130
+  orig: 210, 210
+  offset: 43, 43
+  index: -1
+images/Buff_93_01
+  rotate: true
+  xy: 530, 128
+  size: 141, 131
+  orig: 210, 210
+  offset: 37, 45
+  index: -1
+images/Buff_93_02
+  rotate: false
+  xy: 140, 270
+  size: 137, 140
+  orig: 210, 210
+  offset: 36, 40
+  index: -1
+images/Buff_93_03
+  rotate: false
+  xy: 539, 413
+  size: 136, 138
+  orig: 210, 210
+  offset: 40, 43
+  index: -1
+images/Buff_93_04
+  rotate: false
+  xy: 152, 833
+  size: 143, 133
+  orig: 210, 210
+  offset: 38, 45
+  index: -1
+images/Buff_93_05
+  rotate: false
+  xy: 574, 6
+  size: 143, 120
+  orig: 210, 210
+  offset: 37, 48
+  index: -1
+images/Buff_93_06
+  rotate: false
+  xy: 446, 838
+  size: 146, 128
+  orig: 210, 210
+  offset: 31, 45
+  index: -1
+images/Buff_93_07
+  rotate: true
+  xy: 285, 556
+  size: 139, 132
+  orig: 210, 210
+  offset: 36, 45
+  index: -1
+images/Buff_93_08
+  rotate: false
+  xy: 287, 4
+  size: 139, 122
+  orig: 210, 210
+  offset: 36, 39
+  index: -1
+images/Buff_93_09
+  rotate: true
+  xy: 281, 128
+  size: 140, 123
+  orig: 210, 210
+  offset: 36, 41
+  index: -1
+images/Buff_93_10
+  rotate: false
+  xy: 744, 837
+  size: 144, 129
+  orig: 210, 210
+  offset: 37, 39
+  index: -1
+images/Buff_93_11
+  rotate: true
+  xy: 556, 553
+  size: 144, 127
+  orig: 210, 210
+  offset: 37, 45
+  index: -1
+images/Buff_93_12
+  rotate: false
+  xy: 0, 833
+  size: 150, 133
+  orig: 210, 210
+  offset: 32, 43
+  index: -1
+images/Buff_93_13
+  rotate: true
+  xy: 419, 556
+  size: 139, 135
+  orig: 210, 210
+  offset: 38, 43
+  index: -1
+images/Buff_93_14
+  rotate: false
+  xy: 297, 697
+  size: 139, 139
+  orig: 210, 210
+  offset: 40, 40
+  index: -1
+images/Buff_93_15
+  rotate: true
+  xy: 143, 556
+  size: 139, 140
+  orig: 210, 210
+  offset: 37, 38
+  index: -1
+images/Buff_93_16
+  rotate: true
+  xy: 0, 123
+  size: 141, 139
+  orig: 210, 210
+  offset: 34, 41
+  index: -1
+images/Buff_93_17
+  rotate: true
+  xy: 547, 273
+  size: 138, 135
+  orig: 210, 210
+  offset: 36, 42
+  index: -1
+images/Buff_93_18
+  rotate: true
+  xy: 663, 130
+  size: 141, 128
+  orig: 210, 210
+  offset: 35, 43
+  index: -1
+images/Buff_93_19
+  rotate: false
+  xy: 428, 4
+  size: 144, 122
+  orig: 210, 210
+  offset: 35, 38
+  index: -1
+images/Buff_93_20
+  rotate: true
+  xy: 278, 412
+  size: 142, 127
+  orig: 210, 210
+  offset: 37, 38
+  index: -1
+images/Buff_93_21
+  rotate: true
+  xy: 816, 572
+  size: 134, 129
+  orig: 210, 210
+  offset: 41, 40
+  index: -1
+images/Buff_93_22
+  rotate: true
+  xy: 821, 308
+  size: 130, 128
+  orig: 210, 210
+  offset: 44, 43
+  index: -1
+images/Buff_93_23
+  rotate: true
+  xy: 793, 130
+  size: 141, 129
+  orig: 210, 210
+  offset: 38, 45
+  index: -1
+images/Buff_93_24
+  rotate: true
+  xy: 579, 701
+  size: 135, 132
+  orig: 210, 210
+  offset: 36, 45
+  index: -1
+images/Buff_93_25
+  rotate: false
+  xy: 0, 266
+  size: 138, 142
+  orig: 210, 210
+  offset: 39, 39
+  index: -1
+images/Buff_93_26
+  rotate: true
+  xy: 677, 413
+  size: 138, 134
+  orig: 210, 210
+  offset: 38, 45
+  index: -1
+images/Buff_93_27
+  rotate: true
+  xy: 407, 412
+  size: 142, 130
+  orig: 210, 210
+  offset: 37, 46
+  index: -1
+images/Buff_93_28
+  rotate: false
+  xy: 297, 838
+  size: 147, 128
+  orig: 210, 210
+  offset: 32, 44
+  index: -1
+images/Buff_93_29
+  rotate: false
+  xy: 151, 697
+  size: 142, 134
+  orig: 210, 210
+  offset: 33, 40
+  index: -1
+images/Buff_93_30
+  rotate: true
+  xy: 412, 271
+  size: 139, 133
+  orig: 210, 210
+  offset: 36, 40
+  index: -1
+images/Buff_93_31
+  rotate: true
+  xy: 406, 128
+  size: 140, 122
+  orig: 210, 210
+  offset: 36, 41
+  index: -1
+images/Buff_93_32
+  rotate: false
+  xy: 713, 708
+  size: 141, 127
+  orig: 210, 210
+  offset: 37, 38
+  index: -1
+images/Buff_93_33
+  rotate: false
+  xy: 141, 0
+  size: 144, 126
+  orig: 210, 210
+  offset: 37, 43
+  index: -1
+images/Buff_93_34
+  rotate: false
+  xy: 594, 840
+  size: 148, 126
+  orig: 210, 210
+  offset: 33, 47
+  index: -1
+images/Buff_93_35
+  rotate: false
+  xy: 0, 698
+  size: 149, 133
+  orig: 210, 210
+  offset: 33, 44
+  index: -1
+images/Buff_93_36
+  rotate: true
+  xy: 684, 273
+  size: 138, 135
+  orig: 210, 210
+  offset: 39, 44
+  index: -1
+images/Buff_93_37
+  rotate: false
+  xy: 139, 412
+  size: 137, 142
+  orig: 210, 210
+  offset: 39, 37
+  index: -1
+images/Buff_93_38
+  rotate: false
+  xy: 0, 556
+  size: 141, 140
+  orig: 210, 210
+  offset: 35, 40
+  index: -1
+images/Buff_93_39
+  rotate: false
+  xy: 438, 699
+  size: 139, 137
+  orig: 210, 210
+  offset: 35, 43
+  index: -1
+images/Buff_93_40
+  rotate: true
+  xy: 141, 128
+  size: 140, 138
+  orig: 210, 210
+  offset: 34, 42
+  index: -1
+images/Buff_93_41
+  rotate: true
+  xy: 279, 270
+  size: 140, 131
+  orig: 210, 210
+  offset: 36, 41
+  index: -1
+images/Buff_93_42
+  rotate: true
+  xy: 0, 410
+  size: 144, 137
+  orig: 210, 210
+  offset: 36, 38
+  index: -1
+images/Buff_93_43
+  rotate: true
+  xy: 685, 561
+  size: 138, 129
+  orig: 210, 210
+  offset: 40, 38
+  index: -1
+images/Buff_93_44
+  rotate: false
+  xy: 719, 0
+  size: 132, 128
+  orig: 210, 210
+  offset: 42, 41
+  index: -1

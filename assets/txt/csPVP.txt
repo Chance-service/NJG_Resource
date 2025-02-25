@@ -1,0 +1,6 @@
+id	段位名称（字典）	段位头像框路径	需要积分	需要排名	段位名称路径
+1	@PVPRankName1	UI/Common/Image/Image_PVP_PFrame_1.png	0	0	UI/Common/Font/Font_PVP_Lv_1.png
+2	@PVPRankName2	UI/Common/Image/Image_PVP_PFrame_2.png	550	0	UI/Common/Font/Font_PVP_Lv_2.png
+3	@PVPRankName3	UI/Common/Image/Image_PVP_PFrame_3.png	900	0	UI/Common/Font/Font_PVP_Lv_3.png
+4	@PVPRankName4	UI/Common/Image/Image_PVP_PFrame_4.png	1300	11	UI/Common/Font/Font_PVP_Lv_4.png
+5	@PVPRankName5	UI/Common/Image/Image_PVP_PFrame_5.png	1700	1	UI/Common/Font/Font_PVP_Lv_5.png

@@ -1,0 +1,166 @@
+
+NGUI_82_weaponsUP_short.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX03/FX03_000
+  rotate: true
+  xy: 1705, 17
+  size: 350, 338
+  orig: 576, 1024
+  offset: 113, 416
+  index: -1
+FX03/FX03_002
+  rotate: false
+  xy: 1315, 2
+  size: 388, 365
+  orig: 576, 1024
+  offset: 95, 402
+  index: -1
+FX03/FX03_004
+  rotate: false
+  xy: 2, 963
+  size: 544, 516
+  orig: 576, 1024
+  offset: 0, 265
+  index: -1
+FX03/FX03_006
+  rotate: false
+  xy: 580, 955
+  size: 576, 525
+  orig: 576, 1024
+  offset: 0, 264
+  index: -1
+FX03/FX03_008
+  rotate: false
+  xy: 1158, 951
+  size: 576, 530
+  orig: 576, 1024
+  offset: 0, 265
+  index: -1
+FX03/FX03_010
+  rotate: false
+  xy: 1158, 1483
+  size: 576, 546
+  orig: 576, 1024
+  offset: 0, 265
+  index: -1
+FX03/FX03_012
+  rotate: false
+  xy: 2, 1481
+  size: 576, 548
+  orig: 576, 1024
+  offset: 0, 265
+  index: -1
+FX03/FX03_014
+  rotate: false
+  xy: 580, 1482
+  size: 576, 547
+  orig: 576, 1024
+  offset: 0, 266
+  index: -1
+FX03/FX03_016
+  rotate: false
+  xy: 2, 514
+  size: 511, 447
+  orig: 576, 1024
+  offset: 39, 321
+  index: -1
+FX03/FX03_018
+  rotate: false
+  xy: 434, 49
+  size: 436, 463
+  orig: 576, 1024
+  offset: 114, 323
+  index: -1
+FX03/FX03_020
+  rotate: false
+  xy: 2, 46
+  size: 430, 466
+  orig: 576, 1024
+  offset: 121, 338
+  index: -1
+FX03/FX03_022
+  rotate: true
+  xy: 1154, 515
+  size: 434, 452
+  orig: 576, 1024
+  offset: 106, 350
+  index: -1
+FX03/FX03_024
+  rotate: false
+  xy: 872, 57
+  size: 441, 455
+  orig: 576, 1024
+  offset: 101, 365
+  index: -1
+FX03/FX03_028
+  rotate: true
+  xy: 515, 514
+  size: 435, 420
+  orig: 576, 1024
+  offset: 110, 334
+  index: -1
+FX03/FX03_030
+  rotate: true
+  xy: 1608, 369
+  size: 258, 424
+  orig: 576, 1024
+  offset: 142, 349
+  index: -1
+FX03/FX03_032
+  rotate: false
+  xy: 1736, 629
+  size: 268, 429
+  orig: 576, 1024
+  offset: 131, 361
+  index: -1
+FX03/FX03_034
+  rotate: false
+  xy: 1736, 1318
+  size: 276, 449
+  orig: 576, 1024
+  offset: 130, 358
+  index: -1
+FX03/FX03_036
+  rotate: false
+  xy: 1736, 1060
+  size: 273, 256
+  orig: 576, 1024
+  offset: 130, 378
+  index: -1
+FX03/FX03_038
+  rotate: false
+  xy: 1736, 1769
+  size: 279, 260
+  orig: 576, 1024
+  offset: 130, 390
+  index: -1
+FX03/FX03_040
+  rotate: true
+  xy: 937, 809
+  size: 144, 215
+  orig: 576, 1024
+  offset: 258, 415
+  index: -1
+FX03/FX03_041
+  rotate: false
+  xy: 1608, 862
+  size: 88, 87
+  orig: 576, 1024
+  offset: 257, 552
+  index: -1
+
+NGUI_82_weaponsUP_short2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX03/FX03_026
+  rotate: false
+  xy: 2, 2
+  size: 443, 383
+  orig: 576, 1024
+  offset: 102, 338
+  index: -1

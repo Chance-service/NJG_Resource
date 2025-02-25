@@ -1,0 +1,188 @@
+
+Boss_505.png
+size: 590,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BT
+  rotate: false
+  xy: 2, 394
+  size: 360, 194
+  orig: 360, 194
+  offset: 0, 0
+  index: -1
+HT_1
+  rotate: false
+  xy: 2, 50
+  size: 162, 92
+  orig: 162, 92
+  offset: 0, 0
+  index: -1
+HT_2
+  rotate: false
+  xy: 364, 435
+  size: 198, 153
+  orig: 198, 153
+  offset: 0, 0
+  index: -1
+HT_3
+  rotate: false
+  xy: 166, 6
+  size: 114, 60
+  orig: 114, 60
+  offset: 0, 0
+  index: -1
+LH_1
+  rotate: true
+  xy: 405, 94
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+LH_2
+  rotate: true
+  xy: 405, 20
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+LH_3
+  rotate: false
+  xy: 463, 129
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+RH_1
+  rotate: false
+  xy: 475, 39
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+RH_2
+  rotate: false
+  xy: 534, 79
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+RH_3
+  rotate: true
+  xy: 282, 5
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 495, 309
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 190
+  size: 172, 202
+  orig: 172, 202
+  offset: 0, 0
+  index: -1
+bottle
+  rotate: false
+  xy: 373, 313
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+branch
+  rotate: false
+  xy: 166, 68
+  size: 152, 74
+  orig: 152, 74
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 86, 17
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 373, 217
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+feet_1
+  rotate: false
+  xy: 266, 192
+  size: 94, 53
+  orig: 94, 53
+  offset: 0, 0
+  index: -1
+feet_2
+  rotate: false
+  xy: 362, 167
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1
+feet_3
+  rotate: false
+  xy: 2, 7
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 494, 188
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 554, 144
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+puppet
+  rotate: false
+  xy: 351, 22
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+rope1
+  rotate: true
+  xy: 266, 247
+  size: 145, 105
+  orig: 145, 105
+  offset: 0, 0
+  index: -1
+rope2
+  rotate: true
+  xy: 176, 190
+  size: 202, 88
+  orig: 202, 88
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 144
+  size: 308, 44
+  orig: 308, 44
+  offset: 0, 0
+  index: -1
+tomb
+  rotate: false
+  xy: 320, 98
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1

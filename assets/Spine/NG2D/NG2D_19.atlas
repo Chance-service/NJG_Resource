@@ -1,0 +1,634 @@
+
+NG2D_19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Eye Closed
+  rotate: true
+  xy: 544, 853
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00000
+  rotate: true
+  xy: 742, 540
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00002
+  rotate: true
+  xy: 742, 448
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00004
+  rotate: false
+  xy: 904, 317
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00006
+  rotate: true
+  xy: 742, 356
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00008
+  rotate: true
+  xy: 742, 264
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00010
+  rotate: false
+  xy: 904, 155
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00012
+  rotate: true
+  xy: 742, 172
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00014
+  rotate: true
+  xy: 742, 80
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 2, 5
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 393, 22
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+H3
+  rotate: true
+  xy: 73, 11
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+H4
+  rotate: false
+  xy: 904, 479
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+H5
+  rotate: false
+  xy: 39, 10
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+H6
+  rotate: false
+  xy: 544, 926
+  size: 31, 96
+  orig: 31, 96
+  offset: 0, 0
+  index: -1
+HB
+  rotate: false
+  xy: 742, 632
+  size: 276, 221
+  orig: 276, 221
+  offset: 0, 0
+  index: -1
+L Ear
+  rotate: true
+  xy: 307, 16
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 517, 6
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+L Pupil
+  rotate: false
+  xy: 307, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: false
+  xy: 418, 6
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: false
+  xy: 487, 7
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+R Ear
+  rotate: true
+  xy: 244, 11
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 546, 6
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+R Pupil
+  rotate: true
+  xy: 472, 6
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 544, 78
+  size: 196, 773
+  orig: 196, 773
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 447, 6
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 393, 5
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: true
+  xy: 588, 855
+  size: 167, 413
+  orig: 167, 413
+  offset: 0, 0
+  index: -1
+ribbon L
+  rotate: true
+  xy: 508, 27
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+ribbon R
+  rotate: true
+  xy: 162, 11
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+
+NG2D_192.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG 2
+  rotate: false
+  xy: 2, 494
+  size: 540, 528
+  orig: 540, 528
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00016
+  rotate: false
+  xy: 367, 332
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00018
+  rotate: false
+  xy: 544, 714
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00020
+  rotate: true
+  xy: 696, 932
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00022
+  rotate: false
+  xy: 367, 170
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00024
+  rotate: false
+  xy: 544, 552
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00026
+  rotate: true
+  xy: 858, 932
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00028
+  rotate: false
+  xy: 459, 332
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00030
+  rotate: false
+  xy: 459, 170
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00032
+  rotate: false
+  xy: 636, 714
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00034
+  rotate: false
+  xy: 636, 552
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00036
+  rotate: true
+  xy: 367, 78
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00038
+  rotate: false
+  xy: 728, 770
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00040
+  rotate: false
+  xy: 728, 608
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00042
+  rotate: false
+  xy: 820, 770
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00044
+  rotate: false
+  xy: 820, 608
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00046
+  rotate: false
+  xy: 912, 770
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00048
+  rotate: false
+  xy: 912, 608
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00050
+  rotate: true
+  xy: 728, 516
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00052
+  rotate: false
+  xy: 551, 390
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00054
+  rotate: false
+  xy: 551, 228
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00056
+  rotate: false
+  xy: 890, 446
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00058
+  rotate: false
+  xy: 643, 354
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00060
+  rotate: false
+  xy: 735, 354
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00062
+  rotate: true
+  xy: 643, 262
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00064
+  rotate: true
+  xy: 643, 170
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00066
+  rotate: false
+  xy: 551, 66
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00068
+  rotate: true
+  xy: 643, 78
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00070
+  rotate: true
+  xy: 827, 354
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00072
+  rotate: false
+  xy: 805, 192
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00074
+  rotate: false
+  xy: 897, 192
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00076
+  rotate: true
+  xy: 805, 100
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00078
+  rotate: true
+  xy: 805, 8
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 2, 125
+  size: 363, 367
+  orig: 363, 367
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 2, 2
+  size: 121, 285
+  orig: 121, 285
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 544, 876
+  size: 150, 146
+  orig: 150, 146
+  offset: 0, 0
+  index: -1
+
+NG2D_193.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flare FX/Flare_00080
+  rotate: false
+  xy: 2, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00082
+  rotate: false
+  xy: 2, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00084
+  rotate: false
+  xy: 94, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00086
+  rotate: false
+  xy: 2, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00088
+  rotate: false
+  xy: 94, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00090
+  rotate: false
+  xy: 186, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00092
+  rotate: false
+  xy: 94, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00094
+  rotate: true
+  xy: 2, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00096
+  rotate: false
+  xy: 186, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00098
+  rotate: false
+  xy: 278, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00100
+  rotate: false
+  xy: 186, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00102
+  rotate: false
+  xy: 278, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00104
+  rotate: false
+  xy: 370, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00106
+  rotate: false
+  xy: 278, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00108
+  rotate: true
+  xy: 164, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00110
+  rotate: false
+  xy: 370, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00112
+  rotate: false
+  xy: 462, 418
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00114
+  rotate: false
+  xy: 370, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00116
+  rotate: false
+  xy: 462, 256
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00118
+  rotate: false
+  xy: 462, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Flare FX/Flare_00120
+  rotate: true
+  xy: 326, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1

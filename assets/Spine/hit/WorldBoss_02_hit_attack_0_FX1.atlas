@@ -1,0 +1,83 @@
+
+WorldBoss_02_hit_attack_0_FX1.png
+size: 238,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WaterHit/Waterparticle
+  rotate: false
+  xy: 148, 116
+  size: 70, 51
+  orig: 73, 77
+  offset: 2, 13
+  index: -1
+WaterHit/shouji_0000
+  rotate: true
+  xy: 199, 8
+  size: 43, 37
+  orig: 128, 128
+  offset: 43, 47
+  index: -1
+WaterHit/shouji_0001
+  rotate: true
+  xy: 146, 53
+  size: 61, 65
+  orig: 128, 128
+  offset: 35, 38
+  index: -1
+WaterHit/shouji_0003
+  rotate: false
+  xy: 2, 4
+  size: 72, 75
+  orig: 128, 128
+  offset: 28, 28
+  index: -1
+WaterHit/shouji_0005
+  rotate: false
+  xy: 2, 81
+  size: 72, 76
+  orig: 128, 128
+  offset: 28, 28
+  index: -1
+WaterHit/shouji_0007
+  rotate: false
+  xy: 2, 159
+  size: 72, 77
+  orig: 128, 128
+  offset: 28, 28
+  index: -1
+WaterHit/shouji_0009
+  rotate: false
+  xy: 76, 158
+  size: 70, 78
+  orig: 128, 128
+  offset: 29, 28
+  index: -1
+WaterHit/shouji_0011
+  rotate: false
+  xy: 148, 169
+  size: 66, 67
+  orig: 128, 128
+  offset: 33, 39
+  index: -1
+WaterHit/shouji_0013
+  rotate: false
+  xy: 76, 21
+  size: 67, 66
+  orig: 128, 128
+  offset: 32, 40
+  index: -1
+WaterHit/shouji_0015
+  rotate: false
+  xy: 76, 89
+  size: 68, 67
+  orig: 128, 128
+  offset: 32, 40
+  index: -1
+WaterHit/shouji_0016
+  rotate: false
+  xy: 145, 13
+  size: 52, 38
+  orig: 128, 128
+  offset: 41, 48
+  index: -1

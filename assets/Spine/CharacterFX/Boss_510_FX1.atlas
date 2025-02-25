@@ -1,0 +1,104 @@
+
+Boss_510_FX1.png
+size: 377,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/blast_01_tex_005
+  rotate: false
+  xy: 216, 293
+  size: 90, 82
+  orig: 90, 90
+  offset: 0, 4
+  index: -1
+effect/blast_01_tex_006
+  rotate: false
+  xy: 216, 209
+  size: 90, 82
+  orig: 90, 90
+  offset: 0, 4
+  index: -1
+effect/blast_01_tex_007
+  rotate: false
+  xy: 201, 125
+  size: 90, 82
+  orig: 90, 90
+  offset: 0, 4
+  index: -1
+effect/fire_yari_0
+  rotate: false
+  xy: 274, 5
+  size: 37, 38
+  orig: 140, 105
+  offset: 27, 34
+  index: -1
+effect/fire_yari_1
+  rotate: true
+  xy: 274, 45
+  size: 57, 45
+  orig: 140, 105
+  offset: 18, 30
+  index: -1
+effect/fire_yari_2
+  rotate: false
+  xy: 308, 175
+  size: 59, 51
+  orig: 140, 105
+  offset: 30, 25
+  index: -1
+effect/fire_yari_3
+  rotate: false
+  xy: 201, 6
+  size: 71, 57
+  orig: 140, 105
+  offset: 32, 19
+  index: -1
+effect/fire_yari_4
+  rotate: true
+  xy: 308, 287
+  size: 88, 64
+  orig: 140, 105
+  offset: 25, 13
+  index: -1
+effect/fire_yari_5
+  rotate: false
+  xy: 293, 104
+  size: 78, 69
+  orig: 140, 105
+  offset: 39, 11
+  index: -1
+effect/fire_yari_6
+  rotate: false
+  xy: 201, 65
+  size: 71, 58
+  orig: 140, 105
+  offset: 53, 24
+  index: -1
+effect/fire_yari_7
+  rotate: true
+  xy: 308, 228
+  size: 57, 60
+  orig: 140, 105
+  offset: 67, 28
+  index: -1
+effect/fire_yari_8
+  rotate: true
+  xy: 321, 81
+  size: 21, 54
+  orig: 140, 105
+  offset: 88, 37
+  index: -1
+poison/cloud01
+  rotate: false
+  xy: 2, 221
+  size: 212, 154
+  orig: 212, 154
+  offset: 0, 0
+  index: -1
+poison/cloud02
+  rotate: false
+  xy: 2, 20
+  size: 197, 199
+  orig: 202, 203
+  offset: 5, 4
+  index: -1

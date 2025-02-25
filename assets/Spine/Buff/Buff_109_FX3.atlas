@@ -1,0 +1,139 @@
+
+Buff_109_FX3.png
+size: 686,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buff_1_FX3/Botton ring_00
+  rotate: false
+  xy: 336, 600
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 22
+  index: -1
+Buff_1_FX3/Botton ring_01
+  rotate: false
+  xy: 336, 512
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_02
+  rotate: false
+  xy: 0, 599
+  size: 245, 87
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_03
+  rotate: true
+  xy: 247, 441
+  size: 245, 87
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_04
+  rotate: true
+  xy: 425, 265
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_05
+  rotate: false
+  xy: 0, 264
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_06
+  rotate: true
+  xy: 247, 105
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_07
+  rotate: true
+  xy: 335, 105
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_08
+  rotate: true
+  xy: 0, 352
+  size: 245, 87
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_09
+  rotate: true
+  xy: 0, 17
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_10
+  rotate: true
+  xy: 88, 17
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_11
+  rotate: false
+  xy: 423, 177
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_12
+  rotate: true
+  xy: 89, 352
+  size: 245, 87
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_13
+  rotate: false
+  xy: 178, 352
+  size: 245, 87
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_14
+  rotate: false
+  xy: 423, 89
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_15
+  rotate: false
+  xy: 176, 17
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_16
+  rotate: false
+  xy: 423, 1
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1
+Buff_1_FX3/Botton ring_17
+  rotate: true
+  xy: 513, 265
+  size: 245, 85
+  orig: 245, 140
+  offset: 0, 22
+  index: -1
+Buff_1_FX3/Botton ring_18
+  rotate: true
+  xy: 600, 441
+  size: 245, 86
+  orig: 245, 140
+  offset: 0, 21
+  index: -1

@@ -1,0 +1,97 @@
+
+hit0103.png
+size: 432,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fisthit_00
+  rotate: false
+  xy: 111, 54
+  size: 101, 104
+  orig: 148, 145
+  offset: 45, 21
+  index: -1
+fisthit_01
+  rotate: false
+  xy: 2, 34
+  size: 107, 124
+  orig: 148, 145
+  offset: 39, 11
+  index: -1
+fisthit_02
+  rotate: false
+  xy: 289, 164
+  size: 138, 124
+  orig: 148, 145
+  offset: 8, 11
+  index: -1
+fisthit_03
+  rotate: false
+  xy: 2, 160
+  size: 145, 131
+  orig: 148, 145
+  offset: 1, 6
+  index: -1
+fisthit_04
+  rotate: false
+  xy: 2, 293
+  size: 146, 137
+  orig: 148, 145
+  offset: 0, 1
+  index: -1
+fisthit_05
+  rotate: true
+  xy: 150, 292
+  size: 138, 140
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+fisthit_06
+  rotate: false
+  xy: 292, 290
+  size: 134, 140
+  orig: 148, 145
+  offset: 4, 0
+  index: -1
+fisthit_07
+  rotate: true
+  xy: 149, 160
+  size: 130, 138
+  orig: 148, 145
+  offset: 8, 0
+  index: -1
+fisthit_08
+  rotate: true
+  xy: 289, 42
+  size: 120, 128
+  orig: 148, 145
+  offset: 12, 8
+  index: -1
+fisthit_09
+  rotate: true
+  xy: 111, 2
+  size: 50, 62
+  orig: 148, 145
+  offset: 66, 22
+  index: -1
+fisthit_10
+  rotate: true
+  xy: 175, 2
+  size: 50, 62
+  orig: 148, 145
+  offset: 66, 22
+  index: -1
+fisthit_11
+  rotate: true
+  xy: 214, 108
+  size: 50, 53
+  orig: 148, 145
+  offset: 66, 22
+  index: -1
+fisthit_12
+  rotate: true
+  xy: 214, 57
+  size: 49, 53
+  orig: 148, 145
+  offset: 66, 22
+  index: -1

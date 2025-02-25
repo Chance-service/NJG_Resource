@@ -1,0 +1,75 @@
+
+NGUI_64_LeaderUpgrade.png
+size: 2026,2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heal
+  rotate: false
+  xy: 2, 744
+  size: 576, 1280
+  orig: 576, 1280
+  offset: 0, 0
+  index: -1
+img1
+  rotate: false
+  xy: 1284, 2
+  size: 740, 740
+  orig: 740, 740
+  offset: 0, 0
+  index: -1
+img5
+  rotate: false
+  xy: 1736, 1143
+  size: 233, 881
+  orig: 233, 881
+  offset: 0, 0
+  index: -1
+magic
+  rotate: false
+  xy: 580, 744
+  size: 576, 1280
+  orig: 576, 1280
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 1158, 744
+  size: 576, 1280
+  orig: 576, 1280
+  offset: 0, 0
+  index: -1
+sward
+  rotate: true
+  xy: 2, 166
+  size: 576, 1280
+  orig: 576, 1280
+  offset: 0, 0
+  index: -1
+
+NGUI_64_LeaderUpgrade2.png
+size: 1226,1226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img2
+  rotate: false
+  xy: 843, 385
+  size: 364, 839
+  orig: 364, 839
+  offset: 0, 0
+  index: -1
+img3
+  rotate: false
+  xy: 2, 484
+  size: 740, 740
+  orig: 740, 740
+  offset: 0, 0
+  index: -1
+img4
+  rotate: true
+  xy: 2, 2
+  size: 480, 839
+  orig: 480, 839
+  offset: 0, 0
+  index: -1

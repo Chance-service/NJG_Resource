@@ -1,0 +1,1315 @@
+
+NGUI_53_Gacha3Summon.png
+size: 2046,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4367ec05-46d1-4a9c-85fc-a726a9eb1e09
+  rotate: false
+  xy: 1468, 478
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+AS0714
+  rotate: false
+  xy: 1796, 209
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+BG Faction trans
+  rotate: false
+  xy: 1468, 685
+  size: 576, 1071
+  orig: 576, 1071
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_082
+  rotate: true
+  xy: 1474, 1758
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+E_Ray100_emis
+  rotate: false
+  xy: 1474, 361
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+FX13/FX13_65
+  rotate: false
+  xy: 1474, 9
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+bg01a03
+  rotate: false
+  xy: 2, 446
+  size: 1126, 1600
+  orig: 1126, 1600
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_05
+  rotate: false
+  xy: 766, 92
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_06
+  rotate: false
+  xy: 1120, 92
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_07
+  rotate: false
+  xy: 1675, 331
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 404, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+image/Ring_01
+  rotate: false
+  xy: 1796, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_20
+  rotate: true
+  xy: 1130, 1408
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_21
+  rotate: true
+  xy: 1130, 1122
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_22
+  rotate: true
+  xy: 1130, 836
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_23
+  rotate: true
+  xy: 1130, 550
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/light_5613814
+  rotate: false
+  xy: 2, 44
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+purple
+  rotate: true
+  xy: 1130, 1694
+  size: 352, 336
+  orig: 352, 336
+  offset: 0, 0
+  index: -1
+violet
+  rotate: false
+  xy: 404, 84
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon2.png
+size: 2048,1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_FX04/FX04_083
+  rotate: true
+  xy: 340, 610
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_084
+  rotate: true
+  xy: 854, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_085
+  rotate: true
+  xy: 1368, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_086
+  rotate: true
+  xy: 292, 320
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_087
+  rotate: true
+  xy: 806, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_088
+  rotate: true
+  xy: 1320, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_089
+  rotate: true
+  xy: 292, 30
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_090
+  rotate: true
+  xy: 806, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_091
+  rotate: true
+  xy: 1320, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+FX1_0299
+  rotate: false
+  xy: 2, 324
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+Flare/Flare_82
+  rotate: false
+  xy: 2, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_83
+  rotate: false
+  xy: 260, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_84
+  rotate: false
+  xy: 518, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_85
+  rotate: false
+  xy: 776, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_86
+  rotate: false
+  xy: 1034, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_87
+  rotate: false
+  xy: 1292, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_88
+  rotate: false
+  xy: 1550, 1730
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_89
+  rotate: false
+  xy: 2, 1472
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_90
+  rotate: false
+  xy: 260, 1472
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Flare/Flare_91
+  rotate: false
+  xy: 518, 1472
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+StarLight
+  rotate: false
+  xy: 2, 34
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_24
+  rotate: true
+  xy: 1034, 1444
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_25
+  rotate: true
+  xy: 1372, 1444
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_26
+  rotate: true
+  xy: 1710, 1444
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_27
+  rotate: true
+  xy: 2, 1186
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_28
+  rotate: true
+  xy: 340, 1186
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_29
+  rotate: true
+  xy: 678, 1186
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_30
+  rotate: true
+  xy: 1016, 1158
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_31
+  rotate: true
+  xy: 1354, 1158
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_32
+  rotate: true
+  xy: 1692, 1158
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_33
+  rotate: true
+  xy: 2, 900
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_34
+  rotate: true
+  xy: 340, 900
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_35
+  rotate: true
+  xy: 678, 900
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_36
+  rotate: true
+  xy: 1016, 872
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_37
+  rotate: true
+  xy: 1354, 872
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_38
+  rotate: true
+  xy: 1692, 872
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+image/WarpFlow/WarpFlow_39
+  rotate: true
+  xy: 2, 614
+  size: 284, 336
+  orig: 284, 336
+  offset: 0, 0
+  index: -1
+opticle
+  rotate: false
+  xy: 776, 1472
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon3.png
+size: 1834,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_FX04/FX04_092
+  rotate: true
+  xy: 2, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_093
+  rotate: true
+  xy: 516, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_094
+  rotate: true
+  xy: 1030, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_095
+  rotate: true
+  xy: 2, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_096
+  rotate: true
+  xy: 516, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_097
+  rotate: true
+  xy: 1030, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_098
+  rotate: true
+  xy: 2, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_099
+  rotate: true
+  xy: 516, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_100
+  rotate: true
+  xy: 1030, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_101
+  rotate: true
+  xy: 2, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_102
+  rotate: true
+  xy: 516, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_103
+  rotate: true
+  xy: 1030, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_104
+  rotate: true
+  xy: 2, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_105
+  rotate: true
+  xy: 516, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_106
+  rotate: true
+  xy: 1030, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_107
+  rotate: true
+  xy: 2, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_108
+  rotate: true
+  xy: 516, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_109
+  rotate: true
+  xy: 1030, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_110
+  rotate: true
+  xy: 2, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_111
+  rotate: true
+  xy: 516, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_112
+  rotate: true
+  xy: 1030, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_44
+  rotate: false
+  xy: 1544, 1742
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_45
+  rotate: false
+  xy: 1544, 1452
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_46
+  rotate: false
+  xy: 1544, 1162
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_47
+  rotate: false
+  xy: 1544, 872
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_48
+  rotate: false
+  xy: 1544, 582
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_49
+  rotate: false
+  xy: 1544, 292
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_50
+  rotate: false
+  xy: 1544, 2
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon4.png
+size: 1866,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_FX04/FX04_113
+  rotate: true
+  xy: 2, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_114
+  rotate: true
+  xy: 516, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_115
+  rotate: true
+  xy: 1030, 1742
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_116
+  rotate: true
+  xy: 2, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_117
+  rotate: true
+  xy: 516, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_118
+  rotate: true
+  xy: 1030, 1452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_119
+  rotate: true
+  xy: 2, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_120
+  rotate: true
+  xy: 516, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_121
+  rotate: true
+  xy: 1030, 1162
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_122
+  rotate: true
+  xy: 2, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_123
+  rotate: true
+  xy: 516, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_124
+  rotate: true
+  xy: 1030, 872
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_125
+  rotate: true
+  xy: 2, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_126
+  rotate: true
+  xy: 516, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+BG_FX04/FX04_127
+  rotate: true
+  xy: 1030, 582
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+FX13/FX13_66
+  rotate: false
+  xy: 1544, 1130
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_67
+  rotate: false
+  xy: 1544, 808
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_68
+  rotate: false
+  xy: 1544, 486
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_69
+  rotate: false
+  xy: 1544, 164
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_70
+  rotate: false
+  xy: 1544, 164
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_130
+  rotate: true
+  xy: 2, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_131
+  rotate: true
+  xy: 516, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_132
+  rotate: true
+  xy: 1030, 292
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_133
+  rotate: true
+  xy: 2, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_134
+  rotate: true
+  xy: 516, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_135
+  rotate: true
+  xy: 1030, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_51
+  rotate: false
+  xy: 1544, 1742
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+image/Reset_particle/particle_52
+  rotate: false
+  xy: 1544, 1452
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon5.png
+size: 2026,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-FactionSummon-Faction
+  rotate: false
+  xy: 2, 902
+  size: 576, 1024
+  orig: 576, 1024
+  offset: 0, 0
+  index: -1
+FX02/FX02_00
+  rotate: false
+  xy: 2, 100
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_01
+  rotate: false
+  xy: 1382, 1126
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_02
+  rotate: false
+  xy: 1704, 1126
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_03
+  rotate: false
+  xy: 324, 100
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_04
+  rotate: false
+  xy: 646, 324
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_05
+  rotate: false
+  xy: 968, 324
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_06
+  rotate: false
+  xy: 1290, 324
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_07
+  rotate: false
+  xy: 1612, 324
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_08
+  rotate: true
+  xy: 646, 2
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_136
+  rotate: true
+  xy: 1448, 34
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+radient light
+  rotate: false
+  xy: 580, 1126
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon6.png
+size: 2026,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_09
+  rotate: false
+  xy: 2, 1228
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_10
+  rotate: false
+  xy: 2, 426
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_11
+  rotate: false
+  xy: 324, 1228
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_12
+  rotate: false
+  xy: 324, 426
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_13
+  rotate: true
+  xy: 710, 1708
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+FX02/FX02_14
+  rotate: true
+  xy: 710, 1386
+  size: 320, 800
+  orig: 320, 800
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_08
+  rotate: false
+  xy: 2, 72
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_09
+  rotate: false
+  xy: 356, 72
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_10
+  rotate: false
+  xy: 1580, 226
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_137
+  rotate: true
+  xy: 1512, 1740
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_138
+  rotate: true
+  xy: 1512, 1450
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_139
+  rotate: true
+  xy: 1512, 1160
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_140
+  rotate: false
+  xy: 646, 646
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_141
+  rotate: true
+  xy: 936, 1096
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_142
+  rotate: true
+  xy: 1450, 870
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_143
+  rotate: true
+  xy: 936, 806
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_144
+  rotate: true
+  xy: 1450, 580
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_145
+  rotate: true
+  xy: 936, 516
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_146
+  rotate: false
+  xy: 710, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_147
+  rotate: false
+  xy: 1000, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+fullscreen/fullscreen_148
+  rotate: false
+  xy: 1290, 2
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon7.png
+size: 1966,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX13/FX13_71
+  rotate: false
+  xy: 2, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_72
+  rotate: false
+  xy: 324, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_73
+  rotate: false
+  xy: 646, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_74
+  rotate: false
+  xy: 968, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_75
+  rotate: false
+  xy: 1290, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FX13/FX13_76
+  rotate: false
+  xy: 1290, 1450
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_11
+  rotate: false
+  xy: 1612, 1418
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_12
+  rotate: false
+  xy: 2, 1096
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_13
+  rotate: false
+  xy: 356, 1096
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_14
+  rotate: false
+  xy: 710, 1096
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_15
+  rotate: false
+  xy: 1064, 1096
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_16
+  rotate: false
+  xy: 1418, 1064
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_17
+  rotate: false
+  xy: 2, 742
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_18
+  rotate: false
+  xy: 356, 742
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_19
+  rotate: false
+  xy: 710, 742
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_20
+  rotate: false
+  xy: 1064, 742
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_21
+  rotate: false
+  xy: 1418, 710
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_22
+  rotate: false
+  xy: 2, 388
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_23
+  rotate: false
+  xy: 356, 388
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_24
+  rotate: false
+  xy: 710, 388
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_25
+  rotate: false
+  xy: 1064, 388
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_26
+  rotate: false
+  xy: 1418, 356
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_27
+  rotate: false
+  xy: 2, 34
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_28
+  rotate: false
+  xy: 356, 34
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_29
+  rotate: false
+  xy: 710, 34
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_30
+  rotate: false
+  xy: 1064, 34
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_31
+  rotate: false
+  xy: 1418, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha3Summon8.png
+size: 1418,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+edge glow/edge glow_32
+  rotate: false
+  xy: 2, 356
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_33
+  rotate: false
+  xy: 2, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_34
+  rotate: false
+  xy: 356, 356
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_35
+  rotate: false
+  xy: 356, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_36
+  rotate: false
+  xy: 710, 356
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_37
+  rotate: false
+  xy: 710, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_38
+  rotate: false
+  xy: 1064, 356
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1
+edge glow/edge glow_39
+  rotate: false
+  xy: 1064, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Enemy03_FX1.png
+size: 283,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texture01/FX/FX01/Shape_FP_18_0000
+  rotate: false
+  xy: 155, 5
+  size: 57, 33
+  orig: 150, 150
+  offset: 63, 117
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0001
+  rotate: false
+  xy: 156, 77
+  size: 61, 51
+  orig: 150, 150
+  offset: 64, 99
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0002
+  rotate: true
+  xy: 162, 130
+  size: 58, 69
+  orig: 150, 150
+  offset: 69, 78
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0003
+  rotate: false
+  xy: 2, 173
+  size: 77, 108
+  orig: 150, 150
+  offset: 59, 33
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0004
+  rotate: false
+  xy: 81, 179
+  size: 79, 102
+  orig: 150, 150
+  offset: 56, 34
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0005
+  rotate: false
+  xy: 2, 76
+  size: 75, 95
+  orig: 150, 150
+  offset: 58, 35
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0006
+  rotate: false
+  xy: 162, 190
+  size: 74, 91
+  orig: 150, 150
+  offset: 58, 35
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0007
+  rotate: false
+  xy: 79, 86
+  size: 75, 85
+  orig: 150, 150
+  offset: 58, 37
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0008
+  rotate: false
+  xy: 79, 2
+  size: 74, 82
+  orig: 150, 150
+  offset: 59, 39
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0009
+  rotate: true
+  xy: 2, 5
+  size: 69, 74
+  orig: 150, 150
+  offset: 63, 42
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0010
+  rotate: true
+  xy: 238, 218
+  size: 63, 42
+  orig: 150, 150
+  offset: 67, 46
+  index: -1
+texture01/FX/FX01/Shape_FP_18_0011
+  rotate: false
+  xy: 155, 40
+  size: 56, 35
+  orig: 150, 150
+  offset: 72, 51
+  index: -1

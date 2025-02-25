@@ -1,0 +1,173 @@
+
+NG_02_01_HCG.png
+size: 2014,2014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 521, 183
+  size: 183, 359
+  orig: 183, 359
+  offset: 0, 0
+  index: -1
+Ass
+  rotate: false
+  xy: 2, 1379
+  size: 1036, 633
+  orig: 1036, 633
+  offset: 0, 0
+  index: -1
+Background
+  rotate: true
+  xy: 955, 509
+  size: 518, 801
+  orig: 518, 801
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1040, 1029
+  size: 615, 983
+  orig: 615, 983
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: true
+  xy: 825, 57
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: true
+  xy: 1758, 653
+  size: 156, 119
+  orig: 156, 119
+  offset: 0, 0
+  index: -1
+Eyes_Close
+  rotate: false
+  xy: 1758, 548
+  size: 154, 103
+  orig: 154, 103
+  offset: 0, 0
+  index: -1
+Hair_back
+  rotate: true
+  xy: 2, 689
+  size: 688, 602
+  orig: 688, 602
+  offset: 0, 0
+  index: -1
+Hair_back2
+  rotate: false
+  xy: 606, 368
+  size: 329, 405
+  orig: 329, 405
+  offset: 0, 0
+  index: -1
+Hair_back3
+  rotate: false
+  xy: 1758, 811
+  size: 253, 568
+  orig: 253, 568
+  offset: 0, 0
+  index: -1
+Hair_front
+  rotate: false
+  xy: 1539, 42
+  size: 311, 465
+  orig: 311, 465
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 1657, 1381
+  size: 631, 311
+  orig: 631, 311
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 955, 1279
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 955, 1305
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Penis
+  rotate: false
+  xy: 937, 7
+  size: 600, 500
+  orig: 600, 500
+  offset: 0, 0
+  index: -1
+Semen1
+  rotate: false
+  xy: 521, 12
+  size: 302, 169
+  orig: 302, 169
+  offset: 0, 0
+  index: -1
+Semen2
+  rotate: true
+  xy: 238, 31
+  size: 127, 280
+  orig: 127, 280
+  offset: 0, 0
+  index: -1
+bg01
+  rotate: true
+  xy: 606, 775
+  size: 602, 347
+  orig: 602, 347
+  offset: 0, 0
+  index: -1
+bg05
+  rotate: true
+  xy: 2, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 160
+  size: 517, 527
+  orig: 517, 527
+  offset: 0, 0
+  index: -1
+
+NG_02_01_HCG2.png
+size: 701,701
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: false
+  xy: 2, 2
+  size: 252, 697
+  orig: 252, 697
+  offset: 0, 0
+  index: -1
+Background2
+  rotate: false
+  xy: 256, 416
+  size: 334, 283
+  orig: 334, 283
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 256, 117
+  size: 290, 297
+  orig: 290, 297
+  offset: 0, 0
+  index: -1

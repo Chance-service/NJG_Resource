@@ -1,0 +1,321 @@
+
+Buff_87_FX2.png
+size: 855,855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX texture_000
+  rotate: false
+  xy: 2, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_001
+  rotate: false
+  xy: 2, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_002
+  rotate: false
+  xy: 124, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_003
+  rotate: false
+  xy: 2, 489
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_004
+  rotate: false
+  xy: 124, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_005
+  rotate: false
+  xy: 246, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_006
+  rotate: false
+  xy: 2, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_007
+  rotate: false
+  xy: 124, 489
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_008
+  rotate: false
+  xy: 246, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_009
+  rotate: false
+  xy: 368, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_010
+  rotate: false
+  xy: 2, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_011
+  rotate: false
+  xy: 124, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_012
+  rotate: false
+  xy: 246, 489
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_013
+  rotate: false
+  xy: 368, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_014
+  rotate: false
+  xy: 490, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_015
+  rotate: false
+  xy: 2, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_016
+  rotate: false
+  xy: 124, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_017
+  rotate: false
+  xy: 246, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_018
+  rotate: false
+  xy: 368, 489
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_019
+  rotate: false
+  xy: 2, 2
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_020
+  rotate: true
+  xy: 734, 733
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_021
+  rotate: false
+  xy: 124, 2
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_022
+  rotate: true
+  xy: 734, 611
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_023
+  rotate: false
+  xy: 246, 2
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_024
+  rotate: false
+  xy: 612, 490
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_025
+  rotate: true
+  xy: 734, 489
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_026
+  rotate: false
+  xy: 368, 125
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_027
+  rotate: false
+  xy: 490, 247
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_028
+  rotate: false
+  xy: 612, 249
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_029
+  rotate: true
+  xy: 734, 367
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_030
+  rotate: false
+  xy: 368, 5
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_031
+  rotate: false
+  xy: 490, 127
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_032
+  rotate: false
+  xy: 612, 129
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_033
+  rotate: true
+  xy: 734, 245
+  size: 120, 118
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_034
+  rotate: false
+  xy: 612, 369
+  size: 120, 119
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_035
+  rotate: false
+  xy: 490, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_036
+  rotate: false
+  xy: 612, 733
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_037
+  rotate: false
+  xy: 124, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_038
+  rotate: false
+  xy: 246, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_039
+  rotate: false
+  xy: 368, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_040
+  rotate: false
+  xy: 490, 489
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_041
+  rotate: false
+  xy: 612, 611
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_042
+  rotate: false
+  xy: 246, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_043
+  rotate: false
+  xy: 368, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+FX texture_044
+  rotate: false
+  xy: 490, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

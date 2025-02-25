@@ -1,0 +1,16 @@
+info face="FOT-Skip Std B" size=45 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=2,2 outline=0
+common lineHeight=44 base=35 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="battleblue_0.png"
+chars count=12
+char id=43   x=0     y=0     width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=45   x=32    y=0     width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=48   x=64    y=0     width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=49   x=96    y=0     width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=50   x=0     y=39    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=51   x=32    y=39    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=52   x=64    y=39    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=53   x=96    y=39    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=54   x=0     y=78    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=55   x=32    y=78    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=56   x=64    y=78    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15
+char id=57   x=96    y=78    width=30    height=37    xoffset=-2    yoffset=-2    xadvance=26    page=0  chnl=15

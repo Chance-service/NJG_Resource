@@ -1,0 +1,443 @@
+
+NGUI_83_weaponsUP2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_010
+  rotate: false
+  xy: 2, 1241
+  size: 720, 796
+  orig: 720, 1280
+  offset: 0, 348
+  index: -1
+FX02/FX02_012
+  rotate: false
+  xy: 2, 451
+  size: 720, 788
+  orig: 720, 1280
+  offset: 0, 361
+  index: -1
+FX02/FX02_014
+  rotate: true
+  xy: 1042, 1317
+  size: 720, 770
+  orig: 720, 1280
+  offset: 0, 365
+  index: -1
+FX02/FX02_038
+  rotate: false
+  xy: 724, 451
+  size: 720, 681
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_046
+  rotate: false
+  xy: 680, 25
+  size: 360, 424
+  orig: 360, 640
+  offset: 0, 138
+  index: -1
+FX02/FX02_052
+  rotate: true
+  xy: 1042, 89
+  size: 360, 402
+  orig: 360, 640
+  offset: 0, 145
+  index: -1
+FX02/FX02_068
+  rotate: false
+  xy: 2, 2
+  size: 360, 447
+  orig: 360, 640
+  offset: 0, 152
+  index: -1
+FX02/FX02_090
+  rotate: false
+  xy: 1446, 9
+  size: 360, 582
+  orig: 360, 640
+  offset: 0, 58
+  index: -1
+FX02/FX02_092
+  rotate: true
+  xy: 1446, 593
+  size: 360, 585
+  orig: 360, 640
+  offset: 0, 55
+  index: -1
+FX02/FX02_094
+  rotate: true
+  xy: 1446, 955
+  size: 360, 587
+  orig: 360, 640
+  offset: 0, 53
+  index: -1
+FX02/FX02_098
+  rotate: false
+  xy: 724, 1545
+  size: 315, 492
+  orig: 360, 640
+  offset: 25, 130
+  index: -1
+FX02/FX02_110
+  rotate: false
+  xy: 364, 21
+  size: 314, 428
+  orig: 360, 640
+  offset: 12, 163
+  index: -1
+FX02/FX02_112
+  rotate: false
+  xy: 724, 1134
+  size: 314, 409
+  orig: 360, 640
+  offset: 12, 185
+  index: -1
+FX02/FX02_118
+  rotate: false
+  xy: 1814, 1773
+  size: 232, 264
+  orig: 360, 640
+  offset: 62, 206
+  index: -1
+FX02/FX02_119
+  rotate: false
+  xy: 1814, 1512
+  size: 230, 259
+  orig: 360, 640
+  offset: 63, 209
+  index: -1
+
+NGUI_83_weaponsUP22.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_006
+  rotate: true
+  xy: 1159, 1300
+  size: 720, 736
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_008
+  rotate: false
+  xy: 2, 1251
+  size: 720, 769
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_016
+  rotate: false
+  xy: 2, 497
+  size: 720, 752
+  orig: 720, 1280
+  offset: 0, 369
+  index: -1
+FX02/FX02_026
+  rotate: false
+  xy: 1086, 574
+  size: 720, 724
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_080
+  rotate: false
+  xy: 1521, 6
+  size: 360, 566
+  orig: 360, 640
+  offset: 0, 74
+  index: -1
+FX02/FX02_082
+  rotate: false
+  xy: 1159, 2
+  size: 360, 570
+  orig: 360, 640
+  offset: 0, 70
+  index: -1
+FX02/FX02_084
+  rotate: false
+  xy: 724, 870
+  size: 360, 573
+  orig: 360, 640
+  offset: 0, 67
+  index: -1
+FX02/FX02_086
+  rotate: true
+  xy: 582, 135
+  size: 360, 575
+  orig: 360, 640
+  offset: 0, 65
+  index: -1
+FX02/FX02_088
+  rotate: true
+  xy: 2, 135
+  size: 360, 578
+  orig: 360, 640
+  offset: 0, 62
+  index: -1
+FX02/FX02_096
+  rotate: false
+  xy: 724, 1445
+  size: 360, 575
+  orig: 360, 640
+  offset: 0, 65
+  index: -1
+
+NGUI_83_weaponsUP23.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_028
+  rotate: false
+  xy: 2, 1320
+  size: 720, 721
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_030
+  rotate: false
+  xy: 2, 597
+  size: 720, 721
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_032
+  rotate: true
+  xy: 724, 602
+  size: 720, 715
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_040
+  rotate: false
+  xy: 724, 1324
+  size: 720, 717
+  orig: 720, 1280
+  offset: 0, 337
+  index: -1
+FX02/FX02_070
+  rotate: true
+  xy: 1441, 962
+  size: 360, 492
+  orig: 360, 640
+  offset: 0, 132
+  index: -1
+FX02/FX02_072
+  rotate: false
+  xy: 1088, 73
+  size: 360, 527
+  orig: 360, 640
+  offset: 0, 113
+  index: -1
+FX02/FX02_074
+  rotate: false
+  xy: 726, 59
+  size: 360, 541
+  orig: 360, 640
+  offset: 0, 99
+  index: -1
+FX02/FX02_076
+  rotate: false
+  xy: 364, 43
+  size: 360, 552
+  orig: 360, 640
+  offset: 0, 88
+  index: -1
+FX02/FX02_078
+  rotate: false
+  xy: 2, 35
+  size: 360, 560
+  orig: 360, 640
+  offset: 0, 80
+  index: -1
+FX02/FX02_100
+  rotate: true
+  xy: 1441, 638
+  size: 322, 490
+  orig: 360, 640
+  offset: 15, 135
+  index: -1
+FX02/FX02_102
+  rotate: true
+  xy: 1450, 314
+  size: 322, 485
+  orig: 360, 640
+  offset: 12, 143
+  index: -1
+FX02/FX02_104
+  rotate: true
+  xy: 1446, 1719
+  size: 322, 481
+  orig: 360, 640
+  offset: 12, 151
+  index: -1
+FX02/FX02_106
+  rotate: true
+  xy: 1446, 1395
+  size: 322, 481
+  orig: 360, 640
+  offset: 12, 154
+  index: -1
+FX02/FX02_114
+  rotate: true
+  xy: 1450, 2
+  size: 310, 404
+  orig: 360, 640
+  offset: 12, 192
+  index: -1
+
+NGUI_83_weaponsUP24.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_018
+  rotate: false
+  xy: 2, 613
+  size: 720, 709
+  orig: 720, 1280
+  offset: 0, 375
+  index: -1
+FX02/FX02_022
+  rotate: false
+  xy: 724, 1331
+  size: 720, 706
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_024
+  rotate: false
+  xy: 2, 1324
+  size: 720, 713
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_034
+  rotate: false
+  xy: 724, 625
+  size: 720, 704
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_042
+  rotate: false
+  xy: 1446, 388
+  size: 360, 395
+  orig: 360, 640
+  offset: 0, 154
+  index: -1
+FX02/FX02_044
+  rotate: false
+  xy: 1446, 1197
+  size: 360, 415
+  orig: 360, 640
+  offset: 0, 142
+  index: -1
+FX02/FX02_048
+  rotate: false
+  xy: 1446, 1614
+  size: 360, 423
+  orig: 360, 640
+  offset: 0, 138
+  index: -1
+FX02/FX02_050
+  rotate: false
+  xy: 326, 195
+  size: 360, 416
+  orig: 360, 640
+  offset: 0, 140
+  index: -1
+FX02/FX02_054
+  rotate: false
+  xy: 929, 232
+  size: 360, 391
+  orig: 360, 640
+  offset: 0, 149
+  index: -1
+FX02/FX02_056
+  rotate: true
+  xy: 1291, 26
+  size: 360, 389
+  orig: 360, 640
+  offset: 0, 149
+  index: -1
+FX02/FX02_058
+  rotate: false
+  xy: 1682, 2
+  size: 360, 384
+  orig: 360, 640
+  offset: 0, 149
+  index: -1
+FX02/FX02_066
+  rotate: false
+  xy: 1446, 785
+  size: 360, 410
+  orig: 360, 640
+  offset: 0, 151
+  index: -1
+FX02/FX02_108
+  rotate: false
+  xy: 2, 132
+  size: 322, 479
+  orig: 360, 640
+  offset: 11, 158
+  index: -1
+FX02/FX02_116
+  rotate: false
+  xy: 688, 213
+  size: 239, 398
+  orig: 360, 640
+  offset: 58, 199
+  index: -1
+
+NGUI_83_weaponsUP25.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX02/FX02_004
+  rotate: false
+  xy: 724, 1127
+  size: 720, 658
+  orig: 720, 1280
+  offset: 0, 383
+  index: -1
+FX02/FX02_020
+  rotate: false
+  xy: 2, 1087
+  size: 720, 698
+  orig: 720, 1280
+  offset: 0, 382
+  index: -1
+FX02/FX02_036
+  rotate: false
+  xy: 2, 392
+  size: 720, 693
+  orig: 720, 1280
+  offset: 0, 384
+  index: -1
+FX02/FX02_060
+  rotate: false
+  xy: 724, 742
+  size: 360, 383
+  orig: 360, 640
+  offset: 0, 149
+  index: -1
+FX02/FX02_062
+  rotate: false
+  xy: 1446, 1403
+  size: 360, 382
+  orig: 360, 640
+  offset: 0, 150
+  index: -1
+FX02/FX02_064
+  rotate: false
+  xy: 2, 2
+  size: 360, 388
+  orig: 360, 640
+  offset: 0, 150
+  index: -1

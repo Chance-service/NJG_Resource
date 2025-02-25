@@ -1,0 +1,104 @@
+
+NGEvent_02_E002Title.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM
+  rotate: true
+  xy: 1313, 534
+  size: 488, 679
+  orig: 488, 679
+  offset: 0, 0
+  index: -1
+BOOB
+  rotate: true
+  xy: 628, 222
+  size: 251, 301
+  orig: 251, 301
+  offset: 0, 0
+  index: -1
+COS_B
+  rotate: false
+  xy: 2, 485
+  size: 664, 537
+  orig: 664, 537
+  offset: 0, 0
+  index: -1
+COS_B2
+  rotate: false
+  xy: 2, 152
+  size: 373, 331
+  orig: 373, 331
+  offset: 0, 0
+  index: -1
+EYE1
+  rotate: true
+  xy: 1994, 884
+  size: 138, 46
+  orig: 138, 46
+  offset: 0, 0
+  index: -1
+EYE2
+  rotate: false
+  xy: 931, 232
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1
+EYE3
+  rotate: false
+  xy: 2, 105
+  size: 138, 45
+  orig: 138, 45
+  offset: 0, 0
+  index: -1
+EYE4
+  rotate: false
+  xy: 628, 189
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+FACE
+  rotate: true
+  xy: 377, 2
+  size: 174, 213
+  orig: 174, 213
+  offset: 0, 0
+  index: -1
+HAIR_B
+  rotate: true
+  xy: 1313, 113
+  size: 419, 682
+  orig: 419, 682
+  offset: 0, 0
+  index: -1
+HAIR_F
+  rotate: false
+  xy: 377, 178
+  size: 249, 305
+  orig: 249, 305
+  offset: 0, 0
+  index: -1
+HAND
+  rotate: false
+  xy: 931, 279
+  size: 208, 194
+  orig: 208, 194
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 668, 475
+  size: 547, 643
+  orig: 547, 643
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 592, 53
+  size: 123, 16
+  orig: 123, 16
+  offset: 0, 0
+  index: -1

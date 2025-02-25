@@ -1,0 +1,76 @@
+
+Buff_29_FX1.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_00
+  rotate: false
+  xy: 127, 102
+  size: 121, 75
+  orig: 504, 504
+  offset: 193, 235
+  index: -1
+2_01
+  rotate: true
+  xy: 254, 89
+  size: 121, 75
+  orig: 504, 504
+  offset: 193, 235
+  index: -1
+2_02
+  rotate: false
+  xy: 0, 24
+  size: 121, 76
+  orig: 504, 504
+  offset: 192, 235
+  index: -1
+2_03
+  rotate: false
+  xy: 123, 24
+  size: 121, 76
+  orig: 504, 504
+  offset: 192, 235
+  index: -1
+2_04
+  rotate: true
+  xy: 256, 212
+  size: 120, 76
+  orig: 504, 504
+  offset: 193, 235
+  index: -1
+2_05
+  rotate: false
+  xy: 129, 179
+  size: 123, 75
+  orig: 504, 504
+  offset: 191, 236
+  index: -1
+2_06
+  rotate: false
+  xy: 130, 256
+  size: 124, 76
+  orig: 504, 504
+  offset: 190, 235
+  index: -1
+2_07
+  rotate: false
+  xy: 0, 102
+  size: 125, 75
+  orig: 504, 504
+  offset: 189, 236
+  index: -1
+2_08
+  rotate: false
+  xy: 0, 179
+  size: 127, 75
+  orig: 504, 504
+  offset: 187, 236
+  index: -1
+2_09
+  rotate: false
+  xy: 0, 256
+  size: 128, 76
+  orig: 504, 504
+  offset: 186, 235
+  index: -1

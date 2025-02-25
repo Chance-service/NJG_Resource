@@ -1,0 +1,90 @@
+
+AVG_99001.png
+size: 1203,1203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 506, 1199
+  orig: 506, 1199
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 510, 872
+  size: 188, 329
+  orig: 188, 329
+  offset: 0, 0
+  index: -1
+A00
+  rotate: false
+  xy: 852, 1116
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+F01
+  rotate: false
+  xy: 510, 599
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+F02
+  rotate: false
+  xy: 510, 508
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+F03
+  rotate: false
+  xy: 700, 938
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+F04
+  rotate: false
+  xy: 510, 686
+  size: 150, 90
+  orig: 150, 90
+  offset: 0, 0
+  index: -1
+F05
+  rotate: false
+  xy: 510, 778
+  size: 150, 92
+  orig: 150, 92
+  offset: 0, 0
+  index: -1
+F06
+  rotate: false
+  xy: 700, 1109
+  size: 150, 92
+  orig: 150, 92
+  offset: 0, 0
+  index: -1
+F07
+  rotate: false
+  xy: 700, 1021
+  size: 150, 86
+  orig: 150, 86
+  offset: 0, 0
+  index: -1
+F08
+  rotate: false
+  xy: 852, 1033
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+F09
+  rotate: false
+  xy: 1004, 1114
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1

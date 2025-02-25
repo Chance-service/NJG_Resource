@@ -1,0 +1,11 @@
+{
+	"login": {
+		"isGuest": true,	
+		"account": "54647io031@test.com",
+		"password": "UEHS6BAD"
+	},
+	"bind": {
+		"account": "54647io031@test.com",
+		"password": "UEHS6BAD"
+	}
+}

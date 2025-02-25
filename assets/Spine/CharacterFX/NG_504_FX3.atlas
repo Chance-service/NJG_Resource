@@ -1,0 +1,132 @@
+
+NG_504_FX3.png
+size: 575,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/groundsplit_00
+  rotate: true
+  xy: 555, 541
+  size: 32, 18
+  orig: 210, 92
+  offset: 17, 10
+  index: -1
+atk/groundsplit_01
+  rotate: true
+  xy: 511, 475
+  size: 98, 42
+  orig: 210, 92
+  offset: 9, 4
+  index: -1
+atk/groundsplit_02
+  rotate: true
+  xy: 424, 36
+  size: 161, 83
+  orig: 210, 92
+  offset: 4, 3
+  index: -1
+atk/groundsplit_03
+  rotate: false
+  xy: 213, 102
+  size: 209, 83
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_04
+  rotate: true
+  xy: 176, 187
+  size: 209, 84
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_05
+  rotate: true
+  xy: 2, 187
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_06
+  rotate: true
+  xy: 262, 187
+  size: 209, 84
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_07
+  rotate: false
+  xy: 2, 398
+  size: 208, 86
+  orig: 210, 92
+  offset: 1, 0
+  index: -1
+atk/groundsplit_08
+  rotate: false
+  xy: 212, 398
+  size: 208, 86
+  orig: 210, 92
+  offset: 1, 1
+  index: -1
+atk/groundsplit_09
+  rotate: false
+  xy: 2, 486
+  size: 209, 87
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_10
+  rotate: false
+  xy: 2, 100
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_11
+  rotate: false
+  xy: 2, 13
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 1
+  index: -1
+atk/groundsplit_12
+  rotate: true
+  xy: 89, 187
+  size: 209, 85
+  orig: 210, 92
+  offset: 0, 2
+  index: -1
+atk/groundsplit_13
+  rotate: true
+  xy: 423, 364
+  size: 209, 86
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_14
+  rotate: false
+  xy: 213, 486
+  size: 208, 87
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_15
+  rotate: false
+  xy: 348, 199
+  size: 206, 79
+  orig: 210, 92
+  offset: 0, 1
+  index: -1
+atk/groundsplit_16
+  rotate: false
+  xy: 348, 280
+  size: 206, 82
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+atk/groundsplit_17
+  rotate: false
+  xy: 213, 17
+  size: 207, 83
+  orig: 210, 92
+  offset: 0, 0
+  index: -1

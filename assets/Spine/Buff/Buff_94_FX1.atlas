@@ -1,0 +1,223 @@
+
+Buff_94_FX1.png
+size: 362,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shield-outside/shield-outside_00
+  rotate: true
+  xy: 0, 118
+  size: 34, 38
+  orig: 504, 896
+  offset: 235, 422
+  index: -1
+shield-outside/shield-outside_01
+  rotate: false
+  xy: 124, 56
+  size: 33, 39
+  orig: 504, 896
+  offset: 240, 422
+  index: -1
+shield-outside/shield-outside_02
+  rotate: false
+  xy: 159, 56
+  size: 33, 39
+  orig: 504, 896
+  offset: 245, 422
+  index: -1
+shield-outside/shield-outside_03
+  rotate: true
+  xy: 311, 62
+  size: 33, 39
+  orig: 504, 896
+  offset: 250, 422
+  index: -1
+shield-outside/shield-outside_04
+  rotate: true
+  xy: 82, 0
+  size: 32, 39
+  orig: 504, 896
+  offset: 255, 422
+  index: -1
+shield-outside/shield-outside_05
+  rotate: true
+  xy: 123, 0
+  size: 32, 39
+  orig: 504, 896
+  offset: 260, 422
+  index: -1
+shield-outside/shield-outside_06
+  rotate: true
+  xy: 0, 0
+  size: 113, 38
+  orig: 504, 896
+  offset: 183, 423
+  index: -1
+shield-outside/shield-outside_07
+  rotate: true
+  xy: 82, 34
+  size: 118, 40
+  orig: 504, 896
+  offset: 182, 423
+  index: -1
+shield-outside/shield-outside_08
+  rotate: false
+  xy: 125, 115
+  size: 122, 41
+  orig: 504, 896
+  offset: 182, 423
+  index: -1
+shield-outside/shield-outside_09
+  rotate: false
+  xy: 130, 158
+  size: 125, 40
+  orig: 504, 896
+  offset: 182, 424
+  index: -1
+shield-outside/shield-outside_10
+  rotate: false
+  xy: 0, 197
+  size: 128, 41
+  orig: 504, 896
+  offset: 182, 424
+  index: -1
+shield-outside/shield-outside_11
+  rotate: true
+  xy: 321, 97
+  size: 131, 41
+  orig: 504, 896
+  offset: 182, 424
+  index: -1
+shield-outside/shield-outside_12
+  rotate: true
+  xy: 278, 229
+  size: 133, 41
+  orig: 504, 896
+  offset: 182, 424
+  index: -1
+shield-outside/shield-outside_13
+  rotate: false
+  xy: 0, 282
+  size: 135, 39
+  orig: 504, 896
+  offset: 182, 425
+  index: -1
+shield-outside/shield-outside_14
+  rotate: false
+  xy: 139, 284
+  size: 136, 39
+  orig: 504, 896
+  offset: 183, 425
+  index: -1
+shield-outside/shield-outside_15
+  rotate: false
+  xy: 139, 325
+  size: 137, 37
+  orig: 504, 896
+  offset: 184, 426
+  index: -1
+shield-outside/shield-outside_16
+  rotate: false
+  xy: 0, 323
+  size: 137, 39
+  orig: 504, 896
+  offset: 185, 425
+  index: -1
+shield-outside/shield-outside_17
+  rotate: false
+  xy: 137, 243
+  size: 135, 39
+  orig: 504, 896
+  offset: 187, 425
+  index: -1
+shield-outside/shield-outside_18
+  rotate: false
+  xy: 0, 240
+  size: 134, 40
+  orig: 504, 896
+  offset: 189, 424
+  index: -1
+shield-outside/shield-outside_19
+  rotate: true
+  xy: 321, 230
+  size: 132, 41
+  orig: 504, 896
+  offset: 191, 424
+  index: -1
+shield-outside/shield-outside_20
+  rotate: false
+  xy: 136, 200
+  size: 129, 41
+  orig: 504, 896
+  offset: 194, 424
+  index: -1
+shield-outside/shield-outside_21
+  rotate: true
+  xy: 267, 101
+  size: 126, 41
+  orig: 504, 896
+  offset: 197, 424
+  index: -1
+shield-outside/shield-outside_22
+  rotate: false
+  xy: 0, 154
+  size: 123, 41
+  orig: 504, 896
+  offset: 200, 423
+  index: -1
+shield-outside/shield-outside_23
+  rotate: true
+  xy: 40, 33
+  size: 119, 40
+  orig: 504, 896
+  offset: 204, 423
+  index: -1
+shield-outside/shield-outside_24
+  rotate: false
+  xy: 194, 61
+  size: 115, 38
+  orig: 504, 896
+  offset: 208, 423
+  index: -1
+shield-outside/shield-outside_25
+  rotate: true
+  xy: 40, 0
+  size: 31, 39
+  orig: 504, 896
+  offset: 212, 422
+  index: -1
+shield-outside/shield-outside_26
+  rotate: false
+  xy: 199, 20
+  size: 32, 39
+  orig: 504, 896
+  offset: 216, 422
+  index: -1
+shield-outside/shield-outside_27
+  rotate: false
+  xy: 233, 20
+  size: 32, 39
+  orig: 504, 896
+  offset: 221, 422
+  index: -1
+shield-outside/shield-outside_28
+  rotate: true
+  xy: 311, 27
+  size: 33, 39
+  orig: 504, 896
+  offset: 225, 422
+  index: -1
+shield-outside/shield-outside_29
+  rotate: false
+  xy: 164, 15
+  size: 33, 39
+  orig: 504, 896
+  offset: 230, 422
+  index: -1
+shield-outside/shield-outside_30
+  rotate: true
+  xy: 267, 26
+  size: 33, 38
+  orig: 504, 896
+  offset: 235, 422
+  index: -1

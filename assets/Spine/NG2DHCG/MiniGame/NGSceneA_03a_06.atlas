@@ -1,0 +1,76 @@
+
+NGSceneA_03a_06.png
+size: 1241,1241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 5
+  size: 111, 492
+  orig: 111, 492
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 607, 492
+  size: 747, 421
+  orig: 747, 421
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1030, 1021
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 711, 164
+  size: 182, 326
+  orig: 182, 326
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 895, 132
+  size: 145, 358
+  orig: 145, 358
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1042, 362
+  size: 136, 297
+  orig: 136, 297
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1042, 72
+  size: 130, 288
+  orig: 130, 288
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 438
+  size: 603, 801
+  orig: 603, 801
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 118
+  size: 318, 707
+  orig: 318, 707
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1030, 661
+  size: 358, 202
+  orig: 358, 202
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+NG_502.png
+size: 759,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head_Botton
+  rotate: true
+  xy: 471, 304
+  size: 109, 173
+  orig: 109, 173
+  offset: 0, 0
+  index: -1
+Head_Ear
+  rotate: false
+  xy: 301, 121
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+Head_Mid
+  rotate: true
+  xy: 696, 234
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+Head_Top
+  rotate: false
+  xy: 335, 415
+  size: 290, 141
+  orig: 290, 141
+  offset: 0, 0
+  index: -1
+Main2_Body
+  rotate: false
+  xy: 2, 518
+  size: 331, 239
+  orig: 331, 239
+  offset: 0, 0
+  index: -1
+Main2_Fin
+  rotate: true
+  xy: 729, 138
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Main2_Fin2
+  rotate: true
+  xy: 729, 180
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+Main2_Fin3
+  rotate: false
+  xy: 620, 30
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Main2_Fin4
+  rotate: false
+  xy: 667, 27
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Main2_InnerRuffles
+  rotate: true
+  xy: 301, 39
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+Main2_InnerRuffles_2
+  rotate: true
+  xy: 696, 155
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Main2_Ruffles_1
+  rotate: false
+  xy: 627, 416
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+Main2_Ruffles_2
+  rotate: true
+  xy: 400, 27
+  size: 122, 47
+  orig: 122, 47
+  offset: 0, 0
+  index: -1
+Main2_Ruffles_3
+  rotate: false
+  xy: 600, 239
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+Main2_Ruffles_4
+  rotate: false
+  xy: 584, 136
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+Main_Body
+  rotate: false
+  xy: 2, 262
+  size: 292, 254
+  orig: 292, 254
+  offset: 0, 0
+  index: -1
+Main_Fin
+  rotate: true
+  xy: 299, 2
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: -1
+Main_Fin_2
+  rotate: true
+  xy: 449, 33
+  size: 17, 95
+  orig: 17, 95
+  offset: 0, 0
+  index: -1
+Main_Fin_3
+  rotate: false
+  xy: 633, 64
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Main_Fin_4
+  rotate: true
+  xy: 296, 432
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+Main_Fin_5
+  rotate: false
+  xy: 561, 30
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Main_Fin_6
+  rotate: false
+  xy: 449, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Main_InnerRuffles
+  rotate: true
+  xy: 646, 292
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+Main_InnerRuffles_2
+  rotate: false
+  xy: 154, 24
+  size: 143, 47
+  orig: 143, 47
+  offset: 0, 0
+  index: -1
+Main_InnerRuffles_3
+  rotate: false
+  xy: 641, 145
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+Main_L_hand_1
+  rotate: true
+  xy: 2, 73
+  size: 187, 297
+  orig: 187, 297
+  offset: 0, 0
+  index: -1
+Main_L_hand_2
+  rotate: false
+  xy: 561, 64
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Main_R_hand_1
+  rotate: false
+  xy: 641, 558
+  size: 108, 199
+  orig: 108, 199
+  offset: 0, 0
+  index: -1
+Main_R_hand_2
+  rotate: false
+  xy: 389, 151
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+Main_Ruffles_1
+  rotate: false
+  xy: 2, 18
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+Main_Ruffles_2
+  rotate: true
+  xy: 471, 239
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+Main_Ruffles_3
+  rotate: false
+  xy: 449, 52
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: false
+  xy: 463, 139
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: true
+  xy: 335, 558
+  size: 199, 304
+  orig: 199, 304
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 477, 5
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 296, 282
+  size: 173, 131
+  orig: 173, 131
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+NG2D_999_nobg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye Closed
+  rotate: true
+  xy: 997, 447
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 307, 123
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 221, 65
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 221, 37
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 2, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+R Eyel
+  rotate: false
+  xy: 265, 91
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+arm L
+  rotate: false
+  xy: 221, 105
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 169
+  size: 329, 663
+  orig: 329, 663
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 667, 83
+  size: 415, 328
+  orig: 415, 328
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: true
+  xy: 2, 17
+  size: 150, 217
+  orig: 150, 217
+  offset: 0, 0
+  index: -1

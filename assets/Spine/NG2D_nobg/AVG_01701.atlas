@@ -1,0 +1,265 @@
+
+AVG_01701.png
+size: 2001,2001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A00
+  rotate: false
+  xy: 1591, 1783
+  size: 151, 216
+  orig: 151, 216
+  offset: 0, 0
+  index: -1
+Back Ribbon
+  rotate: false
+  xy: 1582, 649
+  size: 260, 300
+  orig: 260, 300
+  offset: 0, 0
+  index: -1
+Bird 2
+  rotate: true
+  xy: 695, 446
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 433
+  size: 492, 1566
+  orig: 492, 1566
+  offset: 0, 0
+  index: -1
+Dress
+  rotate: true
+  xy: 1063, 649
+  size: 554, 517
+  orig: 554, 517
+  offset: 0, 0
+  index: -1
+Eyes Closed
+  rotate: true
+  xy: 1028, 21
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+F01
+  rotate: true
+  xy: 1337, 12
+  size: 151, 219
+  orig: 151, 219
+  offset: 0, 0
+  index: -1
+F02
+  rotate: false
+  xy: 1591, 1565
+  size: 151, 216
+  orig: 151, 216
+  offset: 0, 0
+  index: -1
+F03
+  rotate: false
+  xy: 1844, 739
+  size: 151, 210
+  orig: 151, 210
+  offset: 0, 0
+  index: -1
+F04
+  rotate: true
+  xy: 1113, 12
+  size: 151, 222
+  orig: 151, 222
+  offset: 0, 0
+  index: -1
+F05
+  rotate: true
+  xy: 1742, 343
+  size: 151, 209
+  orig: 151, 209
+  offset: 0, 0
+  index: -1
+F06
+  rotate: true
+  xy: 1558, 12
+  size: 151, 218
+  orig: 151, 218
+  offset: 0, 0
+  index: -1
+F07
+  rotate: true
+  xy: 1742, 496
+  size: 151, 215
+  orig: 151, 215
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 686, 40
+  size: 80, 135
+  orig: 80, 135
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 503, 35
+  size: 85, 181
+  orig: 85, 181
+  offset: 0, 0
+  index: -1
+H3
+  rotate: true
+  xy: 823, 53
+  size: 67, 140
+  orig: 67, 140
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 823, 10
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+H5
+  rotate: true
+  xy: 1357, 1557
+  size: 442, 232
+  orig: 442, 232
+  offset: 0, 0
+  index: -1
+HB1
+  rotate: false
+  xy: 897, 443
+  size: 155, 186
+  orig: 155, 186
+  offset: 0, 0
+  index: -1
+HB2
+  rotate: false
+  xy: 503, 122
+  size: 549, 316
+  orig: 549, 316
+  offset: 0, 0
+  index: -1
+HB2.1
+  rotate: false
+  xy: 1357, 1227
+  size: 547, 296
+  orig: 547, 296
+  offset: 0, 0
+  index: -1
+HB2.2
+  rotate: true
+  xy: 1778, 1525
+  size: 474, 211
+  orig: 474, 211
+  offset: 0, 0
+  index: -1
+HB3
+  rotate: true
+  xy: 2, 12
+  size: 419, 499
+  orig: 419, 499
+  offset: 0, 0
+  index: -1
+HB3.1
+  rotate: true
+  xy: 1054, 165
+  size: 464, 686
+  orig: 464, 686
+  offset: 0, 0
+  index: -1
+HB3.2
+  rotate: false
+  xy: 496, 631
+  size: 565, 572
+  orig: 565, 572
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1582, 951
+  size: 300, 274
+  orig: 300, 274
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 731, 4
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+L Pupil
+  rotate: true
+  xy: 503, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: false
+  xy: 771, 5
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: false
+  xy: 898, 4
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: true
+  xy: 496, 1205
+  size: 794, 859
+  orig: 794, 859
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 965, 59
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+R Pupil
+  rotate: true
+  xy: 686, 3
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 1742, 210
+  size: 214, 131
+  orig: 214, 131
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 539, 8
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 963, 9
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+img2
+  rotate: false
+  xy: 496, 440
+  size: 197, 189
+  orig: 197, 189
+  offset: 0, 0
+  index: -1

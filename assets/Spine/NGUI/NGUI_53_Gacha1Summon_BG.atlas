@@ -1,0 +1,785 @@
+
+NGUI_53_Gacha1Summon_BG.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 317, 12
+  size: 351, 624
+  orig: 351, 624
+  offset: 0, 0
+  index: -1
+Eye closed
+  rotate: false
+  xy: 213, 14
+  size: 102, 52
+  orig: 102, 52
+  offset: 0, 0
+  index: -1
+Fur 10
+  rotate: true
+  xy: 943, 100
+  size: 137, 65
+  orig: 137, 65
+  offset: 0, 0
+  index: -1
+Fur 2
+  rotate: true
+  xy: 869, 366
+  size: 307, 107
+  orig: 307, 107
+  offset: 0, 0
+  index: -1
+Fur 3
+  rotate: false
+  xy: 293, 263
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Fur 5
+  rotate: true
+  xy: 978, 556
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 943, 11
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 139, 13
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+HB
+  rotate: true
+  xy: 293, 365
+  size: 657, 574
+  orig: 657, 574
+  offset: 0, 0
+  index: -1
+HB 10
+  rotate: false
+  xy: 943, 239
+  size: 79, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+HB 14
+  rotate: true
+  xy: 2, 9
+  size: 57, 135
+  orig: 57, 135
+  offset: 0, 0
+  index: -1
+HB 15
+  rotate: true
+  xy: 978, 476
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+HB 3
+  rotate: true
+  xy: 869, 849
+  size: 173, 148
+  orig: 173, 148
+  offset: 0, 0
+  index: -1
+HB 9
+  rotate: false
+  xy: 869, 675
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: true
+  xy: 978, 438
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+L Pupil
+  rotate: false
+  xy: 293, 302
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: true
+  xy: 993, 25
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: true
+  xy: 293, 325
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: true
+  xy: 978, 635
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+R Pupil
+  rotate: false
+  xy: 293, 280
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 68
+  size: 289, 954
+  orig: 289, 954
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: true
+  xy: 993, 65
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: true
+  xy: 978, 404
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_BG2.png
+size: 1023,1023
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Fur 4
+  rotate: false
+  xy: 106, 531
+  size: 168, 490
+  orig: 168, 490
+  offset: 0, 0
+  index: -1
+Fur 8
+  rotate: false
+  xy: 817, 61
+  size: 192, 178
+  orig: 192, 178
+  offset: 0, 0
+  index: -1
+Fur 9
+  rotate: true
+  xy: 599, 708
+  size: 65, 78
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00000
+  rotate: true
+  xy: 694, 597
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00002
+  rotate: true
+  xy: 694, 419
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00004
+  rotate: true
+  xy: 692, 241
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+HB 11
+  rotate: false
+  xy: 974, 892
+  size: 47, 129
+  orig: 47, 129
+  offset: 0, 0
+  index: -1
+HB 12
+  rotate: true
+  xy: 276, 887
+  size: 134, 255
+  orig: 134, 255
+  offset: 0, 0
+  index: -1
+HB 4
+  rotate: true
+  xy: 533, 309
+  size: 109, 157
+  orig: 109, 157
+  offset: 0, 0
+  index: -1
+HB 5
+  rotate: true
+  xy: 276, 531
+  size: 164, 220
+  orig: 164, 220
+  offset: 0, 0
+  index: -1
+HB 6
+  rotate: true
+  xy: 106, 415
+  size: 114, 210
+  orig: 114, 210
+  offset: 0, 0
+  index: -1
+HB 7
+  rotate: true
+  xy: 481, 420
+  size: 109, 182
+  orig: 119, 192
+  offset: 5, 5
+  index: -1
+HB 8
+  rotate: false
+  xy: 318, 417
+  size: 161, 112
+  orig: 161, 112
+  offset: 0, 0
+  index: -1
+fur 6
+  rotate: false
+  xy: 518, 708
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+fur 7
+  rotate: false
+  xy: 533, 252
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 533, 17
+  size: 222, 282
+  orig: 222, 282
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 284, 44
+  size: 247, 369
+  orig: 247, 369
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 498, 531
+  size: 164, 194
+  orig: 164, 194
+  offset: 0, 0
+  index: -1
+skirt B
+  rotate: false
+  xy: 2, 17
+  size: 280, 391
+  orig: 280, 391
+  offset: 0, 0
+  index: -1
+skirt LB
+  rotate: false
+  xy: 318, 697
+  size: 198, 188
+  orig: 198, 188
+  offset: 0, 0
+  index: -1
+skirt RF
+  rotate: true
+  xy: 533, 775
+  size: 246, 439
+  orig: 246, 439
+  offset: 0, 0
+  index: -1
+wiing
+  rotate: false
+  xy: 2, 410
+  size: 102, 611
+  orig: 102, 611
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_BG3.png
+size: 1014,1014
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Fur 1
+  rotate: true
+  xy: 2, 316
+  size: 334, 185
+  orig: 334, 185
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00006
+  rotate: false
+  xy: 315, 700
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00008
+  rotate: false
+  xy: 2, 2
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00010
+  rotate: false
+  xy: 493, 700
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00012
+  rotate: false
+  xy: 671, 700
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00014
+  rotate: false
+  xy: 189, 338
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00016
+  rotate: false
+  xy: 367, 386
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00018
+  rotate: false
+  xy: 545, 386
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00020
+  rotate: false
+  xy: 723, 386
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00022
+  rotate: true
+  xy: 367, 208
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00024
+  rotate: true
+  xy: 681, 208
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00026
+  rotate: false
+  xy: 189, 24
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00028
+  rotate: true
+  xy: 367, 30
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00030
+  rotate: true
+  xy: 681, 30
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+HB 13
+  rotate: false
+  xy: 849, 792
+  size: 127, 220
+  orig: 127, 220
+  offset: 0, 0
+  index: -1
+skirt LF
+  rotate: false
+  xy: 2, 652
+  size: 311, 360
+  orig: 311, 360
+  offset: 0, 0
+  index: -1
+skirt RB
+  rotate: false
+  xy: 901, 598
+  size: 95, 192
+  orig: 95, 192
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_BG4.png
+size: 986,986
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+GlitterFX/Glitter_00032
+  rotate: false
+  xy: 2, 672
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00034
+  rotate: false
+  xy: 2, 358
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00036
+  rotate: false
+  xy: 2, 44
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00038
+  rotate: true
+  xy: 180, 808
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00040
+  rotate: true
+  xy: 494, 808
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00042
+  rotate: false
+  xy: 808, 672
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00044
+  rotate: true
+  xy: 180, 630
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00046
+  rotate: true
+  xy: 494, 630
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00048
+  rotate: false
+  xy: 808, 358
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00050
+  rotate: false
+  xy: 180, 44
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00052
+  rotate: true
+  xy: 180, 452
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00054
+  rotate: true
+  xy: 494, 452
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00056
+  rotate: true
+  xy: 358, 274
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00058
+  rotate: true
+  xy: 672, 180
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00060
+  rotate: true
+  xy: 358, 96
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00062
+  rotate: true
+  xy: 672, 2
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_BG5.png
+size: 986,986
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+GlitterFX/Glitter_00064
+  rotate: false
+  xy: 2, 672
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00066
+  rotate: false
+  xy: 2, 358
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00068
+  rotate: false
+  xy: 2, 44
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00070
+  rotate: true
+  xy: 180, 808
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00072
+  rotate: true
+  xy: 494, 808
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00074
+  rotate: false
+  xy: 808, 672
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00076
+  rotate: true
+  xy: 180, 630
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00078
+  rotate: true
+  xy: 494, 630
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00080
+  rotate: false
+  xy: 808, 358
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00082
+  rotate: false
+  xy: 180, 44
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00084
+  rotate: true
+  xy: 180, 452
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00086
+  rotate: true
+  xy: 494, 452
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00088
+  rotate: true
+  xy: 358, 274
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00090
+  rotate: true
+  xy: 672, 180
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00092
+  rotate: true
+  xy: 358, 96
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00094
+  rotate: true
+  xy: 672, 2
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_BG6.png
+size: 892,892
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+GlitterFX/Glitter_00096
+  rotate: false
+  xy: 2, 578
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00098
+  rotate: false
+  xy: 2, 264
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00100
+  rotate: false
+  xy: 180, 578
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00102
+  rotate: false
+  xy: 180, 264
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00104
+  rotate: true
+  xy: 2, 86
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00106
+  rotate: false
+  xy: 358, 578
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00108
+  rotate: false
+  xy: 358, 264
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00110
+  rotate: false
+  xy: 536, 578
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00112
+  rotate: false
+  xy: 536, 264
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00114
+  rotate: true
+  xy: 316, 86
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00116
+  rotate: false
+  xy: 714, 578
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+GlitterFX/Glitter_00118
+  rotate: false
+  xy: 714, 264
+  size: 176, 312
+  orig: 176, 312
+  offset: 0, 0
+  index: -1
+HB 2
+  rotate: false
+  xy: 630, 88
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1

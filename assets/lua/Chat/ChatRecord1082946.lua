@@ -1,0 +1,6 @@
+local function a(str) str = string.gsub(str,"%<","[") str = string.gsub(str,"%>","]") return str end 
+local GetAllChatRecordFiles = {
+newMsgSaveFlag=false,uniquePlayerId=2946,chatTime=1561352393.85,msgList={[1]={receiveId=108,skinId=0,headIcon=201,msgType=3,senderIdentify=a([[]]),message=a([[fdsafa]]),jsonType=0,receiveName=a([[小孟跟班]]),titleId=0,msTime=1559480164,senderName=a([[022bh]]),senderId=2946,area=a([[]])},[2]={receiveId=108,skinId=0,headIcon=201,msgType=3,senderIdentify=a([[]]),message=a([[rerey]]),jsonType=0,receiveName=a([[小孟跟班]]),titleId=0,msTime=1559681361,senderName=a([[022bh]]),senderId=2946,area=a([[]])},[3]={receiveId=108,skinId=0,headIcon=201,msgType=3,senderIdentify=a([[]]),message=a([[sfsf]]),jsonType=0,receiveName=a([[小孟跟班]]),titleId=0,msTime=1559681369,senderName=a([[022bh]]),senderId=2946,area=a([[]])}},
+isOffline=false,chatUnit={playerId=2946,headIcon=201,roleItemId=6,avatarId=0,rebirthStage=0,level=100,senderIdentify=a([[]]),name=a([[022bh]])},
+hasNewMsg=false}
+return GetAllChatRecordFiles

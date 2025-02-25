@@ -1,0 +1,118 @@
+
+hit0405.png
+size: 522,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prickhit_00
+  rotate: false
+  xy: 246, 155
+  size: 50, 51
+  orig: 156, 185
+  offset: 29, 15
+  index: -1
+prickhit_01
+  rotate: false
+  xy: 141, 358
+  size: 101, 162
+  orig: 156, 185
+  offset: 23, 15
+  index: -1
+prickhit_02
+  rotate: false
+  xy: 131, 149
+  size: 113, 184
+  orig: 156, 185
+  offset: 25, 1
+  index: -1
+prickhit_03
+  rotate: false
+  xy: 2, 148
+  size: 127, 185
+  orig: 156, 185
+  offset: 22, 0
+  index: -1
+prickhit_04
+  rotate: false
+  xy: 2, 335
+  size: 137, 185
+  orig: 156, 185
+  offset: 17, 0
+  index: -1
+prickhit_05
+  rotate: false
+  xy: 244, 363
+  size: 152, 157
+  orig: 156, 185
+  offset: 0, 28
+  index: -1
+prickhit_06
+  rotate: false
+  xy: 246, 208
+  size: 149, 153
+  orig: 156, 185
+  offset: 7, 32
+  index: -1
+prickhit_07
+  rotate: true
+  xy: 147, 2
+  size: 145, 143
+  orig: 156, 185
+  offset: 11, 26
+  index: -1
+prickhit_08
+  rotate: true
+  xy: 2, 2
+  size: 144, 143
+  orig: 156, 185
+  offset: 12, 26
+  index: -1
+prickhit_09
+  rotate: false
+  xy: 398, 391
+  size: 117, 129
+  orig: 156, 185
+  offset: 39, 38
+  index: -1
+prickhit_10
+  rotate: false
+  xy: 398, 258
+  size: 114, 131
+  orig: 156, 185
+  offset: 42, 39
+  index: -1
+prickhit_11
+  rotate: false
+  xy: 397, 164
+  size: 92, 92
+  orig: 156, 185
+  offset: 42, 40
+  index: -1
+prickhit_12
+  rotate: false
+  xy: 298, 117
+  size: 92, 89
+  orig: 156, 185
+  offset: 41, 42
+  index: -1
+prickhit_13
+  rotate: false
+  xy: 292, 48
+  size: 67, 67
+  orig: 156, 185
+  offset: 41, 59
+  index: -1
+prickhit_14
+  rotate: false
+  xy: 361, 49
+  size: 62, 66
+  orig: 156, 185
+  offset: 41, 60
+  index: -1
+prickhit_15
+  rotate: false
+  xy: 425, 102
+  size: 62, 60
+  orig: 156, 185
+  offset: 41, 66
+  index: -1

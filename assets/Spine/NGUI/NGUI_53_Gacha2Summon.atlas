@@ -1,0 +1,1656 @@
+
+NGUI_53_Gacha2Summon.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_39
+  rotate: false
+  xy: 524, 2
+  size: 290, 292
+  orig: 306, 306
+  offset: 6, 3
+  index: -1
+FlowOrange/OrangeFlow_38
+  rotate: true
+  xy: 439, 602
+  size: 146, 79
+  orig: 493, 272
+  offset: 28, 101
+  index: -1
+FlowOrange/OrangeFlow_39
+  rotate: false
+  xy: 2, 11
+  size: 217, 120
+  orig: 493, 272
+  offset: 26, 99
+  index: -1
+FlowOrange/OrangeFlow_46
+  rotate: true
+  xy: 276, 132
+  size: 453, 246
+  orig: 493, 272
+  offset: 24, 4
+  index: -1
+FlowOrange/OrangeFlow_64
+  rotate: true
+  xy: 798, 296
+  size: 452, 224
+  orig: 493, 272
+  offset: 24, 12
+  index: -1
+GlowGold
+  rotate: false
+  xy: 893, 754
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+GlowPink
+  rotate: false
+  xy: 952, 754
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_06
+  rotate: true
+  xy: 450, 2
+  size: 48, 47
+  orig: 207, 213
+  offset: 81, 87
+  index: -1
+LightRing/LightRing_07
+  rotate: true
+  xy: 959, 15
+  size: 64, 62
+  orig: 207, 213
+  offset: 73, 79
+  index: -1
+LightRing/LightRing_08
+  rotate: true
+  xy: 888, 2
+  size: 77, 69
+  orig: 207, 213
+  offset: 67, 76
+  index: -1
+LightRing/LightRing_09
+  rotate: true
+  xy: 816, 2
+  size: 77, 70
+  orig: 207, 213
+  offset: 66, 74
+  index: -1
+LightRing/LightRing_10
+  rotate: true
+  xy: 450, 52
+  size: 78, 72
+  orig: 207, 213
+  offset: 66, 73
+  index: -1
+LightRing/LightRing_18
+  rotate: false
+  xy: 344, 29
+  size: 104, 101
+  orig: 207, 213
+  offset: 52, 59
+  index: -1
+LightRing/LightRing_19
+  rotate: true
+  xy: 221, 2
+  size: 128, 121
+  orig: 207, 213
+  offset: 41, 49
+  index: -1
+LightRing/LightRing_46
+  rotate: false
+  xy: 816, 81
+  size: 206, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_45
+  rotate: false
+  xy: 2, 133
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_46
+  rotate: false
+  xy: 2, 133
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_47
+  rotate: true
+  xy: 439, 750
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_48
+  rotate: false
+  xy: 524, 296
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SumonExp/sparkle
+  rotate: false
+  xy: 2, 587
+  size: 435, 435
+  orig: 435, 435
+  offset: 0, 0
+  index: -1
+T_light_fy010
+  rotate: true
+  xy: 893, 813
+  size: 209, 117
+  orig: 218, 218
+  offset: 9, 51
+  index: -1
+
+NGUI_53_Gacha2Summon2.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Flare
+  rotate: false
+  xy: 705, 25
+  size: 315, 389
+  orig: 327, 391
+  offset: 7, 0
+  index: -1
+FlowOrange/OrangeFlow_40
+  rotate: false
+  xy: 170, 42
+  size: 285, 143
+  orig: 493, 272
+  offset: 28, 97
+  index: -1
+FlowOrange/OrangeFlow_48
+  rotate: false
+  xy: 2, 187
+  size: 457, 230
+  orig: 493, 272
+  offset: 20, 22
+  index: -1
+FlowOrange/OrangeFlow_52
+  rotate: false
+  xy: 2, 419
+  size: 458, 191
+  orig: 493, 272
+  offset: 19, 63
+  index: -1
+FlowOrange/OrangeFlow_53
+  rotate: false
+  xy: 462, 416
+  size: 458, 195
+  orig: 493, 272
+  offset: 19, 59
+  index: -1
+FlowOrange/OrangeFlow_54
+  rotate: false
+  xy: 462, 613
+  size: 458, 196
+  orig: 493, 272
+  offset: 19, 58
+  index: -1
+FlowOrange/OrangeFlow_55
+  rotate: false
+  xy: 2, 820
+  size: 459, 202
+  orig: 493, 272
+  offset: 18, 53
+  index: -1
+FlowOrange/OrangeFlow_56
+  rotate: false
+  xy: 2, 612
+  size: 458, 206
+  orig: 493, 272
+  offset: 19, 49
+  index: -1
+FlowOrange/OrangeFlow_57
+  rotate: false
+  xy: 463, 811
+  size: 458, 211
+  orig: 493, 272
+  offset: 19, 44
+  index: -1
+FlowOrange/OrangeFlow_69
+  rotate: true
+  xy: 461, 10
+  size: 404, 242
+  orig: 493, 272
+  offset: 72, 12
+  index: -1
+Glow
+  rotate: false
+  xy: 923, 937
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_11
+  rotate: false
+  xy: 923, 788
+  size: 76, 72
+  orig: 207, 213
+  offset: 67, 72
+  index: -1
+LightRing/LightRing_12
+  rotate: true
+  xy: 922, 427
+  size: 74, 68
+  orig: 207, 213
+  offset: 68, 74
+  index: -1
+LightRing/LightRing_13
+  rotate: false
+  xy: 922, 573
+  size: 75, 69
+  orig: 207, 213
+  offset: 68, 75
+  index: -1
+LightRing/LightRing_14
+  rotate: false
+  xy: 922, 503
+  size: 75, 68
+  orig: 207, 213
+  offset: 67, 75
+  index: -1
+LightRing/LightRing_15
+  rotate: false
+  xy: 922, 716
+  size: 76, 70
+  orig: 207, 213
+  offset: 67, 74
+  index: -1
+LightRing/LightRing_16
+  rotate: false
+  xy: 922, 644
+  size: 75, 70
+  orig: 207, 213
+  offset: 67, 75
+  index: -1
+LightRing/LightRing_17
+  rotate: false
+  xy: 923, 862
+  size: 81, 73
+  orig: 207, 213
+  offset: 64, 73
+  index: -1
+LightRing/LightRing_34
+  rotate: true
+  xy: 2, 10
+  size: 175, 166
+  orig: 207, 213
+  offset: 16, 26
+  index: -1
+black shady
+  rotate: true
+  xy: 170, 2
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+white shady
+  rotate: true
+  xy: 240, 2
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha2Summon3.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+35-01
+  rotate: false
+  xy: 461, 666
+  size: 356, 356
+  orig: 383, 383
+  offset: 9, 12
+  index: -1
+FlowOrange/OrangeFlow_47
+  rotate: false
+  xy: 2, 8
+  size: 455, 249
+  orig: 493, 272
+  offset: 22, 3
+  index: -1
+FlowOrange/OrangeFlow_50
+  rotate: false
+  xy: 341, 445
+  size: 457, 219
+  orig: 493, 272
+  offset: 19, 33
+  index: -1
+FlowOrange/OrangeFlow_51
+  rotate: false
+  xy: 341, 259
+  size: 457, 184
+  orig: 493, 272
+  offset: 19, 69
+  index: -1
+FlowOrange/OrangeFlow_58
+  rotate: false
+  xy: 2, 801
+  size: 457, 221
+  orig: 493, 272
+  offset: 20, 37
+  index: -1
+FlowOrange/OrangeFlow_77
+  rotate: true
+  xy: 800, 2
+  size: 442, 174
+  orig: 493, 272
+  offset: 31, 65
+  index: -1
+LightRing/LightRing_22
+  rotate: false
+  xy: 2, 259
+  size: 166, 157
+  orig: 207, 213
+  offset: 21, 32
+  index: -1
+LightRing/LightRing_24
+  rotate: false
+  xy: 819, 666
+  size: 170, 155
+  orig: 207, 213
+  offset: 20, 32
+  index: -1
+LightRing/LightRing_45
+  rotate: false
+  xy: 819, 823
+  size: 199, 199
+  orig: 207, 213
+  offset: 5, 8
+  index: -1
+SoildLight/SoildLight_33
+  rotate: true
+  xy: 733, 100
+  size: 157, 47
+  orig: 272, 452
+  offset: 115, 250
+  index: -1
+SoildLight/SoildLight_43
+  rotate: true
+  xy: 459, 7
+  size: 250, 272
+  orig: 272, 452
+  offset: 0, 15
+  index: -1
+SumonExp/StarExp/StarExp_43
+  rotate: false
+  xy: 733, 51
+  size: 46, 47
+  orig: 429, 468
+  offset: 203, 243
+  index: -1
+SumonExp/StarExp/StarExp_47
+  rotate: false
+  xy: 2, 418
+  size: 337, 381
+  orig: 429, 468
+  offset: 60, 44
+  index: -1
+SumonExp/T_glow_15
+  rotate: false
+  xy: 800, 446
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+aura/aura_13
+  rotate: false
+  xy: 170, 259
+  size: 158, 157
+  orig: 179, 179
+  offset: 9, 14
+  index: -1
+
+NGUI_53_Gacha2Summon4.png
+size: 1021,1021
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+LightRing/LightRing_20
+  rotate: false
+  xy: 152, 880
+  size: 146, 139
+  orig: 207, 213
+  offset: 32, 41
+  index: -1
+LightRing/LightRing_21
+  rotate: false
+  xy: 851, 869
+  size: 162, 150
+  orig: 207, 213
+  offset: 24, 37
+  index: -1
+LightRing/LightRing_23
+  rotate: false
+  xy: 172, 720
+  size: 168, 156
+  orig: 207, 213
+  offset: 24, 31
+  index: -1
+LightRing/LightRing_25
+  rotate: false
+  xy: 330, 553
+  size: 172, 161
+  orig: 207, 213
+  offset: 19, 28
+  index: -1
+LightRing/LightRing_26
+  rotate: false
+  xy: 167, 223
+  size: 174, 164
+  orig: 207, 213
+  offset: 18, 26
+  index: -1
+LightRing/LightRing_28
+  rotate: false
+  xy: 504, 552
+  size: 171, 161
+  orig: 207, 213
+  offset: 20, 27
+  index: -1
+LightRing/LightRing_29
+  rotate: false
+  xy: 342, 716
+  size: 173, 159
+  orig: 207, 213
+  offset: 19, 28
+  index: -1
+LightRing/LightRing_30
+  rotate: false
+  xy: 2, 723
+  size: 168, 155
+  orig: 207, 213
+  offset: 20, 29
+  index: -1
+LightRing/LightRing_31
+  rotate: false
+  xy: 517, 715
+  size: 169, 160
+  orig: 207, 213
+  offset: 17, 28
+  index: -1
+LightRing/LightRing_32
+  rotate: false
+  xy: 851, 707
+  size: 168, 160
+  orig: 207, 213
+  offset: 19, 30
+  index: -1
+LightRing/LightRing_33
+  rotate: false
+  xy: 680, 44
+  size: 168, 166
+  orig: 207, 213
+  offset: 19, 26
+  index: -1
+LightRing/LightRing_35
+  rotate: false
+  xy: 343, 222
+  size: 170, 164
+  orig: 207, 213
+  offset: 18, 27
+  index: -1
+LightRing/LightRing_36
+  rotate: false
+  xy: 2, 56
+  size: 172, 165
+  orig: 207, 213
+  offset: 18, 26
+  index: -1
+LightRing/LightRing_37
+  rotate: false
+  xy: 852, 211
+  size: 167, 165
+  orig: 207, 213
+  offset: 21, 26
+  index: -1
+LightRing/LightRing_38
+  rotate: false
+  xy: 677, 546
+  size: 163, 162
+  orig: 207, 213
+  offset: 24, 28
+  index: -1
+LightRing/LightRing_39
+  rotate: false
+  xy: 2, 396
+  size: 163, 163
+  orig: 207, 213
+  offset: 24, 27
+  index: -1
+LightRing/LightRing_40
+  rotate: true
+  xy: 515, 215
+  size: 164, 166
+  orig: 207, 213
+  offset: 21, 26
+  index: -1
+LightRing/LightRing_41
+  rotate: false
+  xy: 842, 543
+  size: 163, 162
+  orig: 207, 213
+  offset: 21, 27
+  index: -1
+LightRing/LightRing_42
+  rotate: true
+  xy: 2, 561
+  size: 160, 163
+  orig: 207, 213
+  offset: 24, 28
+  index: -1
+LightRing/LightRing_43
+  rotate: false
+  xy: 176, 56
+  size: 165, 165
+  orig: 207, 213
+  offset: 21, 26
+  index: -1
+SumonExp/rainbow
+  rotate: true
+  xy: 504, 877
+  size: 142, 188
+  orig: 207, 202
+  offset: 8, 3
+  index: -1
+aura/aura_11
+  rotate: false
+  xy: 2, 883
+  size: 148, 136
+  orig: 179, 179
+  offset: 14, 30
+  index: -1
+aura/aura_12
+  rotate: false
+  xy: 694, 872
+  size: 155, 147
+  orig: 179, 179
+  offset: 10, 23
+  index: -1
+aura/aura_14
+  rotate: true
+  xy: 688, 710
+  size: 160, 161
+  orig: 179, 179
+  offset: 8, 11
+  index: -1
+aura/aura_15
+  rotate: true
+  xy: 167, 389
+  size: 162, 164
+  orig: 179, 179
+  offset: 8, 9
+  index: -1
+aura/aura_16
+  rotate: true
+  xy: 333, 389
+  size: 162, 164
+  orig: 179, 179
+  offset: 8, 9
+  index: -1
+aura/aura_17
+  rotate: true
+  xy: 499, 388
+  size: 162, 164
+  orig: 179, 179
+  offset: 8, 9
+  index: -1
+aura/aura_18
+  rotate: true
+  xy: 665, 381
+  size: 163, 166
+  orig: 179, 179
+  offset: 7, 8
+  index: -1
+aura/aura_19
+  rotate: true
+  xy: 833, 378
+  size: 163, 166
+  orig: 179, 179
+  offset: 7, 8
+  index: -1
+aura/aura_20
+  rotate: true
+  xy: 683, 212
+  size: 164, 167
+  orig: 179, 179
+  offset: 7, 7
+  index: -1
+aura/aura_21
+  rotate: true
+  xy: 343, 55
+  size: 165, 168
+  orig: 179, 179
+  offset: 7, 6
+  index: -1
+aura/aura_22
+  rotate: true
+  xy: 850, 43
+  size: 166, 168
+  orig: 179, 179
+  offset: 6, 6
+  index: -1
+aura/aura_33
+  rotate: false
+  xy: 513, 48
+  size: 165, 165
+  orig: 179, 179
+  offset: 8, 9
+  index: -1
+aura/aura_34
+  rotate: false
+  xy: 2, 230
+  size: 163, 164
+  orig: 179, 179
+  offset: 9, 9
+  index: -1
+aura/aura_35
+  rotate: false
+  xy: 167, 558
+  size: 161, 160
+  orig: 179, 179
+  offset: 10, 11
+  index: -1
+ray_26
+  rotate: false
+  xy: 300, 878
+  size: 202, 141
+  orig: 255, 226
+  offset: 15, 38
+  index: -1
+
+NGUI_53_Gacha2Summon5.png
+size: 1019,1019
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+FlowOrange/OrangeFlow_76
+  rotate: false
+  xy: 276, 2
+  size: 444, 193
+  orig: 493, 272
+  offset: 29, 60
+  index: -1
+SoildLight/SoildLight_49
+  rotate: false
+  xy: 2, 565
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_50
+  rotate: false
+  xy: 2, 111
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_51
+  rotate: true
+  xy: 276, 745
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_52
+  rotate: false
+  xy: 730, 565
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_53
+  rotate: true
+  xy: 276, 471
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_54
+  rotate: false
+  xy: 730, 111
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_55
+  rotate: true
+  xy: 276, 197
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha2Summon6.png
+size: 1019,1019
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+LightRing/LightRing_44
+  rotate: true
+  xy: 495, 7
+  size: 188, 184
+  orig: 207, 213
+  offset: 11, 17
+  index: -1
+SoildLight/SoildLight_34
+  rotate: false
+  xy: 276, 2
+  size: 217, 193
+  orig: 272, 452
+  offset: 55, 212
+  index: -1
+SoildLight/SoildLight_56
+  rotate: false
+  xy: 2, 565
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_57
+  rotate: false
+  xy: 2, 111
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_58
+  rotate: true
+  xy: 276, 745
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_59
+  rotate: false
+  xy: 730, 565
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_60
+  rotate: true
+  xy: 276, 471
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_61
+  rotate: false
+  xy: 730, 111
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_62
+  rotate: true
+  xy: 276, 197
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha2Summon7.png
+size: 1023,1023
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+FlowOrange/OrangeFlow_49
+  rotate: false
+  xy: 2, 787
+  size: 456, 234
+  orig: 493, 272
+  offset: 20, 18
+  index: -1
+FlowOrange/OrangeFlow_59
+  rotate: false
+  xy: 460, 791
+  size: 456, 230
+  orig: 493, 272
+  offset: 21, 30
+  index: -1
+FlowOrange/OrangeFlow_67
+  rotate: false
+  xy: 550, 2
+  size: 443, 239
+  orig: 493, 272
+  offset: 33, 10
+  index: -1
+SoildLight/SoildLight_63
+  rotate: true
+  xy: 460, 517
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_64
+  rotate: true
+  xy: 2, 513
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_65
+  rotate: false
+  xy: 2, 59
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_66
+  rotate: false
+  xy: 276, 59
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_67
+  rotate: true
+  xy: 550, 243
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha2Summon8.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_32
+  rotate: false
+  xy: 730, 738
+  size: 292, 284
+  orig: 306, 306
+  offset: 6, 6
+  index: -1
+AirFlow/airflow_34
+  rotate: false
+  xy: 730, 452
+  size: 292, 284
+  orig: 306, 306
+  offset: 7, 6
+  index: -1
+AirFlow/airflow_37
+  rotate: false
+  xy: 730, 162
+  size: 291, 288
+  orig: 306, 306
+  offset: 6, 5
+  index: -1
+LightRing/LightRing_27
+  rotate: true
+  xy: 276, 26
+  size: 174, 169
+  orig: 207, 213
+  offset: 18, 26
+  index: -1
+SoildLight/SoildLight_68
+  rotate: false
+  xy: 2, 570
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_69
+  rotate: false
+  xy: 2, 116
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_70
+  rotate: true
+  xy: 276, 750
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_71
+  rotate: true
+  xy: 276, 476
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_72
+  rotate: true
+  xy: 276, 202
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+aura/aura_31
+  rotate: true
+  xy: 447, 30
+  size: 170, 169
+  orig: 179, 179
+  offset: 5, 6
+  index: -1
+
+NGUI_53_Gacha2Summon9.png
+size: 1023,1023
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_33
+  rotate: false
+  xy: 730, 450
+  size: 291, 284
+  orig: 306, 306
+  offset: 7, 6
+  index: -1
+AirFlow/airflow_54
+  rotate: true
+  xy: 730, 736
+  size: 285, 291
+  orig: 306, 306
+  offset: 18, 10
+  index: -1
+FlowOrange/OrangeFlow_74
+  rotate: true
+  xy: 730, 2
+  size: 446, 217
+  orig: 493, 272
+  offset: 27, 42
+  index: -1
+SoildLight/SoildLight_73
+  rotate: false
+  xy: 2, 569
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_74
+  rotate: false
+  xy: 2, 115
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_75
+  rotate: true
+  xy: 276, 749
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_76
+  rotate: true
+  xy: 276, 475
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_77
+  rotate: true
+  xy: 276, 201
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+aura/aura_29
+  rotate: true
+  xy: 447, 30
+  size: 169, 168
+  orig: 179, 179
+  offset: 5, 7
+  index: -1
+aura/aura_30
+  rotate: false
+  xy: 276, 30
+  size: 169, 169
+  orig: 179, 179
+  offset: 5, 6
+  index: -1
+
+NGUI_53_Gacha2Summon10.png
+size: 1023,1023
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_31
+  rotate: false
+  xy: 730, 151
+  size: 290, 282
+  orig: 306, 306
+  offset: 6, 6
+  index: -1
+AirFlow/airflow_38
+  rotate: false
+  xy: 730, 435
+  size: 290, 290
+  orig: 306, 306
+  offset: 5, 4
+  index: -1
+AirFlow/airflow_40
+  rotate: false
+  xy: 730, 727
+  size: 290, 294
+  orig: 306, 306
+  offset: 8, 3
+  index: -1
+FlowOrange/OrangeFlow_62
+  rotate: false
+  xy: 276, 530
+  size: 452, 217
+  orig: 493, 272
+  offset: 24, 17
+  index: -1
+FlowOrange/OrangeFlow_63
+  rotate: false
+  xy: 276, 311
+  size: 452, 217
+  orig: 493, 272
+  offset: 24, 14
+  index: -1
+SoildLight/SoildLight_44
+  rotate: false
+  xy: 276, 2
+  size: 272, 307
+  orig: 272, 452
+  offset: 0, 87
+  index: -1
+SoildLight/SoildLight_78
+  rotate: false
+  xy: 2, 569
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_79
+  rotate: false
+  xy: 2, 115
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_80
+  rotate: true
+  xy: 276, 749
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+aura/aura_27
+  rotate: false
+  xy: 550, 142
+  size: 168, 167
+  orig: 179, 179
+  offset: 5, 7
+  index: -1
+
+NGUI_53_Gacha2Summon11.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+FlowOrange/OrangeFlow_45
+  rotate: false
+  xy: 455, 563
+  size: 450, 242
+  orig: 493, 272
+  offset: 27, 7
+  index: -1
+FlowOrange/OrangeFlow_60
+  rotate: false
+  xy: 2, 575
+  size: 450, 213
+  orig: 493, 272
+  offset: 26, 30
+  index: -1
+FlowOrange/OrangeFlow_61
+  rotate: false
+  xy: 455, 807
+  size: 451, 215
+  orig: 493, 272
+  offset: 25, 24
+  index: -1
+FlowOrange/OrangeFlow_65
+  rotate: false
+  xy: 2, 790
+  size: 451, 232
+  orig: 493, 272
+  offset: 25, 10
+  index: -1
+FlowOrange/OrangeFlow_66
+  rotate: false
+  xy: 2, 338
+  size: 449, 235
+  orig: 493, 272
+  offset: 27, 10
+  index: -1
+SumonExp/SemiO
+  rotate: true
+  xy: 453, 343
+  size: 218, 217
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+SumonExp/StarExp/StarExp_44
+  rotate: true
+  xy: 679, 10
+  size: 239, 279
+  orig: 429, 468
+  offset: 121, 114
+  index: -1
+SumonExp/StarExp/StarExp_46
+  rotate: true
+  xy: 307, 8
+  size: 328, 370
+  orig: 429, 468
+  offset: 65, 49
+  index: -1
+SumonExp/StarExp/StarExp_48
+  rotate: false
+  xy: 679, 251
+  size: 343, 310
+  orig: 429, 468
+  offset: 56, 118
+  index: -1
+SumonExp/StarExp/StarExp_51
+  rotate: true
+  xy: 2, 4
+  size: 332, 303
+  orig: 429, 468
+  offset: 49, 121
+  index: -1
+
+NGUI_53_Gacha2Summon12.png
+size: 1020,1020
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+FlowOrange/OrangeFlow_41
+  rotate: true
+  xy: 778, 668
+  size: 350, 206
+  orig: 493, 272
+  offset: 31, 41
+  index: -1
+FlowOrange/OrangeFlow_72
+  rotate: false
+  xy: 323, 427
+  size: 444, 234
+  orig: 493, 272
+  offset: 30, 25
+  index: -1
+FlowOrange/OrangeFlow_73
+  rotate: false
+  xy: 316, 201
+  size: 444, 224
+  orig: 493, 272
+  offset: 30, 35
+  index: -1
+FlowOrange/OrangeFlow_75
+  rotate: false
+  xy: 2, 810
+  size: 446, 208
+  orig: 493, 272
+  offset: 27, 50
+  index: -1
+LightRing/LightRing_49
+  rotate: true
+  xy: 762, 15
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_41
+  rotate: false
+  xy: 769, 224
+  size: 249, 437
+  orig: 272, 452
+  offset: 0, 15
+  index: -1
+SumonExp/StarExp/StarExp_52
+  rotate: true
+  xy: 2, 117
+  size: 341, 312
+  orig: 429, 468
+  offset: 45, 115
+  index: -1
+SumonExp/StarExp/StarExp_53
+  rotate: true
+  xy: 2, 460
+  size: 348, 319
+  orig: 429, 468
+  offset: 41, 110
+  index: -1
+SumonExp/StarExp/StarExp_54
+  rotate: true
+  xy: 450, 663
+  size: 355, 326
+  orig: 429, 468
+  offset: 38, 104
+  index: -1
+aura/aura_23
+  rotate: false
+  xy: 486, 32
+  size: 167, 167
+  orig: 179, 179
+  offset: 6, 6
+  index: -1
+aura/aura_28
+  rotate: false
+  xy: 316, 32
+  size: 168, 167
+  orig: 179, 179
+  offset: 5, 7
+  index: -1
+
+NGUI_53_Gacha2Summon13.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_30
+  rotate: true
+  xy: 741, 96
+  size: 289, 280
+  orig: 306, 306
+  offset: 6, 8
+  index: -1
+AirFlow/airflow_43
+  rotate: false
+  xy: 742, 387
+  size: 280, 295
+  orig: 306, 306
+  offset: 18, 4
+  index: -1
+AirFlow/airflow_47
+  rotate: false
+  xy: 750, 733
+  size: 271, 289
+  orig: 306, 306
+  offset: 23, 8
+  index: -1
+FlowOrange/OrangeFlow_43
+  rotate: false
+  xy: 299, 449
+  size: 441, 233
+  orig: 493, 272
+  offset: 36, 2
+  index: -1
+FlowOrange/OrangeFlow_44
+  rotate: false
+  xy: 2, 778
+  size: 441, 244
+  orig: 493, 272
+  offset: 36, 4
+  index: -1
+SoildLight/SoildLight_36
+  rotate: false
+  xy: 298, 9
+  size: 272, 438
+  orig: 272, 452
+  offset: 0, 14
+  index: -1
+SumonExp/StarExp/StarExp_45
+  rotate: false
+  xy: 445, 684
+  size: 303, 338
+  orig: 429, 468
+  offset: 83, 67
+  index: -1
+SumonExp/StarExp/StarExp_50
+  rotate: true
+  xy: 2, 154
+  size: 323, 294
+  orig: 429, 468
+  offset: 54, 126
+  index: -1
+SumonExp/starlight
+  rotate: true
+  xy: 2, 479
+  size: 297, 295
+  orig: 306, 306
+  offset: 5, 7
+  index: -1
+aura/aura_24
+  rotate: false
+  xy: 572, 280
+  size: 167, 167
+  orig: 179, 179
+  offset: 6, 6
+  index: -1
+aura/aura_25
+  rotate: false
+  xy: 572, 111
+  size: 167, 167
+  orig: 179, 179
+  offset: 6, 7
+  index: -1
+
+NGUI_53_Gacha2Summon14.png
+size: 1021,1021
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_41
+  rotate: true
+  xy: 715, 447
+  size: 288, 295
+  orig: 306, 306
+  offset: 10, 3
+  index: -1
+AirFlow/airflow_42
+  rotate: true
+  xy: 715, 737
+  size: 282, 296
+  orig: 306, 306
+  offset: 16, 3
+  index: -1
+LightRing/LightRing_50
+  rotate: false
+  xy: 482, 7
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_51
+  rotate: false
+  xy: 691, 7
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_52
+  rotate: false
+  xy: 715, 232
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_37
+  rotate: false
+  xy: 2, 581
+  size: 272, 438
+  orig: 272, 452
+  offset: 0, 14
+  index: -1
+SoildLight/SoildLight_38
+  rotate: false
+  xy: 2, 141
+  size: 272, 438
+  orig: 272, 452
+  offset: 0, 14
+  index: -1
+SoildLight/SoildLight_39
+  rotate: true
+  xy: 276, 747
+  size: 272, 437
+  orig: 272, 452
+  offset: 0, 15
+  index: -1
+SoildLight/SoildLight_40
+  rotate: true
+  xy: 276, 473
+  size: 272, 437
+  orig: 272, 452
+  offset: 0, 15
+  index: -1
+SoildLight/SoildLight_42
+  rotate: true
+  xy: 276, 222
+  size: 249, 437
+  orig: 272, 452
+  offset: 0, 15
+  index: -1
+white circle
+  rotate: true
+  xy: 276, 2
+  size: 218, 204
+  orig: 306, 306
+  offset: 40, 63
+  index: -1
+
+NGUI_53_Gacha2Summon15.png
+size: 1012,1012
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_29
+  rotate: false
+  xy: 716, 244
+  size: 288, 279
+  orig: 306, 306
+  offset: 5, 9
+  index: -1
+AirFlow/airflow_44
+  rotate: true
+  xy: 420, 245
+  size: 278, 294
+  orig: 306, 306
+  offset: 16, 4
+  index: -1
+FlowOrange/OrangeFlow_42
+  rotate: false
+  xy: 2, 290
+  size: 416, 241
+  orig: 493, 272
+  offset: 31, 2
+  index: -1
+FlowOrange/OrangeFlow_68
+  rotate: false
+  xy: 2, 533
+  size: 428, 239
+  orig: 493, 272
+  offset: 48, 11
+  index: -1
+FlowOrange/OrangeFlow_70
+  rotate: false
+  xy: 440, 774
+  size: 401, 236
+  orig: 493, 272
+  offset: 74, 20
+  index: -1
+FlowOrange/OrangeFlow_71
+  rotate: false
+  xy: 2, 774
+  size: 436, 236
+  orig: 493, 272
+  offset: 39, 22
+  index: -1
+LightRing/LightRing_53
+  rotate: false
+  xy: 344, 30
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_54
+  rotate: false
+  xy: 790, 559
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_55
+  rotate: true
+  xy: 553, 35
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_57
+  rotate: true
+  xy: 768, 35
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_35
+  rotate: true
+  xy: 432, 525
+  size: 247, 356
+  orig: 272, 452
+  offset: 25, 96
+  index: -1
+SumonExp/StarExp/StarExp_49
+  rotate: false
+  xy: 2, 5
+  size: 340, 283
+  orig: 429, 468
+  offset: 60, 132
+  index: -1
+aura/aura_26
+  rotate: false
+  xy: 843, 843
+  size: 167, 167
+  orig: 179, 179
+  offset: 6, 7
+  index: -1
+
+NGUI_53_Gacha2Summon16.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_45
+  rotate: true
+  xy: 289, 267
+  size: 274, 293
+  orig: 306, 306
+  offset: 18, 4
+  index: -1
+AirFlow/airflow_48
+  rotate: true
+  xy: 716, 540
+  size: 273, 287
+  orig: 306, 306
+  offset: 23, 11
+  index: -1
+AirFlow/airflow_49
+  rotate: true
+  xy: 2, 331
+  size: 273, 285
+  orig: 306, 306
+  offset: 24, 14
+  index: -1
+AirFlow/airflow_50
+  rotate: true
+  xy: 429, 543
+  size: 270, 285
+  orig: 306, 306
+  offset: 28, 14
+  index: -1
+AirFlow/airflow_51
+  rotate: true
+  xy: 584, 263
+  size: 275, 283
+  orig: 306, 306
+  offset: 25, 17
+  index: -1
+AirFlow/airflow_52
+  rotate: false
+  xy: 2, 42
+  size: 279, 287
+  orig: 306, 306
+  offset: 23, 14
+  index: -1
+LightRing/LightRing_47
+  rotate: true
+  xy: 385, 815
+  size: 207, 211
+  orig: 207, 213
+  offset: 0, 2
+  index: -1
+LightRing/LightRing_48
+  rotate: true
+  xy: 598, 815
+  size: 207, 209
+  orig: 207, 213
+  offset: 0, 4
+  index: -1
+LightRing/LightRing_56
+  rotate: true
+  xy: 170, 816
+  size: 206, 213
+  orig: 207, 213
+  offset: 1, 0
+  index: -1
+LightRing/LightRing_58
+  rotate: true
+  xy: 809, 815
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_59
+  rotate: true
+  xy: 2, 607
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_60
+  rotate: true
+  xy: 217, 606
+  size: 207, 210
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+aura/aura_32
+  rotate: false
+  xy: 2, 856
+  size: 166, 166
+  orig: 179, 179
+  offset: 7, 8
+  index: -1
+
+NGUI_53_Gacha2Summon17.png
+size: 850,850
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_35
+  rotate: false
+  xy: 292, 564
+  size: 293, 284
+  orig: 306, 306
+  offset: 7, 6
+  index: -1
+AirFlow/airflow_36
+  rotate: true
+  xy: 2, 260
+  size: 293, 286
+  orig: 306, 306
+  offset: 7, 6
+  index: -1
+AirFlow/airflow_46
+  rotate: true
+  xy: 292, 286
+  size: 276, 293
+  orig: 306, 306
+  offset: 18, 4
+  index: -1
+AirFlow/airflow_53
+  rotate: true
+  xy: 290, 2
+  size: 282, 290
+  orig: 306, 306
+  offset: 20, 12
+  index: -1
+AirFlow/airflow_55
+  rotate: false
+  xy: 2, 555
+  size: 288, 293
+  orig: 306, 306
+  offset: 15, 8
+  index: -1

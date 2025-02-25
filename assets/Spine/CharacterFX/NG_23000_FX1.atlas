@@ -1,0 +1,1037 @@
+
+NG_23000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFX/attackFX_17
+  rotate: false
+  xy: 497, 225
+  size: 13, 20
+  orig: 45, 47
+  offset: 6, 17
+  index: -1
+attackFX/attackFX_23
+  rotate: true
+  xy: 484, 247
+  size: 29, 26
+  orig: 45, 47
+  offset: 13, 9
+  index: -1
+attackFX/attackFX_24
+  rotate: true
+  xy: 274, 5
+  size: 20, 27
+  orig: 45, 47
+  offset: 21, 10
+  index: -1
+attackFX/attackFX_25
+  rotate: false
+  xy: 495, 136
+  size: 15, 16
+  orig: 45, 47
+  offset: 26, 14
+  index: -1
+attackFX/attackFX_26
+  rotate: false
+  xy: 303, 2
+  size: 10, 14
+  orig: 45, 47
+  offset: 30, 16
+  index: -1
+attackFX/attackFX_27
+  rotate: false
+  xy: 494, 244
+  size: 1, 1
+  orig: 45, 47
+  offset: 33, 29
+  index: -1
+dust03
+  rotate: true
+  xy: 466, 4
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_08
+  rotate: false
+  xy: 2, 240
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_06
+  rotate: false
+  xy: 2, 27
+  size: 305, 211
+  orig: 480, 270
+  offset: 130, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_09
+  rotate: true
+  xy: 309, 18
+  size: 220, 155
+  orig: 480, 270
+  offset: 142, 69
+  index: -1
+skill_0_Slash/skill_0_slash_34
+  rotate: false
+  xy: 506, 337
+  size: 4, 9
+  orig: 88, 99
+  offset: 42, 89
+  index: -1
+skill_0_Slash/skill_0_slash_35
+  rotate: false
+  xy: 495, 116
+  size: 10, 18
+  orig: 88, 99
+  offset: 38, 80
+  index: -1
+skill_0_Slash/skill_0_slash_36
+  rotate: false
+  xy: 466, 154
+  size: 29, 84
+  orig: 88, 99
+  offset: 32, 14
+  index: -1
+skill_0_Slash/skill_0_slash_57
+  rotate: true
+  xy: 484, 348
+  size: 79, 26
+  orig: 88, 99
+  offset: 4, 17
+  index: -1
+skill_0_Slash/skill_0_slash_58
+  rotate: true
+  xy: 484, 429
+  size: 81, 26
+  orig: 88, 99
+  offset: 3, 18
+  index: -1
+skill_0_Slash/skill_0_slash_60
+  rotate: true
+  xy: 466, 69
+  size: 83, 27
+  orig: 88, 99
+  offset: 2, 19
+  index: -1
+skill_1_front/skillFX_1_front_00
+  rotate: false
+  xy: 484, 240
+  size: 8, 5
+  orig: 76, 37
+  offset: 48, 14
+  index: -1
+skill_1_front/skillFX_1_front_13
+  rotate: false
+  xy: 73, 5
+  size: 67, 20
+  orig: 76, 37
+  offset: 4, 12
+  index: -1
+skill_1_front/skillFX_1_front_14
+  rotate: true
+  xy: 484, 278
+  size: 68, 20
+  orig: 76, 37
+  offset: 4, 12
+  index: -1
+skill_1_front/skillFX_1_front_15
+  rotate: false
+  xy: 2, 5
+  size: 69, 20
+  orig: 76, 37
+  offset: 3, 12
+  index: -1
+skill_1_front/skillFX_1_front_16
+  rotate: false
+  xy: 142, 4
+  size: 64, 21
+  orig: 76, 37
+  offset: 3, 12
+  index: -1
+skill_1_front/skillFX_1_front_17
+  rotate: false
+  xy: 208, 4
+  size: 64, 21
+  orig: 76, 37
+  offset: 3, 12
+  index: -1
+skill_1_front/skillFX_1_front_19
+  rotate: false
+  xy: 507, 131
+  size: 3, 3
+  orig: 76, 37
+  offset: 3, 13
+  index: -1
+skill_1_front/skillFX_1_front_20
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 76, 37
+  offset: 4, 14
+  index: -1
+
+NG_23000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFX/attackFX_18
+  rotate: true
+  xy: 484, 473
+  size: 37, 24
+  orig: 45, 47
+  offset: 3, 12
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_06
+  rotate: false
+  xy: 285, 106
+  size: 143, 132
+  orig: 480, 270
+  offset: 165, 69
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_12
+  rotate: false
+  xy: 2, 240
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_32
+  rotate: false
+  xy: 430, 152
+  size: 79, 86
+  orig: 480, 270
+  offset: 228, 116
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_33
+  rotate: false
+  xy: 430, 152
+  size: 79, 86
+  orig: 480, 270
+  offset: 228, 116
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_07
+  rotate: false
+  xy: 2, 9
+  size: 281, 229
+  orig: 480, 270
+  offset: 133, 6
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_10
+  rotate: false
+  xy: 285, 2
+  size: 113, 102
+  orig: 480, 270
+  offset: 171, 93
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_13
+  rotate: true
+  xy: 463, 15
+  size: 43, 45
+  orig: 480, 270
+  offset: 218, 128
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_24
+  rotate: false
+  xy: 484, 437
+  size: 24, 34
+  orig: 480, 270
+  offset: 453, 125
+  index: -1
+skill_0_Slash/skill_0_slash_37
+  rotate: false
+  xy: 430, 60
+  size: 78, 90
+  orig: 88, 99
+  offset: 10, 8
+  index: -1
+skill_0_Slash/skill_0_slash_59
+  rotate: true
+  xy: 400, 23
+  size: 81, 27
+  orig: 88, 99
+  offset: 3, 18
+  index: -1
+skill_1_front/skillFX_1_front_02
+  rotate: true
+  xy: 429, 4
+  size: 54, 32
+  orig: 76, 37
+  offset: 19, 2
+  index: -1
+skill_1_front/skillFX_1_front_18
+  rotate: true
+  xy: 484, 371
+  size: 64, 20
+  orig: 76, 37
+  offset: 3, 13
+  index: -1
+
+NG_23000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFX/attackFX_19
+  rotate: true
+  xy: 357, 11
+  size: 43, 34
+  orig: 45, 47
+  offset: 2, 0
+  index: -1
+skill/starlight
+  rotate: false
+  xy: 393, 7
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_07
+  rotate: true
+  xy: 314, 96
+  size: 142, 135
+  orig: 480, 270
+  offset: 165, 66
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_19
+  rotate: false
+  xy: 2, 240
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_05
+  rotate: false
+  xy: 2, 56
+  size: 310, 182
+  orig: 480, 270
+  offset: 131, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_12
+  rotate: false
+  xy: 451, 106
+  size: 57, 53
+  orig: 480, 270
+  offset: 209, 121
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_25
+  rotate: false
+  xy: 482, 66
+  size: 27, 38
+  orig: 480, 270
+  offset: 453, 125
+  index: -1
+skill_0_Slash/skill_0_slash_55
+  rotate: false
+  xy: 314, 56
+  size: 77, 38
+  orig: 88, 99
+  offset: 5, 1
+  index: -1
+skill_1_Slash/skill_1_Slash_01
+  rotate: false
+  xy: 78, 6
+  size: 78, 48
+  orig: 82, 59
+  offset: 3, 5
+  index: -1
+skill_1_Slash/skill_1_Slash_03
+  rotate: true
+  xy: 451, 161
+  size: 77, 58
+  orig: 82, 59
+  offset: 3, 0
+  index: -1
+skill_1_Slash/skill_1_Slash_04
+  rotate: false
+  xy: 2, 2
+  size: 74, 52
+  orig: 82, 59
+  offset: 6, 6
+  index: -1
+skill_1_Slash/skill_1_Slash_05
+  rotate: false
+  xy: 158, 3
+  size: 68, 51
+  orig: 82, 59
+  offset: 10, 6
+  index: -1
+skill_1_Slash/skill_1_Slash_06
+  rotate: false
+  xy: 228, 3
+  size: 63, 51
+  orig: 82, 59
+  offset: 13, 5
+  index: -1
+skill_1_Slash/skill_1_Slash_07
+  rotate: false
+  xy: 293, 3
+  size: 62, 51
+  orig: 82, 59
+  offset: 13, 5
+  index: -1
+
+NG_23000_FX14.png
+size: 507,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_20
+  rotate: false
+  xy: 2, 235
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_31
+  rotate: true
+  xy: 251, 26
+  size: 207, 254
+  orig: 480, 270
+  offset: 175, 16
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_08
+  rotate: false
+  xy: 2, 13
+  size: 247, 220
+  orig: 480, 270
+  offset: 134, 18
+  index: -1
+
+NG_23000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFX/attackFX_20
+  rotate: true
+  xy: 319, 107
+  size: 42, 31
+  orig: 45, 47
+  offset: 3, 7
+  index: -1
+attackFX/attackFX_21
+  rotate: false
+  xy: 375, 76
+  size: 39, 34
+  orig: 45, 47
+  offset: 6, 8
+  index: -1
+dust02
+  rotate: false
+  xy: 250, 106
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_05
+  rotate: false
+  xy: 2, 105
+  size: 132, 133
+  orig: 480, 270
+  offset: 175, 69
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_21
+  rotate: false
+  xy: 2, 240
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_11
+  rotate: true
+  xy: 233, 15
+  size: 88, 63
+  orig: 480, 270
+  offset: 189, 112
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_19
+  rotate: true
+  xy: 136, 105
+  size: 133, 112
+  orig: 480, 270
+  offset: 167, 94
+  index: -1
+skill_0_Slash/skill_0_slash_38
+  rotate: false
+  xy: 80, 11
+  size: 74, 92
+  orig: 88, 99
+  offset: 14, 6
+  index: -1
+skill_0_Slash/skill_0_slash_39
+  rotate: false
+  xy: 156, 15
+  size: 75, 88
+  orig: 88, 99
+  offset: 13, 6
+  index: -1
+skill_0_Slash/skill_0_slash_40
+  rotate: false
+  xy: 329, 154
+  size: 76, 84
+  orig: 88, 99
+  offset: 12, 6
+  index: -1
+skill_0_Slash/skill_0_slash_41
+  rotate: false
+  xy: 407, 154
+  size: 75, 84
+  orig: 88, 99
+  offset: 13, 6
+  index: -1
+skill_0_Slash/skill_0_slash_42
+  rotate: false
+  xy: 298, 17
+  size: 75, 87
+  orig: 88, 99
+  offset: 12, 5
+  index: -1
+skill_0_Slash/skill_0_slash_43
+  rotate: false
+  xy: 250, 151
+  size: 77, 87
+  orig: 88, 99
+  offset: 10, 5
+  index: -1
+skill_0_Slash/skill_0_slash_44
+  rotate: false
+  xy: 2, 10
+  size: 76, 93
+  orig: 88, 99
+  offset: 9, 4
+  index: -1
+skill_0_Slash/skill_0_slash_48
+  rotate: false
+  xy: 429, 76
+  size: 77, 76
+  orig: 88, 99
+  offset: 6, 2
+  index: -1
+skill_0_Slash/skill_0_slash_50
+  rotate: false
+  xy: 416, 3
+  size: 77, 71
+  orig: 88, 99
+  offset: 5, 1
+  index: -1
+skill_0_Slash/skill_0_slash_52
+  rotate: true
+  xy: 375, 2
+  size: 72, 39
+  orig: 88, 99
+  offset: 7, 0
+  index: -1
+skill_0_Slash/skill_0_slash_54
+  rotate: false
+  xy: 352, 112
+  size: 75, 40
+  orig: 88, 99
+  offset: 6, 0
+  index: -1
+
+NG_23000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFX/attackFX_22
+  rotate: false
+  xy: 350, 51
+  size: 37, 31
+  orig: 45, 47
+  offset: 7, 8
+  index: -1
+dust01
+  rotate: true
+  xy: 467, 16
+  size: 68, 40
+  orig: 70, 40
+  offset: 2, 0
+  index: -1
+skill/blooddust
+  rotate: false
+  xy: 144, 3
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+skill/flash02
+  rotate: false
+  xy: 2, 37
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+skill_0/Combined Dynamic Cartoon Effects 11 Color_22
+  rotate: false
+  xy: 2, 240
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_04
+  rotate: false
+  xy: 2, 108
+  size: 307, 130
+  orig: 480, 270
+  offset: 134, 0
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_17
+  rotate: true
+  xy: 73, 43
+  size: 63, 69
+  orig: 480, 270
+  offset: 207, 115
+  index: -1
+skill_0_Slash/skill_0_slash_45
+  rotate: true
+  xy: 390, 85
+  size: 76, 74
+  orig: 88, 99
+  offset: 8, 4
+  index: -1
+skill_0_Slash/skill_0_slash_46
+  rotate: false
+  xy: 389, 163
+  size: 75, 75
+  orig: 88, 99
+  offset: 7, 3
+  index: -1
+skill_0_Slash/skill_0_slash_47
+  rotate: false
+  xy: 311, 84
+  size: 77, 75
+  orig: 88, 99
+  offset: 6, 3
+  index: -1
+skill_0_Slash/skill_0_slash_49
+  rotate: true
+  xy: 311, 161
+  size: 77, 76
+  orig: 88, 99
+  offset: 6, 2
+  index: -1
+skill_0_Slash/skill_0_slash_51
+  rotate: false
+  xy: 390, 13
+  size: 75, 70
+  orig: 88, 99
+  offset: 6, 1
+  index: -1
+skill_0_Slash/skill_0_slash_53
+  rotate: true
+  xy: 466, 165
+  size: 73, 40
+  orig: 88, 99
+  offset: 7, 0
+  index: -1
+skill_0_Slash/skill_0_slash_56
+  rotate: true
+  xy: 466, 86
+  size: 77, 30
+  orig: 88, 99
+  offset: 5, 11
+  index: -1
+skill_1_Slash/skill_1_Slash_02
+  rotate: false
+  xy: 144, 53
+  size: 76, 53
+  orig: 82, 59
+  offset: 4, 4
+  index: -1
+skill_1_Slash/skill_1_Slash_08
+  rotate: true
+  xy: 222, 36
+  size: 70, 53
+  orig: 82, 59
+  offset: 5, 3
+  index: -1
+skill_1_front/skillFX_1_front_01
+  rotate: false
+  xy: 348, 11
+  size: 40, 31
+  orig: 76, 37
+  offset: 31, 2
+  index: -1
+skill_1_front/skillFX_1_front_03
+  rotate: false
+  xy: 2, 2
+  size: 61, 33
+  orig: 76, 37
+  offset: 15, 2
+  index: -1
+skill_1_front/skillFX_1_front_05
+  rotate: false
+  xy: 73, 6
+  size: 69, 35
+  orig: 76, 37
+  offset: 7, 2
+  index: -1
+skill_1_front/skillFX_1_front_06
+  rotate: false
+  xy: 277, 5
+  size: 69, 35
+  orig: 76, 37
+  offset: 6, 2
+  index: -1
+skill_1_front/skillFX_1_front_11
+  rotate: true
+  xy: 277, 42
+  size: 64, 31
+  orig: 76, 37
+  offset: 7, 3
+  index: -1
+skill_1_front/skillFX_1_front_12
+  rotate: false
+  xy: 196, 4
+  size: 66, 30
+  orig: 76, 37
+  offset: 5, 4
+  index: -1
+thunder2/light01
+  rotate: false
+  xy: 310, 44
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX17.png
+size: 498,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Simple Dynamic Cartoon Effects 29 Color_14
+  rotate: false
+  xy: 2, 2
+  size: 36, 34
+  orig: 480, 270
+  offset: 221, 138
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_15
+  rotate: false
+  xy: 2, 2
+  size: 36, 34
+  orig: 480, 270
+  offset: 221, 138
+  index: -1
+skill_0/Simple Dynamic Cartoon Effects 29 Color_20
+  rotate: false
+  xy: 2, 226
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+skill_1_Slash/skill_1_Slash_00
+  rotate: false
+  xy: 2, 114
+  size: 59, 36
+  orig: 82, 59
+  offset: 2, 5
+  index: -1
+skill_1_Slash/skill_1_Slash_09
+  rotate: false
+  xy: 2, 38
+  size: 48, 37
+  orig: 82, 59
+  offset: 27, 17
+  index: -1
+skill_1_front/skillFX_1_front_04
+  rotate: false
+  xy: 2, 190
+  size: 66, 34
+  orig: 76, 37
+  offset: 10, 2
+  index: -1
+skill_1_front/skillFX_1_front_07
+  rotate: false
+  xy: 2, 152
+  size: 64, 36
+  orig: 76, 37
+  offset: 6, 1
+  index: -1
+skill_1_front/skillFX_1_front_08
+  rotate: false
+  xy: 2, 77
+  size: 58, 35
+  orig: 76, 37
+  offset: 10, 2
+  index: -1
+skill_1_front/skillFX_1_front_09
+  rotate: false
+  xy: 133, 191
+  size: 58, 33
+  orig: 76, 37
+  offset: 11, 2
+  index: -1
+skill_1_front/skillFX_1_front_10
+  rotate: false
+  xy: 70, 191
+  size: 61, 33
+  orig: 76, 37
+  offset: 9, 2
+  index: -1
+
+NG_23000_FX18.png
+size: 483,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_17
+  rotate: false
+  xy: 2, 211
+  size: 479, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX19.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_13
+  rotate: false
+  xy: 2, 208
+  size: 476, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX110.png
+size: 479,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_14
+  rotate: false
+  xy: 2, 207
+  size: 475, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX111.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_23
+  rotate: false
+  xy: 2, 215
+  size: 480, 267
+  orig: 480, 270
+  offset: 0, 3
+  index: -1
+
+NG_23000_FX112.png
+size: 478,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_15
+  rotate: false
+  xy: 2, 206
+  size: 474, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX113.png
+size: 478,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_16
+  rotate: false
+  xy: 2, 206
+  size: 474, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+
+NG_23000_FX114.png
+size: 482,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_24
+  rotate: false
+  xy: 2, 214
+  size: 478, 266
+  orig: 480, 270
+  offset: 0, 4
+  index: -1
+
+NG_23000_FX115.png
+size: 473,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Simple Dynamic Cartoon Effects 29 Color_21
+  rotate: false
+  xy: 2, 202
+  size: 469, 269
+  orig: 480, 270
+  offset: 0, 1
+  index: -1
+
+NG_23000_FX116.png
+size: 471,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_18
+  rotate: false
+  xy: 2, 199
+  size: 467, 270
+  orig: 480, 270
+  offset: 13, 0
+  index: -1
+
+NG_23000_FX117.png
+size: 439,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_09
+  rotate: false
+  xy: 2, 167
+  size: 435, 270
+  orig: 480, 270
+  offset: 30, 0
+  index: -1
+
+NG_23000_FX118.png
+size: 437,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Simple Dynamic Cartoon Effects 29 Color_22
+  rotate: false
+  xy: 2, 173
+  size: 433, 262
+  orig: 480, 270
+  offset: 47, 0
+  index: -1
+
+NG_23000_FX119.png
+size: 434,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Simple Dynamic Cartoon Effects 29 Color_23
+  rotate: false
+  xy: 2, 172
+  size: 430, 260
+  orig: 480, 270
+  offset: 48, 0
+  index: -1
+
+NG_23000_FX120.png
+size: 375,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_25
+  rotate: false
+  xy: 2, 105
+  size: 371, 268
+  orig: 480, 270
+  offset: 0, 2
+  index: -1
+
+NG_23000_FX121.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_11
+  rotate: false
+  xy: 2, 96
+  size: 362, 268
+  orig: 480, 270
+  offset: 0, 2
+  index: -1
+
+NG_23000_FX122.png
+size: 339,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_10
+  rotate: false
+  xy: 2, 67
+  size: 335, 270
+  orig: 480, 270
+  offset: 78, 0
+  index: -1
+
+NG_23000_FX123.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_29
+  rotate: false
+  xy: 2, 29
+  size: 296, 269
+  orig: 480, 270
+  offset: 83, 1
+  index: -1
+
+NG_23000_FX124.png
+size: 293,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_28
+  rotate: false
+  xy: 2, 25
+  size: 289, 266
+  orig: 480, 270
+  offset: 87, 0
+  index: -1
+
+NG_23000_FX125.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_26
+  rotate: false
+  xy: 2, 14
+  size: 282, 270
+  orig: 480, 270
+  offset: 84, 0
+  index: -1
+
+NG_23000_FX126.png
+size: 282,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_27
+  rotate: false
+  xy: 2, 10
+  size: 278, 270
+  orig: 480, 270
+  offset: 93, 0
+  index: -1
+
+NG_23000_FX127.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/Combined Dynamic Cartoon Effects 11 Color_30
+  rotate: false
+  xy: 2, 8
+  size: 276, 270
+  orig: 480, 270
+  offset: 105, 0
+  index: -1

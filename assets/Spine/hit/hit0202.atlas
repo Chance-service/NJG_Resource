@@ -1,0 +1,146 @@
+
+hit0202.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slicehit_00
+  rotate: false
+  xy: 337, 276
+  size: 30, 30
+  orig: 155, 183
+  offset: 89, 124
+  index: -1
+slicehit_01
+  rotate: true
+  xy: 376, 339
+  size: 87, 125
+  orig: 155, 183
+  offset: 32, 29
+  index: -1
+slicehit_02
+  rotate: true
+  xy: 376, 428
+  size: 98, 143
+  orig: 155, 183
+  offset: 27, 21
+  index: -1
+slicehit_03
+  rotate: false
+  xy: 138, 366
+  size: 115, 160
+  orig: 155, 183
+  offset: 22, 13
+  index: -1
+slicehit_04
+  rotate: false
+  xy: 2, 176
+  size: 125, 172
+  orig: 155, 183
+  offset: 20, 8
+  index: -1
+slicehit_05
+  rotate: false
+  xy: 2, 350
+  size: 134, 176
+  orig: 155, 183
+  offset: 19, 6
+  index: -1
+slicehit_06
+  rotate: true
+  xy: 2, 40
+  size: 134, 123
+  orig: 155, 183
+  offset: 19, 27
+  index: -1
+slicehit_07
+  rotate: false
+  xy: 255, 394
+  size: 119, 132
+  orig: 155, 183
+  offset: 15, 23
+  index: -1
+slicehit_08
+  rotate: false
+  xy: 337, 151
+  size: 103, 96
+  orig: 155, 183
+  offset: 31, 41
+  index: -1
+slicehit_09
+  rotate: true
+  xy: 127, 28
+  size: 79, 102
+  orig: 155, 183
+  offset: 60, 36
+  index: -1
+slicehit_10
+  rotate: false
+  xy: 344, 43
+  size: 81, 106
+  orig: 155, 183
+  offset: 60, 34
+  index: -1
+slicehit_11
+  rotate: true
+  xy: 231, 48
+  size: 83, 111
+  orig: 155, 183
+  offset: 61, 31
+  index: -1
+slicehit_12
+  rotate: false
+  xy: 442, 135
+  size: 84, 112
+  orig: 155, 183
+  offset: 61, 30
+  index: -1
+slicehit_13
+  rotate: true
+  xy: 218, 220
+  size: 86, 117
+  orig: 155, 183
+  offset: 61, 27
+  index: -1
+slicehit_14
+  rotate: false
+  xy: 129, 109
+  size: 87, 117
+  orig: 155, 183
+  offset: 61, 27
+  index: -1
+slicehit_15
+  rotate: true
+  xy: 375, 249
+  size: 88, 120
+  orig: 155, 183
+  offset: 61, 25
+  index: -1
+slicehit_16
+  rotate: false
+  xy: 129, 228
+  size: 87, 120
+  orig: 155, 183
+  offset: 62, 25
+  index: -1
+slicehit_17
+  rotate: true
+  xy: 218, 133
+  size: 85, 117
+  orig: 155, 183
+  offset: 63, 24
+  index: -1
+slicehit_18
+  rotate: true
+  xy: 255, 308
+  size: 84, 118
+  orig: 155, 183
+  offset: 63, 24
+  index: -1
+slicehit_19
+  rotate: true
+  xy: 2, 13
+  size: 25, 118
+  orig: 155, 183
+  offset: 82, 24
+  index: -1

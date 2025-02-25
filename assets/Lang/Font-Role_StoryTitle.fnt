@@ -1,0 +1,18 @@
+info face="Lolita" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=4,4 outline=0
+common lineHeight=40 base=30 scaleW=1024 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Font-Role_StoryTitle_0.png"
+chars count=14
+char id=10   x=437   y=0     width=7     height=5     xoffset=-3    yoffset=37    xadvance=15    page=0  chnl=15
+char id=13   x=448   y=0     width=7     height=5     xoffset=-3    yoffset=37    xadvance=10    page=0  chnl=15
+char id=19996 x=0     y=0     width=33    height=33    xoffset=-1    yoffset=2     xadvance=30    page=0  chnl=15
+char id=21862 x=218   y=0     width=33    height=32    xoffset=-1    yoffset=3     xadvance=30    page=0  chnl=15
+char id=22812 x=37    y=0     width=33    height=33    xoffset=-1    yoffset=2     xadvance=30    page=0  chnl=15
+char id=23569 x=111   y=0     width=32    height=33    xoffset=-1    yoffset=2     xadvance=30    page=0  chnl=15
+char id=30340 x=255   y=0     width=33    height=32    xoffset=-1    yoffset=3     xadvance=30    page=0  chnl=15
+char id=32451 x=74    y=0     width=33    height=33    xoffset=-1    yoffset=2     xadvance=30    page=0  chnl=15
+char id=32844 x=292   y=0     width=33    height=32    xoffset=-1    yoffset=3     xadvance=30    page=0  chnl=15
+char id=35757 x=366   y=0     width=32    height=32    xoffset=-1    yoffset=3     xadvance=30    page=0  chnl=15
+char id=36131 x=147   y=0     width=32    height=33    xoffset=-1    yoffset=2     xadvance=30    page=0  chnl=15
+char id=38271 x=402   y=0     width=31    height=32    xoffset=0     yoffset=3     xadvance=30    page=0  chnl=15
+char id=38388 x=183   y=0     width=31    height=33    xoffset=0     yoffset=2     xadvance=30    page=0  chnl=15
+char id=38431 x=329   y=0     width=33    height=32    xoffset=-1    yoffset=3     xadvance=30    page=0  chnl=15

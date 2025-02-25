@@ -1,0 +1,22 @@
+step	level	func	funcParam
+1	10	onArena	nil
+2	12	onCreateUnion	nil
+3	15	onSkillDeblocking	nil
+4	15	onMercenaryCulture	nil
+5	20	onSkillDeblocking	nil
+6	25	onSkillDeblocking	nil
+7	25	onSkillGridDeblocking	nil
+8	30	onSkillDeblocking	nil
+9	30	onMercenaryTraining	nil
+10	30	onMercenariesOpens	nil
+11	30	onLevelTraining	nil1
+12	35	onSkillLevelUp	nil
+13	35	onMercenaryExpedition	nil
+14	35	onSkillGridDeblocking	nil
+15	38	onMercenariesOpens	nil
+16	40	onSkillDeblocking	nil
+17	45	onMercenariesOpens	nil
+18	50	onSkillDeblocking	nil
+
+
+

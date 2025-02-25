@@ -1,0 +1,83 @@
+
+Buff_19A_FX1.png
+size: 381,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0000
+  rotate: false
+  xy: 0, 24
+  size: 63, 172
+  orig: 102, 183
+  offset: 9, 11
+  index: -1
+1_0001
+  rotate: true
+  xy: 144, 82
+  size: 77, 125
+  orig: 102, 183
+  offset: 9, 6
+  index: -1
+1_0002
+  rotate: false
+  xy: 65, 49
+  size: 77, 147
+  orig: 102, 183
+  offset: 9, 2
+  index: -1
+1_0003
+  rotate: false
+  xy: 305, 230
+  size: 76, 151
+  orig: 102, 183
+  offset: 9, 16
+  index: -1
+1_0004
+  rotate: false
+  xy: 0, 198
+  size: 72, 183
+  orig: 102, 183
+  offset: 9, 0
+  index: -1
+1_0005
+  rotate: false
+  xy: 74, 207
+  size: 73, 174
+  orig: 102, 183
+  offset: 9, 9
+  index: -1
+1_0006
+  rotate: false
+  xy: 232, 223
+  size: 71, 158
+  orig: 102, 183
+  offset: 12, 21
+  index: -1
+1_0007
+  rotate: true
+  xy: 149, 161
+  size: 60, 160
+  orig: 102, 183
+  offset: 28, 14
+  index: -1
+1_0008
+  rotate: true
+  xy: 144, 15
+  size: 65, 137
+  orig: 102, 183
+  offset: 26, 16
+  index: -1
+1_0009
+  rotate: false
+  xy: 149, 223
+  size: 81, 158
+  orig: 102, 183
+  offset: 11, 12
+  index: -1
+wai_yumao
+  rotate: false
+  xy: 283, 58
+  size: 86, 101
+  orig: 93, 127
+  offset: 0, 12
+  index: -1

@@ -1,0 +1,10 @@
+ID	内容
+1	<font color="#6f2f00" face = "HelveticaBD30" >#v1#获得</font><font color="#6f2f00" face = "HelveticaBD30" >大天使级</font><font color="#6f2f00" face = "HelveticaBD30" >10星之翼</font>
+2	<font color="#6f2f00" face = "HelveticaBD30" >#v1#获得</font><font color="#00ff00" face = "HelveticaBD30" >权天使级</font><font color="#6f2f00" face = "HelveticaBD30" >10星之翼</font>
+3	<font color="#6f2f00" face = "HelveticaBD30" >#v1#获得</font><font color="#0e9dd5" face = "HelveticaBD30" >力天使级</font><font color="#6f2f00" face = "HelveticaBD30" >10星之翼</font>
+4	<font color="#6f2f00" face = "HelveticaBD30" >#v1#获得</font><font color="#ff00ff" face = "HelveticaBD30" >智天使级</font><font color="#6f2f00" face = "HelveticaBD30" >10星之翼</font>
+5	<font color="#6f2f00" face = "HelveticaBD30" >#v1#获得</font><font color="#ff7d00" face = "HelveticaBD30" >炽天使级</font><font color="#6f2f00" face = "HelveticaBD30" >10星之翼</font>
+6	<font color="#ff7d00" face = "HelveticaBD30" >#v1#获得</font><font color="#6f2f00" face = "HelveticaBD30" >王妃内阁</font><font color="#dc1f1f" face = "HelveticaBD30" >#v2#</font><font color="#6f2f00" face = "HelveticaBD30" >。</font>
+8	<font color="#ffffff" face = "HelveticaBD26" >恭喜！</font><font color="#26eb00" face = "HelveticaBD26" >#v1#</font><font color="#ffffff" face = "HelveticaBD26" >大人获得了</font><font color="#ff1e00" face = "HelveticaBD26" >#v2#</font><font color="#ffffff" face = "HelveticaBD26" >！</font>
+9	<font color="#ffffff" face = "HelveticaBD26" >天子奉戴【</font><font color="#26eb00" face = "HelveticaBD26" >#v1#</font><font color="#ffffff" face = "HelveticaBD26" >】位:【</font><font color="#ff1e00" face = "HelveticaBD26" >#v2#</font><font color="#ffffff" face = "HelveticaBD26" >】</font>
+10	<font color="#000000" face = "HelveticaBD26" >恭喜！“</font><font color="#26eb00" face = "HelveticaBD26" >#v1#</font><font color="#000000" face = "HelveticaBD26" >”勇者获得了“</font><font color="#ff1e00" face = "HelveticaBD26" >#v2#</font><font color="#000000" face = "HelveticaBD26" >”！</font>

@@ -1,0 +1,2 @@
+时装id	时间	名称	背景介绍	碎片数量	稀有度	属性1	属性2	属性3	属性4	属性5	属性6
+1	7	@avatarName_1	@avatarDes_1	0	5	@fashionAttr_11	@fashionAttr_12	@fashionAttr_13	@fashionAttr_14		

@@ -1,0 +1,69 @@
+
+NGUI_89_slash.png
+size: 1654,1654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FXA_10
+  rotate: true
+  xy: 1398, 247
+  size: 262, 196
+  orig: 1280, 1280
+  offset: 993, 912
+  index: -1
+FXA_11
+  rotate: true
+  xy: 1398, 247
+  size: 262, 196
+  orig: 1280, 1280
+  offset: 993, 912
+  index: -1
+FXA_12
+  rotate: true
+  xy: 1398, 511
+  size: 357, 254
+  orig: 1280, 1280
+  offset: 888, 853
+  index: -1
+FXA_13
+  rotate: false
+  xy: 2, 866
+  size: 811, 786
+  orig: 1280, 1280
+  offset: 286, 247
+  index: -1
+FXA_14
+  rotate: false
+  xy: 2, 81
+  size: 805, 783
+  orig: 1280, 1280
+  offset: 263, 214
+  index: -1
+FXA_15
+  rotate: false
+  xy: 815, 870
+  size: 803, 782
+  orig: 1280, 1280
+  offset: 265, 215
+  index: -1
+FXA_16
+  rotate: false
+  xy: 815, 870
+  size: 803, 782
+  orig: 1280, 1280
+  offset: 265, 215
+  index: -1
+FXA_17
+  rotate: true
+  xy: 809, 159
+  size: 705, 587
+  orig: 1280, 1280
+  offset: 363, 410
+  index: -1
+FXB01
+  rotate: false
+  xy: 2, 23
+  size: 133, 56
+  orig: 188, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Buff_21_FX1.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1%
+  rotate: false
+  xy: 99, 105
+  size: 36, 34
+  orig: 44, 44
+  offset: 4, 5
+  index: -1
+glow_1
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ring glow
+  rotate: false
+  xy: 2, 44
+  size: 95, 95
+  orig: 120, 120
+  offset: 12, 13
+  index: -1

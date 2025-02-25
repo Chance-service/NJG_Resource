@@ -1,0 +1,27 @@
+
+Buff_24.png
+size: 93,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_1
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+mana icon
+  rotate: false
+  xy: 2, 44
+  size: 42, 47
+  orig: 44, 48
+  offset: 1, 0
+  index: -1
+mana ring
+  rotate: false
+  xy: 46, 47
+  size: 44, 44
+  orig: 48, 48
+  offset: 2, 2
+  index: -1

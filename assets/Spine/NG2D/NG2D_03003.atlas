@@ -1,0 +1,577 @@
+
+NG2D_03003.png
+size: 1021,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 59
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Eye closed
+  rotate: false
+  xy: 2, 2
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+FX/fog_00000
+  rotate: false
+  xy: 860, 67
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 90, 14
+  size: 43, 152
+  orig: 43, 152
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 859, 599
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 244, 14
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: true
+  xy: 342, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+L Eyelash
+  rotate: false
+  xy: 377, 29
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 859, 677
+  size: 158, 342
+  orig: 158, 342
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 447, 34
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+R Eyelash
+  rotate: false
+  xy: 484, 36
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 544, 576
+  size: 313, 443
+  orig: 313, 443
+  offset: 0, 0
+  index: -1
+boob
+  rotate: true
+  xy: 544, 18
+  size: 196, 160
+  orig: 196, 160
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 760, 309
+  size: 265, 238
+  orig: 265, 238
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 304, 25
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 411, 33
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 760, 2
+  size: 98, 305
+  orig: 98, 305
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 544, 216
+  size: 214, 358
+  orig: 214, 358
+  offset: 0, 0
+  index: -1
+
+NG2D_030032.png
+size: 970,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/fog_00002
+  rotate: true
+  xy: 2, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00004
+  rotate: true
+  xy: 244, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00006
+  rotate: true
+  xy: 486, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00008
+  rotate: true
+  xy: 728, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00010
+  rotate: true
+  xy: 2, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00012
+  rotate: true
+  xy: 244, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00014
+  rotate: true
+  xy: 486, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00016
+  rotate: true
+  xy: 728, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00018
+  rotate: true
+  xy: 2, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00020
+  rotate: true
+  xy: 244, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00022
+  rotate: true
+  xy: 486, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00024
+  rotate: true
+  xy: 728, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00026
+  rotate: true
+  xy: 2, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00028
+  rotate: true
+  xy: 244, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00030
+  rotate: true
+  xy: 486, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00032
+  rotate: true
+  xy: 728, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00034
+  rotate: true
+  xy: 2, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00036
+  rotate: true
+  xy: 244, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00038
+  rotate: true
+  xy: 486, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00040
+  rotate: true
+  xy: 728, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00042
+  rotate: true
+  xy: 2, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00044
+  rotate: true
+  xy: 244, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00046
+  rotate: true
+  xy: 486, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00048
+  rotate: true
+  xy: 728, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00050
+  rotate: true
+  xy: 2, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00052
+  rotate: true
+  xy: 244, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00054
+  rotate: true
+  xy: 486, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00056
+  rotate: true
+  xy: 728, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+
+NG2D_030033.png
+size: 970,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/fog_00058
+  rotate: true
+  xy: 2, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00060
+  rotate: true
+  xy: 244, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00062
+  rotate: true
+  xy: 486, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00064
+  rotate: true
+  xy: 728, 833
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00066
+  rotate: true
+  xy: 2, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00068
+  rotate: true
+  xy: 244, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00070
+  rotate: true
+  xy: 486, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00072
+  rotate: true
+  xy: 728, 696
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00074
+  rotate: true
+  xy: 2, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00076
+  rotate: true
+  xy: 244, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00078
+  rotate: true
+  xy: 486, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00080
+  rotate: true
+  xy: 728, 559
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00082
+  rotate: true
+  xy: 2, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00084
+  rotate: true
+  xy: 244, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00086
+  rotate: true
+  xy: 486, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00088
+  rotate: true
+  xy: 728, 422
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00090
+  rotate: true
+  xy: 2, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00092
+  rotate: true
+  xy: 244, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00094
+  rotate: true
+  xy: 486, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00096
+  rotate: true
+  xy: 728, 285
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00098
+  rotate: true
+  xy: 2, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00100
+  rotate: true
+  xy: 244, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00102
+  rotate: true
+  xy: 486, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00104
+  rotate: true
+  xy: 728, 148
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00106
+  rotate: true
+  xy: 2, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00108
+  rotate: true
+  xy: 244, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00110
+  rotate: true
+  xy: 486, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00112
+  rotate: true
+  xy: 728, 11
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+
+NG2D_030034.png
+size: 499,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/fog_00114
+  rotate: true
+  xy: 190, 139
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00116
+  rotate: true
+  xy: 2, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/fog_00118
+  rotate: true
+  xy: 244, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 2, 147
+  size: 186, 350
+  orig: 186, 350
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 190, 276
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+Enemy06_FX1.png
+size: 387,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/Smoke_00
+  rotate: true
+  xy: 329, 41
+  size: 33, 18
+  orig: 140, 45
+  offset: 55, 2
+  index: -1
+attack_0/Smoke_01
+  rotate: true
+  xy: 336, 76
+  size: 50, 19
+  orig: 140, 45
+  offset: 46, 2
+  index: -1
+attack_0/Smoke_02
+  rotate: true
+  xy: 222, 21
+  size: 82, 25
+  orig: 140, 45
+  offset: 30, 3
+  index: -1
+attack_0/Smoke_03
+  rotate: true
+  xy: 357, 22
+  size: 105, 27
+  orig: 140, 45
+  offset: 18, 4
+  index: -1
+attack_0/Smoke_04
+  rotate: false
+  xy: 132, 223
+  size: 134, 36
+  orig: 140, 45
+  offset: 3, 4
+  index: -1
+attack_0/Smoke_05
+  rotate: true
+  xy: 250, 81
+  size: 140, 39
+  orig: 140, 45
+  offset: 0, 5
+  index: -1
+attack_0/Smoke_06
+  rotate: true
+  xy: 291, 127
+  size: 140, 37
+  orig: 140, 45
+  offset: 0, 7
+  index: -1
+attack_0/Smoke_07
+  rotate: true
+  xy: 330, 128
+  size: 139, 22
+  orig: 140, 45
+  offset: 1, 15
+  index: -1
+attack_0/Smoke_08
+  rotate: true
+  xy: 354, 129
+  size: 138, 16
+  orig: 140, 45
+  offset: 2, 17
+  index: -1
+attack_0/star_00
+  rotate: true
+  xy: 291, 81
+  size: 44, 43
+  orig: 150, 150
+  offset: 53, 54
+  index: -1
+attack_0/star_01
+  rotate: false
+  xy: 249, 2
+  size: 78, 77
+  orig: 150, 150
+  offset: 36, 37
+  index: -1
+attack_0/star_02
+  rotate: false
+  xy: 128, 11
+  size: 92, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+attack_0/star_03
+  rotate: false
+  xy: 260, 269
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1
+attack_0/star_04
+  rotate: false
+  xy: 2, 133
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+attack_0/star_05
+  rotate: false
+  xy: 2, 259
+  size: 128, 126
+  orig: 150, 150
+  offset: 11, 12
+  index: -1
+attack_0/star_06
+  rotate: false
+  xy: 132, 261
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+attack_0/star_07
+  rotate: false
+  xy: 2, 9
+  size: 124, 122
+  orig: 150, 150
+  offset: 13, 14
+  index: -1
+attack_0/star_08
+  rotate: false
+  xy: 130, 105
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1

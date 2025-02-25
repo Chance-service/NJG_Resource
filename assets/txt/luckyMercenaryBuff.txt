@@ -1,0 +1,4 @@
+buffId	buff字典
+1	@lucky_buff_3
+2	@lucky_buff_2
+3	@lucky_buff_1

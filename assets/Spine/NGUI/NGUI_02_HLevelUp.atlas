@@ -1,0 +1,394 @@
+
+NGUI_02_HLevelUp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS1/AS2_00
+  rotate: false
+  xy: 674, 357
+  size: 332, 325
+  orig: 504, 504
+  offset: 94, 87
+  index: -1
+AS1/AS2_01
+  rotate: false
+  xy: 674, 31
+  size: 333, 324
+  orig: 504, 504
+  offset: 93, 92
+  index: -1
+AS1/AS2_03
+  rotate: false
+  xy: 2, 6
+  size: 334, 306
+  orig: 504, 504
+  offset: 92, 99
+  index: -1
+AS1/AS2_04
+  rotate: false
+  xy: 674, 684
+  size: 334, 338
+  orig: 504, 504
+  offset: 92, 72
+  index: -1
+AS1/AS2_05
+  rotate: false
+  xy: 338, 670
+  size: 334, 352
+  orig: 504, 504
+  offset: 92, 62
+  index: -1
+AS1/AS2_06
+  rotate: false
+  xy: 2, 669
+  size: 334, 353
+  orig: 504, 504
+  offset: 92, 64
+  index: -1
+AS1/AS2_07
+  rotate: false
+  xy: 2, 314
+  size: 334, 353
+  orig: 504, 504
+  offset: 92, 69
+  index: -1
+AS1/AS2_08
+  rotate: false
+  xy: 338, 317
+  size: 334, 351
+  orig: 504, 504
+  offset: 92, 73
+  index: -1
+AS1/AS2_09
+  rotate: false
+  xy: 338, 2
+  size: 326, 313
+  orig: 504, 504
+  offset: 92, 77
+  index: -1
+
+NGUI_02_HLevelUp2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS1/AS2_02
+  rotate: true
+  xy: 603, 678
+  size: 332, 322
+  orig: 504, 504
+  offset: 94, 95
+  index: -1
+AS1/AS2_11
+  rotate: false
+  xy: 2, 290
+  size: 328, 328
+  orig: 504, 504
+  offset: 92, 85
+  index: -1
+AS1/AS2_18
+  rotate: false
+  xy: 339, 2
+  size: 320, 334
+  orig: 504, 504
+  offset: 103, 113
+  index: -1
+AS1/AS2_19
+  rotate: false
+  xy: 654, 342
+  size: 320, 334
+  orig: 504, 504
+  offset: 103, 118
+  index: -1
+AS1/AS2_20
+  rotate: false
+  xy: 332, 338
+  size: 320, 335
+  orig: 504, 504
+  offset: 103, 121
+  index: -1
+AS1/AS2_21
+  rotate: false
+  xy: 280, 675
+  size: 321, 335
+  orig: 504, 504
+  offset: 103, 126
+  index: -1
+AS1/AS2_22
+  rotate: false
+  xy: 661, 4
+  size: 318, 336
+  orig: 504, 504
+  offset: 103, 130
+  index: -1
+AS1/AS2_23
+  rotate: true
+  xy: 2, 12
+  size: 276, 335
+  orig: 504, 504
+  offset: 103, 134
+  index: -1
+AS1/AS2_24
+  rotate: false
+  xy: 2, 620
+  size: 276, 390
+  orig: 504, 504
+  offset: 103, 83
+  index: -1
+AS1/AS2_51
+  rotate: false
+  xy: 927, 937
+  size: 73, 73
+  orig: 504, 504
+  offset: 123, 111
+  index: -1
+
+NGUI_02_HLevelUp3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS1/AS2_10
+  rotate: false
+  xy: 641, 700
+  size: 327, 318
+  orig: 504, 504
+  offset: 92, 81
+  index: -1
+AS1/AS2_12
+  rotate: false
+  xy: 2, 15
+  size: 320, 331
+  orig: 504, 504
+  offset: 101, 88
+  index: -1
+AS1/AS2_13
+  rotate: false
+  xy: 322, 351
+  size: 317, 332
+  orig: 504, 504
+  offset: 104, 92
+  index: -1
+AS1/AS2_14
+  rotate: false
+  xy: 324, 17
+  size: 317, 332
+  orig: 504, 504
+  offset: 104, 96
+  index: -1
+AS1/AS2_15
+  rotate: false
+  xy: 322, 685
+  size: 317, 333
+  orig: 504, 504
+  offset: 104, 100
+  index: -1
+AS1/AS2_16
+  rotate: false
+  xy: 2, 684
+  size: 318, 334
+  orig: 504, 504
+  offset: 104, 104
+  index: -1
+AS1/AS2_17
+  rotate: false
+  xy: 2, 348
+  size: 318, 334
+  orig: 504, 504
+  offset: 104, 108
+  index: -1
+AS1/AS2_25
+  rotate: false
+  xy: 641, 421
+  size: 274, 277
+  orig: 504, 504
+  offset: 105, 75
+  index: -1
+AS1/AS2_31
+  rotate: true
+  xy: 643, 2
+  size: 163, 252
+  orig: 504, 504
+  offset: 141, 99
+  index: -1
+AS1/AS2_46
+  rotate: true
+  xy: 643, 167
+  size: 252, 285
+  orig: 504, 504
+  offset: 120, 87
+  index: -1
+
+NGUI_02_HLevelUp4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS1/AS2_26
+  rotate: false
+  xy: 538, 177
+  size: 220, 274
+  orig: 504, 504
+  offset: 158, 78
+  index: -1
+AS1/AS2_27
+  rotate: true
+  xy: 2, 14
+  size: 148, 268
+  orig: 504, 504
+  offset: 206, 83
+  index: -1
+AS1/AS2_29
+  rotate: true
+  xy: 525, 12
+  size: 163, 251
+  orig: 504, 504
+  offset: 141, 90
+  index: -1
+AS1/AS2_34
+  rotate: true
+  xy: 272, 2
+  size: 200, 251
+  orig: 504, 504
+  offset: 143, 112
+  index: -1
+AS1/AS2_38
+  rotate: false
+  xy: 759, 457
+  size: 245, 279
+  orig: 504, 504
+  offset: 124, 56
+  index: -1
+AS1/AS2_39
+  rotate: true
+  xy: 255, 204
+  size: 247, 281
+  orig: 504, 504
+  offset: 122, 59
+  index: -1
+AS1/AS2_40
+  rotate: false
+  xy: 760, 739
+  size: 248, 282
+  orig: 504, 504
+  offset: 122, 62
+  index: -1
+AS1/AS2_41
+  rotate: false
+  xy: 509, 453
+  size: 248, 283
+  orig: 504, 504
+  offset: 122, 66
+  index: -1
+AS1/AS2_42
+  rotate: false
+  xy: 2, 164
+  size: 249, 283
+  orig: 504, 504
+  offset: 121, 71
+  index: -1
+AS1/AS2_43
+  rotate: false
+  xy: 509, 738
+  size: 249, 283
+  orig: 504, 504
+  offset: 121, 75
+  index: -1
+AS1/AS2_44
+  rotate: false
+  xy: 2, 449
+  size: 251, 285
+  orig: 504, 504
+  offset: 120, 78
+  index: -1
+AS1/AS2_45
+  rotate: false
+  xy: 256, 736
+  size: 251, 285
+  orig: 504, 504
+  offset: 120, 83
+  index: -1
+AS1/AS2_47
+  rotate: false
+  xy: 2, 736
+  size: 252, 285
+  orig: 504, 504
+  offset: 120, 91
+  index: -1
+AS1/AS2_48
+  rotate: false
+  xy: 255, 453
+  size: 252, 281
+  orig: 504, 504
+  offset: 120, 95
+  index: -1
+AS1/AS2_49
+  rotate: false
+  xy: 760, 185
+  size: 252, 270
+  orig: 504, 504
+  offset: 120, 99
+  index: -1
+
+NGUI_02_HLevelUp5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS1/AS2_28
+  rotate: true
+  xy: 463, 767
+  size: 202, 252
+  orig: 504, 504
+  offset: 145, 86
+  index: -1
+AS1/AS2_30
+  rotate: true
+  xy: 2, 9
+  size: 163, 251
+  orig: 504, 504
+  offset: 141, 94
+  index: -1
+AS1/AS2_32
+  rotate: true
+  xy: 717, 806
+  size: 163, 252
+  orig: 504, 504
+  offset: 141, 104
+  index: -1
+AS1/AS2_33
+  rotate: true
+  xy: 463, 602
+  size: 163, 252
+  orig: 504, 504
+  offset: 141, 108
+  index: -1
+AS1/AS2_35
+  rotate: false
+  xy: 2, 174
+  size: 205, 251
+  orig: 504, 504
+  offset: 141, 117
+  index: -1
+AS1/AS2_36
+  rotate: false
+  xy: 255, 718
+  size: 206, 251
+  orig: 504, 504
+  offset: 141, 121
+  index: -1
+AS1/AS2_37
+  rotate: false
+  xy: 2, 427
+  size: 237, 271
+  orig: 504, 504
+  offset: 130, 59
+  index: -1
+AS1/AS2_50
+  rotate: false
+  xy: 2, 700
+  size: 251, 269
+  orig: 504, 504
+  offset: 120, 104
+  index: -1

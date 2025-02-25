@@ -1,0 +1,279 @@
+
+Boss_512_FX3.png
+size: 741,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dihuoa_0000
+  rotate: false
+  xy: 2, 2
+  size: 127, 72
+  orig: 127, 72
+  offset: 0, 0
+  index: -1
+dihuoa_0002
+  rotate: false
+  xy: 230, 139
+  size: 137, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+dihuoa_0004
+  rotate: true
+  xy: 323, 3
+  size: 134, 81
+  orig: 134, 81
+  offset: 0, 0
+  index: -1
+dihuoa_0006
+  rotate: true
+  xy: 376, 264
+  size: 137, 90
+  orig: 137, 90
+  offset: 0, 0
+  index: -1
+dihuoa_0008
+  rotate: false
+  xy: 235, 306
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+dihuoa_0010
+  rotate: true
+  xy: 227, 2
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+dihuoa_0012
+  rotate: false
+  xy: 371, 170
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1
+dihuoa_0014
+  rotate: true
+  xy: 647, 460
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+dihuoa_0016
+  rotate: true
+  xy: 532, 50
+  size: 132, 80
+  orig: 132, 80
+  offset: 0, 0
+  index: -1
+dihuoa_0018
+  rotate: false
+  xy: 231, 224
+  size: 138, 80
+  orig: 138, 80
+  offset: 0, 0
+  index: -1
+dihuoa_0020
+  rotate: true
+  xy: 614, 50
+  size: 132, 75
+  orig: 132, 75
+  offset: 0, 0
+  index: -1
+dihuoa_0022
+  rotate: false
+  xy: 509, 184
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+dihuoa_0024
+  rotate: false
+  xy: 468, 270
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+skill/big_magic_circle/big_magic_circle_18
+  rotate: false
+  xy: 406, 3
+  size: 86, 27
+  orig: 250, 89
+  offset: 82, 38
+  index: -1
+skill/big_magic_circle/big_magic_circle_21
+  rotate: false
+  xy: 532, 10
+  size: 121, 38
+  orig: 250, 89
+  offset: 65, 31
+  index: -1
+skill/big_magic_circle/big_magic_circle_27
+  rotate: false
+  xy: 236, 403
+  size: 185, 57
+  orig: 250, 89
+  offset: 33, 19
+  index: -1
+skill/big_magic_circle/big_magic_circle_30
+  rotate: false
+  xy: 242, 462
+  size: 196, 59
+  orig: 250, 89
+  offset: 26, 17
+  index: -1
+skill/big_magic_circle/big_magic_circle_36
+  rotate: false
+  xy: 247, 523
+  size: 219, 67
+  orig: 250, 89
+  offset: 15, 11
+  index: -1
+skill/big_magic_circle/big_magic_circle_39
+  rotate: false
+  xy: 2, 148
+  size: 226, 70
+  orig: 250, 89
+  offset: 11, 8
+  index: -1
+skill/big_magic_circle/big_magic_circle_45
+  rotate: false
+  xy: 2, 511
+  size: 238, 74
+  orig: 250, 89
+  offset: 6, 5
+  index: -1
+skill/big_magic_circle/big_magic_circle_48
+  rotate: false
+  xy: 2, 587
+  size: 243, 75
+  orig: 250, 89
+  offset: 4, 4
+  index: -1
+skill/big_magic_circle/big_magic_circle_54
+  rotate: false
+  xy: 2, 664
+  size: 245, 75
+  orig: 250, 89
+  offset: 5, 4
+  index: -1
+skill/big_magic_circle/big_magic_circle_57
+  rotate: false
+  xy: 249, 665
+  size: 239, 74
+  orig: 250, 89
+  offset: 6, 5
+  index: -1
+skill/big_magic_circle/big_magic_circle_63
+  rotate: false
+  xy: 490, 667
+  size: 231, 72
+  orig: 250, 89
+  offset: 10, 7
+  index: -1
+skill/big_magic_circle/big_magic_circle_66
+  rotate: false
+  xy: 2, 293
+  size: 227, 70
+  orig: 250, 89
+  offset: 12, 8
+  index: -1
+skill/big_magic_circle/big_magic_circle_72
+  rotate: false
+  xy: 490, 596
+  size: 223, 69
+  orig: 250, 89
+  offset: 14, 9
+  index: -1
+skill/big_magic_circle/big_magic_circle_75
+  rotate: false
+  xy: 249, 592
+  size: 220, 71
+  orig: 250, 89
+  offset: 13, 8
+  index: -1
+skill/big_magic_circle/big_magic_circle_81
+  rotate: false
+  xy: 2, 76
+  size: 223, 70
+  orig: 250, 89
+  offset: 12, 9
+  index: -1
+skill/big_magic_circle/big_magic_circle_84
+  rotate: false
+  xy: 2, 220
+  size: 226, 71
+  orig: 250, 89
+  offset: 11, 8
+  index: -1
+skill/big_magic_circle/big_magic_circle_90
+  rotate: false
+  xy: 2, 365
+  size: 231, 71
+  orig: 250, 89
+  offset: 8, 8
+  index: -1
+skill/big_magic_circle/big_magic_circle_93
+  rotate: false
+  xy: 2, 438
+  size: 232, 71
+  orig: 250, 89
+  offset: 7, 8
+  index: -1
+skill/shot_light/shot_light_00
+  rotate: false
+  xy: 200, 63
+  size: 19, 11
+  orig: 125, 136
+  offset: 45, 58
+  index: -1
+skill/shot_light/shot_light_03
+  rotate: false
+  xy: 406, 32
+  size: 124, 136
+  orig: 125, 136
+  offset: 1, 0
+  index: -1
+skill/shot_light/shot_light_06
+  rotate: true
+  xy: 509, 469
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+skill/shot_light/shot_light_09
+  rotate: false
+  xy: 468, 331
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+skill/shot_light/shot_light_12
+  rotate: true
+  xy: 595, 337
+  size: 121, 136
+  orig: 125, 136
+  offset: 4, 0
+  index: -1
+skill/shot_light/shot_light_15
+  rotate: false
+  xy: 131, 2
+  size: 67, 72
+  orig: 125, 136
+  offset: 33, 28
+  index: -1
+skill/shot_light/shot_light_18
+  rotate: false
+  xy: 639, 256
+  size: 74, 79
+  orig: 125, 136
+  offset: 34, 24
+  index: -1
+skill/shot_light/shot_light_21
+  rotate: true
+  xy: 242, 566
+  size: 19, 3
+  orig: 125, 136
+  offset: 94, 51
+  index: -1

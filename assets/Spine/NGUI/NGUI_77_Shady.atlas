@@ -1,0 +1,146 @@
+
+NGUI_77_Shady.png
+size: 1276,1276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX1/FX1_00000
+  rotate: false
+  xy: 2, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00001
+  rotate: false
+  xy: 2, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00002
+  rotate: false
+  xy: 184, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00003
+  rotate: false
+  xy: 2, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00004
+  rotate: false
+  xy: 184, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00005
+  rotate: false
+  xy: 366, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00006
+  rotate: false
+  xy: 184, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00007
+  rotate: false
+  xy: 366, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00008
+  rotate: false
+  xy: 548, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00009
+  rotate: false
+  xy: 366, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00010
+  rotate: false
+  xy: 548, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00011
+  rotate: false
+  xy: 730, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00012
+  rotate: false
+  xy: 548, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00013
+  rotate: false
+  xy: 730, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00014
+  rotate: false
+  xy: 912, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00015
+  rotate: false
+  xy: 1094, 874
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00016
+  rotate: false
+  xy: 730, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00017
+  rotate: false
+  xy: 912, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00018
+  rotate: false
+  xy: 1094, 472
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1
+images/FX1/FX1_00019
+  rotate: false
+  xy: 912, 70
+  size: 180, 400
+  orig: 180, 400
+  offset: 0, 0
+  index: -1

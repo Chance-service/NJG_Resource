@@ -1,0 +1,62 @@
+
+Boss_507_skill_hit.png
+size: 270,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t_0000
+  rotate: false
+  xy: 162, 207
+  size: 63, 61
+  orig: 378, 378
+  offset: 149, 164
+  index: -1
+t_0001
+  rotate: false
+  xy: 2, 129
+  size: 158, 139
+  orig: 378, 378
+  offset: 100, 123
+  index: -1
+t_0002
+  rotate: false
+  xy: 82, 4
+  size: 157, 123
+  orig: 378, 378
+  offset: 94, 133
+  index: -1
+t_0003
+  rotate: true
+  xy: 2, 2
+  size: 125, 78
+  orig: 378, 378
+  offset: 119, 153
+  index: -1
+t_0004
+  rotate: false
+  xy: 162, 147
+  size: 50, 58
+  orig: 378, 378
+  offset: 189, 172
+  index: -1
+t_0005
+  rotate: false
+  xy: 227, 211
+  size: 41, 57
+  orig: 378, 378
+  offset: 198, 172
+  index: -1
+t_0006
+  rotate: false
+  xy: 214, 158
+  size: 33, 47
+  orig: 378, 378
+  offset: 207, 182
+  index: -1
+t_0007
+  rotate: true
+  xy: 162, 134
+  size: 11, 39
+  orig: 378, 378
+  offset: 213, 182
+  index: -1

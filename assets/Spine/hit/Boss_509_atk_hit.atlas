@@ -1,0 +1,27 @@
+
+Boss_509_atk_hit.png
+size: 455,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: true
+  xy: 259, 241
+  size: 212, 154
+  orig: 212, 154
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: true
+  xy: 2, 2
+  size: 197, 199
+  orig: 202, 203
+  offset: 5, 4
+  index: -1
+cloudlight
+  rotate: false
+  xy: 2, 201
+  size: 255, 252
+  orig: 255, 252
+  offset: 0, 0
+  index: -1

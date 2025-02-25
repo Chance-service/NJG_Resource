@@ -1,0 +1,408 @@
+
+NG_19000_FX3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/B_11
+  rotate: true
+  xy: 87, 52
+  size: 209, 182
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_1_groundWave/skill_0_groundWave_03
+  rotate: true
+  xy: 470, 46
+  size: 122, 37
+  orig: 300, 108
+  offset: 87, 36
+  index: -1
+skill_1_groundWave/skill_0_groundWave_04
+  rotate: false
+  xy: 275, 4
+  size: 149, 46
+  orig: 300, 108
+  offset: 73, 31
+  index: -1
+skill_1_groundWave/skill_0_groundWave_05
+  rotate: false
+  xy: 332, 194
+  size: 175, 53
+  orig: 300, 108
+  offset: 59, 27
+  index: -1
+skill_1_groundWave/skill_0_groundWave_06
+  rotate: true
+  xy: 271, 52
+  size: 195, 59
+  orig: 300, 108
+  offset: 51, 23
+  index: -1
+skill_1_groundWave/skill_0_groundWave_07
+  rotate: false
+  xy: 296, 444
+  size: 214, 66
+  orig: 300, 108
+  offset: 40, 19
+  index: -1
+skill_1_groundWave/skill_0_groundWave_08
+  rotate: false
+  xy: 280, 315
+  size: 229, 69
+  orig: 300, 108
+  offset: 33, 17
+  index: -1
+skill_1_groundWave/skill_0_groundWave_10
+  rotate: false
+  xy: 2, 342
+  size: 276, 73
+  orig: 300, 108
+  offset: 0, 14
+  index: -1
+skill_1_groundWave/skill_0_groundWave_11
+  rotate: false
+  xy: 2, 263
+  size: 268, 77
+  orig: 300, 108
+  offset: 11, 10
+  index: -1
+skill_1_groundWave/skill_0_groundWave_12
+  rotate: false
+  xy: 2, 417
+  size: 292, 93
+  orig: 300, 108
+  offset: 0, 0
+  index: -1
+skill_1_groundWave/skill_0_groundWave_13
+  rotate: true
+  xy: 2, 11
+  size: 250, 83
+  orig: 300, 108
+  offset: 24, 7
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_01
+  rotate: true
+  xy: 470, 2
+  size: 42, 10
+  orig: 250, 82
+  offset: 102, 38
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_02
+  rotate: true
+  xy: 406, 135
+  size: 57, 15
+  orig: 250, 82
+  offset: 94, 36
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_03
+  rotate: false
+  xy: 426, 170
+  size: 77, 22
+  orig: 250, 82
+  offset: 84, 32
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_05
+  rotate: true
+  xy: 372, 73
+  size: 119, 32
+  orig: 250, 82
+  offset: 63, 26
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_06
+  rotate: true
+  xy: 332, 55
+  size: 137, 38
+  orig: 250, 82
+  offset: 59, 22
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_07
+  rotate: true
+  xy: 426, 2
+  size: 166, 42
+  orig: 250, 82
+  offset: 39, 19
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_08
+  rotate: false
+  xy: 87, 2
+  size: 186, 48
+  orig: 250, 82
+  offset: 30, 16
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_13
+  rotate: false
+  xy: 272, 249
+  size: 236, 64
+  orig: 250, 82
+  offset: 5, 5
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_17
+  rotate: false
+  xy: 296, 386
+  size: 213, 56
+  orig: 250, 82
+  offset: 14, 10
+  index: -1
+
+NG_19000_FX32.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/B_2
+  rotate: false
+  xy: 2, 318
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_3
+  rotate: false
+  xy: 213, 318
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_4
+  rotate: true
+  xy: 2, 47
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_5
+  rotate: false
+  xy: 192, 69
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_1_bo/01_00000
+  rotate: false
+  xy: 224, 259
+  size: 102, 57
+  orig: 217, 117
+  offset: 59, 28
+  index: -1
+skill_1_bo/01_00002
+  rotate: true
+  xy: 403, 76
+  size: 180, 103
+  orig: 217, 117
+  offset: 20, 3
+  index: -1
+skill_1_groundWave/skill_0_groundWave_02
+  rotate: false
+  xy: 328, 286
+  size: 91, 30
+  orig: 300, 108
+  offset: 102, 40
+  index: -1
+skill_1_groundWave/skill_0_groundWave_09
+  rotate: true
+  xy: 424, 258
+  size: 248, 73
+  orig: 300, 108
+  offset: 18, 14
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_04
+  rotate: false
+  xy: 2, 19
+  size: 107, 26
+  orig: 250, 82
+  offset: 67, 30
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_14
+  rotate: false
+  xy: 192, 4
+  size: 235, 63
+  orig: 250, 82
+  offset: 5, 6
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_16
+  rotate: false
+  xy: 2, 259
+  size: 220, 57
+  orig: 250, 82
+  offset: 11, 10
+  index: -1
+
+NG_19000_FX33.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/B_6
+  rotate: false
+  xy: 2, 322
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_7
+  rotate: false
+  xy: 213, 322
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_8
+  rotate: true
+  xy: 2, 111
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_9
+  rotate: false
+  xy: 192, 132
+  size: 209, 188
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_1_bo/01_00003
+  rotate: false
+  xy: 192, 23
+  size: 188, 107
+  orig: 217, 117
+  offset: 16, 1
+  index: -1
+skill_1_bo/01_00004
+  rotate: true
+  xy: 403, 86
+  size: 190, 107
+  orig: 217, 117
+  offset: 15, 1
+  index: -1
+skill_1_bo/01_00005
+  rotate: false
+  xy: 2, 8
+  size: 188, 101
+  orig: 217, 117
+  offset: 16, 3
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_12
+  rotate: true
+  xy: 424, 278
+  size: 232, 62
+  orig: 250, 82
+  offset: 7, 6
+  index: -1
+
+NG_19000_FX34.png
+size: 501,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/B_1
+  rotate: false
+  xy: 2, 151
+  size: 209, 159
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_10
+  rotate: false
+  xy: 2, 312
+  size: 209, 187
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_12
+  rotate: false
+  xy: 213, 410
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_13
+  rotate: false
+  xy: 2, 60
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_14
+  rotate: false
+  xy: 213, 319
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_15
+  rotate: false
+  xy: 213, 228
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_16
+  rotate: false
+  xy: 213, 137
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_0/B_17
+  rotate: false
+  xy: 213, 46
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_09
+  rotate: false
+  xy: 2, 2
+  size: 202, 56
+  orig: 250, 82
+  offset: 23, 10
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_11
+  rotate: true
+  xy: 424, 46
+  size: 224, 60
+  orig: 250, 82
+  offset: 11, 8
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_15
+  rotate: true
+  xy: 424, 272
+  size: 227, 61
+  orig: 250, 82
+  offset: 8, 7
+  index: -1
+
+NG_19000_FX35.png
+size: 284,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/B_0
+  rotate: false
+  xy: 93, 2
+  size: 119, 120
+  orig: 215, 213
+  offset: 54, 24
+  index: -1
+skill_0/B_18
+  rotate: true
+  xy: 2, 13
+  size: 209, 89
+  orig: 215, 213
+  offset: 1, 13
+  index: -1
+skill_1_bo/01_00001
+  rotate: false
+  xy: 93, 124
+  size: 172, 98
+  orig: 217, 117
+  offset: 24, 6
+  index: -1
+skill_1_holdWave_FX/skill_0_holdWave_10
+  rotate: false
+  xy: 2, 224
+  size: 215, 58
+  orig: 250, 82
+  offset: 15, 9
+  index: -1

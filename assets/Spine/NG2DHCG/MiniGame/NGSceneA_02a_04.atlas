@@ -1,0 +1,146 @@
+
+NGSceneA_02a_04.png
+size: 1985,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 1616, 937
+  size: 409, 254
+  orig: 409, 254
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1750, 1479
+  size: 205, 254
+  orig: 205, 254
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1750, 1735
+  size: 248, 233
+  orig: 248, 233
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1750, 1348
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 585, 368
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 930
+  size: 695, 521
+  orig: 695, 521
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 8
+  size: 610, 353
+  orig: 610, 353
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 699, 853
+  size: 598, 291
+  orig: 598, 291
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 998, 1368
+  size: 615, 750
+  orig: 615, 750
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 585, 428
+  size: 538, 337
+  orig: 538, 337
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 653, 125
+  size: 301, 502
+  orig: 301, 502
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1125, 516
+  size: 449, 329
+  orig: 449, 329
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1616, 396
+  size: 539, 334
+  orig: 539, 334
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 363
+  size: 581, 565
+  orig: 581, 565
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 1453
+  size: 994, 530
+  orig: 994, 530
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 992, 847
+  size: 519, 622
+  orig: 519, 622
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 1526, 39
+  size: 355, 274
+  orig: 355, 274
+  offset: 0, 0
+  index: -1
+g12
+  rotate: false
+  xy: 585, 767
+  size: 90, 161
+  orig: 90, 161
+  offset: 0, 0
+  index: -1
+g15
+  rotate: true
+  xy: 1157, 182
+  size: 332, 367
+  orig: 332, 367
+  offset: 0, 0
+  index: -1
+g8
+  rotate: false
+  xy: 1882, 1291
+  size: 81, 186
+  orig: 81, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,627 @@
+
+NG2D_20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Eye closed
+  rotate: false
+  xy: 98, 14
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 68, 11
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 174, 17
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+H3
+  rotate: true
+  xy: 202, 19
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 2, 9
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+HB1
+  rotate: false
+  xy: 544, 53
+  size: 160, 311
+  orig: 160, 311
+  offset: 0, 0
+  index: -1
+HB3
+  rotate: false
+  xy: 853, 103
+  size: 163, 187
+  orig: 163, 187
+  offset: 0, 0
+  index: -1
+HB5
+  rotate: true
+  xy: 706, 292
+  size: 72, 285
+  orig: 72, 285
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: true
+  xy: 302, 20
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+L Pupil
+  rotate: false
+  xy: 302, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 706, 9
+  size: 281, 145
+  orig: 281, 145
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 446, 29
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+R Pupil
+  rotate: true
+  xy: 98, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 544, 528
+  size: 425, 494
+  orig: 425, 494
+  offset: 0, 0
+  index: -1
+eye BG L
+  rotate: false
+  xy: 446, 4
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+eye BG R
+  rotate: true
+  xy: 174, 3
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 544, 384
+  size: 142, 383
+  orig: 142, 383
+  offset: 0, 0
+  index: -1
+lash L
+  rotate: true
+  xy: 336, 20
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+lash R
+  rotate: false
+  xy: 202, 3
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+light FX/Light_00000
+  rotate: false
+  xy: 929, 366
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00002
+  rotate: true
+  xy: 853, 11
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 359, 22
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+
+NG2D_202.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG 2
+  rotate: false
+  xy: 2, 740
+  size: 540, 282
+  orig: 540, 282
+  offset: 0, 0
+  index: -1
+HB2
+  rotate: true
+  xy: 773, 763
+  size: 87, 232
+  orig: 87, 232
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 544, 725
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 773, 852
+  size: 170, 222
+  orig: 170, 222
+  offset: 0, 0
+  index: -1
+light FX/Light_00004
+  rotate: true
+  xy: 700, 671
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00006
+  rotate: true
+  xy: 862, 671
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00008
+  rotate: true
+  xy: 2, 648
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00010
+  rotate: true
+  xy: 164, 648
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00012
+  rotate: true
+  xy: 326, 648
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00014
+  rotate: true
+  xy: 488, 633
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00016
+  rotate: true
+  xy: 650, 579
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00018
+  rotate: true
+  xy: 812, 579
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00020
+  rotate: true
+  xy: 2, 556
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00022
+  rotate: true
+  xy: 164, 556
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00024
+  rotate: true
+  xy: 326, 556
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00026
+  rotate: true
+  xy: 488, 541
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00028
+  rotate: true
+  xy: 650, 487
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00030
+  rotate: true
+  xy: 812, 487
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00032
+  rotate: true
+  xy: 2, 464
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00034
+  rotate: true
+  xy: 164, 464
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00036
+  rotate: true
+  xy: 326, 464
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00038
+  rotate: true
+  xy: 488, 449
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00040
+  rotate: true
+  xy: 650, 395
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00042
+  rotate: true
+  xy: 812, 395
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00044
+  rotate: false
+  xy: 2, 302
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00046
+  rotate: true
+  xy: 94, 372
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00048
+  rotate: true
+  xy: 256, 372
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00050
+  rotate: true
+  xy: 418, 357
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00052
+  rotate: true
+  xy: 94, 280
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00054
+  rotate: false
+  xy: 2, 140
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00056
+  rotate: true
+  xy: 256, 280
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00058
+  rotate: true
+  xy: 2, 48
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00060
+  rotate: true
+  xy: 94, 188
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00062
+  rotate: false
+  xy: 164, 26
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00064
+  rotate: false
+  xy: 580, 233
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00066
+  rotate: true
+  xy: 418, 265
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00068
+  rotate: true
+  xy: 256, 188
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00070
+  rotate: true
+  xy: 418, 173
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00072
+  rotate: true
+  xy: 256, 96
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00074
+  rotate: true
+  xy: 256, 4
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00076
+  rotate: false
+  xy: 580, 71
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00078
+  rotate: true
+  xy: 418, 81
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00080
+  rotate: true
+  xy: 672, 303
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00082
+  rotate: true
+  xy: 834, 303
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00084
+  rotate: false
+  xy: 672, 141
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00086
+  rotate: true
+  xy: 672, 49
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00088
+  rotate: false
+  xy: 764, 141
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00090
+  rotate: true
+  xy: 834, 49
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00092
+  rotate: false
+  xy: 856, 141
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: false
+  xy: 544, 841
+  size: 227, 181
+  orig: 227, 181
+  offset: 0, 0
+  index: -1
+
+NG2D_203.png
+size: 488,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HB4
+  rotate: false
+  xy: 370, 204
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+light FX/Light_00094
+  rotate: false
+  xy: 2, 326
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00096
+  rotate: false
+  xy: 2, 164
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00098
+  rotate: false
+  xy: 2, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00100
+  rotate: false
+  xy: 94, 326
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00102
+  rotate: false
+  xy: 94, 164
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00104
+  rotate: false
+  xy: 94, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00106
+  rotate: false
+  xy: 186, 326
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00108
+  rotate: false
+  xy: 186, 164
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00110
+  rotate: false
+  xy: 186, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00112
+  rotate: false
+  xy: 278, 326
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00114
+  rotate: false
+  xy: 278, 164
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00116
+  rotate: false
+  xy: 278, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+light FX/Light_00118
+  rotate: false
+  xy: 370, 326
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1

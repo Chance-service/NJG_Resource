@@ -1,0 +1,125 @@
+
+Buff_71_FX1.png
+size: 540,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: false
+  xy: 485, 120
+  size: 49, 68
+  orig: 52, 72
+  offset: 2, 2
+  index: -1
+2_00
+  rotate: false
+  xy: 486, 470
+  size: 52, 68
+  orig: 52, 72
+  offset: 0, 2
+  index: -1
+3_00
+  rotate: false
+  xy: 486, 400
+  size: 52, 68
+  orig: 52, 72
+  offset: 0, 2
+  index: -1
+4_00
+  rotate: false
+  xy: 486, 330
+  size: 52, 68
+  orig: 52, 72
+  offset: 0, 2
+  index: -1
+5_00
+  rotate: false
+  xy: 485, 260
+  size: 52, 68
+  orig: 52, 72
+  offset: 0, 2
+  index: -1
+6_00
+  rotate: false
+  xy: 485, 190
+  size: 52, 68
+  orig: 52, 72
+  offset: 0, 2
+  index: -1
+fire eye/fire eye_00
+  rotate: true
+  xy: 117, 121
+  size: 181, 112
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_01
+  rotate: true
+  xy: 231, 121
+  size: 181, 112
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_02
+  rotate: true
+  xy: 2, 121
+  size: 181, 113
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_03
+  rotate: false
+  xy: 2, 4
+  size: 181, 114
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_04
+  rotate: false
+  xy: 2, 422
+  size: 181, 116
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_05
+  rotate: false
+  xy: 185, 422
+  size: 181, 116
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_06
+  rotate: true
+  xy: 368, 357
+  size: 181, 116
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_07
+  rotate: false
+  xy: 2, 304
+  size: 181, 116
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_08
+  rotate: false
+  xy: 185, 304
+  size: 181, 116
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_09
+  rotate: true
+  xy: 368, 174
+  size: 181, 115
+  orig: 208, 160
+  offset: 16, 30
+  index: -1
+fire eye/fire eye_10
+  rotate: false
+  xy: 185, 4
+  size: 181, 114
+  orig: 208, 160
+  offset: 16, 30
+  index: -1

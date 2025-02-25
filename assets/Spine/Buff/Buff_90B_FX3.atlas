@@ -1,0 +1,440 @@
+
+Buff_90B_FX3.png
+size: 753,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX31/90_00
+  rotate: true
+  xy: 616, 509
+  size: 80, 49
+  orig: 210, 140
+  offset: 66, 41
+  index: -1
+images/FX31/90_01
+  rotate: true
+  xy: 306, 171
+  size: 90, 51
+  orig: 210, 140
+  offset: 60, 39
+  index: -1
+images/FX31/90_02
+  rotate: true
+  xy: 597, 240
+  size: 91, 53
+  orig: 210, 140
+  offset: 60, 38
+  index: -1
+images/FX31/90_03
+  rotate: true
+  xy: 699, 663
+  size: 90, 54
+  orig: 210, 140
+  offset: 60, 38
+  index: -1
+images/FX31/90_04
+  rotate: true
+  xy: 699, 573
+  size: 88, 54
+  orig: 210, 140
+  offset: 62, 38
+  index: -1
+images/FX31/90_05
+  rotate: false
+  xy: 359, 151
+  size: 88, 54
+  orig: 210, 140
+  offset: 62, 38
+  index: -1
+images/FX31/90_06
+  rotate: true
+  xy: 305, 0
+  size: 86, 53
+  orig: 210, 140
+  offset: 63, 38
+  index: -1
+images/FX31/90_07
+  rotate: false
+  xy: 667, 519
+  size: 84, 52
+  orig: 210, 140
+  offset: 64, 39
+  index: -1
+images/FX31/90_08
+  rotate: false
+  xy: 615, 455
+  size: 84, 52
+  orig: 210, 140
+  offset: 64, 39
+  index: -1
+images/FX31/90_09
+  rotate: false
+  xy: 652, 379
+  size: 83, 52
+  orig: 210, 140
+  offset: 64, 39
+  index: -1
+images/FX31/90_10
+  rotate: true
+  xy: 306, 88
+  size: 81, 50
+  orig: 210, 140
+  offset: 65, 40
+  index: -1
+images/FX31/90_11
+  rotate: false
+  xy: 652, 222
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_12
+  rotate: true
+  xy: 450, 181
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_13
+  rotate: false
+  xy: 501, 190
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_14
+  rotate: false
+  xy: 501, 139
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_15
+  rotate: true
+  xy: 584, 75
+  size: 80, 49
+  orig: 210, 140
+  offset: 66, 41
+  index: -1
+images/FX31/90_16
+  rotate: true
+  xy: 597, 333
+  size: 93, 53
+  orig: 210, 140
+  offset: 59, 38
+  index: -1
+images/FX31/90_17
+  rotate: true
+  xy: 540, 334
+  size: 92, 55
+  orig: 210, 140
+  offset: 59, 37
+  index: -1
+images/FX31/90_18
+  rotate: true
+  xy: 540, 241
+  size: 91, 55
+  orig: 210, 140
+  offset: 60, 37
+  index: -1
+images/FX31/90_19
+  rotate: false
+  xy: 359, 207
+  size: 89, 55
+  orig: 210, 140
+  offset: 61, 37
+  index: -1
+images/FX31/90_20
+  rotate: false
+  xy: 358, 95
+  size: 88, 54
+  orig: 210, 140
+  offset: 62, 38
+  index: -1
+images/FX31/90_21
+  rotate: true
+  xy: 360, 6
+  size: 87, 53
+  orig: 210, 140
+  offset: 62, 38
+  index: -1
+images/FX31/90_22
+  rotate: true
+  xy: 415, 8
+  size: 85, 53
+  orig: 210, 140
+  offset: 63, 38
+  index: -1
+images/FX31/90_23
+  rotate: true
+  xy: 701, 433
+  size: 84, 52
+  orig: 210, 140
+  offset: 64, 39
+  index: -1
+images/FX31/90_24
+  rotate: false
+  xy: 652, 325
+  size: 83, 52
+  orig: 210, 140
+  offset: 64, 39
+  index: -1
+images/FX31/90_25
+  rotate: false
+  xy: 652, 273
+  size: 81, 50
+  orig: 210, 140
+  offset: 65, 40
+  index: -1
+images/FX31/90_26
+  rotate: true
+  xy: 584, 157
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_27
+  rotate: false
+  xy: 635, 171
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_28
+  rotate: false
+  xy: 635, 120
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_29
+  rotate: false
+  xy: 635, 69
+  size: 81, 49
+  orig: 210, 140
+  offset: 65, 41
+  index: -1
+images/FX31/90_30
+  rotate: true
+  xy: 449, 99
+  size: 80, 49
+  orig: 210, 140
+  offset: 66, 41
+  index: -1
+images/FX33/90_00
+  rotate: true
+  xy: 619, 604
+  size: 149, 78
+  orig: 210, 140
+  offset: 32, 23
+  index: -1
+images/FX33/90_15
+  rotate: true
+  xy: 619, 604
+  size: 149, 78
+  orig: 210, 140
+  offset: 32, 23
+  index: -1
+images/FX33/90_01
+  rotate: false
+  xy: 153, 22
+  size: 150, 78
+  orig: 210, 140
+  offset: 31, 23
+  index: -1
+images/FX33/90_02
+  rotate: false
+  xy: 0, 20
+  size: 151, 78
+  orig: 210, 140
+  offset: 30, 23
+  index: -1
+images/FX33/90_03
+  rotate: false
+  xy: 462, 428
+  size: 151, 79
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_04
+  rotate: false
+  xy: 154, 345
+  size: 151, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_05
+  rotate: false
+  xy: 309, 427
+  size: 151, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_06
+  rotate: false
+  xy: 155, 509
+  size: 152, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_07
+  rotate: false
+  xy: 310, 591
+  size: 152, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_08
+  rotate: false
+  xy: 0, 673
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_09
+  rotate: false
+  xy: 0, 591
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_10
+  rotate: false
+  xy: 155, 673
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_11
+  rotate: false
+  xy: 465, 673
+  size: 152, 80
+  orig: 210, 140
+  offset: 30, 22
+  index: -1
+images/FX33/90_12
+  rotate: false
+  xy: 0, 345
+  size: 152, 80
+  orig: 210, 140
+  offset: 30, 22
+  index: -1
+images/FX33/90_13
+  rotate: false
+  xy: 463, 509
+  size: 151, 80
+  orig: 210, 140
+  offset: 31, 22
+  index: -1
+images/FX33/90_14
+  rotate: false
+  xy: 0, 100
+  size: 151, 79
+  orig: 210, 140
+  offset: 31, 22
+  index: -1
+images/FX33/90_16
+  rotate: false
+  xy: 153, 182
+  size: 151, 79
+  orig: 210, 140
+  offset: 31, 22
+  index: -1
+images/FX33/90_17
+  rotate: false
+  xy: 153, 102
+  size: 151, 78
+  orig: 210, 140
+  offset: 30, 23
+  index: -1
+images/FX33/90_18
+  rotate: false
+  xy: 155, 427
+  size: 152, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_19
+  rotate: false
+  xy: 0, 181
+  size: 151, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_20
+  rotate: false
+  xy: 154, 263
+  size: 151, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_21
+  rotate: false
+  xy: 309, 509
+  size: 152, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_22
+  rotate: false
+  xy: 0, 509
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_23
+  rotate: false
+  xy: 155, 591
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_24
+  rotate: false
+  xy: 310, 673
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_25
+  rotate: false
+  xy: 0, 427
+  size: 153, 80
+  orig: 210, 140
+  offset: 29, 22
+  index: -1
+images/FX33/90_26
+  rotate: false
+  xy: 464, 591
+  size: 152, 80
+  orig: 210, 140
+  offset: 30, 22
+  index: -1
+images/FX33/90_27
+  rotate: false
+  xy: 0, 263
+  size: 152, 80
+  orig: 210, 140
+  offset: 30, 22
+  index: -1
+images/FX33/90_28
+  rotate: false
+  xy: 307, 345
+  size: 151, 80
+  orig: 210, 140
+  offset: 31, 22
+  index: -1
+images/FX33/90_29
+  rotate: false
+  xy: 307, 264
+  size: 151, 79
+  orig: 210, 140
+  offset: 31, 22
+  index: -1
+images/FX33/90_30
+  rotate: true
+  xy: 460, 276
+  size: 149, 78
+  orig: 210, 140
+  offset: 32, 23
+  index: -1

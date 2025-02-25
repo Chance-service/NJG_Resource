@@ -1,0 +1,69 @@
+
+NGSceneB_04b_12.png
+size: 886,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x20
+  rotate: false
+  xy: 37, 738
+  size: 531, 33
+  orig: 531, 33
+  offset: 0, 0
+  index: -1
+x25
+  rotate: false
+  xy: 37, 597
+  size: 294, 33
+  orig: 294, 33
+  offset: 0, 0
+  index: -1
+x26
+  rotate: false
+  xy: 37, 703
+  size: 519, 33
+  orig: 519, 33
+  offset: 0, 0
+  index: -1
+y20
+  rotate: false
+  xy: 2, 808
+  size: 635, 39
+  orig: 635, 39
+  offset: 0, 0
+  index: -1
+y25
+  rotate: false
+  xy: 37, 632
+  size: 348, 35
+  orig: 348, 35
+  offset: 0, 0
+  index: -1
+y26
+  rotate: false
+  xy: 2, 849
+  size: 882, 35
+  orig: 882, 35
+  offset: 0, 0
+  index: -1
+z20
+  rotate: true
+  xy: 2, 168
+  size: 638, 33
+  orig: 638, 33
+  offset: 0, 0
+  index: -1
+z25
+  rotate: false
+  xy: 37, 669
+  size: 386, 32
+  orig: 386, 32
+  offset: 0, 0
+  index: -1
+z26
+  rotate: false
+  xy: 37, 773
+  size: 570, 33
+  orig: 570, 33
+  offset: 0, 0
+  index: -1

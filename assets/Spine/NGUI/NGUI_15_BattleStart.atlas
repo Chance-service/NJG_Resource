@@ -1,0 +1,97 @@
+
+NGUI_15_BattleStart.png
+size: 992,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FireBG2
+  rotate: true
+  xy: 541, 664
+  size: 326, 347
+  orig: 326, 362
+  offset: 0, 15
+  index: -1
+img01
+  rotate: false
+  xy: 541, 535
+  size: 446, 127
+  orig: 446, 127
+  offset: 0, 0
+  index: -1
+img02
+  rotate: false
+  xy: 2, 442
+  size: 537, 548
+  orig: 537, 548
+  offset: 0, 0
+  index: -1
+img03
+  rotate: false
+  xy: 580, 221
+  size: 325, 312
+  orig: 325, 312
+  offset: 0, 0
+  index: -1
+light01
+  rotate: true
+  xy: 2, 116
+  size: 324, 576
+  orig: 324, 576
+  offset: 0, 0
+  index: -1
+petals_blue_2
+  rotate: false
+  xy: 2, 22
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+petals_blue_3
+  rotate: false
+  xy: 2, 82
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+petals_blue_6
+  rotate: false
+  xy: 27, 25
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+petals_blue_7
+  rotate: false
+  xy: 2, 50
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+petals_blue_9
+  rotate: false
+  xy: 2, 3
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+petals_green_10
+  rotate: false
+  xy: 25, 3
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+petals_green_8
+  rotate: false
+  xy: 47, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+petals_green_9
+  rotate: false
+  xy: 32, 60
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2 @@
+神将id	名字图片	动画缩放	动画位置偏移	最小连抽次数	最大连抽次数	特殊奖励
+157	UI/Common/Activity/Act_TL_LuckyMercenary/Role_Name_Font_SunCe.png	1.8	0,-50	3	9	70000_157_3

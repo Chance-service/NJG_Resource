@@ -1,0 +1,229 @@
+
+NGSceneA_02a_10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1976, 1796
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1686, 218
+  size: 310, 422
+  orig: 310, 422
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1759, 1446
+  size: 600, 215
+  orig: 600, 215
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 842, 231
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1759, 1149
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1239, 10
+  size: 314, 236
+  orig: 314, 236
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1976, 1846
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1759, 1172
+  size: 266, 272
+  orig: 266, 272
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 2, 2
+  size: 226, 338
+  orig: 226, 338
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1976, 1968
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1976, 1898
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 888, 27
+  size: 349, 219
+  orig: 349, 219
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 1555, 5
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1919, 74
+  size: 76, 142
+  orig: 76, 142
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 2, 1139
+  size: 975, 907
+  orig: 975, 907
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 842, 248
+  size: 392, 842
+  orig: 392, 842
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 979, 1139
+  size: 778, 907
+  orig: 778, 907
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 842, 642
+  size: 1150, 495
+  orig: 1150, 495
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1555, 85
+  size: 161, 118
+  orig: 161, 118
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1976, 1760
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 230
+  size: 838, 907
+  orig: 838, 907
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 342, 6
+  size: 544, 222
+  orig: 544, 222
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1675, 84
+  size: 132, 242
+  orig: 132, 242
+  offset: 0, 0
+  index: -1
+
+NGSceneA_02a_102.png
+size: 1390,1390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14
+  rotate: false
+  xy: 2, 603
+  size: 655, 446
+  orig: 655, 446
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 93, 1138
+  size: 250, 252
+  orig: 250, 252
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 2, 79
+  size: 522, 535
+  orig: 522, 535
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 539, 68
+  size: 467, 817
+  orig: 467, 817
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 1306
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 347, 1051
+  size: 538, 337
+  orig: 538, 337
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 887, 990
+  size: 398, 501
+  orig: 398, 501
+  offset: 0, 0
+  index: -1
+zhne
+  rotate: false
+  xy: 659, 537
+  size: 481, 451
+  orig: 481, 451
+  offset: 0, 0
+  index: -1

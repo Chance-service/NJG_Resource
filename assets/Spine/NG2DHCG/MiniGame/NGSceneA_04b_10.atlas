@@ -1,0 +1,313 @@
+
+NGSceneA_04b_10.png
+size: 2047,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1169, 10
+  size: 130, 194
+  orig: 130, 194
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1594, 712
+  size: 143, 26
+  orig: 143, 26
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1537, 25
+  size: 143, 26
+  orig: 143, 26
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1454, 700
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1594, 696
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1892, 28
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1497, 690
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1454, 689
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1514, 694
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 1930, 2
+  size: 184, 96
+  orig: 184, 96
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 1739, 709
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 1757, 8
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 1497, 702
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 1824, 11
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+33a
+  rotate: true
+  xy: 1169, 142
+  size: 541, 594
+  orig: 541, 594
+  offset: 0, 0
+  index: -1
+33b
+  rotate: false
+  xy: 1515, 740
+  size: 243, 189
+  orig: 243, 189
+  offset: 0, 0
+  index: -1
+33c
+  rotate: true
+  xy: 1514, 706
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+33d
+  rotate: false
+  xy: 1515, 931
+  size: 458, 1114
+  orig: 458, 1114
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 995, 685
+  size: 212, 457
+  orig: 212, 457
+  offset: 0, 0
+  index: -1
+36
+  rotate: true
+  xy: 1365, 13
+  size: 127, 170
+  orig: 127, 170
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 1454, 730
+  size: 58, 167
+  orig: 58, 167
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 2, 682
+  size: 991, 1363
+  orig: 991, 1363
+  offset: 0, 0
+  index: -1
+45
+  rotate: false
+  xy: 1930, 188
+  size: 111, 276
+  orig: 111, 276
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1975, 1701
+  size: 68, 344
+  orig: 68, 344
+  offset: 0, 0
+  index: -1
+50
+  rotate: true
+  xy: 2, 63
+  size: 617, 1165
+  orig: 617, 1165
+  offset: 0, 0
+  index: -1
+51
+  rotate: false
+  xy: 995, 899
+  size: 518, 1146
+  orig: 518, 1146
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1537, 53
+  size: 87, 218
+  orig: 87, 218
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1765, 466
+  size: 270, 463
+  orig: 270, 463
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1765, 70
+  size: 163, 394
+  orig: 163, 394
+  offset: 0, 0
+  index: -1
+
+NGSceneA_04b_102.png
+size: 1334,1334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: true
+  xy: 781, 301
+  size: 469, 355
+  orig: 469, 355
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 294
+  size: 542, 361
+  orig: 542, 361
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 1040, 122
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 1227, 388
+  size: 172, 95
+  orig: 172, 95
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 1138, 378
+  size: 182, 87
+  orig: 182, 87
+  offset: 0, 0
+  index: -1
+35
+  rotate: true
+  xy: 540, 2
+  size: 297, 498
+  orig: 297, 498
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 2, 838
+  size: 455, 494
+  orig: 455, 494
+  offset: 0, 0
+  index: -1
+38
+  rotate: true
+  xy: 2, 75
+  size: 217, 536
+  orig: 217, 536
+  offset: 0, 0
+  index: -1
+39
+  rotate: true
+  xy: 459, 772
+  size: 148, 614
+  orig: 148, 614
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1040, 37
+  size: 156, 83
+  orig: 156, 83
+  offset: 0, 0
+  index: -1
+52
+  rotate: true
+  xy: 895, 922
+  size: 410, 426
+  orig: 410, 426
+  offset: 0, 0
+  index: -1
+53
+  rotate: false
+  xy: 365, 356
+  size: 414, 414
+  orig: 414, 414
+  offset: 0, 0
+  index: -1
+54
+  rotate: false
+  xy: 459, 922
+  size: 434, 410
+  orig: 434, 410
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1138, 562
+  size: 174, 358
+  orig: 174, 358
+  offset: 0, 0
+  index: -1

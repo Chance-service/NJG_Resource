@@ -1,0 +1,55 @@
+
+WorldBoss0503.png
+size: 343,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/1/image/hit0000
+  rotate: false
+  xy: 147, 106
+  size: 125, 105
+  orig: 147, 147
+  offset: 11, 17
+  index: -1
+hit/1/image/hit0001
+  rotate: false
+  xy: 147, 213
+  size: 131, 128
+  orig: 147, 147
+  offset: 10, 7
+  index: -1
+hit/1/image/hit0003
+  rotate: false
+  xy: 2, 199
+  size: 143, 142
+  orig: 147, 147
+  offset: 4, 4
+  index: -1
+hit/1/image/hit0005
+  rotate: false
+  xy: 2, 52
+  size: 140, 145
+  orig: 147, 147
+  offset: 7, 2
+  index: -1
+hit/1/image/hit0007
+  rotate: true
+  xy: 144, 6
+  size: 98, 108
+  orig: 147, 147
+  offset: 15, 21
+  index: -1
+hit/1/image/hit0009
+  rotate: false
+  xy: 280, 224
+  size: 59, 58
+  orig: 147, 147
+  offset: 43, 39
+  index: -1
+hit/1/image/hit0010
+  rotate: false
+  xy: 280, 284
+  size: 61, 57
+  orig: 147, 147
+  offset: 41, 40
+  index: -1

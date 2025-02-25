@@ -1,0 +1,146 @@
+
+NG_22000_bullet_3.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/bottom/bottom_155
+  rotate: false
+  xy: 222, 31
+  size: 39, 15
+  orig: 120, 44
+  offset: 40, 14
+  index: -1
+skill_1/bottom/bottom_156
+  rotate: false
+  xy: 222, 48
+  size: 62, 21
+  orig: 120, 44
+  offset: 30, 11
+  index: -1
+skill_1/bottom/bottom_157
+  rotate: true
+  xy: 244, 79
+  size: 95, 33
+  orig: 120, 44
+  offset: 14, 5
+  index: -1
+skill_1/bottom/bottom_158
+  rotate: false
+  xy: 121, 36
+  size: 99, 33
+  orig: 120, 44
+  offset: 11, 5
+  index: -1
+skill_1/bottom/bottom_159
+  rotate: false
+  xy: 2, 30
+  size: 103, 33
+  orig: 120, 44
+  offset: 7, 5
+  index: -1
+skill_1/bottom/bottom_160
+  rotate: false
+  xy: 124, 71
+  size: 101, 31
+  orig: 120, 44
+  offset: 6, 6
+  index: -1
+skill_1/bottom/bottom_161
+  rotate: false
+  xy: 2, 3
+  size: 92, 25
+  orig: 120, 44
+  offset: 7, 8
+  index: -1
+skill_1/bottom/bottom_162
+  rotate: false
+  xy: 107, 9
+  size: 91, 25
+  orig: 120, 44
+  offset: 14, 8
+  index: -1
+skill_1/bottom/bottom_163
+  rotate: true
+  xy: 246, 177
+  size: 107, 30
+  orig: 120, 44
+  offset: 6, 6
+  index: -1
+skill_1/bottom/bottom_164
+  rotate: false
+  xy: 2, 65
+  size: 117, 33
+  orig: 120, 44
+  offset: 3, 5
+  index: -1
+skill_1/bottom/bottom_165
+  rotate: false
+  xy: 2, 100
+  size: 120, 33
+  orig: 120, 44
+  offset: 0, 5
+  index: -1
+skill_1/bottom/bottom_166
+  rotate: false
+  xy: 2, 135
+  size: 120, 34
+  orig: 120, 44
+  offset: 0, 4
+  index: -1
+skill_1/bottom/bottom_167
+  rotate: false
+  xy: 124, 176
+  size: 120, 34
+  orig: 120, 44
+  offset: 0, 4
+  index: -1
+skill_1/bottom/bottom_168
+  rotate: false
+  xy: 124, 249
+  size: 120, 35
+  orig: 120, 44
+  offset: 0, 4
+  index: -1
+skill_1/bottom/bottom_169
+  rotate: false
+  xy: 2, 247
+  size: 120, 37
+  orig: 120, 44
+  offset: 0, 3
+  index: -1
+skill_1/bottom/bottom_170
+  rotate: false
+  xy: 2, 208
+  size: 120, 37
+  orig: 120, 44
+  offset: 0, 3
+  index: -1
+skill_1/bottom/bottom_171
+  rotate: false
+  xy: 2, 171
+  size: 120, 35
+  orig: 120, 44
+  offset: 0, 5
+  index: -1
+skill_1/bottom/bottom_172
+  rotate: false
+  xy: 124, 212
+  size: 120, 35
+  orig: 120, 44
+  offset: 0, 5
+  index: -1
+skill_1/bottom/bottom_173
+  rotate: false
+  xy: 124, 140
+  size: 118, 34
+  orig: 120, 44
+  offset: 2, 5
+  index: -1
+skill_1/bottom/bottom_174
+  rotate: false
+  xy: 124, 104
+  size: 116, 34
+  orig: 120, 44
+  offset: 3, 6
+  index: -1

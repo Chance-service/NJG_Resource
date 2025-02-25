@@ -1,0 +1,6 @@
+id	类型	互动消耗道具	互动消耗钻石	刷新消耗钻石	每日免费刷新次数	每日免费互动次数（共用）	exclusiveReward	SpineId	对话描述
+1	1	30000_299986_1	750	100	3	1	30000_299981_1	118	@MaidenEncounterTxt1
+2	1	30000_299986_1	750	100	3	1	30000_299982_1	113	@MaidenEncounterTxt2
+3	1	30000_299986_1	750	100	3	1	30000_299983_1	121	@MaidenEncounterTxt3
+4	1	30000_299986_1	750	100	3	1	30000_299984_1	115	@MaidenEncounterTxt4
+5	2	30000_299985_1	20	100	3	1		-1	@MaidenEncounterTxt5

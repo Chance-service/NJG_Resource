@@ -1,0 +1,27 @@
+
+Buff_57_FX1.png
+size: 312,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+196x196(194x194)
+  rotate: false
+  xy: 2, 2
+  size: 149, 149
+  orig: 157, 157
+  offset: 4, 4
+  index: -1
+196x196(194x194)2
+  rotate: false
+  xy: 2, 153
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+dester
+  rotate: false
+  xy: 161, 270
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

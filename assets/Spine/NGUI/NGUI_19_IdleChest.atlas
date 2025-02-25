@@ -1,0 +1,104 @@
+
+NGUI_19_IdleChest.png
+size: 888,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse1
+  rotate: false
+  xy: 227, 159
+  size: 223, 220
+  orig: 224, 224
+  offset: 1, 4
+  index: -1
+Ellipse10
+  rotate: true
+  xy: 661, 49
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+Ellipse2
+  rotate: false
+  xy: 452, 440
+  size: 223, 220
+  orig: 224, 224
+  offset: 1, 4
+  index: -1
+Ellipse3
+  rotate: false
+  xy: 2, 155
+  size: 223, 224
+  orig: 224, 224
+  offset: 1, 0
+  index: -1
+Ellipse4
+  rotate: false
+  xy: 526, 662
+  size: 223, 224
+  orig: 224, 224
+  offset: 1, 0
+  index: -1
+Ellipse5
+  rotate: false
+  xy: 2, 381
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+Ellipse6
+  rotate: false
+  xy: 300, 662
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+Ellipse7
+  rotate: true
+  xy: 228, 381
+  size: 224, 222
+  orig: 224, 224
+  offset: 0, 1
+  index: -1
+Ellipse8
+  rotate: true
+  xy: 452, 214
+  size: 224, 216
+  orig: 224, 224
+  offset: 0, 3
+  index: -1
+Ellipse9
+  rotate: true
+  xy: 670, 215
+  size: 223, 216
+  orig: 224, 224
+  offset: 1, 3
+  index: -1
+img01
+  rotate: false
+  xy: 677, 453
+  size: 196, 207
+  orig: 196, 207
+  offset: 0, 0
+  index: -1
+img02
+  rotate: false
+  xy: 2, 607
+  size: 296, 279
+  orig: 296, 279
+  offset: 0, 0
+  index: -1
+img03
+  rotate: false
+  xy: 2, 79
+  size: 191, 74
+  orig: 191, 74
+  offset: 0, 0
+  index: -1
+img04
+  rotate: true
+  xy: 452, 16
+  size: 196, 207
+  orig: 196, 207
+  offset: 0, 0
+  index: -1

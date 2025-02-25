@@ -1,0 +1,146 @@
+
+NG_503_FX2.png
+size: 602,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/lava/lava_10
+  rotate: true
+  xy: 572, 194
+  size: 63, 20
+  orig: 123, 350
+  offset: 32, 13
+  index: -1
+skill_0/lava/lava_11
+  rotate: false
+  xy: 463, 153
+  size: 75, 23
+  orig: 123, 350
+  offset: 26, 11
+  index: -1
+skill_0/lava/lava_12
+  rotate: false
+  xy: 2, 204
+  size: 85, 47
+  orig: 123, 350
+  offset: 21, 0
+  index: -1
+skill_0/lava/lava_13
+  rotate: false
+  xy: 441, 205
+  size: 97, 50
+  orig: 123, 350
+  offset: 15, 0
+  index: -1
+skill_0/lava/lava_14
+  rotate: false
+  xy: 354, 148
+  size: 107, 54
+  orig: 123, 350
+  offset: 10, 0
+  index: -1
+skill_0/lava/lava_15
+  rotate: true
+  xy: 333, 53
+  size: 65, 263
+  orig: 123, 350
+  offset: 31, 0
+  index: -1
+skill_0/lava/lava_16
+  rotate: true
+  xy: 89, 204
+  size: 70, 350
+  orig: 123, 350
+  offset: 29, 0
+  index: -1
+skill_0/lava/lava_17
+  rotate: true
+  xy: 2, 128
+  size: 74, 350
+  orig: 123, 350
+  offset: 27, 0
+  index: -1
+skill_0/lava/lava_18
+  rotate: true
+  xy: 89, 276
+  size: 77, 350
+  orig: 123, 350
+  offset: 26, 0
+  index: -1
+skill_0/lava/lava_19
+  rotate: true
+  xy: 89, 355
+  size: 78, 350
+  orig: 123, 350
+  offset: 25, 0
+  index: -1
+skill_0/lava/lava_20
+  rotate: true
+  xy: 89, 519
+  size: 81, 350
+  orig: 123, 350
+  offset: 24, 0
+  index: -1
+skill_0/lava/lava_21
+  rotate: true
+  xy: 89, 435
+  size: 82, 349
+  orig: 123, 350
+  offset: 22, 1
+  index: -1
+skill_0/lava/lava_22
+  rotate: false
+  xy: 2, 253
+  size: 85, 347
+  orig: 123, 350
+  offset: 20, 3
+  index: -1
+skill_0/lava/lava_23
+  rotate: false
+  xy: 441, 257
+  size: 82, 343
+  orig: 123, 350
+  offset: 25, 7
+  index: -1
+skill_0/lava/lava_24
+  rotate: false
+  xy: 525, 259
+  size: 75, 341
+  orig: 123, 350
+  offset: 24, 9
+  index: -1
+skill_0/lava/lava_25
+  rotate: true
+  xy: 2, 72
+  size: 54, 329
+  orig: 123, 350
+  offset: 33, 21
+  index: -1
+skill_0/lava/lava_26
+  rotate: true
+  xy: 2, 17
+  size: 53, 294
+  orig: 123, 350
+  offset: 34, 26
+  index: -1
+skill_0/lava/lava_27
+  rotate: true
+  xy: 298, 11
+  size: 40, 258
+  orig: 123, 350
+  offset: 45, 49
+  index: -1
+skill_0/lava/lava_28
+  rotate: true
+  xy: 354, 120
+  size: 26, 171
+  orig: 123, 350
+  offset: 48, 90
+  index: -1
+skill_0/lava/lava_29
+  rotate: true
+  xy: 463, 178
+  size: 25, 107
+  orig: 123, 350
+  offset: 48, 155
+  index: -1

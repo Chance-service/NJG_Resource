@@ -1,0 +1,76 @@
+
+Boss_505_atk_hit.png
+size: 337,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoji_0000
+  rotate: true
+  xy: 75, 21
+  size: 75, 68
+  orig: 144, 150
+  offset: 35, 40
+  index: -1
+baoji_0001
+  rotate: false
+  xy: 2, 215
+  size: 130, 120
+  orig: 144, 150
+  offset: 7, 14
+  index: -1
+baoji_0002
+  rotate: false
+  xy: 2, 98
+  size: 127, 115
+  orig: 144, 150
+  offset: 9, 16
+  index: -1
+baoji_0003
+  rotate: false
+  xy: 134, 222
+  size: 125, 113
+  orig: 144, 150
+  offset: 10, 17
+  index: -1
+baoji_0004
+  rotate: false
+  xy: 134, 111
+  size: 121, 109
+  orig: 144, 150
+  offset: 12, 19
+  index: -1
+baoji_0005
+  rotate: false
+  xy: 145, 46
+  size: 68, 63
+  orig: 144, 150
+  offset: 38, 42
+  index: -1
+baoji_0006
+  rotate: false
+  xy: 257, 123
+  size: 71, 68
+  orig: 144, 150
+  offset: 36, 40
+  index: -1
+baoji_0007
+  rotate: false
+  xy: 261, 263
+  size: 74, 72
+  orig: 144, 150
+  offset: 35, 38
+  index: -1
+baoji_0008
+  rotate: false
+  xy: 2, 21
+  size: 71, 75
+  orig: 144, 150
+  offset: 37, 36
+  index: -1
+baoji_0009
+  rotate: false
+  xy: 261, 193
+  size: 74, 68
+  orig: 144, 150
+  offset: 35, 40
+  index: -1

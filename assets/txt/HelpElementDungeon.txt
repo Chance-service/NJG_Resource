@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold32" ><p style="margin:10px"> 属性回廊 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"> <p style="margin:10px"> ●每日重设所有回廊的起始关卡，起始等级为1。</p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"> <p style="margin:10px"> ●可透过快速战斗，直接从当前关卡一路领取到历史最高通关关卡-3关的奖励。</p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"> <p style="margin:10px"> ●不同回廊有对应的开放时间，非开放时间无法进行挑战。</p></font>

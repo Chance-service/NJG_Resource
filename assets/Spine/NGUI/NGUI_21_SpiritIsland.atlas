@@ -1,0 +1,468 @@
+
+NGUI_21_SpiritIsland.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00004-997433780-assets/BG01
+  rotate: false
+  xy: 2, 446
+  size: 800, 1600
+  orig: 800, 1600
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/BG02
+  rotate: false
+  xy: 804, 908
+  size: 769, 1138
+  orig: 769, 1138
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/BG03
+  rotate: true
+  xy: 804, 454
+  size: 452, 569
+  orig: 458, 569
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/BG03_02
+  rotate: false
+  xy: 1188, 111
+  size: 153, 126
+  orig: 155, 126
+  offset: 2, 0
+  index: -1
+00004-997433780-assets/BG03_03
+  rotate: false
+  xy: 3955, 1873
+  size: 138, 173
+  orig: 138, 173
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/BG03_04
+  rotate: true
+  xy: 1188, 25
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_000
+  rotate: true
+  xy: 1375, 444
+  size: 220, 195
+  orig: 240, 200
+  offset: 12, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_030
+  rotate: true
+  xy: 1375, 444
+  size: 220, 195
+  orig: 240, 200
+  offset: 12, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_001
+  rotate: true
+  xy: 1375, 224
+  size: 218, 195
+  orig: 240, 200
+  offset: 10, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_002
+  rotate: false
+  xy: 3082, 1457
+  size: 218, 193
+  orig: 240, 200
+  offset: 8, 2
+  index: -1
+00004-997433780-assets/FX01/FX01_003
+  rotate: true
+  xy: 3302, 1428
+  size: 222, 186
+  orig: 240, 200
+  offset: 6, 10
+  index: -1
+00004-997433780-assets/FX01/FX01_004
+  rotate: true
+  xy: 1185, 239
+  size: 213, 188
+  orig: 240, 200
+  offset: 4, 8
+  index: -1
+00004-997433780-assets/FX01/FX01_005
+  rotate: false
+  xy: 2168, 830
+  size: 218, 191
+  orig: 240, 200
+  offset: 2, 5
+  index: -1
+00004-997433780-assets/FX01/FX01_006
+  rotate: false
+  xy: 2396, 1256
+  size: 224, 196
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_007
+  rotate: true
+  xy: 792, 2
+  size: 220, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_008
+  rotate: false
+  xy: 2622, 1256
+  size: 223, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_009
+  rotate: false
+  xy: 1343, 27
+  size: 227, 195
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_010
+  rotate: false
+  xy: 2520, 1652
+  size: 230, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_011
+  rotate: true
+  xy: 1772, 940
+  size: 232, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_012
+  rotate: false
+  xy: 2752, 1652
+  size: 230, 196
+  orig: 240, 200
+  offset: 10, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_013
+  rotate: false
+  xy: 2984, 1652
+  size: 230, 196
+  orig: 240, 200
+  offset: 10, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_014
+  rotate: true
+  xy: 1970, 1412
+  size: 232, 196
+  orig: 240, 200
+  offset: 8, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_015
+  rotate: false
+  xy: 3719, 1850
+  size: 234, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_016
+  rotate: false
+  xy: 2532, 1850
+  size: 236, 196
+  orig: 240, 200
+  offset: 4, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_017
+  rotate: true
+  xy: 1575, 1163
+  size: 237, 195
+  orig: 240, 200
+  offset: 3, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_018
+  rotate: true
+  xy: 398, 2
+  size: 240, 195
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_019
+  rotate: true
+  xy: 595, 2
+  size: 240, 195
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_020
+  rotate: true
+  xy: 1970, 1178
+  size: 232, 196
+  orig: 240, 200
+  offset: 8, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_021
+  rotate: false
+  xy: 3008, 1850
+  size: 235, 196
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_022
+  rotate: false
+  xy: 2052, 1850
+  size: 238, 196
+  orig: 240, 200
+  offset: 2, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_023
+  rotate: true
+  xy: 2, 2
+  size: 240, 196
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_024
+  rotate: true
+  xy: 1772, 1409
+  size: 233, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_025
+  rotate: false
+  xy: 1813, 1646
+  size: 235, 198
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_026
+  rotate: false
+  xy: 243, 244
+  size: 238, 200
+  orig: 240, 200
+  offset: 2, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_027
+  rotate: false
+  xy: 1575, 1644
+  size: 236, 200
+  orig: 240, 200
+  offset: 4, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_028
+  rotate: false
+  xy: 1575, 1846
+  size: 237, 200
+  orig: 240, 200
+  offset: 3, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_029
+  rotate: false
+  xy: 2, 244
+  size: 239, 200
+  orig: 240, 200
+  offset: 1, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_031
+  rotate: false
+  xy: 2847, 1257
+  size: 218, 195
+  orig: 240, 200
+  offset: 10, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_032
+  rotate: false
+  xy: 3448, 1653
+  size: 218, 193
+  orig: 240, 200
+  offset: 8, 2
+  index: -1
+00004-997433780-assets/FX01/FX01_033
+  rotate: true
+  xy: 3490, 1429
+  size: 222, 186
+  orig: 240, 200
+  offset: 6, 10
+  index: -1
+00004-997433780-assets/FX01/FX01_034
+  rotate: false
+  xy: 3302, 1238
+  size: 213, 188
+  orig: 240, 200
+  offset: 4, 8
+  index: -1
+00004-997433780-assets/FX01/FX01_035
+  rotate: false
+  xy: 3082, 1264
+  size: 218, 191
+  orig: 240, 200
+  offset: 2, 5
+  index: -1
+00004-997433780-assets/FX01/FX01_036
+  rotate: false
+  xy: 2631, 1454
+  size: 224, 196
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_037
+  rotate: true
+  xy: 990, 2
+  size: 220, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_038
+  rotate: false
+  xy: 2857, 1454
+  size: 223, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_039
+  rotate: true
+  xy: 2168, 1023
+  size: 227, 195
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_040
+  rotate: false
+  xy: 3216, 1652
+  size: 230, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_041
+  rotate: true
+  xy: 1970, 944
+  size: 232, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_042
+  rotate: false
+  xy: 2168, 1454
+  size: 230, 196
+  orig: 240, 200
+  offset: 10, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_043
+  rotate: false
+  xy: 2400, 1454
+  size: 229, 196
+  orig: 240, 200
+  offset: 11, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_044
+  rotate: false
+  xy: 2052, 1652
+  size: 232, 196
+  orig: 240, 200
+  offset: 8, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_045
+  rotate: false
+  xy: 949, 256
+  size: 234, 196
+  orig: 240, 200
+  offset: 6, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_046
+  rotate: false
+  xy: 2770, 1850
+  size: 236, 196
+  orig: 240, 200
+  offset: 4, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_047
+  rotate: true
+  xy: 1575, 924
+  size: 237, 195
+  orig: 240, 200
+  offset: 3, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_048
+  rotate: true
+  xy: 1375, 666
+  size: 240, 195
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_049
+  rotate: true
+  xy: 1575, 1402
+  size: 240, 195
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_050
+  rotate: false
+  xy: 2286, 1652
+  size: 232, 196
+  orig: 240, 200
+  offset: 8, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_051
+  rotate: false
+  xy: 3245, 1850
+  size: 235, 196
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_052
+  rotate: false
+  xy: 2292, 1850
+  size: 238, 196
+  orig: 240, 200
+  offset: 2, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_053
+  rotate: true
+  xy: 200, 2
+  size: 240, 196
+  orig: 240, 200
+  offset: 0, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_054
+  rotate: true
+  xy: 1772, 1174
+  size: 233, 196
+  orig: 240, 200
+  offset: 7, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_055
+  rotate: false
+  xy: 3482, 1848
+  size: 235, 198
+  orig: 240, 200
+  offset: 5, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_056
+  rotate: false
+  xy: 483, 244
+  size: 238, 200
+  orig: 240, 200
+  offset: 2, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_057
+  rotate: false
+  xy: 1814, 1846
+  size: 236, 200
+  orig: 240, 200
+  offset: 4, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_058
+  rotate: false
+  xy: 723, 244
+  size: 224, 200
+  orig: 240, 200
+  offset: 16, 0
+  index: -1
+00004-997433780-assets/FX01/FX01_059
+  rotate: false
+  xy: 2168, 1252
+  size: 226, 200
+  orig: 240, 200
+  offset: 14, 0
+  index: -1

@@ -1,0 +1,9 @@
+ID	activityId	rechargeid	ImageBG	ImageTitle	ImagePage	title	Pagetext	awards
+1	169	1001	popsale_169_bg.png	popsale_169_img.png	popsale_169_icon.png	@popsale_169_info	@popsale_169_title	30000_6004_20,30000_7188_20,10000_1026_60
+2	170	2001	popsale_170_bg.png	popsale_170_img.png	popsale_170_icon.png	@popsale_170_info	@popsale_170_title	10000_1001_5000,30000_7211_150,30000_6011_10,30000_7181_3000,10000_1026_1200
+3	181	3001	popsale_190_bg.png	popsale_190_img.png	popsale_190_icon.png	@popsale_190_info	@popsale_190_title	10000_1001_4000,70000_11_600,10000_1026_4080
+4	182	3002	popsale_190_bg.png	popsale_191_img.png	popsale_190_icon.png	@popsale_191_info	@popsale_191_title	10000_1001_7000,70000_11_1000,10000_1026_7380
+5	183	3003	popsale_190_bg.png	popsale_192_img.png	popsale_190_icon.png	@popsale_192_info	@popsale_192_title	10000_1001_15000,70000_11_1400,10000_1026_11100
+6	184	3004	popsale_190_bg.png	popsale_190_img.png	popsale_190_icon.png	@popsale_193_info	@popsale_193_title	10000_1001_4000,70000_17_600,10000_1026_4080
+7	185	3005	popsale_190_bg.png	popsale_191_img.png	popsale_190_icon.png	@popsale_194_info	@popsale_194_title	10000_1001_7000,70000_17_1000,10000_1026_7380
+8	186	3006	popsale_190_bg.png	popsale_192_img.png	popsale_190_icon.png	@popsale_195_info	@popsale_195_title	10000_1001_15000,70000_17_1400,10000_1026_11100

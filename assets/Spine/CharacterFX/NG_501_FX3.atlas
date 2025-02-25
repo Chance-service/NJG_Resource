@@ -1,0 +1,258 @@
+
+NG_501_FX3.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/FX2/glow01
+  rotate: false
+  xy: 608, 164
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_00
+  rotate: false
+  xy: 615, 264
+  size: 115, 49
+  orig: 210, 96
+  offset: 43, 29
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_01
+  rotate: false
+  xy: 541, 25
+  size: 143, 64
+  orig: 210, 96
+  offset: 28, 18
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_02
+  rotate: false
+  xy: 202, 20
+  size: 166, 68
+  orig: 210, 96
+  offset: 19, 19
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_03
+  rotate: false
+  xy: 427, 91
+  size: 178, 71
+  orig: 210, 96
+  offset: 17, 18
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_04
+  rotate: false
+  xy: 427, 164
+  size: 179, 71
+  orig: 210, 96
+  offset: 18, 18
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_05
+  rotate: true
+  xy: 657, 552
+  size: 178, 71
+  orig: 210, 96
+  offset: 19, 18
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_06
+  rotate: false
+  xy: 427, 237
+  size: 186, 76
+  orig: 210, 96
+  offset: 20, 13
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_07
+  rotate: false
+  xy: 428, 393
+  size: 190, 79
+  orig: 210, 96
+  offset: 16, 10
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_08
+  rotate: false
+  xy: 430, 474
+  size: 191, 81
+  orig: 210, 96
+  offset: 14, 9
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_09
+  rotate: true
+  xy: 344, 100
+  size: 193, 81
+  orig: 210, 96
+  offset: 12, 9
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_10
+  rotate: false
+  xy: 202, 295
+  size: 194, 83
+  orig: 210, 96
+  offset: 11, 9
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_11
+  rotate: true
+  xy: 259, 99
+  size: 194, 83
+  orig: 210, 96
+  offset: 12, 9
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_12
+  rotate: true
+  xy: 173, 90
+  size: 197, 84
+  orig: 210, 96
+  offset: 12, 8
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_13
+  rotate: false
+  xy: 456, 557
+  size: 197, 85
+  orig: 210, 96
+  offset: 12, 7
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_14
+  rotate: false
+  xy: 2, 376
+  size: 198, 85
+  orig: 210, 96
+  offset: 11, 7
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_15
+  rotate: false
+  xy: 229, 464
+  size: 197, 85
+  orig: 210, 96
+  offset: 12, 7
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_16
+  rotate: false
+  xy: 456, 644
+  size: 199, 86
+  orig: 210, 96
+  offset: 10, 6
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_17
+  rotate: false
+  xy: 2, 289
+  size: 198, 85
+  orig: 210, 96
+  offset: 10, 7
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_18
+  rotate: false
+  xy: 2, 2
+  size: 198, 84
+  orig: 210, 96
+  offset: 10, 8
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_19
+  rotate: true
+  xy: 2, 88
+  size: 199, 84
+  orig: 210, 96
+  offset: 9, 8
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_20
+  rotate: true
+  xy: 88, 88
+  size: 199, 83
+  orig: 210, 96
+  offset: 9, 9
+  index: -1
+skill_1/FX2/ground smoke/ground smoke_21
+  rotate: false
+  xy: 215, 380
+  size: 196, 82
+  orig: 210, 96
+  offset: 9, 10
+  index: -1
+skill_1/FX2/groundexp/groundexp_23
+  rotate: false
+  xy: 202, 2
+  size: 40, 16
+  orig: 234, 96
+  offset: 104, 46
+  index: -1
+skill_1/FX2/groundexp/groundexp_24
+  rotate: false
+  xy: 615, 237
+  size: 61, 25
+  orig: 234, 96
+  offset: 93, 41
+  index: -1
+skill_1/FX2/groundexp/groundexp_25
+  rotate: true
+  xy: 685, 454
+  size: 96, 38
+  orig: 234, 96
+  offset: 75, 34
+  index: -1
+skill_1/FX2/groundexp/groundexp_26
+  rotate: true
+  xy: 678, 130
+  size: 132, 52
+  orig: 234, 96
+  offset: 57, 25
+  index: -1
+skill_1/FX2/groundexp/groundexp_27
+  rotate: true
+  xy: 623, 398
+  size: 152, 60
+  orig: 234, 96
+  offset: 46, 20
+  index: -1
+skill_1/FX2/groundexp/groundexp_28
+  rotate: false
+  xy: 370, 22
+  size: 169, 67
+  orig: 234, 96
+  offset: 38, 16
+  index: -1
+skill_1/FX2/groundexp/groundexp_29
+  rotate: false
+  xy: 427, 315
+  size: 188, 76
+  orig: 234, 96
+  offset: 30, 10
+  index: -1
+skill_1/FX2/groundexp/groundexp_30
+  rotate: false
+  xy: 2, 463
+  size: 211, 85
+  orig: 234, 96
+  offset: 18, 4
+  index: -1
+skill_1/FX2/groundexp/groundexp_31
+  rotate: false
+  xy: 232, 641
+  size: 222, 89
+  orig: 234, 96
+  offset: 12, 2
+  index: -1
+skill_1/FX2/groundexp/groundexp_32
+  rotate: false
+  xy: 2, 550
+  size: 225, 89
+  orig: 234, 96
+  offset: 9, 2
+  index: -1
+skill_1/FX2/groundexp/groundexp_33
+  rotate: false
+  xy: 2, 641
+  size: 228, 89
+  orig: 234, 96
+  offset: 6, 2
+  index: -1
+skill_1/FX2/groundexp/groundexp_34
+  rotate: false
+  xy: 229, 551
+  size: 199, 88
+  orig: 234, 96
+  offset: 3, 3
+  index: -1
+skill_1/FX2/hand light
+  rotate: false
+  xy: 608, 206
+  size: 60, 29
+  orig: 64, 30
+  offset: 3, 1
+  index: -1

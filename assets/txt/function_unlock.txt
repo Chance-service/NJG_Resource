@@ -1,0 +1,69 @@
+id	type	功能(字串/代號)	解鎖條件類型	解鎖條件	解鎖字串	是否隱藏入口按鈕
+1	1	@function_01		1		0
+2	1	@function_02		1		0
+3	1	@function_03		2		0
+4	1	@function_06		10000		0
+5	1	@function_14		23		0
+6	1	@function_08		15		0
+7	1	@function_07		58		0
+8	1	@function_16		38		0
+9	1	@function_04		38		0
+10	1	@function_13		58		0
+11	1	@function_09		58		0
+12	1	@function_05		59		0
+13	1	@function_15		73		0
+14	1	@function_11		78		0
+15	1	@function_12		79		0
+16	1	@function_10		38		0
+17	1	@function_17		10000		0
+18	1	@function_18		10000		0
+19	1	@function_19		10000		0
+20	2	1	1	38	@StageOpen	0
+21	2	2	1	59	@StageOpen	0
+22	2	3	1	15	@StageOpen	0
+23	2	4	1	78	@StageOpen	0
+24	2	5	0	10000	@WaitingOpen	0
+25	2	6	0	10000	@WaitingOpen	0
+26	2	7	1	58	@StageOpen	0
+27	2	8	1	73	@StageOpen	1
+28	2	101	1	79	@StageOpen	0
+29	2	102	1	58	@StageOpen	0
+30	2	103	1	18	@StageOpen	0
+31	2	104	0	10000	@WaitingOpen	0
+32	2	105	1	83	@StageOpen	0
+33	2	106	0	10000	@WaitingOpen	0
+34	2	107	0	10000	@WaitingOpen	0
+35	2	201	1	38	@StageOpen	0
+36	2	202	0	10000	@WaitingOpen	0
+37	2	203	1	38	@StageOpen	1
+38	2	204	1	38	@StageOpen	0
+39	2	205	1	38	@StageOpen	0
+40	2	214	1	38	@StageOpen	0
+41	2	215	1	38	@StageOpen	1
+42	2	301	1	78	@StageOpen	0
+43	2	401	1	58	@StageOpen	0
+44	2	402	1	58	@StageOpen	0
+45	2	403	1	58	@StageOpen	0
+46	2	501	1	38	@StageOpen	0
+47	2	601	1	38	@StageOpen	0
+48	2	701	1	59	@StageOpen	0
+49	2	801	1	37	@StageOpen	0
+50	2	802	1	54	@RuneUnlock01	0
+51	2	803	1,4	54,7	@RuneUnlock02	0
+52	2	804	0	10000	@WaitingOpen	0
+53	2	805	0	10000	@WaitingOpen	0
+54	2	901	1	23	@StageOpen	0
+55	2	902	1	9	@StageOpen	0
+56	2	108	1	73	@StageOpen	0
+57	2	206	1	38	@StageOpen	1
+58	2	207	1	38	@StageOpen	0
+59	2	208	1	38	@StageOpen	0
+60	2	209	1	38	@StageOpen	0
+61	2	210	1	38	@StageOpen	0
+62	2	211	1	38	@StageOpen	0
+63	2	212	1	38	@StageOpen	0
+64	2	213	1	38	@StageOpen	0
+65	2	404	1	58	@StageOpen	0
+66	2	9	1	38	@StageOpen	0
+67	2	216	1	58	@StageOpen	0
+68	2	217	1	38	@StageOpen	1

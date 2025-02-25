@@ -1,0 +1,48 @@
+
+NGUI_86_minigame_result.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/heart_1
+  rotate: false
+  xy: 567, 80
+  size: 212, 198
+  orig: 212, 198
+  offset: 0, 0
+  index: -1
+img/heart_2
+  rotate: false
+  xy: 2, 2
+  size: 214, 200
+  orig: 214, 200
+  offset: 0, 0
+  index: -1
+img/minigame_img3
+  rotate: false
+  xy: 327, 281
+  size: 348, 228
+  orig: 348, 228
+  offset: 0, 0
+  index: -1
+img/minigame_img4
+  rotate: false
+  xy: 677, 280
+  size: 345, 229
+  orig: 345, 229
+  offset: 0, 0
+  index: -1
+img/minigame_img7
+  rotate: false
+  xy: 327, 44
+  size: 238, 235
+  orig: 238, 235
+  offset: 0, 0
+  index: -1
+img/minigame_img9
+  rotate: false
+  xy: 2, 204
+  size: 323, 305
+  orig: 323, 305
+  offset: 0, 0
+  index: -1

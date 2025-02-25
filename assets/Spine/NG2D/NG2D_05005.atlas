@@ -1,0 +1,591 @@
+
+NG2D_05005.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+Eye closed
+  rotate: false
+  xy: 198, 12
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+FX/beam_00000
+  rotate: true
+  xy: 544, 193
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00002
+  rotate: true
+  xy: 741, 38
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 110, 10
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 330, 21
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 2, 2
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: true
+  xy: 435, 30
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+L Eyelash
+  rotate: false
+  xy: 410, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: true
+  xy: 544, 330
+  size: 151, 263
+  orig: 151, 263
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 842, 752
+  size: 169, 270
+  orig: 169, 270
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: true
+  xy: 279, 19
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+R Eyelash
+  rotate: true
+  xy: 308, 19
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 544, 483
+  size: 296, 539
+  orig: 296, 539
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: true
+  xy: 439, 3
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: true
+  xy: 410, 27
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 842, 420
+  size: 106, 154
+  orig: 106, 154
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: true
+  xy: 842, 528
+  size: 222, 156
+  orig: 222, 156
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 809, 175
+  size: 243, 209
+  orig: 243, 209
+  offset: 0, 0
+  index: -1
+tie 1
+  rotate: true
+  xy: 544, 22
+  size: 151, 195
+  orig: 151, 195
+  offset: 0, 0
+  index: -1
+tie 3
+  rotate: true
+  xy: 65, 6
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+
+NG2D_050052.png
+size: 970,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/beam_00004
+  rotate: false
+  xy: 2, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00006
+  rotate: false
+  xy: 2, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00008
+  rotate: false
+  xy: 139, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00010
+  rotate: false
+  xy: 2, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00012
+  rotate: false
+  xy: 139, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00014
+  rotate: false
+  xy: 276, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00016
+  rotate: false
+  xy: 2, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00018
+  rotate: false
+  xy: 139, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00020
+  rotate: false
+  xy: 276, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00022
+  rotate: false
+  xy: 413, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00024
+  rotate: false
+  xy: 139, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00026
+  rotate: false
+  xy: 276, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00028
+  rotate: false
+  xy: 413, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00030
+  rotate: false
+  xy: 550, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00032
+  rotate: false
+  xy: 276, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00034
+  rotate: false
+  xy: 413, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00036
+  rotate: false
+  xy: 550, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00038
+  rotate: false
+  xy: 687, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00040
+  rotate: false
+  xy: 413, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00042
+  rotate: false
+  xy: 550, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00044
+  rotate: false
+  xy: 687, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00046
+  rotate: false
+  xy: 824, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00048
+  rotate: false
+  xy: 550, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00050
+  rotate: false
+  xy: 687, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00052
+  rotate: false
+  xy: 824, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00054
+  rotate: false
+  xy: 687, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00056
+  rotate: false
+  xy: 824, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00058
+  rotate: false
+  xy: 824, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+
+NG2D_050053.png
+size: 970,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/beam_00060
+  rotate: false
+  xy: 2, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00062
+  rotate: false
+  xy: 2, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00064
+  rotate: false
+  xy: 139, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00066
+  rotate: false
+  xy: 2, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00068
+  rotate: false
+  xy: 139, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00070
+  rotate: false
+  xy: 276, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00072
+  rotate: false
+  xy: 2, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00074
+  rotate: false
+  xy: 139, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00076
+  rotate: false
+  xy: 276, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00078
+  rotate: false
+  xy: 413, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00080
+  rotate: false
+  xy: 139, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00082
+  rotate: false
+  xy: 276, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00084
+  rotate: false
+  xy: 413, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00086
+  rotate: false
+  xy: 550, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00088
+  rotate: false
+  xy: 276, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00090
+  rotate: false
+  xy: 413, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00092
+  rotate: false
+  xy: 550, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00094
+  rotate: false
+  xy: 687, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00096
+  rotate: false
+  xy: 413, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00098
+  rotate: false
+  xy: 550, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00100
+  rotate: false
+  xy: 687, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00102
+  rotate: false
+  xy: 824, 728
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00104
+  rotate: false
+  xy: 550, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00106
+  rotate: false
+  xy: 687, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00108
+  rotate: false
+  xy: 824, 486
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00110
+  rotate: false
+  xy: 687, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00112
+  rotate: false
+  xy: 824, 244
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00114
+  rotate: false
+  xy: 824, 2
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+
+NG2D_050054.png
+size: 344,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/beam_00116
+  rotate: false
+  xy: 2, 102
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+FX/beam_00118
+  rotate: false
+  xy: 139, 102
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 112, 11
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+tie 2
+  rotate: false
+  xy: 2, 2
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1

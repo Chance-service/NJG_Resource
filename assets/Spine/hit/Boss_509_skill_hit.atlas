@@ -1,0 +1,55 @@
+
+Boss_509_skill_hit.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_00000
+  rotate: false
+  xy: 2, 181
+  size: 110, 105
+  orig: 328, 328
+  offset: 106, 99
+  index: -1
+03_00001
+  rotate: false
+  xy: 114, 181
+  size: 108, 105
+  orig: 328, 328
+  offset: 107, 99
+  index: -1
+03_00002
+  rotate: false
+  xy: 2, 72
+  size: 108, 107
+  orig: 328, 328
+  offset: 104, 101
+  index: -1
+03_00003
+  rotate: false
+  xy: 112, 23
+  size: 85, 73
+  orig: 328, 328
+  offset: 120, 112
+  index: -1
+03_00004
+  rotate: false
+  xy: 202, 21
+  size: 82, 79
+  orig: 328, 328
+  offset: 116, 109
+  index: -1
+03_00005
+  rotate: false
+  xy: 202, 102
+  size: 84, 77
+  orig: 328, 328
+  offset: 117, 114
+  index: -1
+03_00006
+  rotate: false
+  xy: 112, 98
+  size: 88, 81
+  orig: 328, 328
+  offset: 115, 112
+  index: -1

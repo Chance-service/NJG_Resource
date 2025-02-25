@@ -1,0 +1,20 @@
+
+AVG_97901.png
+size: 1156,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00040
+  rotate: false
+  xy: 2, 2
+  size: 634, 1152
+  orig: 634, 1152
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 638, 986
+  size: 28, 168
+  orig: 28, 168
+  offset: 0, 0
+  index: -1

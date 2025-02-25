@@ -1,0 +1,13 @@
+
+Buff_109_FX1.png
+size: 58,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img01
+  rotate: false
+  xy: 0, 0
+  size: 38, 58
+  orig: 84, 84
+  offset: 23, 13
+  index: -1

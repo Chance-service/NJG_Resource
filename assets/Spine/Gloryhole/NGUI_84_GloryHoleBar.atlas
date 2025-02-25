@@ -1,0 +1,13 @@
+
+NGUI_84_GloryHoleBar.png
+size: 450,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gloryhole_Bar
+  rotate: false
+  xy: 2, 2
+  size: 446, 39
+  orig: 446, 39
+  offset: 0, 0
+  index: -1

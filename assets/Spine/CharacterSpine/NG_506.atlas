@@ -1,0 +1,146 @@
+
+NG_506.png
+size: 566,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 299
+  size: 200, 265
+  orig: 200, 265
+  offset: 0, 0
+  index: -1
+LF
+  rotate: false
+  xy: 2, 136
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+LH1
+  rotate: true
+  xy: 162, 145
+  size: 142, 153
+  orig: 142, 153
+  offset: 0, 0
+  index: -1
+LH2
+  rotate: false
+  xy: 432, 387
+  size: 132, 177
+  orig: 132, 177
+  offset: 0, 0
+  index: -1
+LL1
+  rotate: false
+  xy: 380, 75
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+LL2
+  rotate: false
+  xy: 240, 69
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+RH1
+  rotate: true
+  xy: 2, 5
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+RH2
+  rotate: false
+  xy: 317, 135
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+RL1
+  rotate: false
+  xy: 446, 84
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+RL2
+  rotate: true
+  xy: 298, 83
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+SHADOW
+  rotate: false
+  xy: 204, 289
+  size: 224, 39
+  orig: 224, 39
+  offset: 0, 0
+  index: -1
+armor1
+  rotate: false
+  xy: 204, 330
+  size: 226, 234
+  orig: 226, 234
+  offset: 0, 0
+  index: -1
+armor2
+  rotate: false
+  xy: 432, 276
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 240, 33
+  size: 95, 34
+  orig: 95, 34
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 139, 20
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 139, 32
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+head_fire
+  rotate: true
+  xy: 431, 136
+  size: 138, 79
+  orig: 138, 79
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 512, 185
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+shoesL
+  rotate: false
+  xy: 512, 142
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+shoesR
+  rotate: true
+  xy: 337, 32
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+NG_24000_FX3.png
+size: 344,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX3/bottom_01
+  rotate: false
+  xy: 88, 206
+  size: 84, 31
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_02
+  rotate: true
+  xy: 295, 172
+  size: 84, 32
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_03
+  rotate: true
+  xy: 297, 258
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_04
+  rotate: false
+  xy: 107, 309
+  size: 96, 33
+  orig: 104, 35
+  offset: 6, 0
+  index: -1
+skill_0/FX3/bottom_05
+  rotate: false
+  xy: 2, 308
+  size: 103, 34
+  orig: 104, 35
+  offset: 1, 0
+  index: -1
+skill_0/FX3/bottom_06
+  rotate: false
+  xy: 205, 309
+  size: 90, 33
+  orig: 104, 35
+  offset: 9, 0
+  index: -1
+skill_0/FX3/bottom_07
+  rotate: false
+  xy: 107, 274
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_08
+  rotate: false
+  xy: 193, 274
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_09
+  rotate: false
+  xy: 2, 273
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_10
+  rotate: false
+  xy: 88, 239
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_11
+  rotate: false
+  xy: 2, 238
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_12
+  rotate: false
+  xy: 174, 239
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_13
+  rotate: true
+  xy: 260, 188
+  size: 84, 33
+  orig: 104, 35
+  offset: 12, 0
+  index: -1
+skill_0/FX3/bottom_14
+  rotate: false
+  xy: 2, 204
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_15
+  rotate: false
+  xy: 174, 205
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_16
+  rotate: false
+  xy: 78, 172
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_17
+  rotate: false
+  xy: 2, 170
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_18
+  rotate: false
+  xy: 154, 171
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_19
+  rotate: true
+  xy: 260, 112
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_20
+  rotate: true
+  xy: 294, 96
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_21
+  rotate: false
+  xy: 78, 138
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_22
+  rotate: false
+  xy: 2, 136
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_23
+  rotate: false
+  xy: 154, 137
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_24
+  rotate: false
+  xy: 78, 104
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_25
+  rotate: false
+  xy: 2, 102
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_26
+  rotate: false
+  xy: 154, 103
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_27
+  rotate: true
+  xy: 230, 36
+  size: 74, 32
+  orig: 104, 35
+  offset: 17, 1
+  index: -1
+skill_0/FX3/bottom_28
+  rotate: false
+  xy: 264, 62
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_29
+  rotate: false
+  xy: 264, 28
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_30
+  rotate: false
+  xy: 78, 70
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_31
+  rotate: false
+  xy: 2, 68
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_32
+  rotate: false
+  xy: 152, 69
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_33
+  rotate: false
+  xy: 76, 36
+  size: 72, 32
+  orig: 104, 35
+  offset: 18, 1
+  index: -1
+skill_0/FX3/bottom_34
+  rotate: false
+  xy: 2, 34
+  size: 70, 32
+  orig: 104, 35
+  offset: 19, 1
+  index: -1
+skill_0/FX3/bottom_35
+  rotate: false
+  xy: 150, 35
+  size: 70, 32
+  orig: 104, 35
+  offset: 19, 1
+  index: -1
+skill_0/FX3/bottom_36
+  rotate: false
+  xy: 74, 4
+  size: 70, 30
+  orig: 104, 35
+  offset: 19, 2
+  index: -1
+skill_0/FX3/bottom_37
+  rotate: false
+  xy: 2, 2
+  size: 68, 30
+  orig: 104, 35
+  offset: 20, 2
+  index: -1
+skill_0/FX3/bottom_38
+  rotate: false
+  xy: 146, 3
+  size: 66, 30
+  orig: 104, 35
+  offset: 21, 2
+  index: -1
+skill_0/FX3/bottom_39
+  rotate: true
+  xy: 230, 141
+  size: 62, 28
+  orig: 104, 35
+  offset: 23, 3
+  index: -1

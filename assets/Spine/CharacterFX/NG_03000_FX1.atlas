@@ -1,0 +1,2362 @@
+
+NG_03000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/S_25
+  rotate: true
+  xy: 482, 400
+  size: 110, 25
+  orig: 110, 35
+  offset: 0, 3
+  index: -1
+attack_0/Smoke_07
+  rotate: true
+  xy: 482, 292
+  size: 106, 27
+  orig: 110, 40
+  offset: 2, 8
+  index: -1
+skill_0/3401/3401_140
+  rotate: false
+  xy: 2, 2
+  size: 232, 198
+  orig: 240, 205
+  offset: 4, 2
+  index: -1
+skill_0/open/spin/spin_18
+  rotate: false
+  xy: 482, 250
+  size: 28, 40
+  orig: 138, 130
+  offset: 59, 34
+  index: -1
+skill_0/open/spin/spin_19
+  rotate: false
+  xy: 482, 223
+  size: 28, 25
+  orig: 138, 130
+  offset: 59, 48
+  index: -1
+skill_0/pa/pa_00
+  rotate: true
+  xy: 497, 166
+  size: 18, 11
+  orig: 163, 115
+  offset: 65, 46
+  index: -1
+skill_0/shield/shield_27
+  rotate: true
+  xy: 497, 186
+  size: 14, 13
+  orig: 225, 230
+  offset: 106, 109
+  index: -1
+skill_1/Elements_F/Elements__21
+  rotate: false
+  xy: 482, 202
+  size: 22, 19
+  orig: 175, 165
+  offset: 18, 31
+  index: -1
+skill_1/assemble2/assemble2_02
+  rotate: false
+  xy: 244, 202
+  size: 236, 308
+  orig: 260, 340
+  offset: 12, 14
+  index: -1
+skill_1/assemble2/assemble2_03
+  rotate: false
+  xy: 2, 203
+  size: 240, 307
+  orig: 260, 340
+  offset: 5, 15
+  index: -1
+skill_1/assemble2/assemble2_07
+  rotate: true
+  xy: 236, 3
+  size: 197, 259
+  orig: 260, 340
+  offset: 9, 34
+  index: -1
+
+NG_03000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_13
+  rotate: true
+  xy: 473, 409
+  size: 101, 37
+  orig: 140, 45
+  offset: 0, 6
+  index: -1
+attack_0/E_16
+  rotate: true
+  xy: 470, 88
+  size: 133, 40
+  orig: 140, 45
+  offset: 0, 2
+  index: -1
+attack_0/Smoke_00
+  rotate: false
+  xy: 470, 3
+  size: 38, 19
+  orig: 110, 40
+  offset: 35, 2
+  index: -1
+skill_0/3401/3401_125
+  rotate: false
+  xy: 2, 2
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_18
+  rotate: false
+  xy: 470, 24
+  size: 40, 62
+  orig: 180, 112
+  offset: 83, 38
+  index: -1
+skill_1/assemble/assemble_03
+  rotate: true
+  xy: 244, 3
+  size: 218, 224
+  orig: 300, 275
+  offset: 63, 40
+  index: -1
+skill_1/assemble2/assemble2_04
+  rotate: false
+  xy: 2, 209
+  size: 237, 301
+  orig: 260, 340
+  offset: 3, 18
+  index: -1
+skill_1/assemble2/assemble2_05
+  rotate: false
+  xy: 241, 223
+  size: 230, 287
+  orig: 260, 340
+  offset: 2, 25
+  index: -1
+skill_1/atklight/s1atklight_35
+  rotate: true
+  xy: 473, 229
+  size: 15, 29
+  orig: 50, 128
+  offset: 16, 48
+  index: -1
+skill_1/atklight/s1atklight_45
+  rotate: false
+  xy: 473, 286
+  size: 36, 121
+  orig: 50, 128
+  offset: 8, 0
+  index: -1
+skill_1/energy/energy_35
+  rotate: true
+  xy: 473, 246
+  size: 38, 37
+  orig: 150, 150
+  offset: 56, 57
+  index: -1
+
+NG_03000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/S_23
+  rotate: true
+  xy: 478, 114
+  size: 110, 31
+  orig: 110, 35
+  offset: 0, 1
+  index: -1
+attack_0/S_24
+  rotate: true
+  xy: 478, 2
+  size: 110, 31
+  orig: 110, 35
+  offset: 0, 2
+  index: -1
+attack_0/Smoke_01
+  rotate: true
+  xy: 488, 355
+  size: 50, 20
+  orig: 110, 40
+  offset: 29, 3
+  index: -1
+attack_0/Smoke_08
+  rotate: true
+  xy: 488, 407
+  size: 103, 21
+  orig: 110, 40
+  offset: 3, 8
+  index: -1
+skill_0/3401/3401_126
+  rotate: false
+  xy: 236, 2
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_139
+  rotate: false
+  xy: 2, 3
+  size: 232, 203
+  orig: 240, 205
+  offset: 4, 0
+  index: -1
+skill_0/pa/pa_01
+  rotate: false
+  xy: 386, 209
+  size: 20, 15
+  orig: 163, 115
+  offset: 64, 45
+  index: -1
+skill_0/summonlight/summonlight_12
+  rotate: false
+  xy: 207, 209
+  size: 177, 106
+  orig: 180, 112
+  offset: 0, 2
+  index: -1
+skill_1/assemble2/assemble2_00
+  rotate: true
+  xy: 207, 317
+  size: 193, 279
+  orig: 260, 340
+  offset: 52, 29
+  index: -1
+skill_1/assemble2/assemble2_01
+  rotate: false
+  xy: 2, 208
+  size: 203, 302
+  orig: 260, 340
+  offset: 45, 17
+  index: -1
+skill_1/atklight/s1atklight_41
+  rotate: true
+  xy: 386, 271
+  size: 44, 124
+  orig: 50, 128
+  offset: 5, 0
+  index: -1
+skill_1/atklight/s1atklight_44
+  rotate: true
+  xy: 386, 226
+  size: 43, 124
+  orig: 50, 128
+  offset: 3, 0
+  index: -1
+
+NG_03000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/open/Energy_115
+  rotate: false
+  xy: 160, 6
+  size: 267, 232
+  orig: 270, 260
+  offset: 0, 14
+  index: -1
+skill_0/open/spin/spin_14
+  rotate: false
+  xy: 429, 168
+  size: 81, 83
+  orig: 138, 130
+  offset: 26, 24
+  index: -1
+skill_0/open/spin/spin_17
+  rotate: true
+  xy: 300, 303
+  size: 30, 42
+  orig: 138, 130
+  offset: 57, 34
+  index: -1
+skill_0/s0-E/s0-E_44
+  rotate: true
+  xy: 221, 300
+  size: 210, 77
+  orig: 225, 95
+  offset: 6, 3
+  index: -1
+skill_0/spot/spot_126
+  rotate: true
+  xy: 344, 240
+  size: 93, 78
+  orig: 100, 110
+  offset: 1, 15
+  index: -1
+skill_0/spot/spot_136
+  rotate: false
+  xy: 429, 406
+  size: 81, 104
+  orig: 100, 110
+  offset: 14, 0
+  index: -1
+skill_0/spot/spot_137
+  rotate: false
+  xy: 429, 300
+  size: 81, 104
+  orig: 100, 110
+  offset: 16, 0
+  index: -1
+skill_0/spot/spot_149
+  rotate: false
+  xy: 478, 19
+  size: 29, 37
+  orig: 100, 110
+  offset: 52, 52
+  index: -1
+skill_1/Elements_F/Elements__35
+  rotate: true
+  xy: 300, 335
+  size: 175, 127
+  orig: 175, 165
+  offset: 0, 38
+  index: -1
+skill_1/assemble/assemble_02
+  rotate: false
+  xy: 2, 2
+  size: 156, 236
+  orig: 300, 275
+  offset: 129, 37
+  index: -1
+skill_1/assemble/assemble_10
+  rotate: false
+  xy: 221, 240
+  size: 121, 58
+  orig: 300, 275
+  offset: 119, 9
+  index: -1
+skill_1/assemble/assemble_12
+  rotate: false
+  xy: 478, 58
+  size: 32, 27
+  orig: 295, 280
+  offset: 119, 26
+  index: -1
+skill_1/assemble2/assemble2_06
+  rotate: false
+  xy: 2, 240
+  size: 217, 270
+  orig: 260, 340
+  offset: 4, 33
+  index: -1
+skill_1/circle
+  rotate: true
+  xy: 429, 87
+  size: 79, 81
+  orig: 125, 125
+  offset: 23, 22
+  index: -1
+skill_1/particle/particle_31
+  rotate: false
+  xy: 429, 2
+  size: 47, 83
+  orig: 48, 103
+  offset: 0, 7
+  index: -1
+skill_1/particle/particle_32
+  rotate: true
+  xy: 424, 253
+  size: 45, 86
+  orig: 48, 103
+  offset: 1, 5
+  index: -1
+
+NG_03000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/Smoke_05
+  rotate: true
+  xy: 257, 302
+  size: 105, 31
+  orig: 110, 40
+  offset: 3, 6
+  index: -1
+skill_0/open/Energy_116
+  rotate: false
+  xy: 2, 250
+  size: 253, 260
+  orig: 270, 260
+  offset: 7, 0
+  index: -1
+skill_0/open/open-assemble/open-assemble_03
+  rotate: true
+  xy: 293, 101
+  size: 51, 70
+  orig: 205, 145
+  offset: 0, 12
+  index: -1
+skill_0/open/open-assemble/open-assemble_04
+  rotate: true
+  xy: 293, 101
+  size: 51, 70
+  orig: 205, 145
+  offset: 0, 12
+  index: -1
+skill_0/open/open-assemble/open-assemble_06
+  rotate: true
+  xy: 380, 101
+  size: 193, 129
+  orig: 205, 145
+  offset: 6, 0
+  index: -1
+skill_0/open/open-assemble/open-assemble_07
+  rotate: true
+  xy: 380, 101
+  size: 193, 129
+  orig: 205, 145
+  offset: 6, 0
+  index: -1
+skill_0/open/open-assemble/open-assemble_14
+  rotate: false
+  xy: 293, 2
+  size: 129, 97
+  orig: 205, 145
+  offset: 63, 0
+  index: -1
+skill_0/shield/shield_34
+  rotate: true
+  xy: 293, 296
+  size: 214, 215
+  orig: 225, 230
+  offset: 6, 8
+  index: -1
+skill_0/spot/spot_124
+  rotate: false
+  xy: 257, 409
+  size: 33, 44
+  orig: 100, 110
+  offset: 8, 43
+  index: -1
+skill_0/spot/spot_132
+  rotate: false
+  xy: 293, 154
+  size: 85, 94
+  orig: 100, 110
+  offset: 6, 6
+  index: -1
+skill_1/assemble/assemble_07
+  rotate: true
+  xy: 2, 4
+  size: 244, 91
+  orig: 300, 275
+  offset: 12, 5
+  index: -1
+skill_1/assemble2/assemble2_10
+  rotate: false
+  xy: 95, 6
+  size: 196, 242
+  orig: 260, 340
+  offset: 28, 48
+  index: -1
+skill_1/atklight/s1atklight_42
+  rotate: true
+  xy: 257, 250
+  size: 44, 121
+  orig: 50, 128
+  offset: 4, 0
+  index: -1
+skill_1/energy/energy_38
+  rotate: true
+  xy: 424, 11
+  size: 88, 86
+  orig: 150, 150
+  offset: 31, 32
+  index: -1
+skill_1/particle/particle_16
+  rotate: false
+  xy: 257, 455
+  size: 34, 55
+  orig: 48, 103
+  offset: 6, 35
+  index: -1
+
+NG_03000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_14
+  rotate: false
+  xy: 393, 352
+  size: 117, 38
+  orig: 140, 45
+  offset: 0, 5
+  index: -1
+attack_0/S_20
+  rotate: false
+  xy: 432, 3
+  size: 64, 23
+  orig: 110, 35
+  offset: 24, 5
+  index: -1
+attack_0/Smoke_02
+  rotate: false
+  xy: 350, 2
+  size: 80, 24
+  orig: 110, 40
+  offset: 15, 4
+  index: -1
+skill_0/3401/3401_127
+  rotate: true
+  xy: 143, 13
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/open/starglow_35
+  rotate: false
+  xy: 173, 328
+  size: 175, 182
+  orig: 195, 195
+  offset: 10, 8
+  index: -1
+skill_0/open/starglow_36
+  rotate: false
+  xy: 367, 183
+  size: 143, 143
+  orig: 195, 195
+  offset: 26, 26
+  index: -1
+skill_0/ringlight
+  rotate: false
+  xy: 173, 255
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+skill_1/Elements_F/Elements__30
+  rotate: true
+  xy: 350, 28
+  size: 153, 159
+  orig: 175, 165
+  offset: 22, 4
+  index: -1
+skill_1/Elements_F/Elements__40
+  rotate: false
+  xy: 350, 392
+  size: 160, 118
+  orig: 175, 165
+  offset: 0, 47
+  index: -1
+skill_1/assemble2/assemble2_08
+  rotate: false
+  xy: 2, 255
+  size: 169, 255
+  orig: 260, 340
+  offset: 14, 39
+  index: -1
+skill_1/assemble2/assemble2_09
+  rotate: false
+  xy: 2, 4
+  size: 139, 249
+  orig: 260, 340
+  offset: 20, 45
+  index: -1
+skill_1/particle/particle_18
+  rotate: false
+  xy: 350, 328
+  size: 41, 62
+  orig: 48, 103
+  offset: 3, 29
+  index: -1
+skill_1/particle/particle_23
+  rotate: false
+  xy: 319, 255
+  size: 46, 71
+  orig: 48, 103
+  offset: 2, 20
+  index: -1
+skill_1/ringlight
+  rotate: false
+  xy: 246, 255
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+
+NG_03000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_23
+  rotate: false
+  xy: 416, 146
+  size: 93, 41
+  orig: 140, 45
+  offset: 47, 1
+  index: -1
+attack_0/star_02
+  rotate: false
+  xy: 416, 52
+  size: 92, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+skill_0/3401/3401_128
+  rotate: true
+  xy: 2, 14
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_129
+  rotate: true
+  xy: 209, 14
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/open/Energy_117
+  rotate: false
+  xy: 2, 256
+  size: 208, 254
+  orig: 270, 260
+  offset: 30, 3
+  index: -1
+skill_0/pa/pa_04
+  rotate: true
+  xy: 416, 392
+  size: 118, 94
+  orig: 163, 115
+  offset: 22, 16
+  index: -1
+skill_0/spot/spot_130
+  rotate: true
+  xy: 416, 189
+  size: 92, 94
+  orig: 100, 110
+  offset: 4, 5
+  index: -1
+skill_1/Elements_F/Elements__22
+  rotate: true
+  xy: 416, 283
+  size: 107, 94
+  orig: 175, 165
+  offset: 8, 1
+  index: -1
+skill_1/assemble2/assemble2_11
+  rotate: false
+  xy: 212, 271
+  size: 202, 239
+  orig: 260, 340
+  offset: 39, 49
+  index: -1
+skill_1/particle/particle_28
+  rotate: true
+  xy: 416, 2
+  size: 48, 79
+  orig: 48, 103
+  offset: 0, 12
+  index: -1
+
+NG_03000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_17
+  rotate: false
+  xy: 375, 30
+  size: 134, 41
+  orig: 140, 45
+  offset: 2, 1
+  index: -1
+attack_0/E_24
+  rotate: true
+  xy: 471, 419
+  size: 91, 39
+  orig: 140, 45
+  offset: 49, 2
+  index: -1
+attack_0/E_25
+  rotate: true
+  xy: 471, 73
+  size: 62, 35
+  orig: 140, 45
+  offset: 77, 5
+  index: -1
+attack_0/Smoke_03
+  rotate: false
+  xy: 375, 4
+  size: 80, 24
+  orig: 110, 40
+  offset: 15, 4
+  index: -1
+skill_0/3401/3401_130
+  rotate: false
+  xy: 2, 305
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_131
+  rotate: false
+  xy: 229, 73
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/T_light
+  rotate: false
+  xy: 2, 2
+  size: 123, 69
+  orig: 128, 70
+  offset: 5, 1
+  index: -1
+skill_0/open/Energy_121
+  rotate: false
+  xy: 471, 183
+  size: 39, 45
+  orig: 270, 260
+  offset: 115, 108
+  index: -1
+skill_0/open/Energy_122
+  rotate: false
+  xy: 457, 5
+  size: 23, 23
+  orig: 270, 260
+  offset: 123, 119
+  index: -1
+skill_0/shield/shield_35
+  rotate: false
+  xy: 244, 280
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_36
+  rotate: false
+  xy: 2, 73
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/spot/spot_146
+  rotate: false
+  xy: 127, 2
+  size: 70, 69
+  orig: 100, 110
+  offset: 21, 20
+  index: -1
+skill_0/spot/spot_147
+  rotate: false
+  xy: 306, 5
+  size: 67, 66
+  orig: 100, 110
+  offset: 23, 23
+  index: -1
+skill_0/summonlight/summonlight_19
+  rotate: false
+  xy: 471, 230
+  size: 39, 55
+  orig: 180, 112
+  offset: 84, 40
+  index: -1
+skill_0/summonlight/summonlight_20
+  rotate: false
+  xy: 471, 137
+  size: 39, 44
+  orig: 180, 112
+  offset: 85, 39
+  index: -1
+skill_1/Elements_F/Elements__42
+  rotate: false
+  xy: 199, 5
+  size: 105, 66
+  orig: 175, 165
+  offset: 20, 81
+  index: -1
+skill_1/particle/particle_19
+  rotate: false
+  xy: 471, 287
+  size: 39, 63
+  orig: 48, 103
+  offset: 4, 28
+  index: -1
+skill_1/particle/particle_20
+  rotate: false
+  xy: 471, 352
+  size: 39, 65
+  orig: 48, 103
+  offset: 4, 26
+  index: -1
+
+NG_03000_FX19.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_15
+  rotate: true
+  xy: 229, 243
+  size: 132, 40
+  orig: 140, 45
+  offset: 0, 3
+  index: -1
+attack_0/E_18
+  rotate: false
+  xy: 2, 4
+  size: 134, 41
+  orig: 140, 45
+  offset: 3, 1
+  index: -1
+attack_0/E_19
+  rotate: false
+  xy: 138, 4
+  size: 132, 41
+  orig: 140, 45
+  offset: 6, 1
+  index: -1
+attack_0/E_20
+  rotate: true
+  xy: 229, 377
+  size: 132, 41
+  orig: 140, 45
+  offset: 7, 1
+  index: -1
+skill_0/shield/shield_37
+  rotate: false
+  xy: 2, 279
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_38
+  rotate: false
+  xy: 2, 47
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_39
+  rotate: true
+  xy: 272, 284
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_40
+  rotate: false
+  xy: 271, 52
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_1/atklight/s1atklight_37
+  rotate: false
+  xy: 229, 149
+  size: 40, 92
+  orig: 50, 128
+  offset: 9, 17
+  index: -1
+skill_1/atklight/s1atklight_38
+  rotate: true
+  xy: 397, 9
+  size: 41, 112
+  orig: 50, 128
+  offset: 7, 8
+  index: -1
+skill_1/atklight/s1atklight_40
+  rotate: true
+  xy: 272, 3
+  size: 47, 123
+  orig: 50, 128
+  offset: 2, 1
+  index: -1
+skill_1/particle/particle_34
+  rotate: false
+  xy: 229, 57
+  size: 40, 90
+  orig: 48, 103
+  offset: 3, 1
+  index: -1
+
+NG_03000_FX110.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/S_21
+  rotate: true
+  xy: 471, 80
+  size: 87, 29
+  orig: 110, 35
+  offset: 13, 2
+  index: -1
+attack_0/S_22
+  rotate: true
+  xy: 471, 169
+  size: 100, 31
+  orig: 110, 35
+  offset: 6, 1
+  index: -1
+skill_0/3401/3401_132
+  rotate: false
+  xy: 2, 305
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_133
+  rotate: false
+  xy: 229, 73
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/open/Energy_120
+  rotate: true
+  xy: 276, 8
+  size: 63, 90
+  orig: 270, 260
+  offset: 103, 85
+  index: -1
+skill_0/s0-E/s0-E_43
+  rotate: false
+  xy: 2, 7
+  size: 143, 64
+  orig: 225, 95
+  offset: 81, 6
+  index: -1
+skill_0/s0-E/s0-E_53
+  rotate: true
+  xy: 471, 271
+  size: 54, 36
+  orig: 225, 95
+  offset: 8, 47
+  index: -1
+skill_0/shield/shield_41
+  rotate: false
+  xy: 244, 280
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_42
+  rotate: false
+  xy: 2, 73
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/spot/spot_148
+  rotate: false
+  xy: 471, 446
+  size: 38, 64
+  orig: 100, 110
+  offset: 51, 25
+  index: -1
+skill_1/Elements_F/Elements__41
+  rotate: false
+  xy: 147, 7
+  size: 127, 64
+  orig: 175, 165
+  offset: 22, 83
+  index: -1
+skill_1/Elements_F/Elements__43
+  rotate: false
+  xy: 368, 10
+  size: 75, 61
+  orig: 175, 165
+  offset: 22, 82
+  index: -1
+skill_1/assemble/assemble_11
+  rotate: true
+  xy: 471, 386
+  size: 58, 36
+  orig: 300, 275
+  offset: 122, 23
+  index: -1
+skill_1/atklight/s1atklight_36
+  rotate: false
+  xy: 471, 327
+  size: 36, 57
+  orig: 50, 128
+  offset: 13, 34
+  index: -1
+skill_1/particle/particle_22
+  rotate: false
+  xy: 445, 2
+  size: 43, 69
+  orig: 48, 103
+  offset: 2, 22
+  index: -1
+
+NG_03000_FX111.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_12
+  rotate: false
+  xy: 275, 7
+  size: 72, 31
+  orig: 140, 45
+  offset: 1, 13
+  index: -1
+attack_0/Smoke_06
+  rotate: false
+  xy: 275, 40
+  size: 105, 29
+  orig: 110, 40
+  offset: 3, 8
+  index: -1
+attack_0/star_07
+  rotate: true
+  xy: 387, 2
+  size: 124, 122
+  orig: 150, 150
+  offset: 13, 14
+  index: -1
+skill_0/3401/3401_134
+  rotate: false
+  xy: 2, 305
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_135
+  rotate: false
+  xy: 244, 305
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+skill_0/3401/3401_136
+  rotate: true
+  xy: 180, 71
+  size: 232, 205
+  orig: 240, 205
+  offset: 4, 0
+  index: -1
+skill_0/open/Energy_108
+  rotate: false
+  xy: 64, 3
+  size: 59, 59
+  orig: 270, 260
+  offset: 105, 101
+  index: -1
+skill_0/open/Energy_114
+  rotate: true
+  xy: 2, 64
+  size: 239, 176
+  orig: 270, 260
+  offset: 14, 42
+  index: -1
+skill_0/open/spin/spin_16
+  rotate: true
+  xy: 125, 3
+  size: 59, 54
+  orig: 138, 130
+  offset: 46, 24
+  index: -1
+skill_0/s0-E/s0-E_51
+  rotate: true
+  xy: 224, 3
+  size: 66, 49
+  orig: 225, 95
+  offset: 7, 38
+  index: -1
+skill_0/s0-E/s0-E_52
+  rotate: true
+  xy: 224, 3
+  size: 66, 49
+  orig: 225, 95
+  offset: 7, 38
+  index: -1
+skill_1/Elements_F/Elements__36
+  rotate: true
+  xy: 387, 128
+  size: 175, 123
+  orig: 175, 165
+  offset: 0, 42
+  index: -1
+skill_1/energy/energy_36
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 150, 150
+  offset: 45, 45
+  index: -1
+skill_1/particle/particle_21
+  rotate: false
+  xy: 181, 2
+  size: 41, 67
+  orig: 48, 103
+  offset: 5, 24
+  index: -1
+
+NG_03000_FX112.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/E_21
+  rotate: true
+  xy: 456, 382
+  size: 128, 42
+  orig: 140, 45
+  offset: 12, 0
+  index: -1
+attack_0/E_22
+  rotate: false
+  xy: 92, 5
+  size: 127, 41
+  orig: 140, 45
+  offset: 13, 1
+  index: -1
+attack_0/Smoke_04
+  rotate: false
+  xy: 342, 16
+  size: 101, 30
+  orig: 110, 40
+  offset: 5, 4
+  index: -1
+skill_0/shield/shield_43
+  rotate: false
+  xy: 2, 280
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_44
+  rotate: false
+  xy: 2, 48
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_45
+  rotate: false
+  xy: 229, 280
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_46
+  rotate: false
+  xy: 229, 48
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_1/addglow
+  rotate: false
+  xy: 456, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+skill_1/atklight/s1atklight_39
+  rotate: false
+  xy: 456, 137
+  size: 47, 119
+  orig: 50, 128
+  offset: 2, 4
+  index: -1
+skill_1/atklight/s1atklight_43
+  rotate: false
+  xy: 456, 258
+  size: 46, 122
+  orig: 50, 128
+  offset: 2, 2
+  index: -1
+skill_1/atklight/s1atklight_46
+  rotate: true
+  xy: 221, 17
+  size: 29, 119
+  orig: 50, 128
+  offset: 11, 1
+  index: -1
+skill_1/particle/particle_29
+  rotate: false
+  xy: 456, 54
+  size: 47, 81
+  orig: 48, 103
+  offset: 0, 10
+  index: -1
+skill_1/particle/particle_33
+  rotate: true
+  xy: 2, 2
+  size: 44, 88
+  orig: 48, 103
+  offset: 2, 3
+  index: -1
+
+NG_03000_FX113.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/star_00
+  rotate: true
+  xy: 463, 112
+  size: 44, 43
+  orig: 150, 150
+  offset: 53, 54
+  index: -1
+skill_0/3401/3401_137
+  rotate: false
+  xy: 2, 305
+  size: 232, 205
+  orig: 240, 205
+  offset: 4, 0
+  index: -1
+skill_0/3401/3401_138
+  rotate: false
+  xy: 229, 73
+  size: 232, 205
+  orig: 240, 205
+  offset: 4, 0
+  index: -1
+skill_0/open/open-assemble/open-assemble_18
+  rotate: false
+  xy: 463, 158
+  size: 44, 45
+  orig: 205, 145
+  offset: 86, 43
+  index: -1
+skill_0/open/open-assemble/open-assemble_19
+  rotate: false
+  xy: 463, 158
+  size: 44, 45
+  orig: 205, 145
+  offset: 86, 43
+  index: -1
+skill_0/open/spin/spin_15
+  rotate: false
+  xy: 182, 14
+  size: 61, 57
+  orig: 138, 130
+  offset: 45, 24
+  index: -1
+skill_0/shield/shield_28
+  rotate: false
+  xy: 463, 67
+  size: 42, 43
+  orig: 225, 230
+  offset: 92, 94
+  index: -1
+skill_0/shield/shield_47
+  rotate: false
+  xy: 236, 280
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_48
+  rotate: false
+  xy: 2, 73
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_17
+  rotate: false
+  xy: 463, 279
+  size: 46, 73
+  orig: 180, 112
+  offset: 82, 31
+  index: -1
+skill_0/summonlight/summonlight_21
+  rotate: false
+  xy: 442, 24
+  size: 41, 41
+  orig: 180, 112
+  offset: 84, 38
+  index: -1
+skill_1/assemble/assemble_09
+  rotate: false
+  xy: 2, 14
+  size: 178, 57
+  orig: 300, 275
+  offset: 69, 6
+  index: -1
+skill_1/particle/particle_17
+  rotate: false
+  xy: 399, 10
+  size: 41, 61
+  orig: 48, 103
+  offset: 3, 30
+  index: -1
+skill_1/particle/particle_24
+  rotate: false
+  xy: 463, 354
+  size: 46, 74
+  orig: 48, 103
+  offset: 2, 17
+  index: -1
+skill_1/particle/particle_25
+  rotate: false
+  xy: 463, 205
+  size: 46, 72
+  orig: 48, 103
+  offset: 2, 19
+  index: -1
+skill_1/particle/particle_26
+  rotate: true
+  xy: 323, 23
+  size: 48, 74
+  orig: 48, 103
+  offset: 0, 17
+  index: -1
+skill_1/particle/particle_27
+  rotate: true
+  xy: 245, 23
+  size: 48, 76
+  orig: 48, 103
+  offset: 0, 15
+  index: -1
+skill_1/particle/particle_30
+  rotate: false
+  xy: 463, 430
+  size: 47, 80
+  orig: 48, 103
+  offset: 0, 10
+  index: -1
+
+NG_03000_FX114.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/star_04
+  rotate: false
+  xy: 375, 2
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+skill_0/open/open-assemble/open-assemble_09
+  rotate: true
+  xy: 375, 128
+  size: 155, 135
+  orig: 205, 145
+  offset: 50, 10
+  index: -1
+skill_0/open/open-assemble/open-assemble_10
+  rotate: true
+  xy: 375, 128
+  size: 155, 135
+  orig: 205, 145
+  offset: 50, 10
+  index: -1
+skill_0/open/open-assemble/open-assemble_15
+  rotate: false
+  xy: 234, 203
+  size: 117, 80
+  orig: 205, 145
+  offset: 74, 6
+  index: -1
+skill_0/open/open-assemble/open-assemble_16
+  rotate: false
+  xy: 234, 203
+  size: 117, 80
+  orig: 205, 145
+  offset: 74, 6
+  index: -1
+skill_0/open/starglow_27
+  rotate: false
+  xy: 178, 6
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_49
+  rotate: true
+  xy: 236, 285
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_50
+  rotate: true
+  xy: 2, 203
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_22
+  rotate: true
+  xy: 468, 427
+  size: 40, 41
+  orig: 180, 112
+  offset: 85, 38
+  index: -1
+skill_0/summonlight/summonlight_23
+  rotate: false
+  xy: 468, 469
+  size: 41, 41
+  orig: 180, 112
+  offset: 84, 38
+  index: -1
+skill_1/assemble/assemble_05
+  rotate: true
+  xy: 2, 5
+  size: 196, 174
+  orig: 300, 275
+  offset: 5, 16
+  index: -1
+skill_1/assemble/assemble_08
+  rotate: false
+  xy: 2, 430
+  size: 232, 80
+  orig: 300, 275
+  offset: 18, 5
+  index: -1
+
+NG_03000_FX115.png
+size: 498,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/star_01
+  rotate: false
+  xy: 174, 268
+  size: 78, 77
+  orig: 150, 150
+  offset: 36, 37
+  index: -1
+skill_0/open/Energy_109
+  rotate: false
+  xy: 78, 348
+  size: 74, 74
+  orig: 270, 260
+  offset: 98, 94
+  index: -1
+skill_0/open/open-assemble/open-assemble_17
+  rotate: false
+  xy: 350, 423
+  size: 101, 73
+  orig: 205, 145
+  offset: 85, 16
+  index: -1
+skill_0/open/spin/spin_13
+  rotate: true
+  xy: 2, 106
+  size: 82, 85
+  orig: 138, 130
+  offset: 26, 23
+  index: -1
+skill_0/pa/pa_02
+  rotate: true
+  xy: 2, 270
+  size: 76, 80
+  orig: 163, 115
+  offset: 40, 21
+  index: -1
+skill_0/s0-E/s0-E_45
+  rotate: false
+  xy: 200, 185
+  size: 203, 79
+  orig: 225, 95
+  offset: 6, 5
+  index: -1
+skill_0/s0-E/s0-E_46
+  rotate: false
+  xy: 191, 104
+  size: 202, 79
+  orig: 225, 95
+  offset: 6, 5
+  index: -1
+skill_0/s0-E/s0-E_48
+  rotate: false
+  xy: 328, 14
+  size: 131, 84
+  orig: 225, 95
+  offset: 6, 7
+  index: -1
+skill_0/s0-E/s0-E_50
+  rotate: false
+  xy: 254, 266
+  size: 119, 78
+  orig: 225, 95
+  offset: 6, 12
+  index: -1
+skill_0/shield/shield_29
+  rotate: true
+  xy: 92, 424
+  size: 72, 73
+  orig: 225, 230
+  offset: 77, 79
+  index: -1
+skill_0/spot/spot_125
+  rotate: false
+  xy: 248, 347
+  size: 88, 75
+  orig: 100, 110
+  offset: 4, 15
+  index: -1
+skill_0/spot/spot_127
+  rotate: false
+  xy: 103, 187
+  size: 95, 79
+  orig: 100, 110
+  offset: 2, 14
+  index: -1
+skill_0/spot/spot_128
+  rotate: false
+  xy: 395, 100
+  size: 95, 82
+  orig: 100, 110
+  offset: 3, 14
+  index: -1
+skill_0/spot/spot_129
+  rotate: false
+  xy: 405, 184
+  size: 91, 80
+  orig: 100, 110
+  offset: 6, 17
+  index: -1
+skill_0/spot/spot_134
+  rotate: true
+  xy: 2, 21
+  size: 82, 102
+  orig: 100, 110
+  offset: 10, 0
+  index: -1
+skill_0/spot/spot_135
+  rotate: true
+  xy: 375, 266
+  size: 78, 103
+  orig: 100, 110
+  offset: 13, 0
+  index: -1
+skill_0/spot/spot_138
+  rotate: true
+  xy: 106, 20
+  size: 82, 104
+  orig: 100, 110
+  offset: 15, 0
+  index: -1
+skill_0/spot/spot_139
+  rotate: true
+  xy: 89, 105
+  size: 80, 100
+  orig: 100, 110
+  offset: 16, 3
+  index: -1
+skill_0/spot/spot_140
+  rotate: true
+  xy: 2, 190
+  size: 78, 99
+  orig: 100, 110
+  offset: 17, 6
+  index: -1
+skill_0/spot/spot_141
+  rotate: true
+  xy: 338, 346
+  size: 75, 95
+  orig: 100, 110
+  offset: 18, 10
+  index: -1
+skill_0/spot/spot_142
+  rotate: true
+  xy: 167, 424
+  size: 72, 89
+  orig: 100, 110
+  offset: 19, 16
+  index: -1
+skill_0/spot/spot_143
+  rotate: true
+  xy: 154, 348
+  size: 74, 92
+  orig: 100, 110
+  offset: 19, 13
+  index: -1
+skill_0/spot/spot_144
+  rotate: true
+  xy: 258, 424
+  size: 72, 90
+  orig: 100, 110
+  offset: 20, 16
+  index: -1
+skill_0/spot/spot_145
+  rotate: true
+  xy: 2, 426
+  size: 70, 88
+  orig: 100, 110
+  offset: 21, 18
+  index: -1
+skill_0/summonlight/summonlight_15
+  rotate: false
+  xy: 212, 19
+  size: 114, 83
+  orig: 180, 112
+  offset: 61, 23
+  index: -1
+skill_0/summonlight/summonlight_16
+  rotate: false
+  xy: 84, 270
+  size: 88, 76
+  orig: 180, 112
+  offset: 82, 30
+  index: -1
+skill_1/energy/energy_37
+  rotate: false
+  xy: 2, 351
+  size: 74, 73
+  orig: 150, 150
+  offset: 38, 39
+  index: -1
+
+NG_03000_FX116.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/open/Energy_110
+  rotate: false
+  xy: 258, 332
+  size: 90, 90
+  orig: 270, 260
+  offset: 90, 86
+  index: -1
+skill_0/open/Energy_111
+  rotate: false
+  xy: 405, 23
+  size: 105, 105
+  orig: 270, 260
+  offset: 82, 78
+  index: -1
+skill_0/open/Energy_119
+  rotate: true
+  xy: 135, 425
+  size: 85, 151
+  orig: 270, 260
+  offset: 92, 55
+  index: -1
+skill_0/open/open-assemble/open-assemble_05
+  rotate: true
+  xy: 140, 31
+  size: 104, 107
+  orig: 205, 145
+  offset: 0, 1
+  index: -1
+skill_0/open/spin/spin_09
+  rotate: true
+  xy: 175, 137
+  size: 99, 103
+  orig: 138, 130
+  offset: 18, 18
+  index: -1
+skill_0/open/spin/spin_10
+  rotate: true
+  xy: 99, 241
+  size: 91, 102
+  orig: 138, 130
+  offset: 19, 19
+  index: -1
+skill_0/open/spin/spin_11
+  rotate: true
+  xy: 2, 335
+  size: 89, 101
+  orig: 138, 130
+  offset: 20, 19
+  index: -1
+skill_0/open/spin/spin_12
+  rotate: true
+  xy: 389, 422
+  size: 88, 97
+  orig: 138, 130
+  offset: 20, 23
+  index: -1
+skill_0/pa/pa_03
+  rotate: false
+  xy: 350, 330
+  size: 90, 90
+  orig: 163, 115
+  offset: 35, 17
+  index: -1
+skill_0/pa/pa_05
+  rotate: false
+  xy: 297, 233
+  size: 132, 95
+  orig: 163, 115
+  offset: 15, 14
+  index: -1
+skill_0/pa/pa_06
+  rotate: false
+  xy: 249, 26
+  size: 154, 102
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+skill_0/s0-E/s0-E_47
+  rotate: false
+  xy: 105, 334
+  size: 151, 89
+  orig: 225, 95
+  offset: 5, 3
+  index: -1
+skill_0/s0-E/s0-E_49
+  rotate: false
+  xy: 2, 426
+  size: 131, 84
+  orig: 225, 95
+  offset: 6, 7
+  index: -1
+skill_0/shield/shield_30
+  rotate: false
+  xy: 384, 130
+  size: 102, 101
+  orig: 225, 230
+  offset: 62, 65
+  index: -1
+skill_0/spot/spot_131
+  rotate: true
+  xy: 2, 243
+  size: 90, 95
+  orig: 100, 110
+  offset: 5, 5
+  index: -1
+skill_0/spot/spot_133
+  rotate: true
+  xy: 288, 424
+  size: 86, 99
+  orig: 100, 110
+  offset: 7, 2
+  index: -1
+skill_0/summonlight/summonlight_14
+  rotate: false
+  xy: 2, 144
+  size: 171, 95
+  orig: 180, 112
+  offset: 6, 12
+  index: -1
+skill_1/Elements_F/Elements__23
+  rotate: false
+  xy: 2, 41
+  size: 136, 101
+  orig: 175, 165
+  offset: 10, 0
+  index: -1
+skill_1/energy/energy_39
+  rotate: false
+  xy: 280, 131
+  size: 102, 100
+  orig: 150, 150
+  offset: 24, 25
+  index: -1
+skill_1/energy/energy_48
+  rotate: false
+  xy: 203, 238
+  size: 92, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+
+NG_03000_FX117.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/shield/shield_51
+  rotate: false
+  xy: 2, 234
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_52
+  rotate: false
+  xy: 2, 2
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_53
+  rotate: false
+  xy: 229, 234
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_54
+  rotate: false
+  xy: 229, 2
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+
+NG_03000_FX118.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/shield/shield_55
+  rotate: false
+  xy: 2, 234
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_56
+  rotate: false
+  xy: 2, 2
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_57
+  rotate: false
+  xy: 229, 234
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+skill_0/shield/shield_58
+  rotate: false
+  xy: 229, 2
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+
+NG_03000_FX119.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/3401/3401_124
+  rotate: false
+  xy: 218, 158
+  size: 208, 205
+  orig: 240, 205
+  offset: 16, 0
+  index: -1
+skill_0/open/Energy_118
+  rotate: true
+  xy: 218, 365
+  size: 145, 212
+  orig: 270, 260
+  offset: 62, 24
+  index: -1
+skill_0/pa/pa_10
+  rotate: true
+  xy: 157, 2
+  size: 154, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+skill_0/pa/pa_11
+  rotate: true
+  xy: 157, 2
+  size: 154, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+skill_0/shield/shield_32
+  rotate: true
+  xy: 2, 2
+  size: 154, 153
+  orig: 225, 230
+  offset: 36, 39
+  index: -1
+skill_0/shield/shield_59
+  rotate: false
+  xy: 2, 297
+  size: 214, 213
+  orig: 225, 230
+  offset: 6, 9
+  index: -1
+skill_1/Elements_F/Elements__26
+  rotate: true
+  xy: 2, 158
+  size: 137, 145
+  orig: 175, 165
+  offset: 38, 0
+  index: -1
+skill_1/Elements_F/Elements__27
+  rotate: false
+  xy: 263, 3
+  size: 151, 153
+  orig: 175, 165
+  offset: 24, 0
+  index: -1
+
+NG_03000_FX120.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/open/open-assemble/open-assemble_12
+  rotate: false
+  xy: 2, 2
+  size: 132, 114
+  orig: 205, 145
+  offset: 60, 0
+  index: -1
+skill_0/open/open-assemble/open-assemble_13
+  rotate: false
+  xy: 2, 2
+  size: 132, 114
+  orig: 205, 145
+  offset: 60, 0
+  index: -1
+skill_0/open/spin/spin_06
+  rotate: true
+  xy: 252, 3
+  size: 113, 118
+  orig: 138, 130
+  offset: 15, 9
+  index: -1
+skill_0/open/starglow_28
+  rotate: false
+  xy: 2, 315
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+skill_0/open/starglow_29
+  rotate: false
+  xy: 2, 118
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+skill_0/open/starglow_30
+  rotate: false
+  xy: 199, 315
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+skill_0/open/starglow_31
+  rotate: false
+  xy: 199, 118
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_06
+  rotate: true
+  xy: 396, 154
+  size: 177, 110
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_07
+  rotate: true
+  xy: 396, 333
+  size: 177, 111
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_1/energy/energy_40
+  rotate: false
+  xy: 372, 6
+  size: 110, 110
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+skill_1/energy/energy_46
+  rotate: false
+  xy: 136, 2
+  size: 114, 114
+  orig: 150, 150
+  offset: 18, 18
+  index: -1
+
+NG_03000_FX121.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/star_05
+  rotate: true
+  xy: 384, 34
+  size: 128, 126
+  orig: 150, 150
+  offset: 11, 12
+  index: -1
+skill_0/open/Energy_113
+  rotate: true
+  xy: 388, 325
+  size: 185, 122
+  orig: 270, 260
+  offset: 41, 70
+  index: -1
+skill_0/open/starglow_32
+  rotate: false
+  xy: 2, 315
+  size: 193, 195
+  orig: 195, 195
+  offset: 1, 0
+  index: -1
+skill_0/open/starglow_33
+  rotate: false
+  xy: 197, 316
+  size: 189, 194
+  orig: 195, 195
+  offset: 3, 1
+  index: -1
+skill_0/open/starglow_34
+  rotate: false
+  xy: 197, 124
+  size: 185, 190
+  orig: 195, 195
+  offset: 5, 3
+  index: -1
+skill_0/shield/shield_33
+  rotate: true
+  xy: 2, 119
+  size: 194, 193
+  orig: 225, 230
+  offset: 16, 19
+  index: -1
+skill_1/Elements_F/Elements__32
+  rotate: false
+  xy: 197, 2
+  size: 150, 120
+  orig: 175, 165
+  offset: 24, 43
+  index: -1
+skill_1/Elements_F/Elements__33
+  rotate: true
+  xy: 384, 164
+  size: 150, 126
+  orig: 175, 165
+  offset: 21, 39
+  index: -1
+skill_1/assemble/assemble_00
+  rotate: true
+  xy: 2, 2
+  size: 115, 159
+  orig: 300, 275
+  offset: 180, 43
+  index: -1
+
+NG_03000_FX122.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/open/open-assemble/open-assemble_08
+  rotate: false
+  xy: 2, 368
+  size: 185, 142
+  orig: 205, 145
+  offset: 20, 2
+  index: -1
+skill_0/open/open-assemble/open-assemble_11
+  rotate: false
+  xy: 371, 367
+  size: 138, 143
+  orig: 205, 145
+  offset: 61, 0
+  index: -1
+skill_0/open/spin/spin_02
+  rotate: false
+  xy: 368, 236
+  size: 134, 129
+  orig: 138, 130
+  offset: 1, 1
+  index: -1
+skill_0/pa/pa_07
+  rotate: false
+  xy: 360, 132
+  size: 150, 102
+  orig: 163, 115
+  offset: 6, 9
+  index: -1
+skill_0/shield/shield_31
+  rotate: true
+  xy: 360, 2
+  size: 128, 129
+  orig: 225, 230
+  offset: 49, 51
+  index: -1
+skill_0/summonlight/summonlight_08
+  rotate: false
+  xy: 189, 259
+  size: 177, 110
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_09
+  rotate: false
+  xy: 2, 257
+  size: 177, 109
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_10
+  rotate: false
+  xy: 181, 148
+  size: 177, 109
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_11
+  rotate: false
+  xy: 2, 146
+  size: 177, 109
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+skill_0/summonlight/summonlight_13
+  rotate: false
+  xy: 181, 43
+  size: 177, 103
+  orig: 180, 112
+  offset: 0, 4
+  index: -1
+skill_1/Elements_F/Elements__37
+  rotate: false
+  xy: 2, 27
+  size: 175, 117
+  orig: 175, 165
+  offset: 0, 48
+  index: -1
+skill_1/assemble/assemble_04
+  rotate: true
+  xy: 189, 371
+  size: 139, 180
+  orig: 300, 275
+  offset: 67, 45
+  index: -1
+
+NG_03000_FX123.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/3401/3401_123
+  rotate: false
+  xy: 2, 348
+  size: 162, 162
+  orig: 240, 205
+  offset: 39, 20
+  index: -1
+skill_0/open/spin/spin_07
+  rotate: false
+  xy: 401, 80
+  size: 109, 115
+  orig: 138, 130
+  offset: 17, 10
+  index: -1
+skill_0/summonlight/summonlight_05
+  rotate: true
+  xy: 159, 171
+  size: 175, 106
+  orig: 180, 112
+  offset: 1, 0
+  index: -1
+skill_1/Elements_F/Elements__25
+  rotate: true
+  xy: 155, 22
+  size: 147, 124
+  orig: 175, 165
+  offset: 28, 0
+  index: -1
+skill_1/Elements_F/Elements__28
+  rotate: true
+  xy: 2, 183
+  size: 163, 155
+  orig: 175, 165
+  offset: 12, 5
+  index: -1
+skill_1/Elements_F/Elements__29
+  rotate: false
+  xy: 166, 353
+  size: 161, 157
+  orig: 175, 165
+  offset: 14, 5
+  index: -1
+skill_1/Elements_F/Elements__31
+  rotate: false
+  xy: 329, 357
+  size: 151, 153
+  orig: 175, 165
+  offset: 24, 11
+  index: -1
+skill_1/Elements_F/Elements__34
+  rotate: true
+  xy: 267, 177
+  size: 174, 128
+  orig: 175, 165
+  offset: 1, 37
+  index: -1
+skill_1/Elements_F/Elements__38
+  rotate: true
+  xy: 281, 3
+  size: 172, 118
+  orig: 175, 165
+  offset: 3, 47
+  index: -1
+skill_1/assemble/assemble_01
+  rotate: true
+  xy: 2, 20
+  size: 161, 151
+  orig: 300, 275
+  offset: 133, 38
+  index: -1
+skill_1/assemble/assemble_06
+  rotate: true
+  xy: 397, 197
+  size: 158, 102
+  orig: 300, 275
+  offset: 10, 15
+  index: -1
+
+NG_03000_FX124.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/star_03
+  rotate: false
+  xy: 372, 150
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1
+attack_0/star_06
+  rotate: false
+  xy: 2, 31
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+attack_0/star_08
+  rotate: false
+  xy: 250, 28
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1
+skill_0/open/Energy_112
+  rotate: true
+  xy: 130, 162
+  size: 121, 116
+  orig: 270, 260
+  offset: 74, 73
+  index: -1
+skill_0/open/spin/spin_03
+  rotate: false
+  xy: 2, 157
+  size: 126, 126
+  orig: 138, 130
+  offset: 5, 4
+  index: -1
+skill_0/open/spin/spin_04
+  rotate: true
+  xy: 323, 390
+  size: 120, 123
+  orig: 138, 130
+  offset: 9, 7
+  index: -1
+skill_0/open/spin/spin_05
+  rotate: false
+  xy: 130, 39
+  size: 118, 121
+  orig: 138, 130
+  offset: 11, 8
+  index: -1
+skill_0/open/spin/spin_08
+  rotate: true
+  xy: 159, 285
+  size: 104, 109
+  orig: 138, 130
+  offset: 17, 13
+  index: -1
+skill_0/pa/pa_08
+  rotate: false
+  xy: 2, 285
+  size: 155, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+skill_0/pa/pa_09
+  rotate: false
+  xy: 2, 285
+  size: 155, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+skill_1/Elements_F/Elements__24
+  rotate: false
+  xy: 175, 404
+  size: 146, 106
+  orig: 175, 165
+  offset: 17, 0
+  index: -1
+skill_1/Elements_F/Elements__39
+  rotate: false
+  xy: 2, 391
+  size: 171, 119
+  orig: 175, 165
+  offset: 0, 46
+  index: -1
+skill_1/energy/energy_41
+  rotate: false
+  xy: 372, 32
+  size: 116, 116
+  orig: 150, 150
+  offset: 17, 17
+  index: -1
+skill_1/energy/energy_42
+  rotate: false
+  xy: 270, 268
+  size: 120, 120
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+skill_1/energy/energy_43
+  rotate: false
+  xy: 250, 146
+  size: 120, 120
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+skill_1/energy/energy_44
+  rotate: true
+  xy: 392, 268
+  size: 120, 118
+  orig: 150, 150
+  offset: 15, 16
+  index: -1
+
+NG_03000_FX125.png
+size: 237,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/crossglow
+  rotate: false
+  xy: 2, 2
+  size: 115, 115
+  orig: 128, 128
+  offset: 7, 6
+  index: -1
+skill_1/energy/energy_45
+  rotate: false
+  xy: 2, 119
+  size: 116, 116
+  orig: 150, 150
+  offset: 17, 17
+  index: -1
+skill_1/energy/energy_47
+  rotate: false
+  xy: 120, 127
+  size: 108, 108
+  orig: 150, 150
+  offset: 21, 21
+  index: -1

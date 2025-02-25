@@ -1,0 +1,534 @@
+
+NG_19000_FX2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_FP_09/Smoke_FP_09_00
+  rotate: true
+  xy: 159, 327
+  size: 17, 15
+  orig: 215, 185
+  offset: 103, 88
+  index: -1
+Smoke_FP_09/Smoke_FP_09_02
+  rotate: true
+  xy: 135, 66
+  size: 56, 47
+  orig: 215, 185
+  offset: 84, 73
+  index: -1
+Smoke_FP_09/Smoke_FP_09_05
+  rotate: false
+  xy: 2, 2
+  size: 131, 120
+  orig: 215, 185
+  offset: 44, 35
+  index: -1
+Smoke_FP_09/Smoke_FP_09_15
+  rotate: false
+  xy: 159, 346
+  size: 189, 164
+  orig: 215, 185
+  offset: 14, 11
+  index: -1
+Smoke_FP_09/Smoke_FP_09_16
+  rotate: true
+  xy: 343, 156
+  size: 188, 164
+  orig: 215, 185
+  offset: 15, 11
+  index: -1
+skill_0_light/skill_0_light_37
+  rotate: true
+  xy: 135, 9
+  size: 55, 30
+  orig: 225, 225
+  offset: 90, 98
+  index: -1
+skill_0_light/skill_0_light_44
+  rotate: true
+  xy: 2, 124
+  size: 174, 182
+  orig: 225, 225
+  offset: 36, 23
+  index: -1
+skill_0_light/skill_0_light_45
+  rotate: false
+  xy: 186, 2
+  size: 138, 130
+  orig: 225, 225
+  offset: 48, 50
+  index: -1
+skill_0_light/skill_0_light_49
+  rotate: false
+  xy: 343, 2
+  size: 159, 152
+  orig: 225, 225
+  offset: 38, 40
+  index: -1
+skill_0_light/skill_0_light_50
+  rotate: true
+  xy: 350, 351
+  size: 159, 154
+  orig: 225, 225
+  offset: 39, 40
+  index: -1
+xuqia/xuqia_00
+  rotate: false
+  xy: 2, 300
+  size: 155, 210
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+xuqia/xuqia_01
+  rotate: false
+  xy: 186, 134
+  size: 155, 210
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+
+NG_19000_FX22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_FP_09/Smoke_FP_09_04
+  rotate: false
+  xy: 380, 282
+  size: 122, 106
+  orig: 215, 185
+  offset: 52, 42
+  index: -1
+Smoke_FP_09/Smoke_FP_09_09
+  rotate: true
+  xy: 352, 106
+  size: 174, 157
+  orig: 215, 185
+  offset: 21, 14
+  index: -1
+Smoke_FP_09/Smoke_FP_09_10
+  rotate: false
+  xy: 166, 21
+  size: 182, 160
+  orig: 215, 185
+  offset: 17, 12
+  index: -1
+Smoke_FP_09/Smoke_FP_09_11
+  rotate: false
+  xy: 166, 183
+  size: 184, 161
+  orig: 215, 185
+  offset: 16, 13
+  index: -1
+Smoke_FP_09/Smoke_FP_09_12
+  rotate: true
+  xy: 2, 158
+  size: 186, 162
+  orig: 215, 185
+  offset: 15, 12
+  index: -1
+Smoke_FP_09/Smoke_FP_09_13
+  rotate: false
+  xy: 2, 346
+  size: 187, 164
+  orig: 215, 185
+  offset: 15, 11
+  index: -1
+Smoke_FP_09/Smoke_FP_09_14
+  rotate: false
+  xy: 191, 346
+  size: 187, 164
+  orig: 215, 185
+  offset: 15, 11
+  index: -1
+skill_0_light/skill_0_light_36
+  rotate: true
+  xy: 352, 295
+  size: 49, 23
+  orig: 225, 225
+  offset: 93, 102
+  index: -1
+skill_0_light/skill_0_light_41
+  rotate: true
+  xy: 350, 6
+  size: 98, 95
+  orig: 225, 225
+  offset: 70, 66
+  index: -1
+skill_0_light/skill_0_light_42
+  rotate: false
+  xy: 380, 390
+  size: 124, 120
+  orig: 225, 225
+  offset: 59, 53
+  index: -1
+skill_0_light/skill_0_light_43
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 225, 225
+  offset: 46, 36
+  index: -1
+skill_1_shield/B/sheild_B_71
+  rotate: true
+  xy: 447, 2
+  size: 102, 58
+  orig: 142, 84
+  offset: 7, 14
+  index: -1
+
+NG_19000_FX23.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_FP_09/Smoke_FP_09_01
+  rotate: false
+  xy: 306, 172
+  size: 37, 31
+  orig: 215, 185
+  offset: 93, 80
+  index: -1
+Smoke_FP_09/Smoke_FP_09_06
+  rotate: true
+  xy: 304, 358
+  size: 150, 139
+  orig: 215, 185
+  offset: 33, 24
+  index: -1
+Smoke_FP_09/Smoke_FP_09_07
+  rotate: true
+  xy: 159, 351
+  size: 157, 143
+  orig: 215, 185
+  offset: 29, 21
+  index: -1
+Smoke_FP_09/Smoke_FP_09_08
+  rotate: true
+  xy: 2, 169
+  size: 167, 153
+  orig: 215, 185
+  offset: 24, 15
+  index: -1
+skill_0_light/skill_0_light_46
+  rotate: false
+  xy: 345, 69
+  size: 144, 134
+  orig: 225, 225
+  offset: 44, 50
+  index: -1
+skill_0_light/skill_0_light_47
+  rotate: true
+  xy: 306, 205
+  size: 151, 138
+  orig: 225, 225
+  offset: 41, 49
+  index: -1
+skill_0_light/skill_0_light_48
+  rotate: true
+  xy: 157, 181
+  size: 155, 147
+  orig: 225, 225
+  offset: 39, 43
+  index: -1
+skill_0_light/skill_0_light_51
+  rotate: true
+  xy: 154, 15
+  size: 152, 151
+  orig: 225, 225
+  offset: 43, 41
+  index: -1
+skill_0_light/skill_0_light_54
+  rotate: false
+  xy: 446, 222
+  size: 29, 31
+  orig: 225, 225
+  offset: 106, 101
+  index: -1
+skill_1_shield/B/sheild_B_54
+  rotate: false
+  xy: 307, 4
+  size: 124, 63
+  orig: 142, 84
+  offset: 7, 12
+  index: -1
+skill_1_shield/B/sheild_B_64
+  rotate: true
+  xy: 445, 383
+  size: 125, 63
+  orig: 142, 84
+  offset: 7, 12
+  index: -1
+skill_1_shield/B/sheild_B_66
+  rotate: true
+  xy: 446, 255
+  size: 126, 62
+  orig: 142, 84
+  offset: 9, 12
+  index: -1
+skill_1_shield/B/sheild_B_70
+  rotate: false
+  xy: 433, 9
+  size: 58, 58
+  orig: 142, 84
+  offset: 41, 14
+  index: -1
+xuqia/xuqia_02
+  rotate: false
+  xy: 2, 338
+  size: 155, 170
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+xuqia/xuqia_03
+  rotate: true
+  xy: 2, 12
+  size: 155, 150
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+
+NG_19000_FX24.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_FP_09/Smoke_FP_09_03
+  rotate: false
+  xy: 2, 10
+  size: 85, 73
+  orig: 215, 185
+  offset: 69, 61
+  index: -1
+skill_0_light/skill_0_light_38
+  rotate: false
+  xy: 2, 85
+  size: 94, 94
+  orig: 225, 225
+  offset: 70, 67
+  index: -1
+skill_0_light/skill_0_light_39
+  rotate: false
+  xy: 138, 245
+  size: 94, 94
+  orig: 225, 225
+  offset: 70, 67
+  index: -1
+skill_0_light/skill_0_light_40
+  rotate: false
+  xy: 138, 149
+  size: 94, 94
+  orig: 225, 225
+  offset: 70, 67
+  index: -1
+skill_0_light/skill_0_light_52
+  rotate: false
+  xy: 2, 244
+  size: 134, 132
+  orig: 225, 225
+  offset: 54, 53
+  index: -1
+skill_1_shield/B/sheild_B_46
+  rotate: true
+  xy: 462, 51
+  size: 95, 46
+  orig: 142, 84
+  offset: 24, 20
+  index: -1
+skill_1_shield/B/sheild_B_47
+  rotate: false
+  xy: 382, 391
+  size: 113, 57
+  orig: 142, 84
+  offset: 17, 15
+  index: -1
+skill_1_shield/B/sheild_B_48
+  rotate: false
+  xy: 219, 63
+  size: 116, 63
+  orig: 142, 84
+  offset: 19, 12
+  index: -1
+skill_1_shield/B/sheild_B_49
+  rotate: false
+  xy: 358, 208
+  size: 107, 59
+  orig: 142, 84
+  offset: 28, 14
+  index: -1
+skill_1_shield/B/sheild_B_52
+  rotate: false
+  xy: 140, 341
+  size: 109, 59
+  orig: 142, 84
+  offset: 7, 14
+  index: -1
+skill_1_shield/B/sheild_B_53
+  rotate: false
+  xy: 89, 19
+  size: 118, 63
+  orig: 142, 84
+  offset: 7, 12
+  index: -1
+skill_1_shield/B/sheild_B_55
+  rotate: false
+  xy: 2, 181
+  size: 128, 61
+  orig: 142, 84
+  offset: 7, 13
+  index: -1
+skill_1_shield/B/sheild_B_56
+  rotate: false
+  xy: 252, 386
+  size: 127, 61
+  orig: 142, 84
+  offset: 8, 13
+  index: -1
+skill_1_shield/B/sheild_B_57
+  rotate: false
+  xy: 234, 258
+  size: 122, 63
+  orig: 142, 84
+  offset: 13, 12
+  index: -1
+skill_1_shield/B/sheild_B_58
+  rotate: false
+  xy: 209, 2
+  size: 114, 59
+  orig: 142, 84
+  offset: 21, 14
+  index: -1
+skill_1_shield/B/sheild_B_59
+  rotate: false
+  xy: 357, 148
+  size: 106, 58
+  orig: 142, 84
+  offset: 29, 14
+  index: -1
+skill_1_shield/B/sheild_B_62
+  rotate: false
+  xy: 378, 269
+  size: 111, 59
+  orig: 142, 84
+  offset: 7, 14
+  index: -1
+skill_1_shield/B/sheild_B_63
+  rotate: false
+  xy: 234, 128
+  size: 119, 63
+  orig: 142, 84
+  offset: 7, 12
+  index: -1
+skill_1_shield/B/sheild_B_65
+  rotate: false
+  xy: 252, 449
+  size: 128, 61
+  orig: 142, 84
+  offset: 7, 13
+  index: -1
+skill_1_shield/B/sheild_B_67
+  rotate: false
+  xy: 234, 193
+  size: 121, 63
+  orig: 142, 84
+  offset: 14, 12
+  index: -1
+skill_1_shield/B/sheild_B_68
+  rotate: false
+  xy: 325, 2
+  size: 114, 59
+  orig: 142, 84
+  offset: 21, 14
+  index: -1
+skill_1_shield/B/sheild_B_69
+  rotate: false
+  xy: 355, 88
+  size: 105, 58
+  orig: 142, 84
+  offset: 30, 14
+  index: -1
+skill_1_shield/B/sheild_B_72
+  rotate: false
+  xy: 381, 330
+  size: 112, 59
+  orig: 142, 84
+  offset: 7, 14
+  index: -1
+skill_1_shield/B/sheild_B_73
+  rotate: false
+  xy: 98, 84
+  size: 119, 63
+  orig: 142, 84
+  offset: 7, 12
+  index: -1
+skill_1_shield/B/sheild_B_74
+  rotate: false
+  xy: 251, 323
+  size: 125, 61
+  orig: 142, 84
+  offset: 7, 13
+  index: -1
+skill_1_shield/B/sheild_B_75
+  rotate: false
+  xy: 382, 450
+  size: 128, 60
+  orig: 142, 84
+  offset: 7, 13
+  index: -1
+xuqia/xuqia_04
+  rotate: false
+  xy: 2, 378
+  size: 136, 132
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+xuqia/xuqia_05
+  rotate: false
+  xy: 140, 402
+  size: 110, 108
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+
+NG_19000_FX25.png
+size: 196,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0_light/skill_0_light_53
+  rotate: false
+  xy: 2, 100
+  size: 90, 94
+  orig: 225, 225
+  offset: 80, 73
+  index: -1
+skill_1_shield/B/sheild_B_50
+  rotate: false
+  xy: 94, 76
+  size: 97, 58
+  orig: 142, 84
+  offset: 38, 14
+  index: -1
+skill_1_shield/B/sheild_B_51
+  rotate: false
+  xy: 94, 136
+  size: 100, 58
+  orig: 142, 84
+  offset: 7, 14
+  index: -1
+skill_1_shield/B/sheild_B_60
+  rotate: true
+  xy: 2, 3
+  size: 95, 58
+  orig: 142, 84
+  offset: 40, 14
+  index: -1
+skill_1_shield/B/sheild_B_61
+  rotate: false
+  xy: 62, 16
+  size: 101, 58
+  orig: 142, 84
+  offset: 7, 14
+  index: -1

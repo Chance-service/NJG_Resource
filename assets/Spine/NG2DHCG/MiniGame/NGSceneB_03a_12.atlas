@@ -1,0 +1,27 @@
+
+NGSceneB_03a_12.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A25a
+  rotate: false
+  xy: 2, 402
+  size: 374, 33
+  orig: 374, 33
+  offset: 0, 0
+  index: -1
+B25
+  rotate: false
+  xy: 2, 373
+  size: 264, 27
+  orig: 264, 27
+  offset: 0, 0
+  index: -1
+C25
+  rotate: false
+  xy: 2, 437
+  size: 468, 33
+  orig: 468, 33
+  offset: 0, 0
+  index: -1

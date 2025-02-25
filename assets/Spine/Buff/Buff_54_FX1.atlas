@@ -1,0 +1,13 @@
+
+Buff_54_FX1.png
+size: 40,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/de03
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1

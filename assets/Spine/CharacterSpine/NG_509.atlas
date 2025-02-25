@@ -1,0 +1,111 @@
+
+NG_509.png
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH
+  rotate: false
+  xy: 255, 2
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+RH
+  rotate: false
+  xy: 331, 2
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 6
+  size: 126, 69
+  orig: 126, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 288, 105
+  size: 160, 174
+  orig: 160, 174
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 256, 55
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 405, 364
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 281
+  size: 323, 171
+  orig: 323, 171
+  offset: 0, 0
+  index: -1
+hat1a
+  rotate: false
+  xy: 130, 16
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 333, 55
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 2, 123
+  size: 284, 156
+  orig: 284, 156
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 327, 287
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 327, 323
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 405, 323
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+mushroom
+  rotate: true
+  xy: 407, 40
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 77
+  size: 252, 44
+  orig: 252, 44
+  offset: 0, 0
+  index: -1

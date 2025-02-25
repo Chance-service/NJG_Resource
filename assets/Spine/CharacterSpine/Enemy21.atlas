@@ -1,0 +1,139 @@
+
+Enemy21.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ANGEL WING 1
+  rotate: false
+  xy: 186, 178
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+ANGEL WING 2
+  rotate: true
+  xy: 208, 147
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+BIRD WING 1
+  rotate: false
+  xy: 94, 49
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+BIRD WING 2
+  rotate: true
+  xy: 186, 133
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+BODY1
+  rotate: false
+  xy: 2, 153
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+BODY2
+  rotate: false
+  xy: 2, 82
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+BODY3
+  rotate: false
+  xy: 94, 153
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+BODY4
+  rotate: false
+  xy: 2, 11
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+BODY5
+  rotate: false
+  xy: 94, 82
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+DEMON WING 1
+  rotate: false
+  xy: 194, 222
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+DEMON WING 2
+  rotate: true
+  xy: 186, 89
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+EAR 1
+  rotate: true
+  xy: 94, 15
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+EAR 1a
+  rotate: true
+  xy: 143, 48
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+EAR 2
+  rotate: false
+  xy: 138, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+EAR 2a
+  rotate: false
+  xy: 166, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+EYES
+  rotate: false
+  xy: 186, 203
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+EYES CLOSED
+  rotate: true
+  xy: 209, 94
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: true
+  xy: 246, 235
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 224
+  size: 190, 26
+  orig: 190, 26
+  offset: 0, 0
+  index: -1

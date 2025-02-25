@@ -1,0 +1,13 @@
+
+Buff_19A_FX2.png
+size: 305,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+charge_wind_1
+  rotate: false
+  xy: 0, 0
+  size: 256, 305
+  orig: 256, 305
+  offset: 0, 0
+  index: -1

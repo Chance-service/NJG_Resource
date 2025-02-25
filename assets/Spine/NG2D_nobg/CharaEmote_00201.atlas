@@ -1,0 +1,69 @@
+
+CharaEmote_00201.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02000
+  rotate: true
+  xy: 2, 124
+  size: 348, 731
+  orig: 348, 731
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 2, 2
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F2
+  rotate: false
+  xy: 735, 352
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F3
+  rotate: false
+  xy: 107, 2
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F4
+  rotate: false
+  xy: 735, 230
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F5
+  rotate: false
+  xy: 840, 352
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F6
+  rotate: false
+  xy: 212, 2
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F7
+  rotate: false
+  xy: 840, 230
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+F8
+  rotate: true
+  xy: 735, 125
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1

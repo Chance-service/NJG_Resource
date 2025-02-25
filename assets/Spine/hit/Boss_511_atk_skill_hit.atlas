@@ -1,0 +1,62 @@
+
+Boss_511_atk_skill_hit.png
+size: 397,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_00000
+  rotate: true
+  xy: 316, 301
+  size: 94, 79
+  orig: 328, 328
+  offset: 112, 123
+  index: -1
+3_00001
+  rotate: false
+  xy: 158, 2
+  size: 119, 104
+  orig: 328, 328
+  offset: 101, 104
+  index: -1
+3_00002
+  rotate: false
+  xy: 165, 108
+  size: 142, 138
+  orig: 328, 328
+  offset: 92, 86
+  index: -1
+3_00003
+  rotate: false
+  xy: 165, 248
+  size: 149, 147
+  orig: 328, 328
+  offset: 88, 81
+  index: -1
+3_00004
+  rotate: false
+  xy: 2, 78
+  size: 154, 155
+  orig: 328, 328
+  offset: 86, 77
+  index: -1
+3_00005
+  rotate: false
+  xy: 2, 235
+  size: 161, 160
+  orig: 328, 328
+  offset: 81, 75
+  index: -1
+3_00006
+  rotate: false
+  xy: 279, 17
+  size: 108, 89
+  orig: 328, 328
+  offset: 80, 140
+  index: -1
+3_00007
+  rotate: false
+  xy: 2, 2
+  size: 113, 74
+  orig: 328, 328
+  offset: 75, 141
+  index: -1

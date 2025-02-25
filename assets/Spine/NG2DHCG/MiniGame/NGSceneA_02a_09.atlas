@@ -1,0 +1,33 @@
+
+NGSceneA_02a_09.png
+size: 1798,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 674
+  size: 1794, 1122
+  orig: 1794, 1122
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 210
+  size: 1439, 462
+  orig: 1439, 462
+  offset: 0, 0
+  index: -1
+
+NGSceneA_02a_092.png
+size: 1798,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 674
+  size: 1794, 1122
+  orig: 1794, 1122
+  offset: 0, 0
+  index: -1

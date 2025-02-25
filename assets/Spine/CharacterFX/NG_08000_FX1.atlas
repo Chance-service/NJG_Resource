@@ -1,0 +1,2426 @@
+
+NG_08000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_44
+  rotate: true
+  xy: 455, 133
+  size: 69, 55
+  orig: 105, 80
+  offset: 17, 17
+  index: -1
+atk/atk_45
+  rotate: false
+  xy: 324, 2
+  size: 79, 61
+  orig: 105, 80
+  offset: 12, 13
+  index: -1
+atk/atk_46
+  rotate: false
+  xy: 2, 2
+  size: 87, 68
+  orig: 105, 80
+  offset: 8, 7
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_21
+  rotate: false
+  xy: 441, 74
+  size: 10, 7
+  orig: 85, 75
+  offset: 54, 2
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_22
+  rotate: true
+  xy: 487, 357
+  size: 24, 23
+  orig: 85, 75
+  offset: 52, 2
+  index: -1
+skill_0/FX1/column/column_107
+  rotate: false
+  xy: 442, 314
+  size: 43, 124
+  orig: 63, 170
+  offset: 10, 3
+  index: -1
+skill_0/FX1/column/column_108
+  rotate: false
+  xy: 442, 314
+  size: 43, 124
+  orig: 63, 170
+  offset: 10, 3
+  index: -1
+skill_0/FX1/column/column_109
+  rotate: true
+  xy: 160, 36
+  size: 34, 148
+  orig: 63, 170
+  offset: 15, 3
+  index: -1
+skill_0/FX1/column/column_111
+  rotate: true
+  xy: 160, 36
+  size: 34, 148
+  orig: 63, 170
+  offset: 15, 3
+  index: -1
+skill_0/FX1/column/column_110
+  rotate: true
+  xy: 160, 36
+  size: 34, 148
+  orig: 63, 170
+  offset: 15, 3
+  index: -1
+skill_0/FX1/column/column_112
+  rotate: true
+  xy: 160, 14
+  size: 20, 162
+  orig: 63, 170
+  offset: 21, 4
+  index: -1
+skill_0/FX1/column/column_113
+  rotate: true
+  xy: 160, 14
+  size: 20, 162
+  orig: 63, 170
+  offset: 21, 4
+  index: -1
+skill_0/FX1/column/column_114
+  rotate: true
+  xy: 160, 14
+  size: 20, 162
+  orig: 63, 170
+  offset: 21, 4
+  index: -1
+skill_0/FX1/column/column_116
+  rotate: true
+  xy: 160, 14
+  size: 20, 162
+  orig: 63, 170
+  offset: 21, 4
+  index: -1
+skill_0/FX1/column/column_115
+  rotate: true
+  xy: 160, 14
+  size: 20, 162
+  orig: 63, 170
+  offset: 21, 4
+  index: -1
+skill_0/FX1/column/column_117
+  rotate: false
+  xy: 441, 129
+  size: 12, 161
+  orig: 63, 170
+  offset: 25, 5
+  index: -1
+skill_0/FX1/column/column_119
+  rotate: false
+  xy: 441, 129
+  size: 12, 161
+  orig: 63, 170
+  offset: 25, 5
+  index: -1
+skill_0/FX1/column/column_118
+  rotate: false
+  xy: 441, 129
+  size: 12, 161
+  orig: 63, 170
+  offset: 25, 5
+  index: -1
+skill_0/FX1/column/column_120
+  rotate: true
+  xy: 160, 3
+  size: 9, 161
+  orig: 63, 170
+  offset: 27, 5
+  index: -1
+skill_0/FX1/column/column_122
+  rotate: true
+  xy: 160, 3
+  size: 9, 161
+  orig: 63, 170
+  offset: 27, 5
+  index: -1
+skill_0/FX1/column/column_121
+  rotate: true
+  xy: 160, 3
+  size: 9, 161
+  orig: 63, 170
+  offset: 27, 5
+  index: -1
+skill_0/FX1/column/column_123
+  rotate: true
+  xy: 310, 65
+  size: 5, 161
+  orig: 63, 170
+  offset: 29, 5
+  index: -1
+skill_0/FX1/column/column_124
+  rotate: true
+  xy: 310, 65
+  size: 5, 161
+  orig: 63, 170
+  offset: 29, 5
+  index: -1
+skill_0/FX1/front/front_091
+  rotate: true
+  xy: 474, 5
+  size: 66, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_130
+  rotate: true
+  xy: 505, 330
+  size: 25, 5
+  orig: 73, 48
+  offset: 39, 7
+  index: -1
+skill_0/FX1/front/front_132
+  rotate: true
+  xy: 442, 294
+  size: 18, 5
+  orig: 73, 48
+  offset: 37, 6
+  index: -1
+skill_0/FX1/round exp/round exp_61
+  rotate: false
+  xy: 2, 292
+  size: 218, 218
+  orig: 240, 240
+  offset: 11, 11
+  index: -1
+skill_0/FX1/round exp/round exp_62
+  rotate: false
+  xy: 2, 72
+  size: 218, 218
+  orig: 240, 240
+  offset: 11, 11
+  index: -1
+skill_0/FX1/round exp/round exp_63
+  rotate: false
+  xy: 222, 292
+  size: 218, 218
+  orig: 240, 240
+  offset: 11, 11
+  index: -1
+skill_0/FX1/round exp/round exp_64
+  rotate: false
+  xy: 222, 72
+  size: 217, 218
+  orig: 240, 240
+  offset: 11, 11
+  index: -1
+skill_0/FX1/round exp/round exp_66
+  rotate: true
+  xy: 450, 123
+  size: 4, 3
+  orig: 240, 240
+  offset: 118, 118
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_01
+  rotate: true
+  xy: 441, 83
+  size: 44, 7
+  orig: 178, 145
+  offset: 63, 34
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_03
+  rotate: false
+  xy: 405, 2
+  size: 67, 61
+  orig: 178, 145
+  offset: 60, 27
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_04
+  rotate: true
+  xy: 442, 440
+  size: 70, 68
+  orig: 178, 145
+  offset: 56, 26
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_11
+  rotate: false
+  xy: 455, 204
+  size: 55, 108
+  orig: 178, 145
+  offset: 65, 36
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_19
+  rotate: false
+  xy: 474, 2
+  size: 2, 1
+  orig: 178, 145
+  offset: 71, 60
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_103
+  rotate: false
+  xy: 487, 314
+  size: 16, 41
+  orig: 55, 105
+  offset: 33, 15
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_105
+  rotate: false
+  xy: 310, 36
+  size: 12, 27
+  orig: 55, 105
+  offset: 37, 29
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_87
+  rotate: false
+  xy: 487, 383
+  size: 22, 55
+  orig: 55, 105
+  offset: 26, 43
+  index: -1
+skill_1/FX1/energy/energy_78
+  rotate: true
+  xy: 91, 2
+  size: 68, 67
+  orig: 150, 150
+  offset: 40, 41
+  index: -1
+skill_1/FX1/energy/energy_89
+  rotate: true
+  xy: 455, 73
+  size: 58, 55
+  orig: 150, 150
+  offset: 45, 47
+  index: -1
+skill_1/FX1/energy/energy_91
+  rotate: true
+  xy: 450, 117
+  size: 4, 3
+  orig: 150, 150
+  offset: 72, 73
+  index: -1
+
+NG_08000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_26
+  rotate: false
+  xy: 256, 227
+  size: 80, 65
+  orig: 85, 75
+  offset: 2, 3
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_33
+  rotate: true
+  xy: 222, 324
+  size: 64, 32
+  orig: 85, 75
+  offset: 8, 38
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_35
+  rotate: false
+  xy: 466, 232
+  size: 41, 8
+  orig: 85, 75
+  offset: 19, 60
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_36
+  rotate: true
+  xy: 501, 12
+  size: 10, 7
+  orig: 85, 75
+  offset: 22, 61
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_24
+  rotate: true
+  xy: 475, 2
+  size: 20, 24
+  orig: 68, 78
+  offset: 30, 1
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_25
+  rotate: true
+  xy: 222, 230
+  size: 28, 32
+  orig: 68, 78
+  offset: 31, 1
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_30
+  rotate: true
+  xy: 441, 242
+  size: 50, 69
+  orig: 68, 78
+  offset: 14, 8
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_31
+  rotate: false
+  xy: 452, 158
+  size: 57, 67
+  orig: 68, 78
+  offset: 7, 9
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_41
+  rotate: false
+  xy: 178, 14
+  size: 25, 29
+  orig: 68, 78
+  offset: 5, 43
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_42
+  rotate: false
+  xy: 473, 295
+  size: 22, 20
+  orig: 68, 78
+  offset: 6, 52
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_43
+  rotate: false
+  xy: 494, 139
+  size: 16, 17
+  orig: 68, 78
+  offset: 7, 54
+  index: -1
+skill_0/FX1/X light/X light_133
+  rotate: false
+  xy: 209, 89
+  size: 241, 136
+  orig: 243, 140
+  offset: 1, 3
+  index: -1
+skill_0/FX1/column/column_125
+  rotate: false
+  xy: 216, 227
+  size: 4, 161
+  orig: 63, 170
+  offset: 29, 5
+  index: -1
+skill_0/FX1/column/column_126
+  rotate: false
+  xy: 209, 227
+  size: 5, 161
+  orig: 63, 170
+  offset: 29, 5
+  index: -1
+skill_0/FX1/front/front_079
+  rotate: true
+  xy: 497, 301
+  size: 14, 12
+  orig: 73, 48
+  offset: 29, 6
+  index: -1
+skill_0/FX1/front/front_080
+  rotate: true
+  xy: 497, 301
+  size: 14, 12
+  orig: 73, 48
+  offset: 29, 6
+  index: -1
+skill_0/FX1/front/front_097
+  rotate: true
+  xy: 222, 260
+  size: 62, 32
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_113
+  rotate: true
+  xy: 475, 24
+  size: 63, 35
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_131
+  rotate: false
+  xy: 178, 6
+  size: 25, 6
+  orig: 73, 48
+  offset: 38, 6
+  index: -1
+skill_0/FX1/guang01_0000
+  rotate: false
+  xy: 2, 390
+  size: 252, 120
+  orig: 256, 128
+  offset: 2, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_31
+  rotate: false
+  xy: 205, 2
+  size: 88, 85
+  orig: 88, 88
+  offset: 0, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_32
+  rotate: false
+  xy: 295, 2
+  size: 88, 85
+  orig: 88, 88
+  offset: 0, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_58
+  rotate: false
+  xy: 385, 2
+  size: 88, 85
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+skill_0/FX1/round exp/round exp_59
+  rotate: false
+  xy: 2, 183
+  size: 205, 205
+  orig: 240, 240
+  offset: 17, 17
+  index: -1
+skill_0/FX1/round exp/round exp_60
+  rotate: false
+  xy: 256, 294
+  size: 215, 216
+  orig: 240, 240
+  offset: 12, 12
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_20
+  rotate: true
+  xy: 338, 228
+  size: 64, 101
+  orig: 170, 125
+  offset: 39, 24
+  index: -1
+skill_1/FX1/Ring Fire/ring_87
+  rotate: false
+  xy: 452, 89
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_88
+  rotate: false
+  xy: 452, 89
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_85
+  rotate: true
+  xy: 473, 317
+  size: 10, 37
+  orig: 55, 105
+  offset: 38, 44
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_86
+  rotate: false
+  xy: 494, 90
+  size: 14, 47
+  orig: 55, 105
+  offset: 34, 45
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_94
+  rotate: false
+  xy: 473, 418
+  size: 37, 92
+  orig: 55, 105
+  offset: 8, 4
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_95
+  rotate: false
+  xy: 473, 329
+  size: 37, 87
+  orig: 55, 105
+  offset: 8, 5
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_96
+  rotate: true
+  xy: 2, 2
+  size: 41, 86
+  orig: 55, 105
+  offset: 8, 5
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_97
+  rotate: true
+  xy: 90, 2
+  size: 41, 86
+  orig: 55, 105
+  offset: 9, 5
+  index: -1
+skill_1/FX1/assemble/assemble_02
+  rotate: false
+  xy: 2, 45
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+skill_1/FX1/assemble/assemble_04
+  rotate: false
+  xy: 2, 45
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+skill_1/FX1/assemble/assemble_19
+  rotate: false
+  xy: 441, 227
+  size: 23, 13
+  orig: 210, 150
+  offset: 84, 61
+  index: -1
+
+NG_08000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_42
+  rotate: true
+  xy: 467, 65
+  size: 49, 41
+  orig: 105, 80
+  offset: 28, 26
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_32
+  rotate: false
+  xy: 2, 2
+  size: 69, 48
+  orig: 85, 75
+  offset: 7, 23
+  index: -1
+skill_0/FX1/X light/X light_134
+  rotate: false
+  xy: 2, 374
+  size: 241, 136
+  orig: 243, 140
+  offset: 1, 3
+  index: -1
+skill_0/FX1/X light/X light_135
+  rotate: false
+  xy: 243, 240
+  size: 227, 132
+  orig: 243, 140
+  offset: 15, 7
+  index: -1
+skill_0/FX1/X light/X light_136
+  rotate: false
+  xy: 2, 236
+  size: 239, 136
+  orig: 243, 140
+  offset: 1, 3
+  index: -1
+skill_0/FX1/X light/X light_137
+  rotate: false
+  xy: 245, 374
+  size: 224, 136
+  orig: 243, 140
+  offset: 1, 3
+  index: -1
+skill_0/FX1/column/column_104
+  rotate: true
+  xy: 73, 2
+  size: 48, 50
+  orig: 63, 170
+  offset: 8, 3
+  index: -1
+skill_0/FX1/column/column_127
+  rotate: false
+  xy: 462, 78
+  size: 3, 160
+  orig: 63, 170
+  offset: 30, 6
+  index: -1
+skill_0/FX1/front/front_081
+  rotate: false
+  xy: 443, 17
+  size: 17, 18
+  orig: 73, 48
+  offset: 27, 5
+  index: -1
+skill_0/FX1/front/front_084
+  rotate: false
+  xy: 388, 2
+  size: 53, 33
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_088
+  rotate: true
+  xy: 462, 2
+  size: 61, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_096
+  rotate: false
+  xy: 324, 2
+  size: 62, 33
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_105
+  rotate: false
+  xy: 256, 2
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/round exp/round exp_58
+  rotate: false
+  xy: 2, 52
+  size: 182, 182
+  orig: 240, 240
+  offset: 29, 29
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_17
+  rotate: false
+  xy: 467, 194
+  size: 43, 44
+  orig: 178, 145
+  offset: 66, 50
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_18
+  rotate: false
+  xy: 472, 255
+  size: 38, 39
+  orig: 178, 145
+  offset: 66, 54
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_23
+  rotate: true
+  xy: 125, 14
+  size: 36, 59
+  orig: 170, 125
+  offset: 42, 57
+  index: -1
+skill_1/FX1/Ring Fire/ring_84
+  rotate: false
+  xy: 472, 350
+  size: 38, 67
+  orig: 40, 70
+  offset: 2, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_85
+  rotate: false
+  xy: 472, 350
+  size: 38, 67
+  orig: 40, 70
+  offset: 2, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_84
+  rotate: true
+  xy: 125, 5
+  size: 7, 29
+  orig: 55, 105
+  offset: 41, 39
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_89
+  rotate: false
+  xy: 472, 296
+  size: 38, 52
+  orig: 55, 105
+  offset: 10, 46
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_92
+  rotate: false
+  xy: 467, 116
+  size: 39, 76
+  orig: 55, 105
+  offset: 8, 21
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_93
+  rotate: false
+  xy: 471, 419
+  size: 39, 91
+  orig: 55, 105
+  offset: 8, 6
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_99
+  rotate: true
+  xy: 186, 2
+  size: 29, 68
+  orig: 55, 105
+  offset: 21, 5
+  index: -1
+skill_1/FX1/assemble/assemble_03
+  rotate: true
+  xy: 186, 33
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+skill_1/FX1/assemble/assemble_05
+  rotate: true
+  xy: 324, 37
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+skill_1/FX1/assemble/assemble_06
+  rotate: true
+  xy: 324, 37
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+
+NG_08000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/ball explosion front/explosion front_114
+  rotate: true
+  xy: 2, 2
+  size: 162, 171
+  orig: 168, 183
+  offset: 6, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_115
+  rotate: true
+  xy: 168, 347
+  size: 163, 171
+  orig: 168, 183
+  offset: 5, 9
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_116
+  rotate: false
+  xy: 2, 339
+  size: 164, 171
+  orig: 168, 183
+  offset: 4, 10
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_117
+  rotate: false
+  xy: 2, 166
+  size: 164, 171
+  orig: 168, 183
+  offset: 3, 11
+  index: -1
+skill_0/FX1/front/front_098
+  rotate: false
+  xy: 175, 2
+  size: 62, 32
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_099
+  rotate: false
+  xy: 239, 2
+  size: 62, 32
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_100
+  rotate: false
+  xy: 303, 4
+  size: 62, 30
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/main assemble/main assemble_61
+  rotate: false
+  xy: 175, 83
+  size: 64, 81
+  orig: 88, 88
+  offset: 20, 2
+  index: -1
+skill_0/FX1/round exp/round exp_57
+  rotate: false
+  xy: 341, 348
+  size: 164, 162
+  orig: 240, 240
+  offset: 38, 39
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_22
+  rotate: true
+  xy: 168, 166
+  size: 41, 72
+  orig: 170, 125
+  offset: 40, 49
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_91
+  rotate: true
+  xy: 175, 41
+  size: 40, 63
+  orig: 55, 105
+  offset: 7, 34
+  index: -1
+skill_1/FX1/assemble/assemble_07
+  rotate: false
+  xy: 168, 209
+  size: 201, 136
+  orig: 210, 150
+  offset: 5, 9
+  index: -1
+skill_1/FX1/assemble/assemble_10
+  rotate: true
+  xy: 371, 145
+  size: 201, 133
+  orig: 210, 150
+  offset: 5, 10
+  index: -1
+skill_1/FX1/assemble/assemble_11
+  rotate: true
+  xy: 242, 36
+  size: 171, 125
+  orig: 210, 150
+  offset: 20, 17
+  index: -1
+skill_1/FX1/assemble/assemble_12
+  rotate: true
+  xy: 242, 36
+  size: 171, 125
+  orig: 210, 150
+  offset: 20, 17
+  index: -1
+skill_1/FX1/energy/energy_85
+  rotate: false
+  xy: 369, 2
+  size: 141, 141
+  orig: 150, 150
+  offset: 4, 3
+  index: -1
+
+NG_08000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_Ray100_emis
+  rotate: false
+  xy: 294, 60
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+atk/atk_43
+  rotate: true
+  xy: 317, 188
+  size: 60, 49
+  orig: 105, 80
+  offset: 22, 21
+  index: -1
+cross_01
+  rotate: false
+  xy: 199, 134
+  size: 116, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_35
+  rotate: true
+  xy: 294, 2
+  size: 56, 57
+  orig: 68, 78
+  offset: 4, 17
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_36
+  rotate: false
+  xy: 353, 2
+  size: 52, 56
+  orig: 68, 78
+  offset: 4, 18
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_110
+  rotate: true
+  xy: 369, 360
+  size: 150, 140
+  orig: 168, 183
+  offset: 9, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_122
+  rotate: true
+  xy: 2, 4
+  size: 128, 160
+  orig: 168, 183
+  offset: 21, 9
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_126
+  rotate: true
+  xy: 368, 97
+  size: 116, 142
+  orig: 168, 183
+  offset: 26, 20
+  index: -1
+skill_0/FX1/front/front_095
+  rotate: false
+  xy: 368, 60
+  size: 62, 35
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_117
+  rotate: true
+  xy: 169, 136
+  size: 65, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_124
+  rotate: true
+  xy: 171, 257
+  size: 52, 26
+  orig: 73, 48
+  offset: 20, 7
+  index: -1
+skill_0/FX1/front/front_125
+  rotate: true
+  xy: 171, 203
+  size: 52, 26
+  orig: 73, 48
+  offset: 20, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_35
+  rotate: true
+  xy: 432, 7
+  size: 88, 78
+  orig: 88, 88
+  offset: 0, 5
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_02
+  rotate: true
+  xy: 171, 311
+  size: 64, 26
+  orig: 178, 145
+  offset: 62, 33
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_07
+  rotate: false
+  xy: 2, 134
+  size: 165, 109
+  orig: 178, 145
+  offset: 8, 8
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_08
+  rotate: false
+  xy: 2, 245
+  size: 167, 130
+  orig: 178, 145
+  offset: 7, 7
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_09
+  rotate: false
+  xy: 199, 375
+  size: 168, 135
+  orig: 178, 145
+  offset: 7, 7
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_10
+  rotate: false
+  xy: 199, 250
+  size: 167, 123
+  orig: 178, 145
+  offset: 6, 21
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_102
+  rotate: false
+  xy: 407, 18
+  size: 19, 40
+  orig: 55, 105
+  offset: 30, 15
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_90
+  rotate: true
+  xy: 317, 146
+  size: 40, 49
+  orig: 55, 105
+  offset: 8, 48
+  index: -1
+skill_1/FX1/assemble/assemble_08
+  rotate: false
+  xy: 2, 377
+  size: 195, 133
+  orig: 210, 150
+  offset: 8, 11
+  index: -1
+skill_1/FX1/assemble/assemble_09
+  rotate: false
+  xy: 2, 377
+  size: 195, 133
+  orig: 210, 150
+  offset: 8, 11
+  index: -1
+skill_1/FX1/energy/energy_83
+  rotate: false
+  xy: 164, 4
+  size: 128, 128
+  orig: 150, 150
+  offset: 9, 10
+  index: -1
+skill_1/FX1/energy/energy_84
+  rotate: true
+  xy: 368, 215
+  size: 143, 142
+  orig: 150, 150
+  offset: 2, 3
+  index: -1
+
+NG_08000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_41
+  rotate: false
+  xy: 375, 193
+  size: 38, 31
+  orig: 105, 80
+  offset: 33, 32
+  index: -1
+atk/atk_47
+  rotate: false
+  xy: 307, 2
+  size: 95, 52
+  orig: 105, 80
+  offset: 4, 24
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_26
+  rotate: true
+  xy: 467, 59
+  size: 27, 39
+  orig: 68, 78
+  offset: 37, 4
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_39
+  rotate: false
+  xy: 257, 2
+  size: 25, 48
+  orig: 68, 78
+  offset: 5, 25
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_111
+  rotate: false
+  xy: 166, 193
+  size: 155, 157
+  orig: 168, 183
+  offset: 8, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_112
+  rotate: true
+  xy: 152, 352
+  size: 158, 162
+  orig: 168, 183
+  offset: 8, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_113
+  rotate: true
+  xy: 2, 184
+  size: 160, 162
+  orig: 168, 183
+  offset: 6, 8
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_118
+  rotate: false
+  xy: 2, 346
+  size: 148, 164
+  orig: 168, 183
+  offset: 11, 12
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_119
+  rotate: true
+  xy: 307, 56
+  size: 135, 158
+  orig: 168, 183
+  offset: 17, 13
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_120
+  rotate: true
+  xy: 323, 226
+  size: 134, 157
+  orig: 168, 183
+  offset: 18, 14
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_123
+  rotate: false
+  xy: 2, 23
+  size: 125, 159
+  orig: 168, 183
+  offset: 22, 9
+  index: -1
+skill_0/FX1/column/column_102
+  rotate: false
+  xy: 323, 193
+  size: 50, 31
+  orig: 63, 170
+  offset: 6, 3
+  index: -1
+skill_0/FX1/column/column_103
+  rotate: false
+  xy: 323, 193
+  size: 50, 31
+  orig: 63, 170
+  offset: 6, 3
+  index: -1
+skill_0/FX1/column/column_105
+  rotate: true
+  xy: 165, 3
+  size: 47, 90
+  orig: 63, 170
+  offset: 8, 3
+  index: -1
+skill_0/FX1/column/column_106
+  rotate: true
+  xy: 165, 3
+  size: 47, 90
+  orig: 63, 170
+  offset: 8, 3
+  index: -1
+skill_0/FX1/front/front_083
+  rotate: false
+  xy: 415, 195
+  size: 46, 29
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_085
+  rotate: true
+  xy: 129, 65
+  size: 56, 34
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_086
+  rotate: true
+  xy: 129, 7
+  size: 56, 34
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_087
+  rotate: true
+  xy: 129, 123
+  size: 59, 35
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_118
+  rotate: true
+  xy: 482, 305
+  size: 65, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_119
+  rotate: true
+  xy: 482, 238
+  size: 65, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/round exp/round exp_56
+  rotate: false
+  xy: 316, 362
+  size: 148, 148
+  orig: 240, 240
+  offset: 46, 46
+  index: -1
+skill_0/FX1/round exp/round exp_65
+  rotate: false
+  xy: 28, 6
+  size: 15, 15
+  orig: 240, 240
+  offset: 112, 112
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_13
+  rotate: true
+  xy: 404, 2
+  size: 52, 54
+  orig: 178, 145
+  offset: 65, 42
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_16
+  rotate: true
+  xy: 460, 2
+  size: 52, 50
+  orig: 178, 145
+  offset: 65, 44
+  index: -1
+skill_1/FX1/Ring Fire/ring_89
+  rotate: false
+  xy: 467, 157
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_90
+  rotate: false
+  xy: 467, 88
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_91
+  rotate: false
+  xy: 467, 88
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_93
+  rotate: false
+  xy: 466, 442
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_94
+  rotate: false
+  xy: 466, 442
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_96
+  rotate: false
+  xy: 466, 372
+  size: 40, 68
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_104
+  rotate: true
+  xy: 45, 7
+  size: 14, 34
+  orig: 55, 105
+  offset: 35, 22
+  index: -1
+skill_1/FX1/assemble/assemble_17
+  rotate: false
+  xy: 2, 3
+  size: 24, 18
+  orig: 210, 150
+  offset: 84, 59
+  index: -1
+skill_1/FX1/assemble/assemble_18
+  rotate: false
+  xy: 2, 3
+  size: 24, 18
+  orig: 210, 150
+  offset: 84, 59
+  index: -1
+skill_1/FX1/energy/energy_86
+  rotate: false
+  xy: 166, 52
+  size: 139, 139
+  orig: 150, 150
+  offset: 5, 4
+  index: -1
+
+NG_08000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_40
+  rotate: true
+  xy: 486, 130
+  size: 26, 24
+  orig: 105, 80
+  offset: 40, 37
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_31
+  rotate: false
+  xy: 122, 2
+  size: 72, 51
+  orig: 85, 75
+  offset: 5, 20
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_29
+  rotate: true
+  xy: 2, 5
+  size: 45, 69
+  orig: 68, 78
+  offset: 20, 7
+  index: -1
+skill_0/FX1/FireBall/FireBall_48
+  rotate: false
+  xy: 430, 204
+  size: 80, 81
+  orig: 100, 100
+  offset: 10, 9
+  index: -1
+skill_0/FX1/X light/X light_132
+  rotate: false
+  xy: 363, 87
+  size: 121, 115
+  orig: 243, 140
+  offset: 59, 24
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_100
+  rotate: false
+  xy: 400, 402
+  size: 110, 108
+  orig: 168, 183
+  offset: 30, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_106
+  rotate: false
+  xy: 430, 287
+  size: 80, 113
+  orig: 168, 183
+  offset: 42, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_107
+  rotate: false
+  xy: 325, 249
+  size: 103, 128
+  orig: 168, 183
+  offset: 34, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_108
+  rotate: false
+  xy: 240, 82
+  size: 121, 137
+  orig: 168, 183
+  offset: 25, 7
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_109
+  rotate: false
+  xy: 259, 379
+  size: 139, 131
+  orig: 168, 183
+  offset: 12, 7
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_121
+  rotate: false
+  xy: 2, 353
+  size: 131, 157
+  orig: 168, 183
+  offset: 20, 13
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_124
+  rotate: false
+  xy: 135, 361
+  size: 122, 149
+  orig: 168, 183
+  offset: 23, 17
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_125
+  rotate: false
+  xy: 2, 52
+  size: 118, 143
+  orig: 168, 183
+  offset: 25, 19
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_127
+  rotate: false
+  xy: 122, 55
+  size: 116, 140
+  orig: 168, 183
+  offset: 26, 20
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_128
+  rotate: false
+  xy: 207, 221
+  size: 116, 138
+  orig: 168, 183
+  offset: 26, 22
+  index: -1
+skill_0/FX1/front/front_082
+  rotate: true
+  xy: 486, 158
+  size: 44, 24
+  orig: 73, 48
+  offset: 7, 5
+  index: -1
+skill_0/FX1/front/front_122
+  rotate: true
+  xy: 196, 2
+  size: 51, 28
+  orig: 73, 48
+  offset: 20, 5
+  index: -1
+skill_0/FX1/front/front_126
+  rotate: false
+  xy: 325, 221
+  size: 52, 26
+  orig: 73, 48
+  offset: 20, 7
+  index: -1
+skill_0/FX1/front/front_129
+  rotate: false
+  xy: 379, 222
+  size: 46, 25
+  orig: 73, 48
+  offset: 21, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_39
+  rotate: false
+  xy: 330, 2
+  size: 86, 78
+  orig: 88, 88
+  offset: 0, 8
+  index: -1
+skill_0/FX1/main assemble/main assemble_44
+  rotate: true
+  xy: 418, 2
+  size: 83, 77
+  orig: 88, 88
+  offset: 3, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_49
+  rotate: false
+  xy: 240, 2
+  size: 88, 78
+  orig: 88, 88
+  offset: 0, 10
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_06
+  rotate: true
+  xy: 126, 197
+  size: 154, 79
+  orig: 178, 145
+  offset: 14, 20
+  index: -1
+skill_1/FX1/assemble/assemble_13
+  rotate: true
+  xy: 2, 197
+  size: 154, 122
+  orig: 210, 150
+  offset: 28, 20
+  index: -1
+skill_1/FX1/energy/energy_90
+  rotate: false
+  xy: 73, 13
+  size: 39, 37
+  orig: 150, 150
+  offset: 55, 56
+  index: -1
+
+NG_08000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_25
+  rotate: false
+  xy: 229, 2
+  size: 81, 63
+  orig: 85, 75
+  offset: 2, 2
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_28
+  rotate: true
+  xy: 267, 111
+  size: 78, 66
+  orig: 85, 75
+  offset: 4, 6
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_29
+  rotate: false
+  xy: 312, 2
+  size: 76, 63
+  orig: 85, 75
+  offset: 4, 9
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_28
+  rotate: true
+  xy: 267, 72
+  size: 37, 65
+  orig: 68, 78
+  offset: 28, 7
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_34
+  rotate: true
+  xy: 98, 39
+  size: 60, 57
+  orig: 68, 78
+  offset: 2, 17
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_37
+  rotate: true
+  xy: 98, 5
+  size: 32, 56
+  orig: 68, 78
+  offset: 4, 18
+  index: -1
+skill_0/FX1/FireBall/FireBall_24
+  rotate: true
+  xy: 390, 20
+  size: 77, 76
+  orig: 100, 100
+  offset: 12, 12
+  index: -1
+skill_0/FX1/FireBall/FireBall_51
+  rotate: false
+  xy: 2, 2
+  size: 94, 95
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+skill_0/FX1/FireBall/FireBall_52
+  rotate: false
+  xy: 368, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_101
+  rotate: false
+  xy: 126, 397
+  size: 121, 113
+  orig: 168, 183
+  offset: 25, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_102
+  rotate: false
+  xy: 2, 211
+  size: 107, 106
+  orig: 168, 183
+  offset: 32, 0
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_103
+  rotate: true
+  xy: 368, 302
+  size: 103, 104
+  orig: 168, 183
+  offset: 34, 1
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_104
+  rotate: false
+  xy: 232, 191
+  size: 101, 100
+  orig: 168, 183
+  offset: 35, 3
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_105
+  rotate: false
+  xy: 157, 6
+  size: 70, 91
+  orig: 168, 183
+  offset: 47, 7
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_98
+  rotate: false
+  xy: 367, 99
+  size: 99, 99
+  orig: 168, 183
+  offset: 36, 3
+  index: -1
+skill_0/FX1/ball explosion front/explosion front_99
+  rotate: true
+  xy: 368, 407
+  size: 103, 104
+  orig: 168, 183
+  offset: 34, 1
+  index: -1
+skill_0/FX1/front/front_089
+  rotate: true
+  xy: 474, 311
+  size: 64, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_090
+  rotate: true
+  xy: 474, 377
+  size: 65, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_092
+  rotate: true
+  xy: 474, 444
+  size: 66, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_093
+  rotate: true
+  xy: 474, 247
+  size: 62, 36
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_101
+  rotate: true
+  xy: 335, 197
+  size: 62, 30
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_106
+  rotate: true
+  xy: 335, 132
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/front/front_107
+  rotate: true
+  xy: 335, 67
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/front/front_115
+  rotate: true
+  xy: 338, 261
+  size: 64, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_120
+  rotate: true
+  xy: 338, 327
+  size: 65, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/main assemble/main assemble_24
+  rotate: true
+  xy: 91, 101
+  size: 88, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_55
+  rotate: true
+  xy: 179, 101
+  size: 88, 86
+  orig: 88, 88
+  offset: 0, 1
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_05
+  rotate: false
+  xy: 2, 439
+  size: 122, 71
+  orig: 178, 145
+  offset: 29, 24
+  index: -1
+skill_1/FX1/Ring Fire/ring_92
+  rotate: false
+  xy: 468, 39
+  size: 39, 68
+  orig: 40, 70
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_95
+  rotate: false
+  xy: 470, 178
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_97
+  rotate: false
+  xy: 468, 109
+  size: 40, 67
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+skill_1/FX1/assemble/assemble_14
+  rotate: true
+  xy: 249, 394
+  size: 116, 117
+  orig: 210, 150
+  offset: 46, 22
+  index: -1
+skill_1/FX1/assemble/assemble_15
+  rotate: true
+  xy: 249, 394
+  size: 116, 117
+  orig: 210, 150
+  offset: 46, 22
+  index: -1
+skill_1/FX1/assemble/assemble_16
+  rotate: true
+  xy: 232, 293
+  size: 99, 104
+  orig: 210, 150
+  offset: 52, 27
+  index: -1
+skill_1/FX1/energy/energy_80
+  rotate: true
+  xy: 2, 101
+  size: 88, 87
+  orig: 150, 150
+  offset: 30, 31
+  index: -1
+skill_1/FX1/energy/energy_81
+  rotate: false
+  xy: 111, 191
+  size: 98, 97
+  orig: 150, 150
+  offset: 25, 26
+  index: -1
+skill_1/FX1/energy/energy_82
+  rotate: false
+  xy: 122, 290
+  size: 108, 105
+  orig: 150, 150
+  offset: 20, 22
+  index: -1
+skill_1/FX1/energy/energy_87
+  rotate: false
+  xy: 2, 319
+  size: 118, 118
+  orig: 150, 150
+  offset: 16, 15
+  index: -1
+
+NG_08000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_48
+  rotate: false
+  xy: 349, 173
+  size: 50, 57
+  orig: 105, 80
+  offset: 40, 20
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_23
+  rotate: true
+  xy: 404, 224
+  size: 68, 37
+  orig: 85, 75
+  offset: 14, 2
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_24
+  rotate: true
+  xy: 444, 268
+  size: 78, 54
+  orig: 85, 75
+  offset: 5, 2
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_27
+  rotate: true
+  xy: 443, 188
+  size: 78, 67
+  orig: 85, 75
+  offset: 3, 4
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_30
+  rotate: true
+  xy: 449, 436
+  size: 74, 59
+  orig: 85, 75
+  offset: 4, 12
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_32
+  rotate: true
+  xy: 440, 125
+  size: 61, 64
+  orig: 68, 78
+  offset: 3, 11
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_40
+  rotate: true
+  xy: 316, 262
+  size: 25, 45
+  orig: 68, 78
+  offset: 5, 28
+  index: -1
+skill_0/FX1/FireBall/FireBall_25
+  rotate: false
+  xy: 92, 348
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_28
+  rotate: false
+  xy: 169, 348
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_29
+  rotate: false
+  xy: 246, 348
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_37
+  rotate: true
+  xy: 268, 3
+  size: 79, 78
+  orig: 100, 100
+  offset: 11, 11
+  index: -1
+skill_0/FX1/FireBall/FireBall_50
+  rotate: false
+  xy: 90, 260
+  size: 86, 86
+  orig: 100, 100
+  offset: 7, 7
+  index: -1
+skill_0/FX1/front/front_094
+  rotate: true
+  xy: 401, 160
+  size: 62, 37
+  orig: 73, 48
+  offset: 6, 4
+  index: -1
+skill_0/FX1/front/front_108
+  rotate: true
+  xy: 413, 359
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/front/front_109
+  rotate: true
+  xy: 413, 294
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/front/front_110
+  rotate: true
+  xy: 401, 95
+  size: 63, 29
+  orig: 73, 48
+  offset: 5, 4
+  index: -1
+skill_0/FX1/front/front_112
+  rotate: false
+  xy: 431, 6
+  size: 63, 29
+  orig: 73, 48
+  offset: 6, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_23
+  rotate: true
+  xy: 90, 171
+  size: 87, 85
+  orig: 88, 88
+  offset: 1, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_25
+  rotate: false
+  xy: 182, 424
+  size: 87, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_26
+  rotate: false
+  xy: 271, 424
+  size: 87, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_27
+  rotate: false
+  xy: 360, 424
+  size: 87, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_28
+  rotate: true
+  xy: 2, 259
+  size: 87, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_29
+  rotate: true
+  xy: 2, 170
+  size: 87, 86
+  orig: 88, 88
+  offset: 0, 2
+  index: -1
+skill_0/FX1/main assemble/main assemble_30
+  rotate: true
+  xy: 90, 82
+  size: 87, 85
+  orig: 88, 88
+  offset: 0, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_33
+  rotate: true
+  xy: 177, 170
+  size: 88, 84
+  orig: 88, 88
+  offset: 0, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_34
+  rotate: false
+  xy: 323, 340
+  size: 88, 82
+  orig: 88, 88
+  offset: 0, 4
+  index: -1
+skill_0/FX1/main assemble/main assemble_38
+  rotate: false
+  xy: 2, 348
+  size: 88, 74
+  orig: 88, 88
+  offset: 0, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_40
+  rotate: false
+  xy: 180, 3
+  size: 86, 79
+  orig: 88, 88
+  offset: 0, 9
+  index: -1
+skill_0/FX1/main assemble/main assemble_41
+  rotate: false
+  xy: 92, 2
+  size: 86, 78
+  orig: 88, 88
+  offset: 0, 10
+  index: -1
+skill_0/FX1/main assemble/main assemble_42
+  rotate: true
+  xy: 432, 37
+  size: 86, 77
+  orig: 88, 88
+  offset: 0, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_48
+  rotate: false
+  xy: 2, 2
+  size: 88, 77
+  orig: 88, 88
+  offset: 0, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_50
+  rotate: true
+  xy: 267, 84
+  size: 88, 79
+  orig: 88, 88
+  offset: 0, 9
+  index: -1
+skill_0/FX1/main assemble/main assemble_51
+  rotate: true
+  xy: 348, 5
+  size: 88, 81
+  orig: 88, 88
+  offset: 0, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_54
+  rotate: false
+  xy: 178, 262
+  size: 88, 84
+  orig: 88, 88
+  offset: 0, 3
+  index: -1
+skill_0/FX1/main assemble/main assemble_56
+  rotate: false
+  xy: 2, 424
+  size: 88, 86
+  orig: 88, 88
+  offset: 0, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_57
+  rotate: false
+  xy: 92, 424
+  size: 88, 86
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+skill_0/FX1/main assemble/main assemble_59
+  rotate: false
+  xy: 177, 84
+  size: 88, 84
+  orig: 88, 88
+  offset: 0, 1
+  index: -1
+skill_0/FX1/main assemble/main assemble_60
+  rotate: true
+  xy: 263, 174
+  size: 86, 84
+  orig: 88, 88
+  offset: 1, 2
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_12
+  rotate: false
+  xy: 268, 289
+  size: 53, 57
+  orig: 178, 145
+  offset: 65, 40
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_15
+  rotate: true
+  xy: 348, 119
+  size: 52, 51
+  orig: 178, 145
+  offset: 65, 43
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_21
+  rotate: false
+  xy: 449, 348
+  size: 50, 86
+  orig: 170, 125
+  offset: 39, 37
+  index: -1
+skill_1/FX1/Ring Fire/ring_86
+  rotate: false
+  xy: 363, 232
+  size: 39, 67
+  orig: 40, 70
+  offset: 1, 0
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_101
+  rotate: true
+  xy: 268, 262
+  size: 25, 46
+  orig: 55, 105
+  offset: 25, 13
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_98
+  rotate: true
+  xy: 323, 301
+  size: 37, 71
+  orig: 55, 105
+  offset: 13, 5
+  index: -1
+skill_1/FX1/energy/energy_88
+  rotate: true
+  xy: 2, 81
+  size: 87, 86
+  orig: 150, 150
+  offset: 31, 31
+  index: -1
+
+NG_08000_FX110.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 220, 36
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+skill_0/FX1/Ball Fire Tail_B/FireTail_B_34
+  rotate: false
+  xy: 380, 25
+  size: 51, 26
+  orig: 85, 75
+  offset: 11, 44
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_27
+  rotate: true
+  xy: 166, 6
+  size: 27, 55
+  orig: 68, 78
+  offset: 39, 6
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_33
+  rotate: false
+  xy: 408, 144
+  size: 63, 57
+  orig: 68, 78
+  offset: 1, 17
+  index: -1
+skill_0/FX1/Ball Fire Tail_F/FireTail_F_38
+  rotate: true
+  xy: 223, 5
+  size: 29, 55
+  orig: 68, 78
+  offset: 5, 19
+  index: -1
+skill_0/FX1/FireBall/FireBall_23
+  rotate: false
+  xy: 92, 258
+  size: 78, 78
+  orig: 100, 100
+  offset: 12, 11
+  index: -1
+skill_0/FX1/FireBall/FireBall_26
+  rotate: true
+  xy: 332, 128
+  size: 73, 74
+  orig: 100, 100
+  offset: 14, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_27
+  rotate: false
+  xy: 410, 203
+  size: 74, 74
+  orig: 100, 100
+  offset: 14, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_30
+  rotate: false
+  xy: 333, 355
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_31
+  rotate: false
+  xy: 333, 279
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_32
+  rotate: false
+  xy: 410, 355
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_33
+  rotate: false
+  xy: 410, 279
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_34
+  rotate: false
+  xy: 254, 118
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_35
+  rotate: false
+  xy: 333, 203
+  size: 75, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+skill_0/FX1/FireBall/FireBall_36
+  rotate: false
+  xy: 254, 273
+  size: 77, 76
+  orig: 100, 100
+  offset: 12, 12
+  index: -1
+skill_0/FX1/FireBall/FireBall_38
+  rotate: true
+  xy: 432, 431
+  size: 79, 78
+  orig: 100, 100
+  offset: 11, 11
+  index: -1
+skill_0/FX1/FireBall/FireBall_39
+  rotate: true
+  xy: 350, 431
+  size: 79, 80
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_40
+  rotate: false
+  xy: 2, 29
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_41
+  rotate: false
+  xy: 90, 176
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_42
+  rotate: false
+  xy: 88, 94
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_43
+  rotate: false
+  xy: 84, 12
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_44
+  rotate: false
+  xy: 169, 346
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_45
+  rotate: false
+  xy: 251, 351
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_46
+  rotate: false
+  xy: 172, 264
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_47
+  rotate: false
+  xy: 172, 182
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+skill_0/FX1/FireBall/FireBall_49
+  rotate: false
+  xy: 92, 428
+  size: 82, 82
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+skill_0/FX1/front/front_102
+  rotate: false
+  xy: 231, 88
+  size: 62, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_103
+  rotate: false
+  xy: 408, 114
+  size: 63, 28
+  orig: 73, 48
+  offset: 5, 5
+  index: -1
+skill_0/FX1/front/front_104
+  rotate: false
+  xy: 397, 84
+  size: 63, 28
+  orig: 73, 48
+  offset: 5, 5
+  index: -1
+skill_0/FX1/front/front_111
+  rotate: true
+  xy: 295, 54
+  size: 62, 29
+  orig: 73, 48
+  offset: 6, 4
+  index: -1
+skill_0/FX1/front/front_114
+  rotate: true
+  xy: 473, 137
+  size: 64, 27
+  orig: 73, 48
+  offset: 6, 6
+  index: -1
+skill_0/FX1/front/front_116
+  rotate: false
+  xy: 331, 98
+  size: 64, 28
+  orig: 73, 48
+  offset: 6, 5
+  index: -1
+skill_0/FX1/front/front_121
+  rotate: false
+  xy: 172, 152
+  size: 64, 28
+  orig: 73, 48
+  offset: 7, 5
+  index: -1
+skill_0/FX1/front/front_123
+  rotate: false
+  xy: 326, 38
+  size: 52, 28
+  orig: 73, 48
+  offset: 20, 5
+  index: -1
+skill_0/FX1/front/front_127
+  rotate: true
+  xy: 441, 31
+  size: 51, 26
+  orig: 73, 48
+  offset: 20, 7
+  index: -1
+skill_0/FX1/front/front_128
+  rotate: true
+  xy: 473, 84
+  size: 51, 26
+  orig: 73, 48
+  offset: 20, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_36
+  rotate: false
+  xy: 2, 269
+  size: 88, 75
+  orig: 88, 88
+  offset: 0, 6
+  index: -1
+skill_0/FX1/main assemble/main assemble_37
+  rotate: true
+  xy: 92, 338
+  size: 88, 75
+  orig: 88, 88
+  offset: 0, 6
+  index: -1
+skill_0/FX1/main assemble/main assemble_43
+  rotate: false
+  xy: 176, 433
+  size: 86, 77
+  orig: 88, 88
+  offset: 0, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_45
+  rotate: false
+  xy: 264, 433
+  size: 84, 77
+  orig: 88, 88
+  offset: 3, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_46
+  rotate: false
+  xy: 2, 111
+  size: 84, 77
+  orig: 88, 88
+  offset: 3, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_47
+  rotate: false
+  xy: 2, 190
+  size: 86, 77
+  orig: 88, 88
+  offset: 2, 11
+  index: -1
+skill_0/FX1/main assemble/main assemble_52
+  rotate: false
+  xy: 2, 429
+  size: 88, 81
+  orig: 88, 88
+  offset: 0, 7
+  index: -1
+skill_0/FX1/main assemble/main assemble_53
+  rotate: false
+  xy: 2, 346
+  size: 88, 81
+  orig: 88, 88
+  offset: 0, 6
+  index: -1
+skill_1/FX1/Front Fire/Front Fire_14
+  rotate: false
+  xy: 166, 35
+  size: 52, 54
+  orig: 178, 145
+  offset: 65, 42
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_100
+  rotate: true
+  xy: 326, 68
+  size: 28, 59
+  orig: 55, 105
+  offset: 22, 5
+  index: -1
+skill_1/FX1/Ring Fire/ring_deco_88
+  rotate: true
+  xy: 387, 53
+  size: 29, 52
+  orig: 55, 105
+  offset: 19, 46
+  index: -1
+skill_1/FX1/energy/energy_77
+  rotate: false
+  xy: 170, 91
+  size: 59, 59
+  orig: 150, 150
+  offset: 45, 45
+  index: -1
+skill_1/FX1/energy/energy_79
+  rotate: false
+  xy: 254, 194
+  size: 76, 77
+  orig: 150, 150
+  offset: 36, 36
+  index: -1

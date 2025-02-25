@@ -1,0 +1,426 @@
+
+cardwater_FX2.png
+size: 994,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClickedBottomLight/ClickedBottomLight_00
+  rotate: true
+  xy: 2, 903
+  size: 89, 107
+  orig: 112, 154
+  offset: 11, 11
+  index: -1
+ClickedBottomLight/ClickedBottomLight_01
+  rotate: true
+  xy: 111, 903
+  size: 89, 132
+  orig: 112, 154
+  offset: 11, 10
+  index: -1
+ClickedBottomLight/ClickedBottomLight_02
+  rotate: true
+  xy: 245, 900
+  size: 92, 145
+  orig: 112, 154
+  offset: 10, 8
+  index: -1
+ClickedBottomLight/ClickedBottomLight_03
+  rotate: true
+  xy: 443, 502
+  size: 98, 150
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_04
+  rotate: true
+  xy: 2, 93
+  size: 105, 154
+  orig: 112, 154
+  offset: 3, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_05
+  rotate: true
+  xy: 314, 84
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_06
+  rotate: true
+  xy: 470, 82
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_07
+  rotate: true
+  xy: 626, 81
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_08
+  rotate: true
+  xy: 782, 61
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_09
+  rotate: true
+  xy: 158, 89
+  size: 108, 154
+  orig: 112, 154
+  offset: 2, 0
+  index: -1
+ClickedBottomLight/ClickedBottomLight_10
+  rotate: false
+  xy: 885, 175
+  size: 104, 146
+  orig: 112, 154
+  offset: 5, 3
+  index: -1
+ClickedBottomLight/ClickedBottomLight_11
+  rotate: true
+  xy: 592, 196
+  size: 101, 144
+  orig: 112, 154
+  offset: 6, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_12
+  rotate: true
+  xy: 2, 203
+  size: 100, 144
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_13
+  rotate: true
+  xy: 738, 195
+  size: 102, 145
+  orig: 112, 154
+  offset: 5, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_14
+  rotate: true
+  xy: 148, 200
+  size: 100, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_15
+  rotate: true
+  xy: 295, 199
+  size: 100, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_16
+  rotate: true
+  xy: 443, 198
+  size: 100, 147
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_17
+  rotate: true
+  xy: 739, 400
+  size: 99, 147
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_18
+  rotate: true
+  xy: 595, 501
+  size: 98, 147
+  orig: 112, 154
+  offset: 8, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_19
+  rotate: true
+  xy: 148, 506
+  size: 98, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_20
+  rotate: true
+  xy: 741, 700
+  size: 97, 146
+  orig: 112, 154
+  offset: 9, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_21
+  rotate: true
+  xy: 296, 503
+  size: 98, 145
+  orig: 112, 154
+  offset: 8, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_22
+  rotate: true
+  xy: 2, 609
+  size: 97, 144
+  orig: 112, 154
+  offset: 9, 7
+  index: -1
+ClickedBottomLight/ClickedBottomLight_23
+  rotate: true
+  xy: 2, 509
+  size: 98, 144
+  orig: 112, 154
+  offset: 8, 7
+  index: -1
+ClickedBottomLight/ClickedBottomLight_24
+  rotate: true
+  xy: 744, 501
+  size: 98, 145
+  orig: 112, 154
+  offset: 8, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_25
+  rotate: true
+  xy: 147, 406
+  size: 98, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_26
+  rotate: true
+  xy: 295, 403
+  size: 98, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_27
+  rotate: true
+  xy: 148, 606
+  size: 97, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_28
+  rotate: true
+  xy: 443, 402
+  size: 98, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_29
+  rotate: true
+  xy: 446, 799
+  size: 96, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_30
+  rotate: true
+  xy: 392, 897
+  size: 95, 145
+  orig: 112, 154
+  offset: 8, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_31
+  rotate: true
+  xy: 539, 897
+  size: 95, 145
+  orig: 112, 154
+  offset: 8, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_32
+  rotate: true
+  xy: 686, 897
+  size: 95, 144
+  orig: 112, 154
+  offset: 8, 7
+  index: -1
+ClickedBottomLight/ClickedBottomLight_33
+  rotate: true
+  xy: 832, 897
+  size: 95, 145
+  orig: 112, 154
+  offset: 8, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_34
+  rotate: true
+  xy: 2, 806
+  size: 95, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_35
+  rotate: true
+  xy: 150, 803
+  size: 95, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_36
+  rotate: true
+  xy: 298, 800
+  size: 95, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_37
+  rotate: true
+  xy: 594, 799
+  size: 96, 147
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_38
+  rotate: true
+  xy: 743, 799
+  size: 96, 147
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_39
+  rotate: true
+  xy: 297, 702
+  size: 96, 147
+  orig: 112, 154
+  offset: 7, 4
+  index: -1
+ClickedBottomLight/ClickedBottomLight_40
+  rotate: true
+  xy: 296, 603
+  size: 97, 146
+  orig: 112, 154
+  offset: 6, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_41
+  rotate: true
+  xy: 2, 708
+  size: 96, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_42
+  rotate: true
+  xy: 150, 705
+  size: 96, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_43
+  rotate: true
+  xy: 446, 701
+  size: 96, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_44
+  rotate: true
+  xy: 444, 602
+  size: 97, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_45
+  rotate: true
+  xy: 591, 602
+  size: 97, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_46
+  rotate: true
+  xy: 147, 305
+  size: 99, 144
+  orig: 112, 154
+  offset: 6, 7
+  index: -1
+ClickedBottomLight/ClickedBottomLight_47
+  rotate: true
+  xy: 2, 308
+  size: 99, 143
+  orig: 112, 154
+  offset: 6, 8
+  index: -1
+ClickedBottomLight/ClickedBottomLight_48
+  rotate: true
+  xy: 2, 409
+  size: 98, 143
+  orig: 112, 154
+  offset: 7, 8
+  index: -1
+ClickedBottomLight/ClickedBottomLight_49
+  rotate: false
+  xy: 891, 467
+  size: 99, 142
+  orig: 112, 154
+  offset: 6, 9
+  index: -1
+ClickedBottomLight/ClickedBottomLight_50
+  rotate: false
+  xy: 892, 754
+  size: 100, 141
+  orig: 112, 154
+  offset: 6, 10
+  index: -1
+ClickedBottomLight/ClickedBottomLight_51
+  rotate: false
+  xy: 889, 611
+  size: 99, 141
+  orig: 112, 154
+  offset: 7, 10
+  index: -1
+ClickedBottomLight/ClickedBottomLight_52
+  rotate: true
+  xy: 293, 302
+  size: 99, 143
+  orig: 112, 154
+  offset: 7, 8
+  index: -1
+ClickedBottomLight/ClickedBottomLight_53
+  rotate: false
+  xy: 888, 323
+  size: 99, 142
+  orig: 112, 154
+  offset: 7, 9
+  index: -1
+ClickedBottomLight/ClickedBottomLight_54
+  rotate: true
+  xy: 438, 301
+  size: 99, 145
+  orig: 112, 154
+  offset: 7, 6
+  index: -1
+ClickedBottomLight/ClickedBottomLight_55
+  rotate: true
+  xy: 585, 300
+  size: 99, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_56
+  rotate: true
+  xy: 733, 299
+  size: 99, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_57
+  rotate: true
+  xy: 738, 601
+  size: 97, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_58
+  rotate: true
+  xy: 591, 401
+  size: 98, 146
+  orig: 112, 154
+  offset: 7, 5
+  index: -1
+ClickedBottomLight/ClickedBottomLight_59
+  rotate: true
+  xy: 593, 701
+  size: 96, 146
+  orig: 112, 154
+  offset: 8, 5
+  index: -1

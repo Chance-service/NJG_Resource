@@ -1,0 +1,412 @@
+
+NG_501_FX1.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/FX1/DragonClap/DragonClap_28
+  rotate: true
+  xy: 832, 563
+  size: 83, 48
+  orig: 92, 58
+  offset: 3, 1
+  index: -1
+skill_1/FX1/DragonClap/DragonClap_29
+  rotate: false
+  xy: 791, 123
+  size: 83, 56
+  orig: 92, 58
+  offset: 3, 0
+  index: -1
+skill_1/FX1/DragonClap/DragonClap_30
+  rotate: true
+  xy: 246, 2
+  size: 51, 56
+  orig: 92, 58
+  offset: 21, 0
+  index: -1
+skill_1/FX1/DragonClap/DragonClap_31
+  rotate: true
+  xy: 743, 84
+  size: 48, 46
+  orig: 92, 58
+  offset: 22, 8
+  index: -1
+skill_1/FX1/DragonClap/DragonClap_32
+  rotate: true
+  xy: 790, 717
+  size: 46, 24
+  orig: 92, 58
+  offset: 23, 9
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_04
+  rotate: false
+  xy: 791, 207
+  size: 9, 10
+  orig: 136, 130
+  offset: 113, 58
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_05
+  rotate: true
+  xy: 207, 414
+  size: 16, 35
+  orig: 136, 130
+  offset: 103, 60
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_06
+  rotate: false
+  xy: 793, 73
+  size: 43, 48
+  orig: 136, 130
+  offset: 78, 50
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_07
+  rotate: true
+  xy: 725, 134
+  size: 83, 64
+  orig: 136, 130
+  offset: 40, 42
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_08
+  rotate: true
+  xy: 346, 55
+  size: 111, 80
+  orig: 136, 130
+  offset: 16, 36
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_09
+  rotate: false
+  xy: 483, 106
+  size: 114, 87
+  orig: 136, 130
+  offset: 13, 25
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_10
+  rotate: true
+  xy: 802, 181
+  size: 110, 65
+  orig: 136, 130
+  offset: 17, 19
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_11
+  rotate: true
+  xy: 803, 293
+  size: 111, 75
+  orig: 136, 130
+  offset: 16, 16
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_12
+  rotate: true
+  xy: 790, 765
+  size: 115, 90
+  orig: 136, 130
+  offset: 13, 16
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_13
+  rotate: true
+  xy: 815, 406
+  size: 111, 65
+  orig: 136, 130
+  offset: 13, 19
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_14
+  rotate: false
+  xy: 590, 5
+  size: 97, 84
+  orig: 136, 130
+  offset: 13, 22
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_15
+  rotate: true
+  xy: 428, 97
+  size: 112, 53
+  orig: 136, 130
+  offset: 15, 21
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_16
+  rotate: false
+  xy: 608, 265
+  size: 116, 57
+  orig: 136, 130
+  offset: 11, 17
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_17
+  rotate: true
+  xy: 726, 219
+  size: 111, 74
+  orig: 136, 130
+  offset: 12, 14
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_18
+  rotate: false
+  xy: 608, 180
+  size: 115, 83
+  orig: 136, 130
+  offset: 12, 11
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_19
+  rotate: false
+  xy: 599, 91
+  size: 111, 87
+  orig: 136, 130
+  offset: 16, 10
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_20
+  rotate: false
+  xy: 608, 324
+  size: 115, 95
+  orig: 136, 130
+  offset: 12, 10
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_21
+  rotate: false
+  xy: 389, 295
+  size: 113, 107
+  orig: 136, 130
+  offset: 15, 8
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_22
+  rotate: true
+  xy: 504, 290
+  size: 112, 102
+  orig: 136, 130
+  offset: 13, 10
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_23
+  rotate: false
+  xy: 389, 211
+  size: 113, 82
+  orig: 136, 130
+  offset: 12, 14
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_24
+  rotate: false
+  xy: 504, 195
+  size: 102, 93
+  orig: 136, 130
+  offset: 11, 16
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_25
+  rotate: true
+  xy: 828, 648
+  size: 115, 52
+  orig: 136, 130
+  offset: 12, 11
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_26
+  rotate: false
+  xy: 483, 51
+  size: 105, 53
+  orig: 136, 130
+  offset: 13, 11
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_27
+  rotate: true
+  xy: 689, 5
+  size: 84, 52
+  orig: 136, 130
+  offset: 13, 14
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_28
+  rotate: true
+  xy: 743, 26
+  size: 56, 48
+  orig: 136, 130
+  offset: 12, 20
+  index: -1
+skill_1/FX1/cylinder leaves/cylinderleaves_29
+  rotate: false
+  xy: 776, 427
+  size: 31, 38
+  orig: 136, 130
+  offset: 11, 32
+  index: -1
+skill_1/FX1/leaves/leaves_28
+  rotate: false
+  xy: 161, 2
+  size: 24, 30
+  orig: 210, 252
+  offset: 93, 109
+  index: -1
+skill_1/FX1/leaves/leaves_29
+  rotate: false
+  xy: 428, 37
+  size: 52, 58
+  orig: 210, 252
+  offset: 78, 94
+  index: -1
+skill_1/FX1/leaves/leaves_30
+  rotate: false
+  xy: 725, 332
+  size: 76, 87
+  orig: 210, 252
+  offset: 66, 80
+  index: -1
+skill_1/FX1/leaves/leaves_31
+  rotate: false
+  xy: 246, 55
+  size: 98, 111
+  orig: 210, 252
+  offset: 54, 69
+  index: -1
+skill_1/FX1/leaves/leaves_32
+  rotate: true
+  xy: 249, 168
+  size: 118, 133
+  orig: 210, 252
+  offset: 44, 58
+  index: -1
+skill_1/FX1/leaves/leaves_33
+  rotate: false
+  xy: 249, 288
+  size: 138, 142
+  orig: 210, 252
+  offset: 34, 50
+  index: -1
+skill_1/FX1/leaves/leaves_34
+  rotate: false
+  xy: 2, 11
+  size: 157, 158
+  orig: 210, 252
+  offset: 24, 41
+  index: -1
+skill_1/FX1/leaves/leaves_35
+  rotate: false
+  xy: 614, 708
+  size: 174, 172
+  orig: 210, 252
+  offset: 16, 34
+  index: -1
+skill_1/FX1/leaves/leaves_36
+  rotate: false
+  xy: 410, 453
+  size: 191, 200
+  orig: 210, 252
+  offset: 7, 27
+  index: -1
+skill_1/FX1/leaves/leaves_37
+  rotate: false
+  xy: 207, 432
+  size: 201, 213
+  orig: 210, 252
+  offset: 5, 21
+  index: -1
+skill_1/FX1/leaves/leaves_38
+  rotate: false
+  xy: 410, 655
+  size: 202, 225
+  orig: 210, 252
+  offset: 4, 15
+  index: -1
+skill_1/FX1/leaves/leaves_39
+  rotate: false
+  xy: 2, 403
+  size: 203, 235
+  orig: 210, 252
+  offset: 3, 10
+  index: -1
+skill_1/FX1/leaves/leaves_40
+  rotate: false
+  xy: 2, 640
+  size: 203, 240
+  orig: 210, 252
+  offset: 4, 6
+  index: -1
+skill_1/FX1/leaves/leaves_41
+  rotate: false
+  xy: 207, 647
+  size: 201, 233
+  orig: 210, 252
+  offset: 5, 10
+  index: -1
+skill_1/FX1/leaves/leaves_42
+  rotate: false
+  xy: 2, 171
+  size: 201, 230
+  orig: 210, 252
+  offset: 4, 15
+  index: -1
+skill_1/FX1/smoke2/smoke2_26
+  rotate: false
+  xy: 482, 26
+  size: 70, 23
+  orig: 242, 80
+  offset: 88, 56
+  index: -1
+skill_1/FX1/smoke2/smoke2_27
+  rotate: false
+  xy: 304, 18
+  size: 119, 35
+  orig: 242, 80
+  offset: 62, 44
+  index: -1
+skill_1/FX1/smoke2/smoke2_28
+  rotate: true
+  xy: 161, 34
+  size: 135, 38
+  orig: 242, 80
+  offset: 57, 40
+  index: -1
+skill_1/FX1/smoke2/smoke2_29
+  rotate: true
+  xy: 201, 9
+  size: 158, 43
+  orig: 242, 80
+  offset: 44, 32
+  index: -1
+skill_1/FX1/smoke2/smoke2_30
+  rotate: false
+  xy: 603, 421
+  size: 171, 44
+  orig: 242, 80
+  offset: 36, 29
+  index: -1
+skill_1/FX1/smoke2/smoke2_31
+  rotate: false
+  xy: 410, 404
+  size: 190, 47
+  orig: 242, 80
+  offset: 29, 24
+  index: -1
+skill_1/FX1/smoke2/smoke2_32
+  rotate: false
+  xy: 614, 654
+  size: 205, 52
+  orig: 242, 80
+  offset: 21, 17
+  index: -1
+skill_1/FX1/smoke2/smoke2_33
+  rotate: false
+  xy: 603, 467
+  size: 210, 50
+  orig: 242, 80
+  offset: 19, 16
+  index: -1
+skill_1/FX1/smoke2/smoke2_34
+  rotate: false
+  xy: 603, 606
+  size: 223, 46
+  orig: 242, 80
+  offset: 16, 14
+  index: -1
+skill_1/FX1/smoke2/smoke2_35
+  rotate: false
+  xy: 603, 561
+  size: 227, 43
+  orig: 242, 80
+  offset: 14, 14
+  index: -1
+skill_1/FX1/smoke2/smoke2_36
+  rotate: true
+  xy: 205, 169
+  size: 232, 42
+  orig: 242, 80
+  offset: 10, 12
+  index: -1
+skill_1/FX1/smoke2/smoke2_37
+  rotate: false
+  xy: 603, 519
+  size: 234, 40
+  orig: 242, 80
+  offset: 8, 11
+  index: -1

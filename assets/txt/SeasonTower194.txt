@@ -1,0 +1,11 @@
+id	nextstage	monsterid	reward	stagebg	buffdesc	spine	scale	關卡地圖背景	關卡名稱
+1	2	0,20001,20002,20003,20004,20005	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_13000	1	TutorialMap_1	@TowerName001
+2	3	0,20006,20007,20008,20009,20010	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_14000	1	TutorialMap_1	@TowerName002
+3	4	0,20011,20012,20013,20014,20015	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_15000	1	TutorialMap_1	@TowerName003
+4	5	0,20016,20017,20018,20019,20020	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_16000	1	TutorialMap_1	@TowerName004
+5	6	0,20021,20022,20023,20024,20025	10000_1001_100	BG/UI/Tower_img2.png	500047	Spine/CharacterSpine,NG_17000	1	TutorialMap_1	@TowerName005
+6	7	0,20026,20027,20028,20029,20030	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_14000	1	TutorialMap_1	@TowerName006
+7	8	0,20031,20032,20033,20034,20035	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_15000	1	TutorialMap_1	@TowerName007
+8	9	0,20036,20037,20038,20039,20040	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_16000	1	TutorialMap_1	@TowerName008
+9	10	0,20041,20042,20043,20044,20045	10000_1001_100	BG/UI/Tower_img1.png	500047	Spine/CharacterSpine,NG_17000	1	TutorialMap_1	@TowerName009
+10	0	0,20046,20047,20048,20049,20050	10000_1001_100	BG/UI/Tower_img2.png	500047	Spine/CharacterSpine,NG_18000	1	TutorialMap_1	@TowerName010

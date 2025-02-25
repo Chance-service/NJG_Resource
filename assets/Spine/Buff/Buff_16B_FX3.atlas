@@ -1,0 +1,433 @@
+
+Buff_16B_FX3.png
+size: 567,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1107
+  rotate: false
+  xy: 183, 65
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+FX12/FX01_00
+  rotate: false
+  xy: 240, 63
+  size: 88, 53
+  orig: 90, 65
+  offset: 0, 3
+  index: -1
+FX12/FX01_30
+  rotate: false
+  xy: 240, 63
+  size: 88, 53
+  orig: 90, 65
+  offset: 0, 3
+  index: -1
+FX12/FX01_02
+  rotate: false
+  xy: 298, 151
+  size: 90, 54
+  orig: 90, 65
+  offset: 0, 3
+  index: -1
+FX12/FX01_32
+  rotate: false
+  xy: 298, 151
+  size: 90, 54
+  orig: 90, 65
+  offset: 0, 3
+  index: -1
+FX12/FX01_04
+  rotate: false
+  xy: 398, 9
+  size: 84, 54
+  orig: 90, 65
+  offset: 6, 3
+  index: -1
+FX12/FX01_34
+  rotate: false
+  xy: 398, 9
+  size: 84, 54
+  orig: 90, 65
+  offset: 6, 3
+  index: -1
+FX12/FX01_06
+  rotate: true
+  xy: 183, 115
+  size: 90, 55
+  orig: 90, 65
+  offset: 0, 2
+  index: -1
+FX12/FX01_36
+  rotate: true
+  xy: 183, 115
+  size: 90, 55
+  orig: 90, 65
+  offset: 0, 2
+  index: -1
+FX12/FX01_08
+  rotate: false
+  xy: 124, 207
+  size: 90, 56
+  orig: 90, 65
+  offset: 0, 2
+  index: -1
+FX12/FX01_38
+  rotate: false
+  xy: 124, 207
+  size: 90, 56
+  orig: 90, 65
+  offset: 0, 2
+  index: -1
+FX12/FX01_10
+  rotate: false
+  xy: 216, 207
+  size: 88, 56
+  orig: 90, 65
+  offset: 2, 2
+  index: -1
+FX12/FX01_40
+  rotate: false
+  xy: 216, 207
+  size: 88, 56
+  orig: 90, 65
+  offset: 2, 2
+  index: -1
+FX12/FX01_12
+  rotate: false
+  xy: 306, 209
+  size: 88, 55
+  orig: 90, 65
+  offset: 2, 2
+  index: -1
+FX12/FX01_42
+  rotate: false
+  xy: 306, 209
+  size: 88, 55
+  orig: 90, 65
+  offset: 2, 2
+  index: -1
+FX12/FX01_14
+  rotate: true
+  xy: 240, 118
+  size: 87, 56
+  orig: 90, 65
+  offset: 3, 2
+  index: -1
+FX12/FX01_44
+  rotate: true
+  xy: 240, 118
+  size: 87, 56
+  orig: 90, 65
+  offset: 3, 2
+  index: -1
+FX12/FX01_16
+  rotate: true
+  xy: 420, 65
+  size: 85, 54
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_46
+  rotate: true
+  xy: 420, 65
+  size: 85, 54
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_18
+  rotate: true
+  xy: 341, 10
+  size: 83, 55
+  orig: 90, 65
+  offset: 7, 2
+  index: -1
+FX12/FX01_48
+  rotate: true
+  xy: 341, 10
+  size: 83, 55
+  orig: 90, 65
+  offset: 7, 2
+  index: -1
+FX12/FX01_20
+  rotate: false
+  xy: 396, 209
+  size: 85, 55
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_50
+  rotate: false
+  xy: 396, 209
+  size: 85, 55
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_22
+  rotate: false
+  xy: 478, 131
+  size: 84, 56
+  orig: 90, 65
+  offset: 6, 2
+  index: -1
+FX12/FX01_52
+  rotate: false
+  xy: 478, 131
+  size: 84, 56
+  orig: 90, 65
+  offset: 6, 2
+  index: -1
+FX12/FX01_24
+  rotate: false
+  xy: 390, 152
+  size: 86, 55
+  orig: 90, 65
+  offset: 4, 2
+  index: -1
+FX12/FX01_54
+  rotate: false
+  xy: 390, 152
+  size: 86, 55
+  orig: 90, 65
+  offset: 4, 2
+  index: -1
+FX12/FX01_26
+  rotate: false
+  xy: 254, 5
+  size: 85, 56
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_56
+  rotate: false
+  xy: 254, 5
+  size: 85, 56
+  orig: 90, 65
+  offset: 5, 2
+  index: -1
+FX12/FX01_28
+  rotate: false
+  xy: 330, 95
+  size: 88, 54
+  orig: 90, 65
+  offset: 1, 2
+  index: -1
+FX12/FX01_58
+  rotate: false
+  xy: 330, 95
+  size: 88, 54
+  orig: 90, 65
+  offset: 1, 2
+  index: -1
+FX20/FX01_00
+  rotate: true
+  xy: 502, 189
+  size: 124, 57
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_30
+  rotate: true
+  xy: 502, 189
+  size: 124, 57
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_02
+  rotate: false
+  xy: 124, 385
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_04
+  rotate: false
+  xy: 128, 446
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_06
+  rotate: false
+  xy: 250, 386
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_08
+  rotate: false
+  xy: 2, 506
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_10
+  rotate: false
+  xy: 128, 506
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_12
+  rotate: false
+  xy: 254, 506
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_14
+  rotate: false
+  xy: 380, 506
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_16
+  rotate: true
+  xy: 506, 441
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_18
+  rotate: true
+  xy: 2, 315
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_20
+  rotate: false
+  xy: 2, 445
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_22
+  rotate: false
+  xy: 254, 446
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_24
+  rotate: false
+  xy: 376, 386
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_26
+  rotate: false
+  xy: 380, 446
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_28
+  rotate: true
+  xy: 124, 63
+  size: 124, 57
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_32
+  rotate: true
+  xy: 502, 315
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_34
+  rotate: false
+  xy: 250, 326
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_36
+  rotate: false
+  xy: 124, 325
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_38
+  rotate: false
+  xy: 376, 326
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_40
+  rotate: true
+  xy: 2, 189
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_42
+  rotate: true
+  xy: 2, 63
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_44
+  rotate: false
+  xy: 2, 2
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_46
+  rotate: true
+  xy: 63, 319
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_48
+  rotate: true
+  xy: 63, 193
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_50
+  rotate: true
+  xy: 63, 67
+  size: 124, 59
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_52
+  rotate: false
+  xy: 250, 266
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_54
+  rotate: false
+  xy: 124, 265
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_56
+  rotate: false
+  xy: 376, 266
+  size: 124, 58
+  orig: 125, 75
+  offset: 0, 9
+  index: -1
+FX20/FX01_58
+  rotate: false
+  xy: 128, 4
+  size: 124, 57
+  orig: 125, 75
+  offset: 0, 9
+  index: -1

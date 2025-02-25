@@ -1,0 +1,76 @@
+
+Boss_512_bullet_1.png
+size: 379,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E51200/1_0000
+  rotate: false
+  xy: 2, 2
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+E51200/1_0001
+  rotate: true
+  xy: 131, 22
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+E51200/1_0002
+  rotate: false
+  xy: 2, 182
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+E51200/1_0003
+  rotate: true
+  xy: 226, 21
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+E51200/1_0004
+  rotate: false
+  xy: 228, 157
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+E51200/1_0005
+  rotate: false
+  xy: 2, 87
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+E51200/1_0006
+  rotate: true
+  xy: 259, 250
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+E51200/1_0007
+  rotate: false
+  xy: 2, 277
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+E51200/1_0008
+  rotate: true
+  xy: 131, 150
+  size: 127, 95
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+E51200/1_0009
+  rotate: false
+  xy: 131, 279
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1

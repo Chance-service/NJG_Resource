@@ -1,0 +1,26 @@
+24	名称	关注微信开关	服务器开服提示各平台差异	首冲翻倍额度	bbs开启状态	反馈信息跳转页面规则	运维公告页面开启状态	About页面	被排除的关于id	被排除的公告id	是否使用有爱大版本更新	是否SDK内的论坛	论坛地址	loadingSceneMsg	退出后否调用平台登出 微信分享开启状态 FB分享开关 FB分享地址 FAQ分享地址 签名字符限制个数		fb邀请导向地址	fb邀请图片地址				
+1	win32	0	none	10000	0	none	1	AboutPage	0	0	1	0	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	https://	http://	23	https://	http://
+2	google_R2_en	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	http://	http://	23	https://	http://
+3	android_efun_en	1	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	https://	http://	23	https://	http://
+4	android_efun_tw	1	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	https://	http://	11	https://	http://
+5	android_entermate_kr	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+6	ios_efun_en	1	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	https://	http://	23	https://	http://
+7	ios_efun_tw	1	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	https://	http://	11	https://	http://
+8	ios_r2_en	1	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	http://	http://	23	https://	http://
+9	android_gnetop_jp	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+10	ios_gnetop_jp	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+11	ios_entermate_kr	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+12	google_R2_az	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	http://	http://	23	https://	http://
+13	google_R2_cy	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	http://	http://	23	https://	http://
+14	google_R2_yd	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	1	http://	http://	23	https://	http://
+15	ios_ryuk_jp	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+16	android_japan	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+17	android_amazon	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+18	ios_ryuk_ss	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+19	sanguo_google	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+20	sanguo_amazon	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+21	sanguo_ios_ks	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0	https://	https://	23	https://	http://
+22	yougu_channel_ios	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0			23		
+23	yougu_channel_android	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0					
+24	longxiao_channel_ios	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0					
+25	longxiao_channel_android	0	none	10000	0	none	1	AboutPage	0	0	1	1	none	欢迎大家关注游戏微信账号:qlzvip	0	1	0					

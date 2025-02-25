@@ -1,0 +1,50 @@
+#是否启用本地cfg文件中的severAppStoreCheck字段取区服列表
+IsAppStoreChecking = false
+#最大聊天数量限制
+ChatMsgMaxCount = 20
+#公告页面是否打开
+AnnouncementPageOpenStatus = 0
+#获取公告间隔时间(单位: s)
+FetchBulletionOffset = -1588857578
+#获取公告尝试次数
+MaxFetchBulletinTimes = 1
+#公告页面字数
+AnnouncementPageDescribe = 19
+#小退显示公告
+ShowAnnounceSmallExit = true
+#是否开启协议压缩
+isPacketCompress = false
+#静默重启服务器
+QuietRestartServer = true
+#Music
+#开启音乐开关，1是开启，0是关闭
+musicAndSoundOn = 1
+LoadingMusic = loadingMusic.mp3
+GeneralMusic = general.mp3
+BattleMusic = battle.mp3
+#向服务器推送用户信息
+PushSvrID = 1
+#装备的星星和装备名字之间的距离
+EquipStarXDistance = 40
+#协同程序开关，1开，0关
+OpenCoroutine = 1
+#iphone适配开关，1开，0关
+OpenForIphone = 1
+#上传启动App统计信息URL
+DatareportUrl = http://18.182.62.36:5132
+#上报更新日志 1 开 0 关
+OpenReportUpdate= 0
+#安卓是否开启清理纹理缓存
+IsOpenPurgeCacheAndroid = 0
+#IOS是否开启清理纹理缓存
+IsOpenPurgeCacheIOS= 0
+#设置开始清理缓存的阈值 1350*1024*1024  1.35G
+MaxTexCacheBytes = 1415577600
+#登录界面是否展示动画 0 1 
+IsShowSpineWithLogin = 1
+#連線錯誤處理
+ReconnectMaxTimes = 5
+#公告網址
+AnnouncementURL = https://njg-cdn-1.xxqzzx.cn/announcement
+#是否是審核版本(1=true 0=false)
+IsCloseR18 = 0

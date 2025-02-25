@@ -1,0 +1,34 @@
+
+NGUI_93_GloryholeTOP.png
+size: 1154,1154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/01
+  rotate: false
+  xy: 2, 120
+  size: 720, 1032
+  orig: 720, 1032
+  offset: 0, 0
+  index: -1
+IMG/02
+  rotate: false
+  xy: 940, 615
+  size: 212, 537
+  orig: 212, 537
+  offset: 0, 0
+  index: -1
+IMG/03
+  rotate: false
+  xy: 724, 444
+  size: 214, 708
+  orig: 214, 708
+  offset: 0, 0
+  index: -1
+IMG/04
+  rotate: false
+  xy: 2, 31
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1

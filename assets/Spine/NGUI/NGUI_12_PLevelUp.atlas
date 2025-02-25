@@ -1,0 +1,468 @@
+
+NGUI_12_PLevelUp.png
+size: 1317,1317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bling
+  rotate: true
+  xy: 1105, 150
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+img
+  rotate: false
+  xy: 309, 1077
+  size: 251, 238
+  orig: 251, 238
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_00
+  rotate: false
+  xy: 477, 913
+  size: 8, 9
+  orig: 200, 200
+  offset: 90, 96
+  index: -1
+lightBallFx/lightBallFx_01
+  rotate: false
+  xy: 406, 126
+  size: 110, 64
+  orig: 200, 200
+  offset: 46, 74
+  index: -1
+lightBallFx/lightBallFx_02
+  rotate: true
+  xy: 1168, 1115
+  size: 200, 127
+  orig: 200, 200
+  offset: 0, 38
+  index: -1
+lightBallFx/lightBallFx_03
+  rotate: false
+  xy: 562, 1115
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_04
+  rotate: false
+  xy: 2, 115
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_05
+  rotate: false
+  xy: 764, 1115
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_06
+  rotate: false
+  xy: 966, 1115
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_07
+  rotate: false
+  xy: 204, 115
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_08
+  rotate: false
+  xy: 562, 913
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_09
+  rotate: false
+  xy: 764, 913
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_10
+  rotate: false
+  xy: 966, 913
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_11
+  rotate: false
+  xy: 275, 863
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_12
+  rotate: false
+  xy: 275, 661
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_13
+  rotate: false
+  xy: 273, 459
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_14
+  rotate: false
+  xy: 477, 711
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_15
+  rotate: false
+  xy: 679, 711
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_16
+  rotate: false
+  xy: 881, 711
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_17
+  rotate: false
+  xy: 1083, 711
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_18
+  rotate: false
+  xy: 477, 509
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_19
+  rotate: false
+  xy: 679, 509
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_20
+  rotate: false
+  xy: 881, 509
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightBallFx/lightBallFx_21
+  rotate: false
+  xy: 994, 143
+  size: 109, 100
+  orig: 200, 200
+  offset: 44, 43
+  index: -1
+lightBallFx/lightBallFx_22
+  rotate: false
+  xy: 1203, 234
+  size: 110, 102
+  orig: 200, 200
+  offset: 42, 42
+  index: -1
+lightBallFx/lightBallFx_23
+  rotate: false
+  xy: 1203, 338
+  size: 112, 102
+  orig: 200, 200
+  offset: 41, 42
+  index: -1
+lightBallFx/lightBallFx_24
+  rotate: false
+  xy: 1100, 9
+  size: 113, 102
+  orig: 200, 200
+  offset: 40, 42
+  index: -1
+lightBallFx/lightBallFx_25
+  rotate: false
+  xy: 866, 72
+  size: 115, 102
+  orig: 200, 200
+  offset: 39, 41
+  index: -1
+lightBallFx/lightBallFx_26
+  rotate: false
+  xy: 983, 38
+  size: 115, 103
+  orig: 200, 200
+  offset: 40, 41
+  index: -1
+lightBallFx/lightBallFx_27
+  rotate: true
+  xy: 511, 7
+  size: 117, 104
+  orig: 200, 200
+  offset: 40, 41
+  index: -1
+lightBallFx/lightBallFx_28
+  rotate: true
+  xy: 1203, 113
+  size: 119, 105
+  orig: 200, 200
+  offset: 39, 40
+  index: -1
+lightBallFx/lightBallFx_29
+  rotate: true
+  xy: 1097, 249
+  size: 120, 104
+  orig: 200, 200
+  offset: 39, 40
+  index: -1
+lightBallFx/lightBallFx_30
+  rotate: true
+  xy: 403, 333
+  size: 124, 105
+  orig: 200, 200
+  offset: 37, 39
+  index: -1
+lightBallFx/lightBallFx_31
+  rotate: false
+  xy: 866, 279
+  size: 126, 105
+  orig: 200, 200
+  offset: 36, 39
+  index: -1
+lightBallFx/lightBallFx_32
+  rotate: false
+  xy: 736, 278
+  size: 128, 107
+  orig: 200, 200
+  offset: 35, 38
+  index: -1
+lightBallFx/lightBallFx_33
+  rotate: false
+  xy: 276, 5
+  size: 130, 108
+  orig: 200, 200
+  offset: 34, 38
+  index: -1
+lightBallFx/lightBallFx_34
+  rotate: true
+  xy: 524, 201
+  size: 132, 108
+  orig: 200, 200
+  offset: 33, 38
+  index: -1
+lightBallFx/lightBallFx_35
+  rotate: false
+  xy: 140, 4
+  size: 134, 109
+  orig: 200, 200
+  offset: 32, 37
+  index: -1
+lightBallFx/lightBallFx_36
+  rotate: false
+  xy: 2, 3
+  size: 136, 110
+  orig: 200, 200
+  offset: 30, 37
+  index: -1
+lightBallFx/lightBallFx_37
+  rotate: false
+  xy: 510, 394
+  size: 137, 113
+  orig: 200, 200
+  offset: 30, 36
+  index: -1
+lightBallFx/lightBallFx_38
+  rotate: false
+  xy: 1083, 473
+  size: 138, 114
+  orig: 200, 200
+  offset: 29, 36
+  index: -1
+lightBallFx/lightBallFx_39
+  rotate: true
+  xy: 406, 192
+  size: 139, 116
+  orig: 200, 200
+  offset: 28, 36
+  index: -1
+lightBallFx/lightBallFx_40
+  rotate: false
+  xy: 1083, 589
+  size: 138, 120
+  orig: 200, 200
+  offset: 28, 34
+  index: -1
+lightBallFx/lightBallFx_41
+  rotate: false
+  xy: 262, 335
+  size: 139, 122
+  orig: 200, 200
+  offset: 27, 33
+  index: -1
+lightBallFx/lightBallFx_42
+  rotate: true
+  xy: 1168, 974
+  size: 139, 124
+  orig: 200, 200
+  offset: 27, 32
+  index: -1
+lightBallFx/lightBallFx_43
+  rotate: true
+  xy: 914, 386
+  size: 121, 127
+  orig: 200, 200
+  offset: 45, 31
+  index: -1
+lightBallFx/lightBallFx_44
+  rotate: true
+  xy: 783, 387
+  size: 120, 129
+  orig: 200, 200
+  offset: 46, 30
+  index: -1
+lightBallFx/lightBallFx_45
+  rotate: true
+  xy: 649, 395
+  size: 112, 132
+  orig: 200, 200
+  offset: 52, 29
+  index: -1
+lightBallFx/lightBallFx_46
+  rotate: true
+  xy: 1043, 371
+  size: 100, 133
+  orig: 200, 200
+  offset: 53, 29
+  index: -1
+lightBallFx/lightBallFx_47
+  rotate: false
+  xy: 408, 2
+  size: 101, 122
+  orig: 200, 200
+  offset: 53, 42
+  index: -1
+lightBallFx/lightBallFx_48
+  rotate: false
+  xy: 994, 245
+  size: 101, 124
+  orig: 200, 200
+  offset: 54, 42
+  index: -1
+lightBallFx/lightBallFx_49
+  rotate: true
+  xy: 866, 176
+  size: 101, 126
+  orig: 200, 200
+  offset: 54, 42
+  index: -1
+lightBallFx/lightBallFx_50
+  rotate: true
+  xy: 736, 175
+  size: 101, 128
+  orig: 200, 200
+  offset: 55, 42
+  index: -1
+lightBallFx/lightBallFx_51
+  rotate: false
+  xy: 634, 204
+  size: 100, 129
+  orig: 200, 200
+  offset: 57, 42
+  index: -1
+lightBallFx/lightBallFx_52
+  rotate: true
+  xy: 1168, 913
+  size: 59, 131
+  orig: 200, 200
+  offset: 99, 42
+  index: -1
+lightBallFx/lightBallFx_53
+  rotate: false
+  xy: 1223, 442
+  size: 58, 132
+  orig: 200, 200
+  offset: 100, 42
+  index: -1
+lightBallFx/lightBallFx_54
+  rotate: false
+  xy: 1223, 576
+  size: 58, 133
+  orig: 200, 200
+  offset: 100, 43
+  index: -1
+lightBallFx/lightBallFx_55
+  rotate: true
+  xy: 510, 335
+  size: 57, 134
+  orig: 200, 200
+  offset: 101, 43
+  index: -1
+lightBallFx/lightBallFx_56
+  rotate: true
+  xy: 1105, 191
+  size: 56, 96
+  orig: 200, 200
+  offset: 102, 82
+  index: -1
+lightBallFx/lightBallFx_57
+  rotate: false
+  xy: 309, 1065
+  size: 17, 10
+  orig: 200, 200
+  offset: 102, 169
+  index: -1
+lightBallFx/lightBallFx_58
+  rotate: true
+  xy: 262, 509
+  size: 14, 9
+  orig: 200, 200
+  offset: 104, 170
+  index: -1
+lightRayFx
+  rotate: false
+  xy: 2, 317
+  size: 258, 206
+  orig: 288, 206
+  offset: 17, 0
+  index: -1
+medal1
+  rotate: false
+  xy: 2, 1065
+  size: 305, 250
+  orig: 305, 250
+  offset: 0, 0
+  index: -1
+medal2
+  rotate: false
+  xy: 2, 795
+  size: 271, 268
+  orig: 271, 268
+  offset: 0, 0
+  index: -1
+medal3
+  rotate: false
+  xy: 2, 525
+  size: 269, 268
+  orig: 271, 268
+  offset: 2, 0
+  index: -1
+medal4
+  rotate: true
+  xy: 477, 924
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1

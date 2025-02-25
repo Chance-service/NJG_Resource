@@ -1,0 +1,244 @@
+
+NGUI_74_WishWheelidle.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX01/FX01_000
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_015
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_001
+  rotate: false
+  xy: 2168, 745
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_002
+  rotate: false
+  xy: 3181, 1749
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_003
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_004
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_005
+  rotate: false
+  xy: 2420, 745
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_006
+  rotate: false
+  xy: 3181, 1497
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_007
+  rotate: false
+  xy: 3433, 1749
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_008
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_009
+  rotate: false
+  xy: 506, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_010
+  rotate: false
+  xy: 2672, 745
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_011
+  rotate: false
+  xy: 3181, 1245
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_012
+  rotate: false
+  xy: 3433, 1497
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_013
+  rotate: false
+  xy: 3685, 1749
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_014
+  rotate: false
+  xy: 506, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_016
+  rotate: false
+  xy: 758, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_017
+  rotate: false
+  xy: 2924, 745
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_018
+  rotate: false
+  xy: 3433, 1245
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_019
+  rotate: false
+  xy: 3685, 1497
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_020
+  rotate: false
+  xy: 758, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_021
+  rotate: false
+  xy: 1010, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_022
+  rotate: false
+  xy: 3685, 1245
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_023
+  rotate: false
+  xy: 1010, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_024
+  rotate: false
+  xy: 1262, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_025
+  rotate: false
+  xy: 1262, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_026
+  rotate: false
+  xy: 1514, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_027
+  rotate: false
+  xy: 1514, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_028
+  rotate: false
+  xy: 1766, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+FX01/FX01_029
+  rotate: false
+  xy: 1766, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+WishingWell_bg1
+  rotate: false
+  xy: 2, 506
+  size: 720, 1493
+  orig: 720, 1493
+  offset: 0, 0
+  index: -1
+WishingWell_bg2
+  rotate: false
+  xy: 724, 506
+  size: 720, 1493
+  orig: 720, 1493
+  offset: 0, 0
+  index: -1
+WishingWell_bg3
+  rotate: false
+  xy: 1446, 506
+  size: 720, 1493
+  orig: 720, 1493
+  offset: 0, 0
+  index: -1
+xa01
+  rotate: false
+  xy: 2168, 997
+  size: 1011, 1002
+  orig: 1011, 1002
+  offset: 0, 0
+  index: -1

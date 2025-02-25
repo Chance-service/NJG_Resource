@@ -1,0 +1,251 @@
+
+Boss_512_FX1.png
+size: 714,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoquanbb_0005
+  rotate: false
+  xy: 181, 490
+  size: 181, 110
+  orig: 360, 360
+  offset: 89, 84
+  index: -1
+baoquanbb_0006
+  rotate: false
+  xy: 363, 374
+  size: 179, 111
+  orig: 360, 360
+  offset: 92, 83
+  index: -1
+baoquanbb_0007
+  rotate: false
+  xy: 348, 261
+  size: 179, 111
+  orig: 360, 360
+  offset: 93, 83
+  index: -1
+baoquanbb_0008
+  rotate: false
+  xy: 180, 376
+  size: 181, 112
+  orig: 360, 360
+  offset: 91, 82
+  index: -1
+baoquanbb_0009
+  rotate: false
+  xy: 364, 487
+  size: 180, 111
+  orig: 360, 360
+  offset: 88, 81
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_00
+  rotate: false
+  xy: 218, 2
+  size: 136, 52
+  orig: 150, 55
+  offset: 10, 1
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_03
+  rotate: false
+  xy: 544, 329
+  size: 135, 50
+  orig: 150, 55
+  offset: 12, 2
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_06
+  rotate: false
+  xy: 528, 172
+  size: 127, 51
+  orig: 150, 55
+  offset: 19, 2
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_09
+  rotate: false
+  xy: 529, 277
+  size: 133, 50
+  orig: 150, 55
+  offset: 13, 2
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_12
+  rotate: false
+  xy: 466, 30
+  size: 137, 51
+  orig: 150, 55
+  offset: 10, 1
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_15
+  rotate: true
+  xy: 657, 93
+  size: 127, 50
+  orig: 150, 55
+  offset: 19, 3
+  index: -1
+skill/blackFlame_bullet/black_flame_bullet_18
+  rotate: false
+  xy: 529, 225
+  size: 129, 50
+  orig: 150, 55
+  offset: 17, 2
+  index: -1
+skill/fly_soul/fly_soul_00
+  rotate: false
+  xy: 356, 6
+  size: 108, 56
+  orig: 250, 250
+  offset: 93, 9
+  index: -1
+skill/fly_soul/fly_soul_03
+  rotate: false
+  xy: 603, 454
+  size: 89, 78
+  orig: 250, 250
+  offset: 127, 14
+  index: -1
+skill/fly_soul/fly_soul_06
+  rotate: true
+  xy: 605, 19
+  size: 62, 91
+  orig: 250, 250
+  offset: 158, 27
+  index: -1
+skill/fly_soul/fly_soul_09
+  rotate: false
+  xy: 681, 366
+  size: 31, 86
+  orig: 250, 250
+  offset: 187, 46
+  index: -1
+skill/fly_soul/fly_soul_12
+  rotate: true
+  xy: 98, 204
+  size: 192, 75
+  orig: 250, 250
+  offset: 25, 66
+  index: -1
+skill/fly_soul/fly_soul_15
+  rotate: true
+  xy: 2, 173
+  size: 223, 94
+  orig: 250, 250
+  offset: 26, 55
+  index: -1
+skill/fly_soul/fly_soul_18
+  rotate: false
+  xy: 181, 602
+  size: 217, 110
+  orig: 250, 250
+  offset: 28, 46
+  index: -1
+skill/fly_soul/fly_soul_21
+  rotate: false
+  xy: 400, 600
+  size: 204, 112
+  orig: 250, 250
+  offset: 28, 51
+  index: -1
+skill/fly_soul/fly_soul_24
+  rotate: false
+  xy: 348, 150
+  size: 178, 109
+  orig: 250, 250
+  offset: 37, 53
+  index: -1
+skill/fly_soul/fly_soul_27
+  rotate: false
+  xy: 306, 64
+  size: 157, 84
+  orig: 250, 250
+  offset: 37, 57
+  index: -1
+skill/fly_soul/fly_soul_30
+  rotate: true
+  xy: 218, 56
+  size: 173, 86
+  orig: 250, 250
+  offset: 38, 58
+  index: -1
+skill/fly_soul/fly_soul_33
+  rotate: true
+  xy: 128, 25
+  size: 177, 88
+  orig: 250, 250
+  offset: 40, 64
+  index: -1
+skill/fly_soul/fly_soul_36
+  rotate: false
+  xy: 465, 83
+  size: 173, 65
+  orig: 250, 250
+  offset: 45, 83
+  index: -1
+skill/fly_soul/fly_soul_39
+  rotate: true
+  xy: 606, 534
+  size: 178, 98
+  orig: 250, 250
+  offset: 38, 63
+  index: -1
+skill/fly_soul/fly_soul_42
+  rotate: false
+  xy: 2, 554
+  size: 177, 158
+  orig: 250, 250
+  offset: 38, 46
+  index: -1
+skill/fly_soul/fly_soul_45
+  rotate: false
+  xy: 2, 398
+  size: 176, 154
+  orig: 250, 250
+  offset: 38, 38
+  index: -1
+skill/fly_soul/fly_soul_48
+  rotate: false
+  xy: 175, 231
+  size: 171, 143
+  orig: 250, 250
+  offset: 41, 36
+  index: -1
+skill/fly_soul/fly_soul_51
+  rotate: true
+  xy: 2, 22
+  size: 149, 124
+  orig: 250, 250
+  offset: 42, 40
+  index: -1
+skill/fly_soul/fly_soul_54
+  rotate: false
+  xy: 544, 381
+  size: 120, 71
+  orig: 250, 250
+  offset: 56, 74
+  index: -1
+skill/fly_soul/fly_soul_57
+  rotate: true
+  xy: 546, 454
+  size: 144, 55
+  orig: 250, 250
+  offset: 38, 71
+  index: -1
+skill/fly_soul/fly_soul_60
+  rotate: true
+  xy: 664, 222
+  size: 105, 32
+  orig: 250, 250
+  offset: 26, 72
+  index: -1
+skill/fly_soul/fly_soul_63
+  rotate: true
+  xy: 306, 171
+  size: 58, 19
+  orig: 250, 250
+  offset: 24, 77
+  index: -1
+skill/fly_soul/fly_soul_66
+  rotate: false
+  xy: 2, 8
+  size: 45, 12
+  orig: 250, 250
+  offset: 21, 80
+  index: -1

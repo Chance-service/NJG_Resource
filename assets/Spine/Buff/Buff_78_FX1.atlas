@@ -1,0 +1,223 @@
+
+Buff_78_FX1.png
+size: 613,613
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sword light/Sword light_00
+  rotate: true
+  xy: 322, 515
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_01
+  rotate: true
+  xy: 406, 319
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_02
+  rotate: false
+  xy: 515, 308
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_03
+  rotate: true
+  xy: 432, 515
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_04
+  rotate: false
+  xy: 100, 405
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_05
+  rotate: false
+  xy: 2, 502
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_06
+  rotate: false
+  xy: 2, 391
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_07
+  rotate: false
+  xy: 2, 280
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_08
+  rotate: false
+  xy: 2, 169
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_09
+  rotate: false
+  xy: 2, 58
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_10
+  rotate: false
+  xy: 100, 295
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_11
+  rotate: false
+  xy: 100, 185
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_12
+  rotate: false
+  xy: 100, 75
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_13
+  rotate: true
+  xy: 198, 417
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_14
+  rotate: true
+  xy: 308, 417
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_15
+  rotate: true
+  xy: 418, 417
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_16
+  rotate: false
+  xy: 198, 307
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_17
+  rotate: false
+  xy: 198, 197
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_18
+  rotate: true
+  xy: 100, 515
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_19
+  rotate: true
+  xy: 211, 515
+  size: 96, 109
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_20
+  rotate: false
+  xy: 198, 87
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_21
+  rotate: true
+  xy: 296, 221
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_22
+  rotate: true
+  xy: 405, 221
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_23
+  rotate: true
+  xy: 394, 25
+  size: 96, 106
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_24
+  rotate: false
+  xy: 514, 199
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_25
+  rotate: true
+  xy: 296, 123
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_26
+  rotate: true
+  xy: 405, 123
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_27
+  rotate: false
+  xy: 514, 90
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_28
+  rotate: false
+  xy: 296, 14
+  size: 96, 107
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword light/Sword light_29
+  rotate: true
+  xy: 296, 319
+  size: 96, 108
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+sword_00
+  rotate: false
+  xy: 528, 427
+  size: 76, 86
+  orig: 96, 112
+  offset: 12, 12
+  index: -1

@@ -1,0 +1,223 @@
+
+Buff_94_FX2.png
+size: 361,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shield-inside/shield-inside_00
+  rotate: false
+  xy: 0, 324
+  size: 133, 37
+  orig: 504, 896
+  offset: 186, 432
+  index: -1
+shield-inside/shield-inside_01
+  rotate: false
+  xy: 0, 285
+  size: 133, 37
+  orig: 504, 896
+  offset: 184, 432
+  index: -1
+shield-inside/shield-inside_02
+  rotate: false
+  xy: 135, 284
+  size: 132, 37
+  orig: 504, 896
+  offset: 183, 432
+  index: -1
+shield-inside/shield-inside_03
+  rotate: false
+  xy: 0, 206
+  size: 131, 38
+  orig: 504, 896
+  offset: 182, 431
+  index: -1
+shield-inside/shield-inside_04
+  rotate: true
+  xy: 79, 76
+  size: 128, 38
+  orig: 504, 896
+  offset: 182, 431
+  index: -1
+shield-inside/shield-inside_05
+  rotate: false
+  xy: 133, 202
+  size: 125, 40
+  orig: 504, 896
+  offset: 182, 430
+  index: -1
+shield-inside/shield-inside_06
+  rotate: false
+  xy: 119, 118
+  size: 122, 40
+  orig: 504, 896
+  offset: 182, 430
+  index: -1
+shield-inside/shield-inside_07
+  rotate: false
+  xy: 79, 34
+  size: 119, 40
+  orig: 504, 896
+  offset: 182, 430
+  index: -1
+shield-inside/shield-inside_08
+  rotate: false
+  xy: 246, 162
+  size: 115, 38
+  orig: 504, 896
+  offset: 182, 432
+  index: -1
+shield-inside/shield-inside_09
+  rotate: false
+  xy: 246, 125
+  size: 112, 35
+  orig: 504, 896
+  offset: 182, 435
+  index: -1
+shield-inside/shield-inside_10
+  rotate: false
+  xy: 243, 50
+  size: 108, 36
+  orig: 504, 896
+  offset: 182, 435
+  index: -1
+shield-inside/shield-inside_11
+  rotate: false
+  xy: 292, 206
+  size: 29, 35
+  orig: 504, 896
+  offset: 256, 436
+  index: -1
+shield-inside/shield-inside_12
+  rotate: false
+  xy: 323, 209
+  size: 29, 35
+  orig: 504, 896
+  offset: 252, 436
+  index: -1
+shield-inside/shield-inside_13
+  rotate: true
+  xy: 0, 3
+  size: 30, 35
+  orig: 504, 896
+  offset: 247, 436
+  index: -1
+shield-inside/shield-inside_14
+  rotate: false
+  xy: 0, 35
+  size: 31, 35
+  orig: 504, 896
+  offset: 242, 436
+  index: -1
+shield-inside/shield-inside_15
+  rotate: false
+  xy: 260, 206
+  size: 30, 35
+  orig: 504, 896
+  offset: 238, 436
+  index: -1
+shield-inside/shield-inside_16
+  rotate: false
+  xy: 309, 13
+  size: 31, 35
+  orig: 504, 896
+  offset: 233, 436
+  index: -1
+shield-inside/shield-inside_17
+  rotate: false
+  xy: 33, 35
+  size: 30, 35
+  orig: 504, 896
+  offset: 229, 436
+  index: -1
+shield-inside/shield-inside_18
+  rotate: true
+  xy: 74, 3
+  size: 29, 35
+  orig: 504, 896
+  offset: 225, 436
+  index: -1
+shield-inside/shield-inside_19
+  rotate: true
+  xy: 37, 3
+  size: 30, 35
+  orig: 504, 896
+  offset: 220, 436
+  index: -1
+shield-inside/shield-inside_20
+  rotate: false
+  xy: 200, 12
+  size: 107, 36
+  orig: 504, 896
+  offset: 216, 435
+  index: -1
+shield-inside/shield-inside_21
+  rotate: false
+  xy: 243, 88
+  size: 111, 35
+  orig: 504, 896
+  offset: 212, 435
+  index: -1
+shield-inside/shield-inside_22
+  rotate: true
+  xy: 311, 246
+  size: 115, 39
+  orig: 504, 896
+  offset: 208, 431
+  index: -1
+shield-inside/shield-inside_23
+  rotate: true
+  xy: 269, 243
+  size: 118, 40
+  orig: 504, 896
+  offset: 205, 430
+  index: -1
+shield-inside/shield-inside_24
+  rotate: false
+  xy: 119, 76
+  size: 122, 40
+  orig: 504, 896
+  offset: 201, 430
+  index: -1
+shield-inside/shield-inside_25
+  rotate: false
+  xy: 119, 160
+  size: 125, 40
+  orig: 504, 896
+  offset: 198, 430
+  index: -1
+shield-inside/shield-inside_26
+  rotate: false
+  xy: 135, 244
+  size: 128, 38
+  orig: 504, 896
+  offset: 195, 431
+  index: -1
+shield-inside/shield-inside_27
+  rotate: true
+  xy: 39, 74
+  size: 130, 38
+  orig: 504, 896
+  offset: 192, 431
+  index: -1
+shield-inside/shield-inside_28
+  rotate: false
+  xy: 135, 323
+  size: 132, 38
+  orig: 504, 896
+  offset: 190, 431
+  index: -1
+shield-inside/shield-inside_29
+  rotate: true
+  xy: 0, 72
+  size: 132, 37
+  orig: 504, 896
+  offset: 188, 432
+  index: -1
+shield-inside/shield-inside_30
+  rotate: false
+  xy: 0, 246
+  size: 133, 37
+  orig: 504, 896
+  offset: 186, 432
+  index: -1

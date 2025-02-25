@@ -1,0 +1,55 @@
+
+GloryHole_UI_Click.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1056, 494
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1692, 793
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1407, 735
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1056, 667
+  size: 349, 351
+  orig: 349, 351
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 481, 498
+  orig: 481, 498
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 485
+  size: 533, 533
+  orig: 533, 533
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 537, 501
+  size: 517, 517
+  orig: 517, 517
+  offset: 0, 0
+  index: -1

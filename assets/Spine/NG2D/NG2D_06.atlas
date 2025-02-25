@@ -1,0 +1,599 @@
+
+NG2D_06.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 302, 29
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 267, 5
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 118, 17
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+H5
+  rotate: false
+  xy: 198, 22
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+H6
+  rotate: true
+  xy: 2, 12
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+HB
+  rotate: false
+  xy: 544, 54
+  size: 159, 426
+  orig: 159, 426
+  offset: 0, 0
+  index: -1
+HB main
+  rotate: true
+  xy: 544, 482
+  size: 540, 414
+  orig: 540, 414
+  offset: 0, 0
+  index: -1
+L eye
+  rotate: true
+  xy: 245, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+L pupil
+  rotate: true
+  xy: 237, 26
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: false
+  xy: 141, 3
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: false
+  xy: 165, 3
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+R eye
+  rotate: false
+  xy: 208, 3
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+R pupil
+  rotate: true
+  xy: 233, 8
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 118, 2
+  size: 21, 13
+  orig: 25, 15
+  offset: 1, 1
+  index: -1
+eye R BG
+  rotate: false
+  xy: 188, 2
+  size: 18, 13
+  orig: 20, 14
+  offset: 1, 1
+  index: -1
+eye closed
+  rotate: false
+  xy: 237, 40
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 705, 72
+  size: 96, 408
+  orig: 96, 408
+  offset: 0, 0
+  index: -1
+petal FX/Petals_00000
+  rotate: true
+  xy: 803, 345
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00002
+  rotate: true
+  xy: 803, 208
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00004
+  rotate: false
+  xy: 803, 24
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+
+NG2D_062.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 278
+  size: 178, 740
+  orig: 178, 740
+  offset: 0, 0
+  index: -1
+boob
+  rotate: false
+  xy: 267, 7
+  size: 124, 95
+  orig: 124, 95
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 182, 517
+  size: 147, 501
+  orig: 147, 501
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 139, 47
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+petal FX/Petals_00006
+  rotate: false
+  xy: 2, 94
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00008
+  rotate: false
+  xy: 182, 333
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00010
+  rotate: false
+  xy: 331, 836
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00012
+  rotate: false
+  xy: 331, 652
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00014
+  rotate: false
+  xy: 468, 836
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00016
+  rotate: false
+  xy: 468, 652
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00018
+  rotate: false
+  xy: 605, 836
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00020
+  rotate: false
+  xy: 605, 652
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00022
+  rotate: false
+  xy: 742, 836
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00024
+  rotate: false
+  xy: 742, 652
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00026
+  rotate: false
+  xy: 879, 836
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00028
+  rotate: false
+  xy: 879, 652
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00030
+  rotate: true
+  xy: 331, 515
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00032
+  rotate: true
+  xy: 515, 515
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00034
+  rotate: true
+  xy: 699, 515
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00036
+  rotate: true
+  xy: 319, 378
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00038
+  rotate: true
+  xy: 503, 378
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00040
+  rotate: true
+  xy: 687, 378
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00042
+  rotate: false
+  xy: 883, 468
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00044
+  rotate: true
+  xy: 319, 241
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00046
+  rotate: true
+  xy: 503, 241
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00048
+  rotate: true
+  xy: 687, 241
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00050
+  rotate: false
+  xy: 871, 284
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00052
+  rotate: false
+  xy: 182, 149
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00054
+  rotate: true
+  xy: 319, 104
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00056
+  rotate: true
+  xy: 503, 104
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00058
+  rotate: true
+  xy: 687, 104
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00060
+  rotate: false
+  xy: 871, 100
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+
+NG2D_063.png
+size: 918,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal FX/Petals_00062
+  rotate: false
+  xy: 2, 734
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00064
+  rotate: true
+  xy: 2, 597
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00066
+  rotate: true
+  xy: 139, 781
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00068
+  rotate: false
+  xy: 186, 597
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00070
+  rotate: true
+  xy: 2, 460
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00072
+  rotate: true
+  xy: 186, 460
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00074
+  rotate: true
+  xy: 323, 781
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00076
+  rotate: true
+  xy: 323, 644
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00078
+  rotate: false
+  xy: 370, 460
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00080
+  rotate: false
+  xy: 507, 734
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00082
+  rotate: false
+  xy: 507, 550
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00084
+  rotate: false
+  xy: 507, 366
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00086
+  rotate: true
+  xy: 2, 323
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00088
+  rotate: false
+  xy: 186, 276
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00090
+  rotate: false
+  xy: 2, 139
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00092
+  rotate: false
+  xy: 323, 276
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00094
+  rotate: true
+  xy: 460, 229
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00096
+  rotate: true
+  xy: 139, 139
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00098
+  rotate: false
+  xy: 323, 92
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00100
+  rotate: true
+  xy: 2, 2
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00102
+  rotate: true
+  xy: 460, 92
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00104
+  rotate: false
+  xy: 644, 734
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00106
+  rotate: false
+  xy: 644, 550
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00108
+  rotate: false
+  xy: 644, 366
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00110
+  rotate: false
+  xy: 644, 182
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00112
+  rotate: true
+  xy: 644, 45
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00114
+  rotate: false
+  xy: 781, 734
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00116
+  rotate: false
+  xy: 781, 550
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00118
+  rotate: false
+  xy: 781, 366
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1
+petal FX/Petals_00120
+  rotate: false
+  xy: 781, 182
+  size: 135, 182
+  orig: 135, 240
+  offset: 0, 58
+  index: -1

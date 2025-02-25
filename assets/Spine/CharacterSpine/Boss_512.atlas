@@ -1,0 +1,160 @@
+
+Boss_512.png
+size: 623,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 431, 263
+  size: 162, 123
+  orig: 162, 123
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 267, 260
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+boneL_1_2
+  rotate: true
+  xy: 556, 236
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+boneL_2_2
+  rotate: false
+  xy: 356, 31
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+boneL_3_2
+  rotate: false
+  xy: 444, 44
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+boneR_1
+  rotate: false
+  xy: 350, 136
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+boneR_2
+  rotate: true
+  xy: 430, 99
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+boneR_3
+  rotate: true
+  xy: 350, 97
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+bone_L_1
+  rotate: true
+  xy: 231, 32
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+bone_L_2
+  rotate: true
+  xy: 431, 212
+  size: 49, 96
+  orig: 49, 96
+  offset: 0, 0
+  index: -1
+bone_L_3
+  rotate: false
+  xy: 556, 340
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+bookbody_1
+  rotate: false
+  xy: 430, 150
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+bookbody_1a
+  rotate: false
+  xy: 529, 182
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+bookbody_2
+  rotate: false
+  xy: 2, 425
+  size: 334, 196
+  orig: 334, 196
+  offset: 0, 0
+  index: -1
+bookitem_1
+  rotate: true
+  xy: 524, 135
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+bookitem_2
+  rotate: true
+  xy: 444, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+bookspine
+  rotate: false
+  xy: 534, 456
+  size: 56, 165
+  orig: 56, 165
+  offset: 0, 0
+  index: -1
+item_2
+  rotate: false
+  xy: 65, 243
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: true
+  xy: 65, 35
+  size: 206, 164
+  orig: 206, 164
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 338, 427
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 9
+  size: 414, 61
+  orig: 414, 61
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 231, 91
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1

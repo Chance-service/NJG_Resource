@@ -1,0 +1,41 @@
+
+hoh_gold.png
+size: 101,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold01
+  rotate: false
+  xy: 45, 61
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+gold02
+  rotate: true
+  xy: 44, 2
+  size: 27, 29
+  orig: 64, 64
+  offset: 20, 14
+  index: -1
+gold03
+  rotate: true
+  xy: 45, 31
+  size: 28, 35
+  orig: 64, 64
+  offset: 17, 16
+  index: -1
+gold04
+  rotate: false
+  xy: 2, 58
+  size: 41, 41
+  orig: 64, 64
+  offset: 12, 12
+  index: -1
+gold05
+  rotate: false
+  xy: 2, 16
+  size: 40, 40
+  orig: 64, 64
+  offset: 12, 12
+  index: -1

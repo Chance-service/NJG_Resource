@@ -1,0 +1,90 @@
+
+NGSceneB_01a_07.png
+size: 748,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a17
+  rotate: false
+  xy: 2, 341
+  size: 226, 33
+  orig: 226, 33
+  offset: 0, 0
+  index: -1
+a18
+  rotate: false
+  xy: 2, 411
+  size: 258, 32
+  orig: 258, 32
+  offset: 0, 0
+  index: -1
+a19
+  rotate: false
+  xy: 2, 376
+  size: 236, 33
+  orig: 236, 33
+  offset: 0, 0
+  index: -1
+a20
+  rotate: false
+  xy: 2, 509
+  size: 367, 33
+  orig: 367, 33
+  offset: 0, 0
+  index: -1
+b17
+  rotate: false
+  xy: 2, 474
+  size: 360, 33
+  orig: 360, 33
+  offset: 0, 0
+  index: -1
+b18
+  rotate: false
+  xy: 2, 643
+  size: 545, 33
+  orig: 545, 33
+  offset: 0, 0
+  index: -1
+b19
+  rotate: false
+  xy: 2, 544
+  size: 399, 27
+  orig: 399, 27
+  offset: 0, 0
+  index: -1
+b20
+  rotate: false
+  xy: 2, 445
+  size: 351, 27
+  orig: 351, 27
+  offset: 0, 0
+  index: -1
+c17
+  rotate: false
+  xy: 2, 608
+  size: 425, 33
+  orig: 425, 33
+  offset: 0, 0
+  index: -1
+c18
+  rotate: false
+  xy: 2, 573
+  size: 411, 33
+  orig: 411, 33
+  offset: 0, 0
+  index: -1
+c19
+  rotate: false
+  xy: 2, 678
+  size: 574, 33
+  orig: 574, 33
+  offset: 0, 0
+  index: -1
+c20
+  rotate: false
+  xy: 2, 713
+  size: 744, 33
+  orig: 744, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+NG2D_08_nobg.png
+size: 1127,1127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG3
+  rotate: false
+  xy: 2, 165
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+FG
+  rotate: false
+  xy: 544, 364
+  size: 540, 195
+  orig: 540, 195
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 286, 24
+  size: 33, 108
+  orig: 33, 108
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 192, 4
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 475, 24
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+H4
+  rotate: true
+  xy: 286, 3
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+L eye
+  rotate: true
+  xy: 435, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+L pupil
+  rotate: false
+  xy: 460, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: false
+  xy: 362, 10
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: true
+  xy: 392, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+R eye
+  rotate: false
+  xy: 407, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+R pupil
+  rotate: true
+  xy: 460, 16
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+acc L
+  rotate: true
+  xy: 493, 68
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+acc R
+  rotate: true
+  xy: 192, 59
+  size: 104, 175
+  orig: 104, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 544, 561
+  size: 227, 581
+  orig: 227, 581
+  offset: 0, 0
+  index: -1
+boob
+  rotate: false
+  xy: 369, 59
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 309, 8
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 339, 4
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eyes closed
+  rotate: false
+  xy: 396, 33
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 929, 194
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 717, 63
+  size: 210, 299
+  orig: 210, 299
+  offset: 0, 0
+  index: -1
+hand acc L
+  rotate: false
+  xy: 544, 167
+  size: 171, 195
+  orig: 171, 195
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 9
+  size: 188, 154
+  orig: 188, 154
+  offset: 0, 0
+  index: -1
+skirt L
+  rotate: true
+  xy: 551, 28
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+water wave
+  rotate: false
+  xy: 544, 790
+  size: 540, 335
+  orig: 540, 335
+  offset: 0, 0
+  index: -1

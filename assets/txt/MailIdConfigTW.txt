@@ -1,0 +1,116 @@
+id	繁中
+1	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您当前的竞技场排名是#v2#.</font>
+2	<font  color="#807e7d" face = "HelveticaBD22" >#v1# 在竞技场中被</font><font  color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22" >击败，排名从</font><font  color="#189906" face = "HelveticaBD22">#v3#</font><font  color="#807e7d" face = "HelveticaBD22">跌落至</font><font  color="#FF0000" face = "HelveticaBD22">#v4#</font><font  color="#807e7d" face = "HelveticaBD22">.</font>
+3	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的团体战中，你的队伍经过#v2#次战斗，失败了。获得奖励：</font>
+4	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的团体战中，你的队伍经过#v2#次战斗，失败了。获得奖励：</font>
+5	<font  color="#807e7d" face = "HelveticaBD22" size ="100">号外！你的队伍在 #v1# 团体战中，经过#v2#局战斗，获得优胜！<br/>下回也一定参加！</font>
+6	<font  color="#807e7d" face = "HelveticaBD22" size ="100">号外！你的队伍在 #v1# 团体战中，经过#v2#局战斗，不幸落败了！<br/>下局以优胜为目标加油吧！</font>
+7	<font  color="#807e7d" face = "HelveticaBD22" size ="100">月之卡：EEEE　剩余#v1#日</font>
+9	<font  color="#807e7d" face = "HelveticaBD22" >#v1# </font><font color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22" >被你彻底击败，排名从</font><font  color="#189906" face = "HelveticaBD22">#v3#</font><font  color="#807e7d" face = "HelveticaBD22">跌落至</font><font  color="#FF0000" face = "HelveticaBD22">#v4#</font>
+10	<font  color="#807e7d" face = "HelveticaBD22" >#v1# 接受了</font><font color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22" >的挑战，并赢得了战斗！</font>
+11	<font  color="#807e7d" face = "HelveticaBD22" >#v1# 挑战</font><font color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22" >，并输掉了战斗。</font>
+12	<font  color="#807e7d" face = "HelveticaBD22" >#v1# 被</font><font color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22" >击败，排名从</font><font  color="#189906" face = "HelveticaBD22">#v3#</font><font  color="#807e7d" face = "HelveticaBD22">跌落至</font><font  color="#FF0000" face = "HelveticaBD22">#v4#</font>
+13	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 日的战场战斗中，霜狼阵营胜利！获得100名声：</font>
+14	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 日的战场战斗中，霜狼阵营败北了！：</font>
+15	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 日的战场战斗中，火焰狮子座阵营胜利！获得100名声：</font>
+16	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 日的战场战斗中，火焰狮子座阵营败北了：</font>
+17	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 日的激流谷之战中挂机战斗。</font>
+18	<font  color="#807e7d" face = "HelveticaBD22" size ="100">通过远征物资收集第#v1#阶段，获得奖励！</font>
+19	<font  color="#807e7d" face = "HelveticaBD22" size ="100">远征物资收集结束。获得贡献排名第#v1#名的奖励！</font>
+20	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的联盟争霸战中，与#v2#和#v3#战斗中，你投资的队伍失败了。获得奖励：</font>
+21	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的联盟争霸战中，与#v2#和#v3#战斗中，你投资的队伍失败了。获得奖励：</font>
+22	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的联盟争霸战中，你的联盟#v2##v3##v4#成为了#v5#。获得奖励：</font>
+23	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 在世界BOSS中，进行#v2#次攻击并获得奖励。</font>
+24	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 在世界BOSS中，个人排行获得第#v2#名并获得奖励！</font>
+25	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 在世界BOSS中，对BOSS打出最后一击并获得奖励！</font>
+26	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的#v2#任务中，获得Lv#v3#评价。获得奖励。</font>
+27	<font  color="#807e7d" face = "HelveticaBD22" size ="100"> 向#v1# #v2#挑战成功！奖励已分发。按右键可查看调教重播。</font>
+28	<font  color="#807e7d" face = "HelveticaBD22" size ="100"> 向#v1# #v2#挑战成功！奖励已分发。按右键可查看调教重播。</font>
+29	<font  color="#807e7d" face = "HelveticaBD22" size ="100">第#v1#次王者之战中参加了#v2#淘汰赛。获得奖励：</font>
+30	<font  color="#807e7d" face = "HelveticaBD22" size ="100">>第#v1#次王者之战中，#v2#获得优胜。优胜服特别奖励:</font>
+31	<font  color="#807e7d" face = "HelveticaBD22" size ="100">伺服器开放竞技场排位第#v1#名。获得奖励：</font>
+32	<font  color="#807e7d" face = "HelveticaBD22" size ="100">伺服器开放竞技场排位第#v1#名。获得奖励：</font>
+32	<font  color="#807e7d" face = "HelveticaBD22" size ="100">伺服器开放经验值排行榜第#v1#d#v2#d#v3#d#v4#名。获得奖励：</font>
+32	<font  color="#807e7d" face = "HelveticaBD22" size ="100">伺服器开放经验值排行榜第#v1#d#v2#名。获得奖励：</font>
+33	<font  color="#807e7d" face = "HelveticaBD22" size ="100">蒋欢排行榜第#v1#名。总交换#v2#萌豆。获得奖励：</font>
+40	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在#v1#活动“皇室的阴谋”中，获得#v2#名。获得日常奖励：</font>
+41	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#的本季“皇室阴谋”中，获得#v2#名。获得季赛奖励：</font>
+50	<font  color="#807e7d" face = "HelveticaBD22" size ="100">谢谢分享“霍其帝国”。礼品将通过邮件发给您。</font>
+51	<font  color="#807e7d" face = "HelveticaBD22" size ="100">公会试炼奖励(贡献值): #v1#</font>
+55	<font  color="#807e7d" face = "HelveticaBD22" size ="100">帐号绑定成功！</font>
+56	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 完成"#v2#"远征获得奖励</font>
+57	<font  color="#807e7d" face = "HelveticaBD22" size ="100">“限时神将”活动已结束。主人您的排位为#v1#、请领取奖励。</font>
+58	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在 #v1# 的联盟争霸中，你的联盟#v2#获得了#v3#。获得了#v4#的奖励：</font>
+59	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 速报！<font  color="#189906" face = "HelveticaBD22">#v2#</font>从<font  color="#189906" face = "HelveticaBD22">神兵阁</font>中获得了<font  color="#dc1f1f" face = "HelveticaBD22">“#v3#”</font>。为参加活动的全体玩家奉上以下特别奖励：</font>
+60	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 公会BOSS自动启动失败。</font><br/><font  color="#189906" face = "HelveticaBD22">原因：当日BOSS还未被击败</font>
+61	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 公会BOSS自动启动失败。</font><br/><font  color="#189906" face = "HelveticaBD22">原因：当日公会声望不足</font>
+62	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 公会BOSS自动启动失败。</font><br/><font  color="#189906" face = "HelveticaBD22">原因：当日启动BOSS数不足</font>
+63	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 公会"#v2#"的</font><font  color="#189906" face = "HelveticaBD22">#v3#</font><font  color="#807e7d" face = "HelveticaBD22" size ="100">启动了公会BOSS。</font>
+64	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 公会BOSS被自动启动了。</font>
+65	<font  color="#807e7d" face = "HelveticaBD22" size ="100">今日大富豪会的最终返还比率为<font color="#189906" face = "HelveticaBD22">#v1#%</font>。基于您今天充值的钻石，将返还以下钻石。</font>
+66	<font  color="#807e7d" face = "HelveticaBD22" size ="100">圣女赠礼。</font>
+67	<font  color="#807e7d" face = "HelveticaBD22" size ="100">女神赠礼。</font>
+68	<font  color="#807e7d" face = "HelveticaBD22" size ="100">新手上路。</font>
+69	<font  color="#807e7d" face = "HelveticaBD22" size ="100">天降礼物。</font>
+100	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 您购买了商品！<br/><font color="#807e7d" face = "HelveticaBD22">现在赠送您#v2#</font>钻石。</font>
+101	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 您购买了月卡！<br/>从今日起30天有效。</font>
+102	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 您购买了礼包。<br/>收到#v2#商品。</font>
+103	<font  color="#807e7d" face = "HelveticaBD22" size ="100">公会邮件：</font><br/><font  color="#189906" face = "HelveticaBD22">#v1#</font>
+104	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您所属的联盟进入了32强。周三23:00~周四18:00，请在联盟介面组合抽选。如未抽选，由系统自动抽选。</font>
+105	<font  color="#807e7d" face = "HelveticaBD22" size ="100">【奖励】通过普通任务，奖励追加了宝石袋。以前通过的关卡，补发以下奖励。</font>
+106	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#向公会申请加入。</font><br/><font  color="#189906" face = "HelveticaBD22">等级：#v3#、职业：#v4#、战斗力：#v5#</font>
+107	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#拒绝了您的申请。<br/></font><font  color="#189906" face = "HelveticaBD22">拒绝理由：#v3#</font>
+108	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#拒绝了您的申请。<br/></font><font  color="#189906" face = "HelveticaBD22">拒绝理由：没有公会会长</font>
+109	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 恭喜#v2#成为了新会长！</font>
+110	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 旧会长因连续3天未获得贡献值已被免职，#v2#成为了新会长。</font>
+111	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 恭喜您成为了新会长！</font>
+112	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#拒绝了您的申请。<br/></font><font  color="#189906" face = "HelveticaBD22">拒绝理由："期限内未受理"</font>
+114	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 加入了<font  color="#189906" face = "HelveticaBD22">#v2#</font>公会。</font>
+115	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 新成员<font  color="#189906" face = "HelveticaBD22">#v2#</font>加入了公会，大家一起欢迎他！</font>
+116	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# <font  color="#189906" face = "HelveticaBD22">#v2#</font>的公会会长将您逐出了公会。</font>
+117	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# <font  color="#189906" face = "HelveticaBD22">#v2#</font>离开了公会。</font>
+118	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 会长将<font  color="#189906" face = "HelveticaBD22">#v2#</font>踢出了公会。</font>
+119	<font  color="#807e7d" face = "HelveticaBD22" size ="100">盟主收</font><br/><font  color="#807e7d" face = "HelveticaBD22">由于伺服器合并，已分发了“联盟改名卡"给大家，使用即可修改联盟名。只可修改1次。</font>
+130	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了消耗型周卡，从本日起7天有效。</font>
+131	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了基础月卡，从本日起30天有效。</font>
+132	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，达成指定条件来获取更多奖励吧！。</font>
+133	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，请记得在本月月底前领取奖励！。</font>
+134	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，您有购买的所有专属特权，每日都会统一为一封信发送给您！</font>
+135	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，奖励已发送完成！</font>
+136	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，奖励已发送完成！</font>
+137	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，请记得在該頁面上領取奖励！</font>
+138	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了#v2#，请记得在該頁面上領取奖励！</font>
+139	<font  color="#807e7d" face = "HelveticaBD22" size ="100">以下为今日的专属特权奖励！</font>
+140	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 我方公会向#v2#公会所占领的#v3#宣战了，去夺取对方资源吧！</font>
+141	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#公会向我方公会占领的#v3#宣战了，紧急增援！</font>
+142	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 我方公会向#v2#宣战了，去夺取对方资源吧！</font>
+143	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 你的公会占领了#v2#公会的#v3#！</font>
+144	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 城池#v3#被#v2#联盟占领了。防守时间内，盟主或副盟主可宣战反击。</font>
+145	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 防守时间后，开始向#v2#联盟反击！夺回城池#v3#吧！</font>
+146	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 防守时间后，#v2#联盟开始了#v3#城池的反击！立即整合守卫部队吧！</font>
+147	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 所属公会在“世界BOSS”中获得全服公会排名第#v2#名，请领取奖励。</font>
+148	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 所属公会在“世界BOSS”中补刀成功，请领取奖励吧！</font>
+149	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# 购买了周卡！<br/>今天开始即可生效！</font>
+150	<font  color="#807e7d" face = "HelveticaBD22" size ="100">您在 #v1# 购买了进阶月卡，从本日起30天有效。</font>
+4001	<font  color="#807e7d" face = "HelveticaBD22" size ="100">将#v1#加入好友！</font>
+4002	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#拒绝了你的好友申请。</font>
+5001	<font  color="#807e7d" face = "HelveticaBD22" size ="100">用#v1#购买成了#v2#聊天泡泡。从今天开始#v3#天内有效。</font>
+5002	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在“夏之风物诗”中，联盟成员(#v1#)完成了阶段#v2#的任务。恭喜！</font>
+5003	<font  color="#807e7d" face = "HelveticaBD22" size ="100">在“夏之风物诗”中完成阶段#v2#的任务，恭喜！送给您联盟宝箱。打开宝箱随机获取奖励。</font>
+5004	<font  color="#807e7d" face = "HelveticaBD22" size ="100">等级20后，新手限定8折的活动将开放，加油提升等级吧！</font>
+5005	<font  color="#807e7d" face = "HelveticaBD22" size ="100">等级30后，新手限定8折的活动将开放，加油提升等级吧！</font>
+7001	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#恭喜你获得公会城战每日奖励。</font>
+7002	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#您的公会在上一赛季公会城战中获得第#v2#名，获得了奖励。</font>
+7003	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1# #v2#公会未占有任何城池，<br/>22:00～隔日07:59可以选择一座不死鸟之城复活。</font>
+7004	<font  color="#807e7d" face = "HelveticaBD22" >#v1# </font><font  color="#807e7d" face = "HelveticaBD22" >在“新生招募”活动的积分排行中，您获得了第</font><font color="#FFA500" face = "HelveticaBD22">#v2#</font><font  color="#807e7d" face = "HelveticaBD22">名！</font>
+7005	<font  color="#807e7d" face = "HelveticaBD22" >伺服器合并已完成，谢谢合作。</font>
+7006	<font  color="#807e7d" face = "HelveticaBD22" >公会BOSS挑战失败。下一次请继续加油！</font>
+7007	<font  color="#807e7d" face = "HelveticaBD22" size ="100">恭喜通关活动讨伐。</font>
+7008	<font  color="#807e7d" face = "HelveticaBD22" size ="100">感谢参与活动讨伐。</font>
+7011	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#活动「净化计划」-个人排行榜排名第#v2#名。</font>
+7012	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#活动「净化计划」-最高积分排位第#v2#名。</font>
+7013	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#活动「净化计划」-你所属的队伍获得第1名。</font>
+7014	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#活动「净化计划」-你所属的队伍获得第2名。</font>
+7015	<font  color="#807e7d" face = "HelveticaBD22" size ="100">#v1#活动「净化计划」-以下为你尚未领取的奖励。</font>
+7016	<font  color="#807e7d" face = "HelveticaBD22" size ="100">恭喜你在活动「强敌挑战」中获得第#v1#名，以下是您的奖励。</font>
+7017	<font  color="#807e7d" face = "HelveticaBD22" size ="100">恭喜你在活动「试炼之塔」中获得第#v1#名，以下是您的奖励。</font>

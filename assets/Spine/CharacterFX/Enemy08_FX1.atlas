@@ -1,0 +1,97 @@
+
+Enemy08_FX1.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0/atkglow_F_00
+  rotate: true
+  xy: 210, 220
+  size: 58, 66
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+attack_0/atkglow_F_01
+  rotate: true
+  xy: 99, 12
+  size: 57, 83
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+attack_0/atkglow_F_02
+  rotate: true
+  xy: 2, 8
+  size: 59, 89
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+attack_0/atkglow_F_03
+  rotate: true
+  xy: 113, 142
+  size: 70, 89
+  orig: 123, 105
+  offset: 0, 3
+  index: -1
+attack_0/atkglow_F_04
+  rotate: false
+  xy: 194, 62
+  size: 84, 78
+  orig: 123, 105
+  offset: 0, 13
+  index: -1
+attack_0/atkglow_F_05
+  rotate: false
+  xy: 113, 214
+  size: 95, 64
+  orig: 123, 105
+  offset: 0, 26
+  index: -1
+attack_0/atkglow_F_06
+  rotate: false
+  xy: 2, 210
+  size: 109, 68
+  orig: 123, 105
+  offset: 12, 22
+  index: -1
+attack_0/atkglow_F_07
+  rotate: false
+  xy: 2, 140
+  size: 103, 68
+  orig: 123, 105
+  offset: 20, 23
+  index: -1
+attack_0/atkglow_F_08
+  rotate: false
+  xy: 2, 69
+  size: 95, 69
+  orig: 123, 105
+  offset: 28, 25
+  index: -1
+attack_0/atkglow_F_09
+  rotate: false
+  xy: 107, 71
+  size: 85, 69
+  orig: 123, 105
+  offset: 38, 31
+  index: -1
+attack_0/atkglow_F_10
+  rotate: false
+  xy: 184, 11
+  size: 57, 49
+  orig: 123, 105
+  offset: 47, 51
+  index: -1
+attack_0/atkglow_F_11
+  rotate: true
+  xy: 243, 16
+  size: 44, 34
+  orig: 123, 105
+  offset: 59, 65
+  index: -1
+attack_0/atkglow_F_12
+  rotate: false
+  xy: 210, 191
+  size: 31, 27
+  orig: 123, 105
+  offset: 72, 68
+  index: -1

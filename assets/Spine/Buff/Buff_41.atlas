@@ -1,0 +1,83 @@
+
+Buff_41.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_00
+  rotate: false
+  xy: 170, 237
+  size: 84, 103
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_01
+  rotate: false
+  xy: 256, 237
+  size: 84, 103
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_02
+  rotate: false
+  xy: 170, 133
+  size: 84, 102
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_03
+  rotate: false
+  xy: 0, 129
+  size: 83, 103
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_04
+  rotate: false
+  xy: 85, 23
+  size: 79, 106
+  orig: 98, 112
+  offset: 10, 3
+  index: -1
+fire_05
+  rotate: false
+  xy: 166, 23
+  size: 79, 106
+  orig: 98, 112
+  offset: 10, 3
+  index: -1
+fire_06
+  rotate: false
+  xy: 0, 234
+  size: 82, 106
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_07
+  rotate: false
+  xy: 84, 236
+  size: 84, 104
+  orig: 98, 112
+  offset: 8, 3
+  index: -1
+fire_08
+  rotate: false
+  xy: 0, 24
+  size: 83, 103
+  orig: 98, 112
+  offset: 9, 3
+  index: -1
+fire_09
+  rotate: false
+  xy: 256, 132
+  size: 80, 103
+  orig: 98, 112
+  offset: 10, 3
+  index: -1
+fire_10
+  rotate: false
+  xy: 85, 131
+  size: 83, 103
+  orig: 98, 112
+  offset: 8, 3
+  index: -1

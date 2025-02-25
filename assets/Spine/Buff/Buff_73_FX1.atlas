@@ -1,0 +1,146 @@
+
+Buff_73_FX1.png
+size: 482,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F/F_092
+  rotate: false
+  xy: 249, 273
+  size: 70, 69
+  orig: 272, 112
+  offset: 101, 20
+  index: -1
+F/F_093
+  rotate: false
+  xy: 321, 273
+  size: 69, 69
+  orig: 272, 112
+  offset: 87, 20
+  index: -1
+F/F_094
+  rotate: true
+  xy: 246, 204
+  size: 67, 69
+  orig: 272, 112
+  offset: 73, 20
+  index: -1
+F/F_095
+  rotate: true
+  xy: 245, 138
+  size: 64, 69
+  orig: 272, 112
+  offset: 61, 20
+  index: -1
+F/F_096
+  rotate: true
+  xy: 240, 75
+  size: 61, 68
+  orig: 272, 112
+  offset: 49, 20
+  index: -1
+F/F_097
+  rotate: true
+  xy: 388, 146
+  size: 57, 67
+  orig: 272, 112
+  offset: 39, 21
+  index: -1
+F/F_098
+  rotate: false
+  xy: 251, 413
+  size: 229, 67
+  orig: 272, 112
+  offset: 31, 21
+  index: -1
+F/F_099
+  rotate: false
+  xy: 2, 80
+  size: 236, 66
+  orig: 272, 112
+  offset: 24, 21
+  index: -1
+F/F_100
+  rotate: false
+  xy: 2, 216
+  size: 242, 66
+  orig: 272, 112
+  offset: 18, 21
+  index: -1
+F/F_101
+  rotate: false
+  xy: 2, 350
+  size: 246, 64
+  orig: 272, 112
+  offset: 14, 22
+  index: -1
+F/F_102
+  rotate: false
+  xy: 2, 416
+  size: 247, 64
+  orig: 272, 112
+  offset: 13, 22
+  index: -1
+F/F_103
+  rotate: false
+  xy: 2, 284
+  size: 245, 64
+  orig: 272, 112
+  offset: 13, 22
+  index: -1
+F/F_104
+  rotate: false
+  xy: 2, 148
+  size: 241, 66
+  orig: 272, 112
+  offset: 13, 21
+  index: -1
+F/F_105
+  rotate: false
+  xy: 2, 12
+  size: 235, 66
+  orig: 272, 112
+  offset: 13, 21
+  index: -1
+F/F_106
+  rotate: false
+  xy: 250, 344
+  size: 227, 67
+  orig: 272, 112
+  offset: 13, 21
+  index: -1
+F/F_107
+  rotate: true
+  xy: 239, 15
+  size: 58, 68
+  orig: 272, 112
+  offset: 173, 20
+  index: -1
+F/F_108
+  rotate: true
+  xy: 316, 139
+  size: 62, 68
+  orig: 272, 112
+  offset: 158, 20
+  index: -1
+F/F_109
+  rotate: true
+  xy: 388, 205
+  size: 66, 69
+  orig: 272, 112
+  offset: 143, 20
+  index: -1
+F/F_110
+  rotate: true
+  xy: 317, 203
+  size: 68, 69
+  orig: 272, 112
+  offset: 128, 20
+  index: -1
+F/F_111
+  rotate: false
+  xy: 392, 273
+  size: 69, 69
+  orig: 272, 112
+  offset: 113, 20
+  index: -1

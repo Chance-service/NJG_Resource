@@ -1,0 +1,1425 @@
+
+WorldBoss_04_FX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_04
+  rotate: false
+  xy: 955, 166
+  size: 67, 115
+  orig: 116, 140
+  offset: 22, 12
+  index: -1
+atk/atk_06
+  rotate: true
+  xy: 818, 5
+  size: 34, 44
+  orig: 116, 140
+  offset: 13, 25
+  index: -1
+effect/A04
+  rotate: true
+  xy: 260, 218
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_02
+  rotate: false
+  xy: 256, 2
+  size: 134, 214
+  orig: 140, 272
+  offset: 6, 58
+  index: -1
+skill_0/Long electric/Long electric2_03
+  rotate: false
+  xy: 513, 492
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_04
+  rotate: false
+  xy: 655, 497
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_05
+  rotate: false
+  xy: 504, 218
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_06
+  rotate: false
+  xy: 504, 218
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_07
+  rotate: false
+  xy: 646, 218
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_08
+  rotate: false
+  xy: 788, 223
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_08
+  rotate: false
+  xy: 392, 2
+  size: 77, 258
+  orig: 140, 272
+  offset: 33, 0
+  index: -1
+skill_0/Long electric/Long electric_10
+  rotate: true
+  xy: 797, 517
+  size: 38, 217
+  orig: 140, 272
+  offset: 50, 15
+  index: -1
+skill_0/beam/beam_12
+  rotate: true
+  xy: 930, 283
+  size: 232, 66
+  orig: 256, 90
+  offset: 11, 11
+  index: -1
+skill_0/beam/dust_00
+  rotate: false
+  xy: 308, 218
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 4
+  index: -1
+skill_1/boom/boom_04
+  rotate: false
+  xy: 955, 71
+  size: 66, 93
+  orig: 96, 136
+  offset: 14, 17
+  index: -1
+skill_1/electric/electric_09
+  rotate: false
+  xy: 955, 5
+  size: 65, 64
+  orig: 80, 64
+  offset: 15, 0
+  index: -1
+skill_1/electric2/electric2_00
+  rotate: false
+  xy: 864, 4
+  size: 38, 35
+  orig: 83, 68
+  offset: 21, 13
+  index: -1
+skill_1/electric2/electric2_01
+  rotate: false
+  xy: 864, 4
+  size: 38, 35
+  orig: 83, 68
+  offset: 21, 13
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_00
+  rotate: false
+  xy: 2, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_01
+  rotate: false
+  xy: 2, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_02
+  rotate: false
+  xy: 260, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_03
+  rotate: false
+  xy: 2, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_04
+  rotate: false
+  xy: 260, 508
+  size: 251, 256
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_05
+  rotate: true
+  xy: 2, 2
+  size: 246, 252
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_06
+  rotate: false
+  xy: 518, 771
+  size: 247, 251
+  orig: 256, 256
+  offset: 2, 1
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_07
+  rotate: false
+  xy: 260, 262
+  size: 242, 244
+  orig: 256, 256
+  offset: 8, 7
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_08
+  rotate: false
+  xy: 767, 786
+  size: 234, 236
+  orig: 256, 256
+  offset: 16, 15
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_09
+  rotate: false
+  xy: 797, 557
+  size: 225, 227
+  orig: 256, 256
+  offset: 23, 21
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_10
+  rotate: false
+  xy: 471, 8
+  size: 206, 208
+  orig: 256, 256
+  offset: 35, 30
+  index: -1
+skill_2/billi/billi_05
+  rotate: true
+  xy: 679, 36
+  size: 180, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_06
+  rotate: true
+  xy: 817, 41
+  size: 180, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_01
+  rotate: false
+  xy: 1003, 894
+  size: 14, 17
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_02
+  rotate: true
+  xy: 797, 497
+  size: 18, 17
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_03
+  rotate: true
+  xy: 1003, 964
+  size: 22, 19
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_04
+  rotate: true
+  xy: 998, 398
+  size: 26, 21
+  orig: 120, 120
+  offset: 15, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_05
+  rotate: true
+  xy: 1003, 988
+  size: 34, 19
+  orig: 120, 120
+  offset: 22, 56
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_06
+  rotate: false
+  xy: 904, 13
+  size: 45, 26
+  orig: 120, 120
+  offset: 27, 52
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_07
+  rotate: false
+  xy: 729, 2
+  size: 46, 32
+  orig: 120, 120
+  offset: 31, 50
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_08
+  rotate: false
+  xy: 679, 2
+  size: 48, 32
+  orig: 120, 120
+  offset: 35, 50
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_09
+  rotate: false
+  xy: 777, 2
+  size: 39, 32
+  orig: 120, 120
+  offset: 46, 49
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_11
+  rotate: false
+  xy: 1003, 913
+  size: 14, 25
+  orig: 120, 120
+  offset: 78, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_12
+  rotate: false
+  xy: 767, 771
+  size: 12, 13
+  orig: 120, 120
+  offset: 85, 48
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_13
+  rotate: false
+  xy: 781, 773
+  size: 10, 11
+  orig: 120, 120
+  offset: 89, 46
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_01
+  rotate: false
+  xy: 998, 426
+  size: 15, 36
+  orig: 120, 120
+  offset: 13, 35
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_02
+  rotate: false
+  xy: 471, 224
+  size: 28, 36
+  orig: 120, 120
+  offset: 13, 35
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_03
+  rotate: false
+  xy: 356, 227
+  size: 28, 33
+  orig: 120, 120
+  offset: 16, 38
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_05
+  rotate: true
+  xy: 930, 265
+  size: 16, 23
+  orig: 120, 120
+  offset: 36, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_06
+  rotate: false
+  xy: 998, 358
+  size: 16, 16
+  orig: 120, 120
+  offset: 42, 58
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_07
+  rotate: false
+  xy: 998, 376
+  size: 20, 20
+  orig: 120, 120
+  offset: 45, 56
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_08
+  rotate: true
+  xy: 930, 223
+  size: 22, 16
+  orig: 120, 120
+  offset: 50, 58
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_09
+  rotate: false
+  xy: 834, 500
+  size: 21, 15
+  orig: 120, 120
+  offset: 61, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_01
+  rotate: false
+  xy: 1003, 940
+  size: 19, 22
+  orig: 120, 120
+  offset: 13, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_03
+  rotate: true
+  xy: 998, 488
+  size: 27, 24
+  orig: 120, 120
+  offset: 18, 57
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_04
+  rotate: false
+  xy: 930, 247
+  size: 23, 16
+  orig: 120, 120
+  offset: 30, 65
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_07
+  rotate: true
+  xy: 998, 464
+  size: 22, 24
+  orig: 120, 120
+  offset: 61, 52
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_08
+  rotate: true
+  xy: 816, 497
+  size: 18, 16
+  orig: 120, 120
+  offset: 72, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_09
+  rotate: false
+  xy: 857, 505
+  size: 11, 10
+  orig: 120, 120
+  offset: 85, 59
+  index: -1
+
+WorldBoss_04_FX12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/A05
+  rotate: false
+  xy: 380, 9
+  size: 42, 44
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_09
+  rotate: false
+  xy: 2, 750
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric2_10
+  rotate: false
+  xy: 286, 757
+  size: 122, 265
+  orig: 140, 272
+  offset: 17, 0
+  index: -1
+skill_0/Long electric/Long electric2_11
+  rotate: false
+  xy: 286, 757
+  size: 122, 265
+  orig: 140, 272
+  offset: 17, 0
+  index: -1
+skill_0/Long electric/Long electric2_12
+  rotate: true
+  xy: 174, 9
+  size: 39, 204
+  orig: 140, 272
+  offset: 58, 24
+  index: -1
+skill_0/Long electric/Long electric_02
+  rotate: false
+  xy: 424, 17
+  size: 140, 137
+  orig: 140, 272
+  offset: 0, 135
+  index: -1
+skill_0/Long electric/Long electric_03
+  rotate: false
+  xy: 2, 476
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_04
+  rotate: false
+  xy: 144, 750
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_05
+  rotate: false
+  xy: 2, 202
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_06
+  rotate: false
+  xy: 2, 202
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_07
+  rotate: false
+  xy: 144, 476
+  size: 140, 272
+  orig: 140, 272
+  offset: 0, 0
+  index: -1
+skill_0/beam/beam_00
+  rotate: true
+  xy: 374, 55
+  size: 232, 48
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_08
+  rotate: true
+  xy: 352, 523
+  size: 232, 59
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_11
+  rotate: true
+  xy: 312, 55
+  size: 232, 60
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/beam_13
+  rotate: true
+  xy: 286, 523
+  size: 232, 64
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_14
+  rotate: true
+  xy: 316, 289
+  size: 232, 62
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_1/boom/boom_02
+  rotate: true
+  xy: 930, 4
+  size: 52, 84
+  orig: 96, 136
+  offset: 20, 9
+  index: -1
+skill_1/boom/boom_06
+  rotate: true
+  xy: 929, 934
+  size: 88, 93
+  orig: 96, 136
+  offset: 3, 34
+  index: -1
+skill_1/electric2/electric2_05
+  rotate: false
+  xy: 872, 2
+  size: 56, 54
+  orig: 83, 68
+  offset: 13, 6
+  index: -1
+skill_1/electric2/electric2_06
+  rotate: false
+  xy: 872, 2
+  size: 56, 54
+  orig: 83, 68
+  offset: 13, 6
+  index: -1
+skill_1/glow_1
+  rotate: false
+  xy: 380, 289
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_00
+  rotate: false
+  xy: 380, 331
+  size: 170, 169
+  orig: 256, 256
+  offset: 44, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_01
+  rotate: false
+  xy: 2, 29
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_03
+  rotate: false
+  xy: 144, 303
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_04
+  rotate: false
+  xy: 413, 674
+  size: 171, 171
+  orig: 256, 256
+  offset: 43, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_06
+  rotate: false
+  xy: 552, 331
+  size: 170, 169
+  orig: 256, 256
+  offset: 44, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_07
+  rotate: false
+  xy: 758, 505
+  size: 170, 170
+  orig: 256, 256
+  offset: 44, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_09
+  rotate: false
+  xy: 759, 677
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_10
+  rotate: false
+  xy: 562, 159
+  size: 169, 170
+  orig: 256, 256
+  offset: 43, 44
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_12
+  rotate: false
+  xy: 586, 677
+  size: 171, 171
+  orig: 256, 256
+  offset: 42, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_13
+  rotate: false
+  xy: 583, 850
+  size: 171, 172
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_16
+  rotate: true
+  xy: 413, 502
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_18
+  rotate: false
+  xy: 756, 850
+  size: 171, 172
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_19
+  rotate: false
+  xy: 586, 504
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_11
+  rotate: false
+  xy: 410, 847
+  size: 171, 175
+  orig: 256, 256
+  offset: 56, 47
+  index: -1
+skill_1/skull_bullet/skull_bullet_00
+  rotate: false
+  xy: 931, 660
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_02
+  rotate: true
+  xy: 144, 225
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_03
+  rotate: false
+  xy: 930, 522
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_00
+  rotate: true
+  xy: 931, 797
+  size: 135, 91
+  orig: 180, 136
+  offset: 20, 45
+  index: -1
+skill_2/billi/billi_01
+  rotate: true
+  xy: 931, 797
+  size: 135, 91
+  orig: 180, 136
+  offset: 20, 45
+  index: -1
+skill_2/billi/billi_02
+  rotate: true
+  xy: 738, 3
+  size: 154, 132
+  orig: 180, 136
+  offset: 10, 4
+  index: -1
+skill_2/billi/billi_03
+  rotate: true
+  xy: 865, 183
+  size: 156, 122
+  orig: 180, 136
+  offset: 19, 14
+  index: -1
+skill_2/billi/billi_04
+  rotate: true
+  xy: 733, 159
+  size: 170, 130
+  orig: 180, 136
+  offset: 10, 0
+  index: -1
+skill_2/billi/billi_07
+  rotate: false
+  xy: 566, 21
+  size: 170, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_09
+  rotate: true
+  xy: 862, 341
+  size: 162, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_10
+  rotate: true
+  xy: 174, 50
+  size: 173, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_11
+  rotate: true
+  xy: 424, 156
+  size: 173, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_12
+  rotate: true
+  xy: 724, 331
+  size: 171, 136
+  orig: 180, 136
+  offset: 2, 0
+  index: -1
+skill_2/billi/billi_13
+  rotate: false
+  xy: 872, 58
+  size: 150, 123
+  orig: 180, 136
+  offset: 14, 13
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_10
+  rotate: true
+  xy: 282, 272
+  size: 29, 27
+  orig: 120, 120
+  offset: 61, 48
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_04
+  rotate: true
+  xy: 989, 312
+  size: 27, 26
+  orig: 120, 120
+  offset: 23, 45
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_02
+  rotate: true
+  xy: 2, 2
+  size: 25, 26
+  orig: 120, 120
+  offset: 13, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_05
+  rotate: false
+  xy: 286, 494
+  size: 28, 27
+  orig: 120, 120
+  offset: 38, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_06
+  rotate: true
+  xy: 282, 240
+  size: 30, 26
+  orig: 120, 120
+  offset: 46, 51
+  index: -1
+
+WorldBoss_04_FX13.png
+size: 855,855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/atk_00
+  rotate: false
+  xy: 459, 287
+  size: 69, 40
+  orig: 116, 140
+  offset: 10, 89
+  index: -1
+atk/atk_01
+  rotate: false
+  xy: 779, 551
+  size: 74, 73
+  orig: 116, 140
+  offset: 14, 57
+  index: -1
+atk/atk_02
+  rotate: false
+  xy: 779, 626
+  size: 74, 106
+  orig: 116, 140
+  offset: 14, 24
+  index: -1
+atk/atk_03
+  rotate: false
+  xy: 779, 734
+  size: 74, 119
+  orig: 116, 140
+  offset: 14, 11
+  index: -1
+atk/atk_05
+  rotate: false
+  xy: 197, 235
+  size: 75, 102
+  orig: 116, 140
+  offset: 14, 12
+  index: -1
+effect/A02
+  rotate: false
+  xy: 679, 80
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+effect/A03
+  rotate: false
+  xy: 679, 130
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+skill_0/Long electric/Long electric_09
+  rotate: true
+  xy: 407, 753
+  size: 45, 231
+  orig: 140, 272
+  offset: 43, 14
+  index: -1
+skill_0/beam/beam_01
+  rotate: true
+  xy: 58, 216
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_02
+  rotate: true
+  xy: 59, 450
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_03
+  rotate: false
+  xy: 173, 743
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_04
+  rotate: false
+  xy: 173, 692
+  size: 232, 49
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_05
+  rotate: true
+  xy: 114, 450
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/beam_06
+  rotate: true
+  xy: 2, 216
+  size: 232, 54
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_0/beam/beam_07
+  rotate: true
+  xy: 2, 450
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_09
+  rotate: false
+  xy: 407, 800
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 18
+  index: -1
+skill_0/beam/beam_10
+  rotate: false
+  xy: 173, 798
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 17
+  index: -1
+skill_0/beam/dust_01
+  rotate: false
+  xy: 724, 136
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 3
+  index: -1
+skill_0/beam/dust_02
+  rotate: true
+  xy: 809, 325
+  size: 48, 44
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+skill_1/boom/boom_01
+  rotate: true
+  xy: 205, 91
+  size: 50, 79
+  orig: 96, 136
+  offset: 22, 5
+  index: -1
+skill_1/boom/boom_03
+  rotate: true
+  xy: 2, 5
+  size: 58, 89
+  orig: 96, 136
+  offset: 17, 11
+  index: -1
+skill_1/boom/boom_05
+  rotate: true
+  xy: 127, 2
+  size: 78, 87
+  orig: 96, 136
+  offset: 8, 31
+  index: -1
+skill_1/boom/boom_07
+  rotate: false
+  xy: 545, 661
+  size: 95, 90
+  orig: 96, 136
+  offset: 0, 35
+  index: -1
+skill_1/boom/boom_08
+  rotate: false
+  xy: 110, 220
+  size: 85, 90
+  orig: 96, 136
+  offset: 2, 37
+  index: -1
+skill_1/boom/boom_09
+  rotate: false
+  xy: 205, 143
+  size: 86, 90
+  orig: 96, 136
+  offset: 2, 38
+  index: -1
+skill_1/boom/boom_10
+  rotate: false
+  xy: 373, 279
+  size: 84, 87
+  orig: 96, 136
+  offset: 4, 40
+  index: -1
+skill_1/boom/boom_11
+  rotate: false
+  xy: 537, 243
+  size: 81, 82
+  orig: 96, 136
+  offset: 6, 44
+  index: -1
+skill_1/boom/boom_12
+  rotate: false
+  xy: 466, 593
+  size: 77, 80
+  orig: 96, 136
+  offset: 8, 45
+  index: -1
+skill_1/boom/boom_13
+  rotate: false
+  xy: 304, 70
+  size: 73, 78
+  orig: 96, 136
+  offset: 10, 45
+  index: -1
+skill_1/boom/boom_14
+  rotate: true
+  xy: 539, 2
+  size: 69, 73
+  orig: 96, 136
+  offset: 12, 47
+  index: -1
+skill_1/electric/electric_00
+  rotate: false
+  xy: 730, 572
+  size: 47, 47
+  orig: 80, 64
+  offset: 25, 14
+  index: -1
+skill_1/electric/electric_01
+  rotate: false
+  xy: 730, 572
+  size: 47, 47
+  orig: 80, 64
+  offset: 25, 14
+  index: -1
+skill_1/electric/electric_02
+  rotate: false
+  xy: 304, 4
+  size: 75, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_03
+  rotate: false
+  xy: 730, 311
+  size: 77, 62
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_04
+  rotate: false
+  xy: 705, 180
+  size: 72, 63
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_05
+  rotate: true
+  xy: 400, 551
+  size: 68, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_06
+  rotate: true
+  xy: 400, 551
+  size: 68, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_07
+  rotate: false
+  xy: 717, 245
+  size: 76, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+skill_1/electric/electric_08
+  rotate: true
+  xy: 400, 478
+  size: 71, 64
+  orig: 80, 64
+  offset: 9, 0
+  index: -1
+skill_1/electric/electric_10
+  rotate: true
+  xy: 607, 159
+  size: 56, 64
+  orig: 80, 64
+  offset: 24, 0
+  index: -1
+skill_1/electric/electric_11
+  rotate: true
+  xy: 607, 159
+  size: 56, 64
+  orig: 80, 64
+  offset: 24, 0
+  index: -1
+skill_1/electric2/electric2_02
+  rotate: false
+  xy: 772, 135
+  size: 45, 43
+  orig: 83, 68
+  offset: 18, 9
+  index: -1
+skill_1/electric2/electric2_03
+  rotate: true
+  xy: 795, 259
+  size: 50, 49
+  orig: 83, 68
+  offset: 16, 7
+  index: -1
+skill_1/electric2/electric2_04
+  rotate: true
+  xy: 391, 621
+  size: 52, 53
+  orig: 83, 68
+  offset: 15, 5
+  index: -1
+skill_1/electric2/electric2_07
+  rotate: true
+  xy: 779, 180
+  size: 63, 60
+  orig: 83, 68
+  offset: 9, 3
+  index: -1
+skill_1/electric2/electric2_08
+  rotate: true
+  xy: 614, 3
+  size: 74, 64
+  orig: 83, 68
+  offset: 4, 1
+  index: -1
+skill_1/electric2/electric2_09
+  rotate: true
+  xy: 609, 79
+  size: 78, 68
+  orig: 83, 68
+  offset: 2, 0
+  index: -1
+skill_1/electric2/electric2_10
+  rotate: false
+  xy: 547, 327
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_11
+  rotate: false
+  xy: 547, 327
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_12
+  rotate: true
+  xy: 467, 202
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_13
+  rotate: true
+  xy: 467, 117
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_14
+  rotate: true
+  xy: 469, 32
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_15
+  rotate: true
+  xy: 537, 158
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_16
+  rotate: true
+  xy: 537, 158
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_17
+  rotate: true
+  xy: 539, 73
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_18
+  rotate: false
+  xy: 632, 287
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/electric2/electric2_19
+  rotate: false
+  xy: 620, 217
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ball/erengyball_00
+  rotate: false
+  xy: 216, 3
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_01
+  rotate: false
+  xy: 379, 191
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_02
+  rotate: false
+  xy: 379, 103
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_03
+  rotate: false
+  xy: 381, 15
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_04
+  rotate: false
+  xy: 466, 505
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_05
+  rotate: false
+  xy: 554, 573
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_06
+  rotate: false
+  xy: 554, 485
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_07
+  rotate: false
+  xy: 642, 533
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_08
+  rotate: false
+  xy: 642, 445
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_09
+  rotate: false
+  xy: 466, 417
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_10
+  rotate: false
+  xy: 554, 397
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_11
+  rotate: false
+  xy: 642, 357
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_12
+  rotate: false
+  xy: 730, 463
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_13
+  rotate: false
+  xy: 730, 375
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ball/erengyball_14
+  rotate: false
+  xy: 459, 329
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_15
+  rotate: false
+  xy: 2, 684
+  size: 169, 169
+  orig: 256, 256
+  offset: 44, 44
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_12
+  rotate: true
+  xy: 344, 368
+  size: 108, 102
+  orig: 256, 256
+  offset: 82, 84
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_13
+  rotate: false
+  xy: 293, 150
+  size: 84, 88
+  orig: 256, 256
+  offset: 88, 91
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_14
+  rotate: true
+  xy: 311, 615
+  size: 75, 78
+  orig: 256, 256
+  offset: 94, 94
+  index: -1
+skill_1/skull_bullet/skull_bullet_01
+  rotate: true
+  xy: 642, 699
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_04
+  rotate: true
+  xy: 642, 621
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 1
+  index: -1
+skill_1/skull_bullet/skull_bullet_05
+  rotate: false
+  xy: 244, 477
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_06
+  rotate: false
+  xy: 188, 339
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_07
+  rotate: true
+  xy: 407, 675
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_08
+  rotate: false
+  xy: 110, 312
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_09
+  rotate: true
+  xy: 641, 777
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_10
+  rotate: false
+  xy: 266, 340
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_11
+  rotate: false
+  xy: 322, 478
+  size: 76, 135
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_12
+  rotate: false
+  xy: 127, 82
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_13
+  rotate: true
+  xy: 173, 614
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_1/skull_bullet/skull_bullet_14
+  rotate: false
+  xy: 166, 476
+  size: 76, 136
+  orig: 76, 140
+  offset: 0, 0
+  index: -1
+skill_2/billi/billi_08
+  rotate: true
+  xy: 2, 65
+  size: 149, 123
+  orig: 180, 136
+  offset: 8, 13
+  index: -1
+skill_2/billi/billi_14
+  rotate: false
+  xy: 274, 240
+  size: 97, 98
+  orig: 180, 136
+  offset: 53, 38
+  index: -1

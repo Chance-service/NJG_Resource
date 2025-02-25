@@ -1,0 +1,118 @@
+
+Boss_510.png
+size: 662,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor1
+  rotate: false
+  xy: 2, 117
+  size: 229, 221
+  orig: 229, 221
+  offset: 0, 0
+  index: -1
+armor2
+  rotate: false
+  xy: 306, 304
+  size: 193, 148
+  orig: 193, 148
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 306, 454
+  size: 198, 206
+  orig: 198, 206
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 506, 427
+  size: 143, 233
+  orig: 143, 233
+  offset: 0, 0
+  index: -1
+feet1
+  rotate: false
+  xy: 329, 48
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+feet2
+  rotate: false
+  xy: 483, 23
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+feet3
+  rotate: false
+  xy: 550, 37
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+flowerbody
+  rotate: true
+  xy: 233, 115
+  size: 187, 188
+  orig: 187, 188
+  offset: 0, 0
+  index: -1
+flowereye
+  rotate: false
+  xy: 106, 18
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+flowerhead
+  rotate: false
+  xy: 2, 340
+  size: 302, 320
+  orig: 302, 320
+  offset: 0, 0
+  index: -1
+flowermouth
+  rotate: true
+  xy: 483, 135
+  size: 167, 161
+  orig: 167, 161
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 483, 78
+  size: 125, 55
+  orig: 125, 55
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 501, 330
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 423, 39
+  size: 263, 58
+  orig: 263, 58
+  offset: 0, 0
+  index: -1
+whiteL
+  rotate: true
+  xy: 2, 2
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+whiteR
+  rotate: false
+  xy: 226, 21
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1

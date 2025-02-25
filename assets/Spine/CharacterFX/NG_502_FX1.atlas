@@ -1,0 +1,167 @@
+
+NG_502_FX1.png
+size: 811,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1/skill_0/gathering_01
+  rotate: true
+  xy: 284, 322
+  size: 111, 233
+  orig: 117, 233
+  offset: 6, 0
+  index: -1
+FX1/skill_0/gathering_02
+  rotate: true
+  xy: 284, 210
+  size: 110, 233
+  orig: 117, 233
+  offset: 7, 0
+  index: -1
+FX1/skill_0/gathering_03
+  rotate: true
+  xy: 608, 4
+  size: 104, 201
+  orig: 117, 233
+  offset: 12, 16
+  index: -1
+FX1/skill_0/gathering_04
+  rotate: true
+  xy: 609, 121
+  size: 81, 161
+  orig: 117, 233
+  offset: 17, 38
+  index: -1
+FX1/skill_0/gathering_05
+  rotate: false
+  xy: 519, 333
+  size: 49, 100
+  orig: 117, 233
+  offset: 27, 70
+  index: -1
+skill_1/OceanWave/Wave_05
+  rotate: false
+  xy: 2, 15
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_06
+  rotate: false
+  xy: 305, 15
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_07
+  rotate: true
+  xy: 608, 204
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_08
+  rotate: false
+  xy: 306, 110
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_09
+  rotate: true
+  xy: 702, 204
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_10
+  rotate: false
+  xy: 2, 717
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_11
+  rotate: false
+  xy: 306, 717
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_12
+  rotate: true
+  xy: 610, 507
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_13
+  rotate: false
+  xy: 306, 623
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_14
+  rotate: false
+  xy: 306, 529
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_15
+  rotate: true
+  xy: 96, 226
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_16
+  rotate: true
+  xy: 190, 226
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_17
+  rotate: false
+  xy: 284, 435
+  size: 301, 92
+  orig: 302, 105
+  offset: 1, 0
+  index: -1
+skill_1/OceanWave/Wave_18
+  rotate: true
+  xy: 704, 507
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_19
+  rotate: true
+  xy: 2, 203
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_20
+  rotate: false
+  xy: 2, 623
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_21
+  rotate: false
+  xy: 2, 529
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+skill_1/OceanWave/Wave_22
+  rotate: false
+  xy: 2, 109
+  size: 302, 92
+  orig: 302, 105
+  offset: 0, 0
+  index: -1

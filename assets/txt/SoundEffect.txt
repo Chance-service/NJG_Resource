@@ -1,0 +1,8 @@
+音效id（从1000开始）	音效模块名	音效文件名
+1000	强化装备	qianghua.mp3
+1001	强化卡牌	qianghua.mp3
+1002	强化宝物	qianghua.mp3
+1003	增加强者好感	haogan.mp3
+1004	分解	fenjie.mp3
+1005	重生	chongsheng.mp3
+1006	进阶	jinjie.mp3

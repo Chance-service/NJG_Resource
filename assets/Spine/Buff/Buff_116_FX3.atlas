@@ -1,0 +1,97 @@
+
+Buff_116_FX3.png
+size: 605,605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0000
+  rotate: false
+  xy: 244, 55
+  size: 71, 197
+  orig: 116, 210
+  offset: 11, 13
+  index: -1
+1_0001
+  rotate: true
+  xy: 384, 315
+  size: 87, 143
+  orig: 116, 210
+  offset: 11, 7
+  index: -1
+1_0002
+  rotate: false
+  xy: 469, 94
+  size: 87, 168
+  orig: 116, 210
+  offset: 10, 3
+  index: -1
+1_0003
+  rotate: true
+  xy: 317, 6
+  size: 86, 172
+  orig: 116, 210
+  offset: 10, 19
+  index: -1
+1_0004
+  rotate: false
+  xy: 297, 393
+  size: 82, 210
+  orig: 116, 210
+  offset: 10, 0
+  index: -1
+1_0005
+  rotate: false
+  xy: 381, 404
+  size: 82, 199
+  orig: 116, 210
+  offset: 11, 11
+  index: -1
+1_0006
+  rotate: false
+  xy: 387, 132
+  size: 80, 181
+  orig: 116, 210
+  offset: 14, 24
+  index: -1
+1_0007
+  rotate: false
+  xy: 317, 102
+  size: 68, 184
+  orig: 116, 210
+  offset: 32, 16
+  index: -1
+1_0008
+  rotate: false
+  xy: 529, 264
+  size: 74, 156
+  orig: 116, 210
+  offset: 30, 19
+  index: -1
+1_0009
+  rotate: false
+  xy: 465, 422
+  size: 92, 181
+  orig: 116, 210
+  offset: 12, 14
+  index: -1
+add_1
+  rotate: false
+  xy: 2, 12
+  size: 240, 240
+  orig: 576, 576
+  offset: 168, 168
+  index: -1
+charge_wind_1
+  rotate: false
+  xy: 2, 254
+  size: 293, 349
+  orig: 293, 349
+  offset: 0, 0
+  index: -1
+wai_yumao
+  rotate: false
+  xy: 297, 288
+  size: 85, 103
+  orig: 106, 145
+  offset: 11, 21
+  index: -1

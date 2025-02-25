@@ -1,0 +1,482 @@
+
+Boss_509_FX1.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT/2_0000
+  rotate: true
+  xy: 484, 2
+  size: 36, 25
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+EFFECT/2_0001
+  rotate: false
+  xy: 467, 190
+  size: 40, 30
+  orig: 41, 32
+  offset: 0, 1
+  index: -1
+EFFECT/2_0002
+  rotate: true
+  xy: 551, 57
+  size: 43, 30
+  orig: 43, 32
+  offset: 0, 1
+  index: -1
+EFFECT/2_0003
+  rotate: false
+  xy: 530, 24
+  size: 44, 31
+  orig: 44, 33
+  offset: 0, 1
+  index: -1
+EFFECT/2_0004
+  rotate: false
+  xy: 504, 65
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+EFFECT/2_0005
+  rotate: true
+  xy: 465, 65
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+EFFECT/2_0006
+  rotate: false
+  xy: 426, 27
+  size: 44, 36
+  orig: 44, 38
+  offset: 0, 1
+  index: -1
+EFFECT/2_0007
+  rotate: false
+  xy: 509, 205
+  size: 42, 37
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+EFFECT/2_0008
+  rotate: false
+  xy: 576, 17
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+EFFECT/2_0009
+  rotate: true
+  xy: 310, 2
+  size: 39, 37
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+EFFECT/2_0010
+  rotate: true
+  xy: 619, 85
+  size: 37, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+EFFECT/2_0011
+  rotate: false
+  xy: 619, 46
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+EFFECT/A01
+  rotate: false
+  xy: 310, 129
+  size: 98, 48
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+EFFECT/A02
+  rotate: true
+  xy: 553, 228
+  size: 51, 60
+  orig: 52, 60
+  offset: 1, 0
+  index: -1
+EFFECT/A03
+  rotate: true
+  xy: 615, 221
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+EFFECT/A04
+  rotate: false
+  xy: 410, 120
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+EFFECT/A05
+  rotate: true
+  xy: 408, 65
+  size: 53, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+EFFECT/cloud01
+  rotate: true
+  xy: 534, 386
+  size: 152, 110
+  orig: 152, 110
+  offset: 0, 0
+  index: -1
+EFFECT/cloud02
+  rotate: false
+  xy: 449, 540
+  size: 141, 142
+  orig: 144, 145
+  offset: 3, 3
+  index: -1
+EFFECT/cloudlight
+  rotate: false
+  xy: 2, 502
+  size: 182, 180
+  orig: 182, 180
+  offset: 0, 0
+  index: -1
+EFFECT/d_0000
+  rotate: false
+  xy: 119, 325
+  size: 91, 175
+  orig: 360, 640
+  offset: 142, 231
+  index: -1
+EFFECT/d_0001
+  rotate: false
+  xy: 2, 324
+  size: 115, 176
+  orig: 360, 640
+  offset: 118, 230
+  index: -1
+EFFECT/d_0002
+  rotate: false
+  xy: 186, 508
+  size: 116, 174
+  orig: 360, 640
+  offset: 116, 231
+  index: -1
+EFFECT/d_0003
+  rotate: false
+  xy: 2, 148
+  size: 114, 174
+  orig: 360, 640
+  offset: 116, 231
+  index: -1
+EFFECT/d_0004
+  rotate: false
+  xy: 212, 334
+  size: 110, 172
+  orig: 360, 640
+  offset: 117, 232
+  index: -1
+EFFECT/d_0005
+  rotate: false
+  xy: 324, 373
+  size: 106, 164
+  orig: 360, 640
+  offset: 117, 236
+  index: -1
+EFFECT/d_0006
+  rotate: false
+  xy: 432, 384
+  size: 100, 153
+  orig: 360, 640
+  offset: 118, 242
+  index: -1
+EFFECT/d_0007
+  rotate: false
+  xy: 103, 7
+  size: 93, 139
+  orig: 360, 640
+  offset: 119, 249
+  index: -1
+EFFECT/d_0008
+  rotate: false
+  xy: 592, 555
+  size: 84, 127
+  orig: 360, 640
+  offset: 121, 253
+  index: -1
+EFFECT/d_0009
+  rotate: false
+  xy: 198, 24
+  size: 70, 122
+  orig: 360, 640
+  offset: 125, 257
+  index: -1
+EFFECT/d_0010
+  rotate: false
+  xy: 212, 218
+  size: 103, 114
+  orig: 360, 640
+  offset: 130, 262
+  index: -1
+EFFECT/d_0011
+  rotate: false
+  xy: 2, 8
+  size: 99, 138
+  orig: 360, 640
+  offset: 135, 263
+  index: -1
+EFFECT/full_light_tex_ground_01
+  rotate: false
+  xy: 592, 542
+  size: 35, 11
+  orig: 64, 24
+  offset: 10, 3
+  index: -1
+EFFECT/full_light_tex_ground_02
+  rotate: false
+  xy: 198, 4
+  size: 37, 18
+  orig: 64, 24
+  offset: 11, 1
+  index: -1
+EFFECT/full_light_tex_ground_03
+  rotate: true
+  xy: 663, 175
+  size: 44, 19
+  orig: 64, 24
+  offset: 6, 1
+  index: -1
+EFFECT/full_light_tex_ground_04
+  rotate: false
+  xy: 511, 102
+  size: 56, 24
+  orig: 64, 24
+  offset: 2, 0
+  index: -1
+EFFECT/full_light_tex_ground_05
+  rotate: false
+  xy: 426, 2
+  size: 56, 23
+  orig: 64, 24
+  offset: 1, 1
+  index: -1
+EFFECT/full_light_tex_ground_06
+  rotate: false
+  xy: 625, 124
+  size: 57, 22
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+EFFECT/full_light_tex_ground_07
+  rotate: false
+  xy: 472, 40
+  size: 56, 23
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+EFFECT/full_light_tex_ground_08
+  rotate: false
+  xy: 553, 204
+  size: 60, 22
+  orig: 64, 24
+  offset: 4, 1
+  index: -1
+EFFECT/full_light_tex_ground_09
+  rotate: true
+  xy: 511, 3
+  size: 35, 16
+  orig: 64, 24
+  offset: 29, 0
+  index: -1
+EFFECT/lvdan_0000
+  rotate: true
+  xy: 646, 400
+  size: 75, 36
+  orig: 95, 54
+  offset: 10, 9
+  index: -1
+EFFECT/lvdan_0002
+  rotate: false
+  xy: 349, 5
+  size: 75, 36
+  orig: 95, 54
+  offset: 10, 9
+  index: -1
+EFFECT/lvdan_0004
+  rotate: true
+  xy: 625, 148
+  size: 71, 36
+  orig: 95, 54
+  offset: 14, 9
+  index: -1
+EFFECT/lvdan_0006
+  rotate: true
+  xy: 587, 130
+  size: 72, 36
+  orig: 95, 54
+  offset: 13, 9
+  index: -1
+EFFECT/lvdan_0008
+  rotate: true
+  xy: 549, 128
+  size: 74, 36
+  orig: 95, 54
+  offset: 11, 9
+  index: -1
+EFFECT/lvdan_0010
+  rotate: true
+  xy: 511, 128
+  size: 75, 36
+  orig: 95, 54
+  offset: 10, 9
+  index: -1
+EFFECT/lvdan_0012
+  rotate: true
+  xy: 646, 477
+  size: 76, 36
+  orig: 95, 54
+  offset: 9, 9
+  index: -1
+EFFECT/pillar_light_01_tex_star_01
+  rotate: true
+  xy: 619, 277
+  size: 64, 59
+  orig: 64, 64
+  offset: 0, 3
+  index: -1
+EFFECT/pillar_light_01_tex_star_02
+  rotate: true
+  xy: 476, 322
+  size: 60, 56
+  orig: 64, 64
+  offset: 2, 4
+  index: -1
+EFFECT/pillar_light_01_tex_star_03
+  rotate: false
+  xy: 553, 281
+  size: 64, 60
+  orig: 64, 64
+  offset: 0, 2
+  index: -1
+EFFECT/s_dark_00
+  rotate: true
+  xy: 509, 244
+  size: 76, 42
+  orig: 120, 68
+  offset: 40, 14
+  index: -1
+EFFECT/s_dark_01
+  rotate: true
+  xy: 465, 112
+  size: 76, 44
+  orig: 120, 68
+  offset: 36, 12
+  index: -1
+EFFECT/s_dark_02
+  rotate: false
+  xy: 212, 172
+  size: 94, 44
+  orig: 120, 68
+  offset: 18, 12
+  index: -1
+EFFECT/s_dark_03
+  rotate: false
+  xy: 310, 43
+  size: 94, 41
+  orig: 120, 68
+  offset: 12, 12
+  index: -1
+EFFECT/s_dark_04
+  rotate: false
+  xy: 310, 86
+  size: 96, 41
+  orig: 120, 68
+  offset: 9, 11
+  index: -1
+EFFECT/s_dark_05
+  rotate: true
+  xy: 469, 222
+  size: 98, 38
+  orig: 120, 68
+  offset: 7, 11
+  index: -1
+EFFECT/saint1
+  rotate: false
+  xy: 304, 539
+  size: 143, 143
+  orig: 168, 168
+  offset: 12, 13
+  index: -1
+EFFECT/ult_00
+  rotate: false
+  xy: 534, 343
+  size: 148, 41
+  orig: 150, 50
+  offset: 0, 3
+  index: -1
+EFFECT/ult_01
+  rotate: true
+  xy: 270, 22
+  size: 148, 38
+  orig: 150, 50
+  offset: 0, 4
+  index: -1
+EFFECT/ult_02
+  rotate: false
+  xy: 317, 202
+  size: 148, 28
+  orig: 150, 50
+  offset: 0, 9
+  index: -1
+EFFECT/ult_03
+  rotate: false
+  xy: 118, 148
+  size: 148, 22
+  orig: 150, 50
+  offset: 0, 12
+  index: -1
+EFFECT/ult_04
+  rotate: false
+  xy: 308, 179
+  size: 147, 21
+  orig: 150, 50
+  offset: 1, 12
+  index: -1
+EFFECT/ultkii_00
+  rotate: true
+  xy: 118, 172
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+EFFECT/ultkii_01
+  rotate: true
+  xy: 165, 173
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+EFFECT/ultkii_02
+  rotate: false
+  xy: 324, 326
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+EFFECT/ultkii_03
+  rotate: false
+  xy: 317, 279
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+EFFECT/ultkii_04
+  rotate: false
+  xy: 317, 232
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1

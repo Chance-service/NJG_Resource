@@ -1,0 +1,2074 @@
+
+NGUI_53_Gacha1Summon_Fire.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_29
+  rotate: false
+  xy: 1436, 21
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_38
+  rotate: false
+  xy: 1446, 1711
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_39
+  rotate: false
+  xy: 1446, 1379
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_40
+  rotate: false
+  xy: 1446, 1047
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_41
+  rotate: false
+  xy: 1446, 715
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_42
+  rotate: false
+  xy: 1436, 383
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 1798, 29
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+GlowGold
+  rotate: false
+  xy: 1947, 62
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_06
+  rotate: false
+  xy: 1798, 131
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_058
+  rotate: false
+  xy: 1284, 39
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_45
+  rotate: false
+  xy: 2, 761
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_46
+  rotate: true
+  xy: 2, 39
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_47
+  rotate: false
+  xy: 724, 761
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+black shady
+  rotate: false
+  xy: 1900, 49
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+white shady
+  rotate: true
+  xy: 1900, 2
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_30
+  rotate: false
+  xy: 1436, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_43
+  rotate: false
+  xy: 1446, 1692
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_44
+  rotate: false
+  xy: 1446, 1360
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_45
+  rotate: false
+  xy: 1446, 1028
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_46
+  rotate: false
+  xy: 1446, 696
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_47
+  rotate: false
+  xy: 1436, 364
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+GlowPink
+  rotate: false
+  xy: 1798, 43
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_07
+  rotate: false
+  xy: 1798, 112
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_059
+  rotate: false
+  xy: 1284, 20
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_48
+  rotate: false
+  xy: 2, 742
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_49
+  rotate: true
+  xy: 2, 20
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_50
+  rotate: false
+  xy: 724, 742
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_31
+  rotate: false
+  xy: 1436, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_48
+  rotate: false
+  xy: 1446, 1692
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_49
+  rotate: false
+  xy: 1446, 1360
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_50
+  rotate: false
+  xy: 1446, 1028
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_51
+  rotate: false
+  xy: 1446, 696
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_52
+  rotate: false
+  xy: 1436, 364
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_08
+  rotate: false
+  xy: 1798, 112
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_060
+  rotate: false
+  xy: 1284, 20
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_51
+  rotate: false
+  xy: 2, 742
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_52
+  rotate: true
+  xy: 2, 20
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_53
+  rotate: false
+  xy: 724, 742
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+35-01
+  rotate: false
+  xy: 724, 1159
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_32
+  rotate: false
+  xy: 1238, 3
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_33
+  rotate: false
+  xy: 1600, 3
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_34
+  rotate: false
+  xy: 1670, 817
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_35
+  rotate: false
+  xy: 1670, 455
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Feather/Feather
+  rotate: false
+  xy: 1446, 1027
+  size: 220, 150
+  orig: 220, 150
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_074
+  rotate: true
+  xy: 724, 1611
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_075
+  rotate: true
+  xy: 1176, 1179
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_076
+  rotate: true
+  xy: 1366, 1611
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_077
+  rotate: false
+  xy: 1238, 365
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_09
+  rotate: true
+  xy: 2, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_10
+  rotate: true
+  xy: 254, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_11
+  rotate: true
+  xy: 724, 762
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_12
+  rotate: true
+  xy: 976, 762
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+SumonExp/sparkle
+  rotate: false
+  xy: 2, 247
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_061
+  rotate: true
+  xy: 516, 107
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_062
+  rotate: true
+  xy: 724, 1007
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_inktrans/ink_54
+  rotate: false
+  xy: 2, 761
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+aura/aura_11
+  rotate: false
+  xy: 1018, 550
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_12
+  rotate: false
+  xy: 1018, 338
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_13
+  rotate: false
+  xy: 1818, 1399
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_14
+  rotate: false
+  xy: 1818, 1187
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+radient light
+  rotate: false
+  xy: 516, 259
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_36
+  rotate: false
+  xy: 1662, 247
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Feather/Feather_SR
+  rotate: false
+  xy: 306, 609
+  size: 220, 150
+  orig: 220, 150
+  offset: 0, 0
+  index: -1
+Feather/Feather_SSR
+  rotate: false
+  xy: 528, 609
+  size: 220, 150
+  orig: 220, 150
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_078
+  rotate: false
+  xy: 306, 1403
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_079
+  rotate: false
+  xy: 306, 761
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_080
+  rotate: true
+  xy: 998, 1613
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_081
+  rotate: true
+  xy: 998, 1181
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Flare
+  rotate: false
+  xy: 1640, 1583
+  size: 385, 460
+  orig: 385, 460
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_53
+  rotate: true
+  xy: 2, 29
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_54
+  rotate: true
+  xy: 334, 37
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_55
+  rotate: true
+  xy: 666, 37
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_56
+  rotate: true
+  xy: 750, 609
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_57
+  rotate: true
+  xy: 998, 37
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_58
+  rotate: true
+  xy: 1082, 609
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_59
+  rotate: true
+  xy: 1330, 37
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_60
+  rotate: true
+  xy: 1414, 609
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_13
+  rotate: true
+  xy: 1662, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_063
+  rotate: false
+  xy: 2, 1323
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_064
+  rotate: false
+  xy: 2, 601
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_065
+  rotate: false
+  xy: 154, 1323
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_FX_Flash/FX_Flash_066
+  rotate: false
+  xy: 154, 601
+  size: 150, 720
+  orig: 150, 720
+  offset: 0, 0
+  index: -1
+UP_icon/icon_00
+  rotate: false
+  xy: 1746, 1043
+  size: 280, 270
+  orig: 280, 270
+  offset: 0, 0
+  index: -1
+UP_texture/texture_086
+  rotate: false
+  xy: 738, 1688
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_087
+  rotate: false
+  xy: 738, 1331
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_088
+  rotate: false
+  xy: 1746, 686
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+ray_26
+  rotate: false
+  xy: 1746, 1315
+  size: 300, 266
+  orig: 300, 266
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feather_pa/Feather_pa_082
+  rotate: false
+  xy: 2, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_083
+  rotate: true
+  xy: 2, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_084
+  rotate: true
+  xy: 434, 1608
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_085
+  rotate: false
+  xy: 644, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_086
+  rotate: true
+  xy: 2, 534
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_087
+  rotate: true
+  xy: 644, 534
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_088
+  rotate: false
+  xy: 1076, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_089
+  rotate: true
+  xy: 1076, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_090
+  rotate: false
+  xy: 1508, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_091
+  rotate: false
+  xy: 1286, 324
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_092
+  rotate: true
+  xy: 2, 102
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_093
+  rotate: true
+  xy: 644, 102
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_33
+  rotate: true
+  xy: 1286, 2
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_34
+  rotate: false
+  xy: 1718, 861
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_35
+  rotate: false
+  xy: 1718, 324
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+aura/aura_15
+  rotate: false
+  xy: 1823, 112
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feather_pa/Feather_pa_094
+  rotate: false
+  xy: 2, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_095
+  rotate: true
+  xy: 2, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_096
+  rotate: true
+  xy: 434, 1608
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_097
+  rotate: false
+  xy: 644, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_098
+  rotate: true
+  xy: 2, 534
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_099
+  rotate: true
+  xy: 644, 534
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_100
+  rotate: false
+  xy: 1076, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_101
+  rotate: true
+  xy: 1076, 966
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_102
+  rotate: false
+  xy: 1508, 1398
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_103
+  rotate: false
+  xy: 1286, 324
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_104
+  rotate: true
+  xy: 2, 102
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+Feather_pa/Feather_pa_105
+  rotate: true
+  xy: 644, 102
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_36
+  rotate: true
+  xy: 1286, 2
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_37
+  rotate: false
+  xy: 1718, 861
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_38
+  rotate: false
+  xy: 1718, 324
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+aura/aura_16
+  rotate: false
+  xy: 1823, 112
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feather_pa/Feather_pa_106
+  rotate: false
+  xy: 2, 1404
+  size: 430, 640
+  orig: 430, 640
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_61
+  rotate: true
+  xy: 2, 832
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_62
+  rotate: true
+  xy: 2, 260
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_63
+  rotate: true
+  xy: 334, 832
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_64
+  rotate: true
+  xy: 334, 260
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_65
+  rotate: true
+  xy: 434, 1474
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_66
+  rotate: true
+  xy: 666, 902
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_67
+  rotate: true
+  xy: 766, 1474
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_68
+  rotate: true
+  xy: 666, 330
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_69
+  rotate: false
+  xy: 1253, 1714
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_70
+  rotate: false
+  xy: 1253, 1382
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_71
+  rotate: false
+  xy: 1253, 1050
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_72
+  rotate: false
+  xy: 1253, 718
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_73
+  rotate: false
+  xy: 1253, 386
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_74
+  rotate: false
+  xy: 1253, 54
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_14
+  rotate: true
+  xy: 998, 1229
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_15
+  rotate: true
+  xy: 998, 984
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_16
+  rotate: true
+  xy: 998, 739
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_17
+  rotate: true
+  xy: 998, 494
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_39
+  rotate: true
+  xy: 716, 8
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+UP_texture/texture_089
+  rotate: true
+  xy: 2, 2
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_090
+  rotate: true
+  xy: 359, 2
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+aura/aura_17
+  rotate: false
+  xy: 1825, 1834
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_18
+  rotate: false
+  xy: 1825, 1622
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_19
+  rotate: false
+  xy: 1825, 1410
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_20
+  rotate: false
+  xy: 1825, 1198
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_21
+  rotate: false
+  xy: 1825, 986
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_22
+  rotate: false
+  xy: 1825, 774
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_23
+  rotate: false
+  xy: 1825, 562
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_24
+  rotate: false
+  xy: 1825, 350
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_25
+  rotate: false
+  xy: 1825, 138
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_37
+  rotate: false
+  xy: 574, 1682
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_38
+  rotate: false
+  xy: 2, 1350
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_39
+  rotate: false
+  xy: 936, 1682
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_40
+  rotate: false
+  xy: 936, 1320
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_41
+  rotate: false
+  xy: 2, 988
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_42
+  rotate: false
+  xy: 364, 988
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_43
+  rotate: false
+  xy: 1298, 1682
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_44
+  rotate: false
+  xy: 1298, 1320
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_45
+  rotate: false
+  xy: 1298, 958
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_46
+  rotate: false
+  xy: 2, 626
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_47
+  rotate: false
+  xy: 2, 264
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_48
+  rotate: false
+  xy: 671, 626
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_49
+  rotate: false
+  xy: 1291, 596
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_50
+  rotate: false
+  xy: 671, 264
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_51
+  rotate: false
+  xy: 1653, 596
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_52
+  rotate: false
+  xy: 1660, 1682
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_53
+  rotate: false
+  xy: 1660, 1320
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+AirFlow/airflow_54
+  rotate: false
+  xy: 1660, 958
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_75
+  rotate: false
+  xy: 2, 1712
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_76
+  rotate: false
+  xy: 364, 1350
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+FlowOrange/OrangeFlow_77
+  rotate: false
+  xy: 726, 988
+  size: 570, 330
+  orig: 570, 330
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_40
+  rotate: true
+  xy: 1291, 274
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+UP_BG/BG
+  rotate: false
+  xy: 364, 444
+  size: 305, 542
+  orig: 305, 542
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_089
+  rotate: true
+  xy: 1033, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_090
+  rotate: true
+  xy: 1515, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture/texture_091
+  rotate: false
+  xy: 1033, 631
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_092
+  rotate: false
+  xy: 1033, 274
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_093
+  rotate: false
+  xy: 364, 87
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_094
+  rotate: true
+  xy: 2, 6
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_095
+  rotate: true
+  xy: 622, 6
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+aura/aura_26
+  rotate: false
+  xy: 1828, 384
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LightRing/LightRing_18
+  rotate: true
+  xy: 247, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_19
+  rotate: true
+  xy: 499, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_20
+  rotate: true
+  xy: 751, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_21
+  rotate: true
+  xy: 1003, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_22
+  rotate: true
+  xy: 1255, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_23
+  rotate: true
+  xy: 1507, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_24
+  rotate: true
+  xy: 1759, 1472
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_25
+  rotate: true
+  xy: 2, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_26
+  rotate: true
+  xy: 254, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_27
+  rotate: true
+  xy: 506, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_28
+  rotate: true
+  xy: 758, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_29
+  rotate: true
+  xy: 1010, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_30
+  rotate: true
+  xy: 1262, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_31
+  rotate: true
+  xy: 1514, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_32
+  rotate: true
+  xy: 1766, 1227
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_33
+  rotate: true
+  xy: 2, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_34
+  rotate: true
+  xy: 254, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_35
+  rotate: true
+  xy: 506, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_36
+  rotate: true
+  xy: 758, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_37
+  rotate: true
+  xy: 1010, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_38
+  rotate: true
+  xy: 1262, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_39
+  rotate: true
+  xy: 1514, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_40
+  rotate: true
+  xy: 1766, 982
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_41
+  rotate: true
+  xy: 2, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_42
+  rotate: true
+  xy: 254, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_43
+  rotate: true
+  xy: 506, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_44
+  rotate: true
+  xy: 758, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_45
+  rotate: true
+  xy: 1010, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_46
+  rotate: true
+  xy: 1262, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_47
+  rotate: true
+  xy: 1514, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_48
+  rotate: true
+  xy: 1766, 737
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_49
+  rotate: true
+  xy: 2, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_50
+  rotate: true
+  xy: 254, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_51
+  rotate: true
+  xy: 506, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_52
+  rotate: true
+  xy: 758, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_53
+  rotate: true
+  xy: 1010, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_54
+  rotate: true
+  xy: 1262, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_55
+  rotate: true
+  xy: 1514, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_56
+  rotate: true
+  xy: 1766, 492
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_57
+  rotate: true
+  xy: 2, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_58
+  rotate: true
+  xy: 254, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_59
+  rotate: true
+  xy: 506, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_60
+  rotate: true
+  xy: 758, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_61
+  rotate: true
+  xy: 1010, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_62
+  rotate: true
+  xy: 1262, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_63
+  rotate: true
+  xy: 1514, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_64
+  rotate: true
+  xy: 1766, 247
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_65
+  rotate: true
+  xy: 2, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_66
+  rotate: true
+  xy: 254, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_67
+  rotate: true
+  xy: 506, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_68
+  rotate: true
+  xy: 758, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_69
+  rotate: true
+  xy: 1010, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_70
+  rotate: true
+  xy: 1262, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_71
+  rotate: true
+  xy: 1514, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_72
+  rotate: true
+  xy: 1766, 2
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+SumonExp/rainbow
+  rotate: false
+  xy: 2, 1477
+  size: 243, 238
+  orig: 243, 238
+  offset: 0, 0
+  index: -1
+aura/aura_27
+  rotate: false
+  xy: 2, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_28
+  rotate: false
+  xy: 214, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_29
+  rotate: false
+  xy: 426, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_30
+  rotate: false
+  xy: 638, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_31
+  rotate: false
+  xy: 850, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_32
+  rotate: false
+  xy: 1062, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_33
+  rotate: false
+  xy: 1274, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_34
+  rotate: false
+  xy: 1486, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+aura/aura_35
+  rotate: false
+  xy: 1698, 1717
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_55
+  rotate: false
+  xy: 1610, 1196
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_41
+  rotate: false
+  xy: 2, 1503
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_42
+  rotate: false
+  xy: 2, 966
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+SoildLight/SoildLight_43
+  rotate: false
+  xy: 324, 1503
+  size: 320, 535
+  orig: 320, 535
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_091
+  rotate: false
+  xy: 2, 484
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_092
+  rotate: false
+  xy: 324, 1021
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_093
+  rotate: false
+  xy: 646, 1558
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_094
+  rotate: false
+  xy: 2, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_095
+  rotate: false
+  xy: 918, 1558
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_096
+  rotate: false
+  xy: 1190, 1558
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_097
+  rotate: false
+  xy: 1462, 1558
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_098
+  rotate: false
+  xy: 1734, 1558
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_099
+  rotate: true
+  xy: 646, 1286
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_100
+  rotate: true
+  xy: 1128, 1286
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_101
+  rotate: true
+  xy: 596, 1014
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_102
+  rotate: true
+  xy: 1078, 1014
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_103
+  rotate: true
+  xy: 1560, 924
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_104
+  rotate: false
+  xy: 274, 484
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_105
+  rotate: false
+  xy: 274, 2
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_106
+  rotate: false
+  xy: 546, 532
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_107
+  rotate: false
+  xy: 546, 50
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_108
+  rotate: false
+  xy: 818, 532
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_109
+  rotate: false
+  xy: 818, 50
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_110
+  rotate: false
+  xy: 1090, 532
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_111
+  rotate: false
+  xy: 1090, 50
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_112
+  rotate: false
+  xy: 1362, 442
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_113
+  rotate: false
+  xy: 1634, 442
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+UP_texture 2/texture 2_114
+  rotate: true
+  xy: 1362, 170
+  size: 270, 480
+  orig: 270, 480
+  offset: 0, 0
+  index: -1
+
+NGUI_53_Gacha1Summon_Fire12.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFlow/airflow_56
+  rotate: false
+  xy: 2, 622
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_73
+  rotate: false
+  xy: 622, 370
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+LightRing/LightRing_74
+  rotate: false
+  xy: 867, 474
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+SumonExp/SemiO
+  rotate: false
+  xy: 726, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SumonExp/T_glow_12
+  rotate: false
+  xy: 984, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SumonExp/T_glow_15
+  rotate: false
+  xy: 1242, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SumonExp/starlight
+  rotate: false
+  xy: 2, 260
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+T_light_fy010
+  rotate: false
+  xy: 1500, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UP_texture/texture_096
+  rotate: true
+  xy: 2, 2
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+UP_texture/texture_097
+  rotate: false
+  xy: 364, 265
+  size: 256, 355
+  orig: 256, 355
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1758, 726
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+white circle
+  rotate: false
+  xy: 364, 622
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Buff_56_FX1.png
+size: 249,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img02
+  rotate: false
+  xy: 0, 0
+  size: 31, 249
+  orig: 98, 269
+  offset: 35, 9
+  index: -1

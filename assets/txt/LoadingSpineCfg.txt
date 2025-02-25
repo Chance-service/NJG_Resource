@@ -1,0 +1,9 @@
+{
+  "spinePath": "Spine/huatuo", 
+  "spineName": "huatuo", 
+  "scaleX": 1.0,
+  "scaleY": 1.0, 
+  "offsetX": 30.0, 
+  "offsetY": -15.0, 
+  "actionName": "Stand"
+}

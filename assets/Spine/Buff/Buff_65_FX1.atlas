@@ -1,0 +1,13 @@
+
+Buff_65_FX1.png
+size: 94,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+charge_fire_3
+  rotate: false
+  xy: 0, 55
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1

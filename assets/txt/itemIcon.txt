@@ -1,0 +1,9 @@
+id	item	type	env	scale	offsetX	offsetY
+1	_	_	CommTabStorage.currency	0.536	0	0
+2	_	_	SummonPrice	0.47	0	0
+3	106102	3	CommTabStorage.currency	1.34	0	0
+4	106102	3	SummonPrice	1.34	0	0
+5	106102	3	CommItem	2.68	0	0
+6	_	_	CommItem	1.34	0	0
+7	_	_	ShopItem	0.63	0	0
+8	_	_	ShopPrice	0.47	0	0

@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold28"><p style="margin:10px"> 失落记忆强化 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ● 透过地下城，可以获得忍娘的失落记忆强化石，透过消耗失落记忆强化石可提升失落记忆等级。</p></font><br/><br/><font color="#24b23e" face="Barlow-SemiBold28"><p style="margin:10px">失落记忆升星</p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ● 透过召唤获得的失落记忆碎片，可用于该失落记忆的升星，获得更多的提升。</p></font>

@@ -1,0 +1,231 @@
+Role	Q1	Soft1	Hard1	Rapid1	Audio1	Q2	Soft2	Hard2	Rapid2	Audio2	Q3	Soft3	Hard3	Rapid3	Audio3	Q4	Soft4	Hard4	Rapid4	Audio4	Audio5
+10103																					
+10203																					
+10303																					
+10403																					
+10503	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+10603																					
+10703																					
+10803	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+10903	0	2	-1	0	Panting_03_001.mp3	25	2	0	1	Panting_03_002.mp3	55	1	3	2	Panting_03_003.mp3	70	0	2	4	Panting_03_004.mp3	Panting_03_005.mp3
+11103	0	2	0	-1	Panting_04_001.mp3	25	1	2	0	Panting_04_002.mp3	50	0	2	1	Panting_04_003.mp3	75	1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+11203	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+11303	0	2	-1	0	Panting_05_001.mp3	25	2	0	1	Panting_05_002.mp3	55	1	3	2	Panting_05_003.mp3	70	0	2	4	Panting_05_004.mp3	Panting_05_005.mp3
+11403																					
+11503																					
+11603	0	2	1	0	Panting_04_001.mp3	20	1	2	1	Panting_04_002.mp3	50	-1	3	2	Panting_04_003.mp3	70	-1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+11703																					
+11803	0	-1	2	0	Panting_06_001.mp3	20	2	1	1	Panting_06_002.mp3	45	1	2	3	Panting_06_003.mp3	70	-1	3	2	Panting_06_004.mp3	Panting_06_005.mp3
+11903																					
+12003	0	1	2	1	Panting_04_001.mp3	20	0	3	2	Panting_04_002.mp3	45	0	2	3	Panting_04_003.mp3	70	-1	3	3	Panting_04_004.mp3	Panting_04_005.mp3
+12103																					
+12203	0	2	-1	0	Panting_03_001.mp3	25	2	0	1	Panting_03_002.mp3	55	1	3	2	Panting_03_003.mp3	70	0	2	4	Panting_03_004.mp3	Panting_03_005.mp3
+12303																					
+12403	0	2	1	0	Panting_01_001.mp3	20	1	2	1	Panting_01_002.mp3	50	-1	3	2	Panting_01_003.mp3	70	-1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+12503																					
+12603																					
+12703																					
+12803																					
+12903																					
+13003	0	2	1	0	Panting_01_001.mp3	20	1	2	1	Panting_01_002.mp3	50	-1	3	2	Panting_01_003.mp3	70	-1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+13103																					
+13203																					
+13303																					
+13403																					
+13503	0	-1	2	0	Panting_01_001.mp3	20	2	1	1	Panting_01_002.mp3	45	1	2	3	Panting_01_003.mp3	70	-1	3	2	Panting_01_004.mp3	Panting_01_006.mp3
+13603	0	2	1	0	Panting_06_001.mp3	20	1	2	1	Panting_06_002.mp3	50	-1	3	2	Panting_06_003.mp3	70	-1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+13703	0	2	-1	0	Panting_02_001.mp3	25	2	0	1	Panting_02_002.mp3	55	1	3	2	Panting_02_003.mp3	70	0	2	4	Panting_02_004.mp3	Panting_02_005.mp3
+13803	0	2	1	0	Panting_06_001.mp3	20	1	2	1	Panting_06_002.mp3	50	-1	3	2	Panting_06_003.mp3	70	-1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+13903																					
+14003																					
+14103																					
+14203																					
+14303	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+14403																					
+14503																					
+14603																					
+14703	0	2	-1	0	Panting_04_001.mp3	25	2	0	1	Panting_04_002.mp3	55	1	3	2	Panting_04_003.mp3	70	0	2	4	Panting_04_004.mp3	Panting_04_005.mp3
+14803	0	2	-1	0	Panting_02_001.mp3	25	2	0	1	Panting_02_002.mp3	55	1	3	2	Panting_02_003.mp3	70	0	2	4	Panting_02_004.mp3	Panting_02_005.mp3
+14903																					
+15003																					
+15103																					
+15203	0	-1	2	0	Panting_04_001.mp3	20	2	1	1	Panting_04_002.mp3	45	1	2	3	Panting_04_003.mp3	70	-1	3	2	Panting_04_004.mp3	Panting_04_005.mp3
+15303																					
+15403																					
+15503	0	2	0	-1	Panting_01_001.mp3	25	1	2	0	Panting_01_002.mp3	50	0	2	1	Panting_01_003.mp3	75	1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+15603	0	1	2	1	Panting_07_001.mp3	20	0	3	2	Panting_07_002.mp3	45	0	2	3	Panting_07_003.mp3	70	-1	3	3	Panting_07_004.mp3	Panting_07_005.mp3
+15703	0	2	0	-1	Panting_04_001.mp3	25	1	2	0	Panting_04_002.mp3	50	0	2	1	Panting_04_003.mp3	75	1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+15803																					
+15903																					
+16003																					
+16103	0	2	-1	0	Panting_11_001.mp3	25	2	0	1	Panting_11_002.mp3	55	1	3	2	Panting_11_003.mp3	70	0	2	4	Panting_11_004.mp3	Panting_11_005.mp3
+16203	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+16303	0	2	0	-1	Panting_07_001.mp3	25	1	2	0	Panting_07_002.mp3	50	0	2	1	Panting_07_003.mp3	75	1	2	3	Panting_07_004.mp3	Panting_07_005.mp3
+16503																					
+16603																					
+16703																					
+16803																					
+16903	0	2	0	-1	Panting_06_001.mp3	25	1	2	0	Panting_06_002.mp3	50	0	2	1	Panting_06_003.mp3	75	1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+17003																					
+17103																					
+17203																					
+17303																					
+17403																					
+17503																					
+17603																					
+17703																					
+17803																					
+17903																					
+18003	0	-1	2	0	Panting_01_001.mp3	20	2	1	1	Panting_01_002.mp3	45	1	2	3	Panting_01_003.mp3	70	-1	3	2	Panting_01_004.mp3	Panting_01_005.mp3
+18103																					
+18203																					
+18303																					
+18403																					
+18503																					
+18603																					
+18703																					
+18803																					
+18903																					
+19003																					
+19103																					
+19203																					
+19303																					
+19403	0	2	-1	0	Panting_07_001.mp3	25	2	0	1	Panting_07_002.mp3	55	1	3	2	Panting_07_003.mp3	70	0	2	4	Panting_07_004.mp3	Panting_07_005.mp3
+19503																					
+19603																					
+19703																					
+19803																					
+19903																					
+20003																					
+20103	0	1	2	1	Panting_05_001.mp3	20	0	3	2	Panting_05_002.mp3	45	0	2	3	Panting_05_003.mp3	70	-1	3	3	Panting_05_004.mp3	Panting_05_005.mp3
+20203																					
+20303	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+21703																					
+22203																					
+22303																					
+22403																					
+22503																					
+22603																					
+22703																					
+23203																					
+23303																					
+23403																					
+23503																					
+23603																					
+23703																					
+23803																					
+10104																					
+10204																					
+10304																					
+10404																					
+10504	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+10604																					
+10704																					
+10804	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+10904	0	2	-1	0	Panting_03_001.mp3	25	2	0	1	Panting_03_002.mp3	55	1	3	2	Panting_03_003.mp3	70	0	2	4	Panting_03_004.mp3	Panting_03_005.mp3
+11104	0	2	0	-1	Panting_04_001.mp3	25	1	2	0	Panting_04_002.mp3	50	0	2	1	Panting_04_003.mp3	75	1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+11204	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+11304	0	2	-1	0	Panting_05_001.mp3	25	2	0	1	Panting_05_002.mp3	55	1	3	2	Panting_05_003.mp3	70	0	2	4	Panting_05_004.mp3	Panting_05_005.mp3
+11404																					
+11504																					
+11604	0	2	1	0	Panting_04_001.mp3	20	1	2	1	Panting_04_002.mp3	50	-1	3	2	Panting_04_003.mp3	70	-1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+11704																					
+11804	0	-1	2	0	Panting_06_001.mp3	20	2	1	1	Panting_06_002.mp3	45	1	2	3	Panting_06_003.mp3	70	-1	3	2	Panting_06_004.mp3	Panting_06_005.mp3
+11904																					
+12004	0	1	2	1	Panting_11_001.mp3	20	0	3	2	Panting_11_002.mp3	45	0	2	3	Panting_11_003.mp3	70	-1	3	3	Panting_11_004.mp3	Panting_11_005.mp3
+12104																					
+12204	0	2	-1	0	Panting_03_001.mp3	25	2	0	1	Panting_03_002.mp3	55	1	3	2	Panting_03_003.mp3	70	0	2	4	Panting_03_004.mp3	Panting_03_005.mp3
+12304																					
+12404	0	2	1	0	Panting_01_001.mp3	20	1	2	1	Panting_01_002.mp3	50	-1	3	2	Panting_01_003.mp3	70	-1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+12504																					
+12604																					
+12704																					
+12804																					
+12904																					
+13004	0	2	1	0	Panting_01_001.mp3	20	1	2	1	Panting_01_002.mp3	50	-1	3	2	Panting_01_003.mp3	70	-1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+13104																					
+13204																					
+13304																					
+13404																					
+13504	0	-1	2	0	Panting_01_001.mp3	20	2	1	1	Panting_01_002.mp3	45	1	2	3	Panting_01_003.mp3	70	-1	3	2	Panting_01_004.mp3	Panting_01_006.mp3
+13604	0	2	1	0	Panting_06_001.mp3	20	1	2	1	Panting_06_002.mp3	50	-1	3	2	Panting_06_003.mp3	70	-1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+13704	0	2	-1	0	Panting_02_001.mp3	25	2	0	1	Panting_02_002.mp3	55	1	3	2	Panting_02_003.mp3	70	0	2	4	Panting_02_004.mp3	Panting_02_005.mp3
+13804	0	2	1	0	Panting_06_001.mp3	20	1	2	1	Panting_06_002.mp3	50	-1	3	2	Panting_06_003.mp3	70	-1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+13904																					
+14004																					
+14104																					
+14204																					
+14304	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+14404																					
+14504																					
+14604																					
+14704	0	2	-1	0	Panting_04_001.mp3	25	2	0	1	Panting_04_002.mp3	55	1	3	2	Panting_04_003.mp3	70	0	2	4	Panting_04_004.mp3	Panting_04_005.mp3
+14804	0	2	-1	0	Panting_05_001.mp3	25	2	0	1	Panting_05_002.mp3	55	1	3	2	Panting_05_003.mp3	70	0	2	4	Panting_05_004.mp3	Panting_05_005.mp3
+14904																					
+15004																					
+15104																					
+15204	0	-1	2	0	Panting_04_001.mp3	20	2	1	1	Panting_04_002.mp3	45	1	2	3	Panting_04_003.mp3	70	-1	3	2	Panting_04_004.mp3	Panting_04_005.mp3
+15304																					
+15404																					
+15504	0	2	0	-1	Panting_01_001.mp3	25	1	2	0	Panting_01_002.mp3	50	0	2	1	Panting_01_003.mp3	75	1	2	3	Panting_01_004.mp3	Panting_01_006.mp3
+15604	0	1	2	1	Panting_07_001.mp3	20	0	3	2	Panting_07_002.mp3	45	0	2	3	Panting_07_003.mp3	70	-1	3	3	Panting_07_004.mp3	Panting_07_005.mp3
+15704	0	2	0	-1	Panting_04_001.mp3	25	1	2	0	Panting_04_002.mp3	50	0	2	1	Panting_04_003.mp3	75	1	2	3	Panting_04_004.mp3	Panting_04_005.mp3
+15804																					
+15904																					
+16004																					
+16104	0	2	-1	0	Panting_11_001.mp3	25	2	0	1	Panting_11_002.mp3	55	1	3	2	Panting_11_003.mp3	70	0	2	4	Panting_11_004.mp3	Panting_11_005.mp3
+16204	0	2	0	-1	Panting_03_001.mp3	25	1	2	0	Panting_03_002.mp3	50	0	2	1	Panting_03_003.mp3	75	1	2	3	Panting_03_004.mp3	Panting_03_005.mp3
+16304	0	2	0	-1	Panting_07_001.mp3	25	1	2	0	Panting_07_002.mp3	50	0	2	1	Panting_07_003.mp3	75	1	2	3	Panting_07_004.mp3	Panting_07_005.mp3
+16504																					
+16604																					
+16704																					
+16804																					
+16904	0	2	0	-1	Panting_06_001.mp3	25	1	2	0	Panting_06_002.mp3	50	0	2	1	Panting_06_003.mp3	75	1	2	3	Panting_06_004.mp3	Panting_06_005.mp3
+17004																					
+17104																					
+17204																					
+17304																					
+17404																					
+17504																					
+17604																					
+17704																					
+17804																					
+17904																					
+18004	0	-1	2	0	Panting_11_001.mp3	20	2	1	1	Panting_11_002.mp3	45	1	2	3	Panting_11_003.mp3	70	-1	3	2	Panting_11_004.mp3	Panting_11_005.mp3
+18104																					
+18204																					
+18304																					
+18404																					
+18504																					
+18604																					
+18704																					
+18804																					
+18904																					
+19004																					
+19104																					
+19204																					
+19304																					
+19404	0	2	-1	0	Panting_07_001.mp3	25	2	0	1	Panting_07_002.mp3	55	1	3	2	Panting_07_003.mp3	70	0	2	4	Panting_07_004.mp3	Panting_07_005.mp3
+19504																					
+19604																					
+19704																					
+19804																					
+19904																					
+20004																					
+20104	0	1	2	1	Panting_05_001.mp3	20	0	3	2	Panting_05_002.mp3	45	0	2	3	Panting_05_003.mp3	70	-1	3	3	Panting_05_004.mp3	Panting_05_005.mp3
+20204																					
+20304	0	1	2	1	Panting_01_001.mp3	20	0	3	2	Panting_01_002.mp3	45	0	2	3	Panting_01_003.mp3	70	-1	3	3	Panting_01_004.mp3	Panting_01_006.mp3
+21704																					
+22204																					
+22304																					
+22404																					
+22504																					
+22604																					
+22704																					
+23204																					
+23304																					
+23404																					
+23504																					
+23604																					
+23704																					
+23804																					

@@ -1,0 +1,1628 @@
+
+NG_16000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00004
+  rotate: true
+  xy: 342, 301
+  size: 209, 168
+  orig: 350, 250
+  offset: 69, 40
+  index: -1
+00012
+  rotate: true
+  xy: 341, 116
+  size: 183, 168
+  orig: 350, 250
+  offset: 78, 46
+  index: -1
+9000 (1)
+  rotate: true
+  xy: 233, 112
+  size: 284, 106
+  orig: 418, 243
+  offset: 86, 64
+  index: -1
+9000 (3)
+  rotate: false
+  xy: 2, 398
+  size: 338, 112
+  orig: 418, 243
+  offset: 80, 61
+  index: -1
+bodywind/bodywind_146
+  rotate: true
+  xy: 186, 45
+  size: 103, 45
+  orig: 125, 110
+  offset: 16, 45
+  index: -1
+bodywind/bodywind_152
+  rotate: false
+  xy: 186, 2
+  size: 42, 26
+  orig: 125, 110
+  offset: 65, 74
+  index: -1
+breeze/breeze_143
+  rotate: false
+  xy: 186, 30
+  size: 45, 13
+  orig: 135, 63
+  offset: 73, 44
+  index: -1
+daoguangb_0022
+  rotate: true
+  xy: 341, 112
+  size: 2, 4
+  orig: 68, 93
+  offset: 41, 66
+  index: -1
+julong_0006
+  rotate: false
+  xy: 352, 5
+  size: 158, 109
+  orig: 160, 109
+  offset: 1, 0
+  index: -1
+julong_0010
+  rotate: true
+  xy: 233, 2
+  size: 108, 117
+  orig: 109, 117
+  offset: 0, 0
+  index: -1
+skill_1_ballcharge2_00
+  rotate: true
+  xy: 2, 150
+  size: 246, 229
+  orig: 320, 320
+  offset: 22, 49
+  index: -1
+zhuahen_0004
+  rotate: true
+  xy: 2, 2
+  size: 146, 182
+  orig: 246, 246
+  offset: 52, 24
+  index: -1
+
+NG_16000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00005
+  rotate: false
+  xy: 299, 339
+  size: 211, 171
+  orig: 350, 250
+  offset: 68, 40
+  index: -1
+00008
+  rotate: true
+  xy: 2, 2
+  size: 218, 175
+  orig: 350, 250
+  offset: 64, 39
+  index: -1
+00009
+  rotate: false
+  xy: 2, 222
+  size: 223, 176
+  orig: 350, 250
+  offset: 59, 37
+  index: -1
+9000 (2)
+  rotate: false
+  xy: 2, 400
+  size: 295, 110
+  orig: 418, 243
+  offset: 81, 61
+  index: -1
+bodywind/bodywind_153
+  rotate: false
+  xy: 227, 222
+  size: 22, 21
+  orig: 125, 110
+  offset: 83, 79
+  index: -1
+breeze/breeze_122
+  rotate: false
+  xy: 279, 222
+  size: 8, 6
+  orig: 135, 63
+  offset: 15, 16
+  index: -1
+breeze/breeze_123
+  rotate: false
+  xy: 279, 230
+  size: 18, 13
+  orig: 135, 63
+  offset: 15, 9
+  index: -1
+breeze/breeze_144
+  rotate: true
+  xy: 268, 223
+  size: 20, 9
+  orig: 135, 63
+  offset: 94, 48
+  index: -1
+chongji0005
+  rotate: false
+  xy: 299, 189
+  size: 210, 148
+  orig: 211, 164
+  offset: 0, 3
+  index: -1
+fazhenbb_0016
+  rotate: true
+  xy: 227, 265
+  size: 133, 70
+  orig: 360, 360
+  offset: 114, 86
+  index: -1
+fazhenbb_0026
+  rotate: true
+  xy: 299, 82
+  size: 105, 51
+  orig: 360, 360
+  offset: 123, 89
+  index: -1
+julong_0008
+  rotate: true
+  xy: 179, 81
+  size: 139, 118
+  orig: 141, 118
+  offset: 1, 0
+  index: -1
+pa/pa_01
+  rotate: true
+  xy: 251, 223
+  size: 20, 15
+  orig: 163, 115
+  offset: 64, 45
+  index: -1
+shandian_0001
+  rotate: false
+  xy: 227, 245
+  size: 70, 18
+  orig: 360, 360
+  offset: 145, 171
+  index: -1
+skill_1_ballcharge2_11
+  rotate: false
+  xy: 179, 2
+  size: 91, 77
+  orig: 320, 320
+  offset: 111, 124
+  index: -1
+star_01
+  rotate: false
+  xy: 272, 2
+  size: 78, 77
+  orig: 150, 150
+  offset: 36, 37
+  index: -1
+zhuahen_0006
+  rotate: false
+  xy: 352, 7
+  size: 158, 180
+  orig: 246, 246
+  offset: 53, 26
+  index: -1
+
+NG_16000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00006
+  rotate: false
+  xy: 220, 162
+  size: 213, 172
+  orig: 350, 250
+  offset: 67, 40
+  index: -1
+00007
+  rotate: false
+  xy: 2, 162
+  size: 216, 173
+  orig: 350, 250
+  offset: 65, 41
+  index: -1
+00010
+  rotate: false
+  xy: 223, 336
+  size: 216, 174
+  orig: 350, 250
+  offset: 68, 37
+  index: -1
+00011
+  rotate: false
+  xy: 2, 337
+  size: 219, 173
+  orig: 350, 250
+  offset: 63, 39
+  index: -1
+T_light
+  rotate: true
+  xy: 441, 387
+  size: 123, 69
+  orig: 128, 70
+  offset: 5, 1
+  index: -1
+bodywind/bodywind_131
+  rotate: true
+  xy: 476, 2
+  size: 12, 14
+  orig: 125, 110
+  offset: 7, 27
+  index: -1
+breeze/breeze_125
+  rotate: false
+  xy: 441, 354
+  size: 69, 14
+  orig: 135, 63
+  offset: 14, 7
+  index: -1
+daoguangb_0011
+  rotate: true
+  xy: 476, 16
+  size: 31, 34
+  orig: 68, 93
+  offset: 5, 11
+  index: -1
+daoguangb_0013
+  rotate: false
+  xy: 427, 2
+  size: 47, 45
+  orig: 68, 93
+  offset: 4, 4
+  index: -1
+dust03
+  rotate: true
+  xy: 435, 181
+  size: 125, 75
+  orig: 126, 76
+  offset: 0, 1
+  index: -1
+huochonga_0004
+  rotate: true
+  xy: 427, 49
+  size: 111, 83
+  orig: 191, 191
+  offset: 38, 74
+  index: -1
+julong_0018
+  rotate: false
+  xy: 441, 308
+  size: 68, 44
+  orig: 69, 45
+  offset: 1, 1
+  index: -1
+pa/pa_00
+  rotate: false
+  xy: 492, 3
+  size: 18, 11
+  orig: 163, 115
+  offset: 65, 46
+  index: -1
+shandian_0000
+  rotate: false
+  xy: 435, 162
+  size: 72, 17
+  orig: 360, 360
+  offset: 144, 171
+  index: -1
+shandian_0004
+  rotate: false
+  xy: 441, 370
+  size: 69, 15
+  orig: 360, 360
+  offset: 146, 174
+  index: -1
+skill_1_ballcharge2_05
+  rotate: false
+  xy: 2, 2
+  size: 158, 158
+  orig: 320, 320
+  offset: 72, 83
+  index: -1
+smoke/smoke_129
+  rotate: true
+  xy: 162, 2
+  size: 158, 49
+  orig: 170, 60
+  offset: 9, 5
+  index: -1
+zhuahen_0001
+  rotate: true
+  xy: 213, 3
+  size: 157, 212
+  orig: 246, 246
+  offset: 47, 18
+  index: -1
+
+NG_16000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodywind/bodywind_132
+  rotate: false
+  xy: 256, 17
+  size: 23, 27
+  orig: 125, 110
+  offset: 8, 13
+  index: -1
+bodywind/bodywind_136
+  rotate: true
+  xy: 448, 122
+  size: 102, 43
+  orig: 125, 110
+  offset: 9, 9
+  index: -1
+breeze/breeze_124
+  rotate: false
+  xy: 454, 7
+  size: 49, 15
+  orig: 135, 63
+  offset: 15, 7
+  index: -1
+breeze/breeze_126
+  rotate: true
+  xy: 493, 123
+  size: 101, 17
+  orig: 135, 63
+  offset: 13, 6
+  index: -1
+breeze/breeze_135
+  rotate: false
+  xy: 161, 298
+  size: 123, 28
+  orig: 135, 63
+  offset: 6, 19
+  index: -1
+chongji0001
+  rotate: false
+  xy: 285, 3
+  size: 167, 117
+  orig: 211, 164
+  offset: 16, 15
+  index: -1
+chongji0002
+  rotate: true
+  xy: 286, 122
+  size: 204, 160
+  orig: 211, 164
+  offset: 5, 3
+  index: -1
+daoguangb_0016
+  rotate: false
+  xy: 138, 2
+  size: 64, 88
+  orig: 68, 93
+  offset: 0, 1
+  index: -1
+daoguangb_0021
+  rotate: true
+  xy: 256, 2
+  size: 13, 26
+  orig: 68, 93
+  offset: 37, 54
+  index: -1
+dust02
+  rotate: false
+  xy: 2, 5
+  size: 134, 85
+  orig: 135, 86
+  offset: 1, 1
+  index: -1
+huochonga_0010
+  rotate: true
+  xy: 454, 24
+  size: 96, 56
+  orig: 191, 191
+  offset: 47, 95
+  index: -1
+huoyanad_0000
+  rotate: true
+  xy: 209, 91
+  size: 101, 74
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+huoyanad_0001
+  rotate: true
+  xy: 209, 194
+  size: 102, 75
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+huoyanad_0007
+  rotate: true
+  xy: 448, 226
+  size: 101, 62
+  orig: 122, 122
+  offset: 11, 28
+  index: -1
+huoyanad_0009
+  rotate: true
+  xy: 204, 2
+  size: 87, 50
+  orig: 122, 122
+  offset: 13, 38
+  index: -1
+julong_0000
+  rotate: false
+  xy: 256, 46
+  size: 23, 43
+  orig: 25, 44
+  offset: 1, 0
+  index: -1
+skill_1_ballcharge2_02
+  rotate: true
+  xy: 2, 92
+  size: 204, 205
+  orig: 320, 320
+  offset: 46, 57
+  index: -1
+skill_1_ballcharge2_03
+  rotate: true
+  xy: 161, 328
+  size: 182, 190
+  orig: 320, 320
+  offset: 58, 63
+  index: -1
+zhuahen_0002
+  rotate: false
+  xy: 2, 298
+  size: 157, 212
+  orig: 246, 246
+  offset: 47, 18
+  index: -1
+zhuahen_0005
+  rotate: false
+  xy: 353, 329
+  size: 150, 181
+  orig: 246, 246
+  offset: 53, 25
+  index: -1
+
+NG_16000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9000 (4)
+  rotate: false
+  xy: 2, 254
+  size: 197, 103
+  orig: 418, 243
+  offset: 173, 67
+  index: -1
+9000 (5)
+  rotate: false
+  xy: 2, 151
+  size: 197, 101
+  orig: 418, 243
+  offset: 173, 71
+  index: -1
+bodywind/bodywind_135
+  rotate: false
+  xy: 404, 131
+  size: 102, 35
+  orig: 125, 110
+  offset: 9, 9
+  index: -1
+bodywind/bodywind_137
+  rotate: false
+  xy: 404, 168
+  size: 104, 46
+  orig: 125, 110
+  offset: 9, 8
+  index: -1
+bodywind/bodywind_138
+  rotate: false
+  xy: 405, 365
+  size: 105, 64
+  orig: 125, 110
+  offset: 7, 7
+  index: -1
+bodywind/bodywind_145
+  rotate: false
+  xy: 404, 242
+  size: 105, 47
+  orig: 125, 110
+  offset: 13, 41
+  index: -1
+breeze/breeze_128
+  rotate: false
+  xy: 404, 216
+  size: 105, 24
+  orig: 135, 63
+  offset: 12, 5
+  index: -1
+chongji0003
+  rotate: false
+  xy: 205, 367
+  size: 198, 143
+  orig: 211, 164
+  offset: 4, 9
+  index: -1
+chongji0004
+  rotate: false
+  xy: 2, 359
+  size: 201, 151
+  orig: 211, 164
+  offset: 4, 7
+  index: -1
+chongji0006
+  rotate: false
+  xy: 205, 231
+  size: 197, 134
+  orig: 211, 164
+  offset: 3, 9
+  index: -1
+fazhenbb_0008
+  rotate: false
+  xy: 404, 291
+  size: 106, 72
+  orig: 360, 360
+  offset: 125, 86
+  index: -1
+huochonga_0000
+  rotate: false
+  xy: 285, 131
+  size: 117, 98
+  orig: 191, 191
+  offset: 35, 61
+  index: -1
+huochonga_0006
+  rotate: false
+  xy: 405, 431
+  size: 105, 79
+  orig: 191, 191
+  offset: 42, 78
+  index: -1
+julong_0002
+  rotate: false
+  xy: 201, 158
+  size: 81, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+shock02
+  rotate: false
+  xy: 285, 2
+  size: 99, 127
+  orig: 105, 127
+  offset: 6, 0
+  index: -1
+shock04
+  rotate: false
+  xy: 2, 3
+  size: 90, 146
+  orig: 91, 146
+  offset: 1, 0
+  index: -1
+star_04
+  rotate: true
+  xy: 386, 3
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+zhuahen_0003
+  rotate: true
+  xy: 94, 5
+  size: 144, 189
+  orig: 246, 246
+  offset: 51, 23
+  index: -1
+
+NG_16000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Solid light_01
+  rotate: false
+  xy: 2, 146
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Solid light_02
+  rotate: false
+  xy: 2, 146
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Solid light_03
+  rotate: false
+  xy: 169, 330
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Solid light_04
+  rotate: false
+  xy: 184, 148
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Solid light_06
+  rotate: true
+  xy: 157, 5
+  size: 139, 162
+  orig: 180, 180
+  offset: 32, 10
+  index: -1
+bodywind/bodywind_154
+  rotate: true
+  xy: 321, 109
+  size: 14, 17
+  orig: 125, 110
+  offset: 90, 84
+  index: -1
+breeze/breeze_139
+  rotate: true
+  xy: 366, 197
+  size: 115, 18
+  orig: 135, 63
+  offset: 16, 34
+  index: -1
+breeze/breeze_141
+  rotate: true
+  xy: 492, 5
+  size: 100, 17
+  orig: 135, 63
+  offset: 24, 39
+  index: -1
+chongji0008
+  rotate: false
+  xy: 2, 3
+  size: 153, 141
+  orig: 211, 164
+  offset: 24, 10
+  index: -1
+daoguangb_0012
+  rotate: true
+  xy: 351, 330
+  size: 38, 35
+  orig: 68, 93
+  offset: 5, 7
+  index: -1
+julong_0004
+  rotate: false
+  xy: 321, 2
+  size: 169, 103
+  orig: 170, 104
+  offset: 0, 0
+  index: -1
+julong_0020
+  rotate: true
+  xy: 366, 314
+  size: 14, 19
+  orig: 15, 20
+  offset: 0, 1
+  index: -1
+skill_1_ballcharge2_08
+  rotate: true
+  xy: 388, 235
+  size: 133, 122
+  orig: 320, 320
+  offset: 87, 99
+  index: -1
+smoke/smoke_121
+  rotate: false
+  xy: 321, 137
+  size: 43, 9
+  orig: 170, 60
+  offset: 66, 16
+  index: -1
+smoke/smoke_122
+  rotate: false
+  xy: 321, 137
+  size: 43, 9
+  orig: 170, 60
+  offset: 66, 16
+  index: -1
+smoke/smoke_123
+  rotate: true
+  xy: 366, 115
+  size: 80, 18
+  orig: 170, 60
+  offset: 48, 13
+  index: -1
+smoke/smoke_130
+  rotate: false
+  xy: 351, 409
+  size: 159, 49
+  orig: 170, 60
+  offset: 8, 5
+  index: -1
+smoke/smoke_131
+  rotate: false
+  xy: 351, 460
+  size: 159, 50
+  orig: 170, 60
+  offset: 8, 4
+  index: -1
+smoke/smoke_132
+  rotate: false
+  xy: 351, 460
+  size: 159, 50
+  orig: 170, 60
+  offset: 8, 4
+  index: -1
+smoke/smoke_145
+  rotate: false
+  xy: 351, 370
+  size: 159, 37
+  orig: 170, 60
+  offset: 5, 6
+  index: -1
+smoke/smoke_146
+  rotate: true
+  xy: 321, 125
+  size: 10, 36
+  orig: 170, 60
+  offset: 7, 7
+  index: -1
+smoke/smoke_147
+  rotate: true
+  xy: 321, 125
+  size: 10, 36
+  orig: 170, 60
+  offset: 7, 7
+  index: -1
+star_06
+  rotate: true
+  xy: 386, 107
+  size: 126, 124
+  orig: 150, 150
+  offset: 12, 13
+  index: -1
+zhuahen_0008
+  rotate: false
+  xy: 2, 328
+  size: 165, 182
+  orig: 246, 246
+  offset: 53, 28
+  index: -1
+
+NG_16000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: false
+  xy: 176, 375
+  size: 171, 135
+  orig: 350, 250
+  offset: 86, 47
+  index: -1
+Solid light_05
+  rotate: false
+  xy: 2, 333
+  size: 172, 177
+  orig: 180, 180
+  offset: 7, 1
+  index: -1
+bodywind/bodywind_134
+  rotate: false
+  xy: 436, 4
+  size: 74, 30
+  orig: 125, 110
+  offset: 8, 10
+  index: -1
+bodywind/bodywind_148
+  rotate: true
+  xy: 477, 203
+  size: 102, 33
+  orig: 125, 110
+  offset: 16, 58
+  index: -1
+chongji0007
+  rotate: false
+  xy: 2, 21
+  size: 152, 130
+  orig: 211, 164
+  offset: 25, 11
+  index: -1
+pa/pa_05
+  rotate: false
+  xy: 324, 106
+  size: 132, 95
+  orig: 163, 115
+  offset: 15, 14
+  index: -1
+pa/pa_06
+  rotate: false
+  xy: 168, 110
+  size: 154, 102
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+pa/pa_07
+  rotate: false
+  xy: 325, 203
+  size: 150, 102
+  orig: 163, 115
+  offset: 6, 9
+  index: -1
+pa/pa_08
+  rotate: false
+  xy: 168, 214
+  size: 155, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+pa/pa_09
+  rotate: false
+  xy: 168, 214
+  size: 155, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+pa/pa_10
+  rotate: false
+  xy: 156, 4
+  size: 154, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+pa/pa_11
+  rotate: false
+  xy: 156, 4
+  size: 154, 104
+  orig: 163, 115
+  offset: 4, 8
+  index: -1
+shandian_0002
+  rotate: false
+  xy: 2, 2
+  size: 72, 17
+  orig: 360, 360
+  offset: 144, 172
+  index: -1
+shandian_0003
+  rotate: false
+  xy: 76, 3
+  size: 72, 16
+  orig: 360, 360
+  offset: 144, 172
+  index: -1
+shandian_0005
+  rotate: true
+  xy: 436, 38
+  size: 66, 12
+  orig: 360, 360
+  offset: 147, 175
+  index: -1
+shock03
+  rotate: true
+  xy: 312, 3
+  size: 101, 122
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+skill_1_ballcharge2_06
+  rotate: false
+  xy: 349, 360
+  size: 154, 150
+  orig: 320, 320
+  offset: 75, 86
+  index: -1
+smoke/smoke_133
+  rotate: false
+  xy: 344, 307
+  size: 162, 51
+  orig: 170, 60
+  offset: 6, 4
+  index: -1
+smoke/smoke_136
+  rotate: false
+  xy: 176, 320
+  size: 166, 53
+  orig: 170, 60
+  offset: 3, 3
+  index: -1
+smoke/smoke_137
+  rotate: false
+  xy: 176, 320
+  size: 166, 53
+  orig: 170, 60
+  offset: 3, 3
+  index: -1
+smoke/smoke_138
+  rotate: true
+  xy: 458, 36
+  size: 165, 52
+  orig: 170, 60
+  offset: 3, 3
+  index: -1
+zhuahen_0007
+  rotate: false
+  xy: 2, 153
+  size: 164, 178
+  orig: 246, 246
+  offset: 53, 28
+  index: -1
+
+NG_16000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 276, 2
+  size: 91, 76
+  orig: 350, 250
+  offset: 127, 72
+  index: -1
+Solid light_07
+  rotate: true
+  xy: 132, 398
+  size: 112, 130
+  orig: 180, 180
+  offset: 49, 25
+  index: -1
+breeze/breeze_134
+  rotate: true
+  xy: 128, 260
+  size: 122, 30
+  orig: 135, 63
+  offset: 4, 16
+  index: -1
+breeze/breeze_140
+  rotate: true
+  xy: 496, 176
+  size: 110, 14
+  orig: 135, 63
+  offset: 16, 38
+  index: -1
+breeze/breeze_142
+  rotate: false
+  xy: 2, 7
+  size: 71, 15
+  orig: 135, 63
+  offset: 50, 42
+  index: -1
+dust01
+  rotate: true
+  xy: 414, 151
+  size: 135, 80
+  orig: 140, 81
+  offset: 5, 1
+  index: -1
+fazhenbb_0000
+  rotate: false
+  xy: 384, 384
+  size: 124, 72
+  orig: 360, 360
+  offset: 122, 86
+  index: -1
+fazhenbb_0006
+  rotate: true
+  xy: 354, 2
+  size: 107, 72
+  orig: 360, 360
+  offset: 128, 86
+  index: -1
+fazhenbb_0014
+  rotate: true
+  xy: 311, 276
+  size: 128, 71
+  orig: 360, 360
+  offset: 116, 86
+  index: -1
+fazhenbb_0018
+  rotate: true
+  xy: 244, 262
+  size: 134, 65
+  orig: 360, 360
+  offset: 113, 88
+  index: -1
+fazhenbb_0020
+  rotate: true
+  xy: 428, 16
+  size: 133, 60
+  orig: 360, 360
+  offset: 114, 89
+  index: -1
+fazhenbb_0022
+  rotate: false
+  xy: 384, 458
+  size: 126, 52
+  orig: 360, 360
+  offset: 114, 89
+  index: -1
+huochonga_0012
+  rotate: true
+  xy: 122, 2
+  size: 89, 58
+  orig: 191, 191
+  offset: 46, 91
+  index: -1
+pa/pa_04
+  rotate: false
+  xy: 384, 288
+  size: 118, 94
+  orig: 163, 115
+  offset: 22, 16
+  index: -1
+shock05
+  rotate: false
+  xy: 160, 262
+  size: 82, 134
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+skill_1_ballcharge2_09
+  rotate: false
+  xy: 264, 406
+  size: 118, 104
+  orig: 320, 320
+  offset: 96, 108
+  index: -1
+smoke/smoke_134
+  rotate: true
+  xy: 225, 97
+  size: 163, 51
+  orig: 170, 60
+  offset: 6, 4
+  index: -1
+smoke/smoke_135
+  rotate: true
+  xy: 170, 97
+  size: 163, 53
+  orig: 170, 60
+  offset: 5, 3
+  index: -1
+smoke/smoke_139
+  rotate: true
+  xy: 122, 93
+  size: 165, 46
+  orig: 170, 60
+  offset: 2, 3
+  index: -1
+smoke/smoke_140
+  rotate: true
+  xy: 278, 95
+  size: 165, 45
+  orig: 170, 60
+  offset: 2, 3
+  index: -1
+smoke/smoke_141
+  rotate: true
+  xy: 325, 113
+  size: 161, 45
+  orig: 170, 60
+  offset: 2, 2
+  index: -1
+smoke/smoke_142
+  rotate: true
+  xy: 325, 113
+  size: 161, 45
+  orig: 170, 60
+  offset: 2, 2
+  index: -1
+smoke/smoke_143
+  rotate: true
+  xy: 372, 111
+  size: 163, 40
+  orig: 170, 60
+  offset: 1, 2
+  index: -1
+star_02
+  rotate: false
+  xy: 182, 3
+  size: 92, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+star_03
+  rotate: false
+  xy: 2, 142
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1
+star_05
+  rotate: false
+  xy: 2, 384
+  size: 128, 126
+  orig: 150, 150
+  offset: 11, 12
+  index: -1
+star_07
+  rotate: false
+  xy: 2, 260
+  size: 124, 122
+  orig: 150, 150
+  offset: 13, 14
+  index: -1
+star_08
+  rotate: false
+  xy: 2, 24
+  size: 118, 116
+  orig: 150, 150
+  offset: 16, 17
+  index: -1
+
+NG_16000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A01
+  rotate: false
+  xy: 125, 268
+  size: 98, 48
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+A04
+  rotate: false
+  xy: 457, 335
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+A05
+  rotate: false
+  xy: 457, 278
+  size: 53, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+bodywind/bodywind_133
+  rotate: false
+  xy: 454, 247
+  size: 56, 29
+  orig: 125, 110
+  offset: 8, 11
+  index: -1
+bodywind/bodywind_139
+  rotate: false
+  xy: 206, 97
+  size: 107, 64
+  orig: 125, 110
+  offset: 7, 7
+  index: -1
+bodywind/bodywind_140
+  rotate: false
+  xy: 315, 93
+  size: 107, 61
+  orig: 125, 110
+  offset: 7, 10
+  index: -1
+bodywind/bodywind_141
+  rotate: false
+  xy: 225, 261
+  size: 108, 58
+  orig: 125, 110
+  offset: 7, 13
+  index: -1
+bodywind/bodywind_149
+  rotate: true
+  xy: 163, 2
+  size: 98, 28
+  orig: 125, 110
+  offset: 16, 63
+  index: -1
+bodywind/bodywind_150
+  rotate: true
+  xy: 396, 2
+  size: 89, 29
+  orig: 125, 110
+  offset: 23, 68
+  index: -1
+breeze/breeze_127
+  rotate: false
+  xy: 217, 163
+  size: 103, 22
+  orig: 135, 63
+  offset: 12, 6
+  index: -1
+breeze/breeze_129
+  rotate: false
+  xy: 322, 156
+  size: 111, 35
+  orig: 135, 63
+  offset: 8, 4
+  index: -1
+breeze/breeze_130
+  rotate: false
+  xy: 322, 193
+  size: 115, 36
+  orig: 135, 63
+  offset: 6, 3
+  index: -1
+breeze/breeze_131
+  rotate: false
+  xy: 335, 231
+  size: 117, 34
+  orig: 135, 63
+  offset: 6, 5
+  index: -1
+daoguangb_0017
+  rotate: true
+  xy: 417, 446
+  size: 64, 92
+  orig: 68, 93
+  offset: 0, 1
+  index: -1
+daoguangb_0018
+  rotate: false
+  xy: 51, 100
+  size: 48, 86
+  orig: 68, 93
+  offset: 14, 7
+  index: -1
+daoguangb_0020
+  rotate: true
+  xy: 294, 3
+  size: 22, 52
+  orig: 68, 93
+  offset: 35, 36
+  index: -1
+fazhenbb_0002
+  rotate: false
+  xy: 252, 394
+  size: 119, 72
+  orig: 360, 360
+  offset: 123, 86
+  index: -1
+fazhenbb_0004
+  rotate: false
+  xy: 343, 320
+  size: 112, 72
+  orig: 360, 360
+  offset: 127, 86
+  index: -1
+fazhenbb_0010
+  rotate: false
+  xy: 224, 321
+  size: 117, 71
+  orig: 360, 360
+  offset: 120, 86
+  index: -1
+fazhenbb_0012
+  rotate: true
+  xy: 52, 290
+  size: 123, 71
+  orig: 360, 360
+  offset: 118, 86
+  index: -1
+fazhenbb_0024
+  rotate: false
+  xy: 335, 267
+  size: 117, 51
+  orig: 360, 360
+  offset: 116, 89
+  index: -1
+fazhenbb_0028
+  rotate: false
+  xy: 417, 394
+  size: 92, 50
+  orig: 360, 360
+  offset: 135, 89
+  index: -1
+huochonga_0002
+  rotate: false
+  xy: 2, 415
+  size: 113, 95
+  orig: 191, 191
+  offset: 36, 61
+  index: -1
+huochonga_0008
+  rotate: false
+  xy: 193, 21
+  size: 99, 74
+  orig: 191, 191
+  offset: 43, 81
+  index: -1
+huoyanad_0002
+  rotate: false
+  xy: 217, 187
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+huoyanad_0003
+  rotate: false
+  xy: 101, 102
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+huoyanad_0004
+  rotate: true
+  xy: 52, 188
+  size: 100, 71
+  orig: 122, 122
+  offset: 11, 25
+  index: -1
+huoyanad_0006
+  rotate: false
+  xy: 294, 27
+  size: 100, 64
+  orig: 122, 122
+  offset: 11, 27
+  index: -1
+huoyanad_0008
+  rotate: true
+  xy: 101, 2
+  size: 98, 60
+  orig: 122, 122
+  offset: 12, 30
+  index: -1
+huoyanad_0010
+  rotate: false
+  xy: 424, 97
+  size: 81, 51
+  orig: 122, 122
+  offset: 15, 33
+  index: -1
+julong_0012
+  rotate: false
+  xy: 125, 318
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+julong_0014
+  rotate: true
+  xy: 2, 3
+  size: 95, 76
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+pa/pa_02
+  rotate: false
+  xy: 427, 15
+  size: 76, 80
+  orig: 163, 115
+  offset: 40, 21
+  index: -1
+pa/pa_03
+  rotate: false
+  xy: 125, 176
+  size: 90, 90
+  orig: 163, 115
+  offset: 35, 17
+  index: -1
+shock01
+  rotate: true
+  xy: 373, 401
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+skill_1_ballcharge2_12
+  rotate: true
+  xy: 439, 150
+  size: 79, 71
+  orig: 320, 320
+  offset: 117, 127
+  index: -1
+smoke/smoke_125
+  rotate: false
+  xy: 281, 468
+  size: 134, 42
+  orig: 170, 60
+  offset: 20, 7
+  index: -1
+smoke/smoke_126
+  rotate: true
+  xy: 2, 100
+  size: 155, 47
+  orig: 170, 60
+  offset: 10, 5
+  index: -1
+smoke/smoke_127
+  rotate: true
+  xy: 2, 100
+  size: 155, 47
+  orig: 170, 60
+  offset: 10, 5
+  index: -1
+smoke/smoke_128
+  rotate: true
+  xy: 2, 257
+  size: 156, 48
+  orig: 170, 60
+  offset: 10, 5
+  index: -1
+smoke/smoke_144
+  rotate: false
+  xy: 117, 469
+  size: 162, 41
+  orig: 170, 60
+  offset: 3, 2
+  index: -1
+zhuahen_0000
+  rotate: true
+  xy: 117, 418
+  size: 49, 133
+  orig: 246, 246
+  offset: 145, 90
+  index: -1
+
+NG_16000_FX110.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A02
+  rotate: false
+  xy: 117, 3
+  size: 51, 60
+  orig: 52, 60
+  offset: 1, 0
+  index: -1
+A03
+  rotate: true
+  xy: 111, 65
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+addglow
+  rotate: false
+  xy: 249, 46
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bodywind/bodywind_142
+  rotate: false
+  xy: 2, 176
+  size: 107, 55
+  orig: 125, 110
+  offset: 7, 19
+  index: -1
+bodywind/bodywind_143
+  rotate: false
+  xy: 111, 160
+  size: 107, 55
+  orig: 125, 110
+  offset: 7, 26
+  index: -1
+bodywind/bodywind_144
+  rotate: false
+  xy: 2, 126
+  size: 107, 48
+  orig: 125, 110
+  offset: 9, 35
+  index: -1
+bodywind/bodywind_147
+  rotate: false
+  xy: 111, 121
+  size: 102, 37
+  orig: 125, 110
+  offset: 17, 54
+  index: -1
+bodywind/bodywind_151
+  rotate: true
+  xy: 173, 10
+  size: 64, 29
+  orig: 125, 110
+  offset: 46, 71
+  index: -1
+breeze/breeze_132
+  rotate: false
+  xy: 125, 253
+  size: 119, 32
+  orig: 135, 63
+  offset: 5, 7
+  index: -1
+breeze/breeze_133
+  rotate: false
+  xy: 2, 284
+  size: 121, 30
+  orig: 135, 63
+  offset: 4, 11
+  index: -1
+breeze/breeze_136
+  rotate: false
+  xy: 125, 287
+  size: 121, 27
+  orig: 135, 63
+  offset: 11, 23
+  index: -1
+breeze/breeze_137
+  rotate: false
+  xy: 2, 256
+  size: 116, 26
+  orig: 135, 63
+  offset: 16, 26
+  index: -1
+breeze/breeze_138
+  rotate: false
+  xy: 2, 233
+  size: 116, 21
+  orig: 135, 63
+  offset: 17, 31
+  index: -1
+daoguangb_0014
+  rotate: false
+  xy: 55, 63
+  size: 54, 61
+  orig: 68, 93
+  offset: 3, 3
+  index: -1
+daoguangb_0015
+  rotate: true
+  xy: 220, 98
+  size: 61, 77
+  orig: 68, 93
+  offset: 0, 2
+  index: -1
+daoguangb_0019
+  rotate: false
+  xy: 219, 23
+  size: 28, 73
+  orig: 68, 93
+  offset: 31, 18
+  index: -1
+guangyunaa_0000
+  rotate: false
+  xy: 55, 2
+  size: 60, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+huoyanad_0005
+  rotate: true
+  xy: 248, 215
+  size: 99, 64
+  orig: 122, 122
+  offset: 11, 26
+  index: -1
+huoyanad_0011
+  rotate: true
+  xy: 2, 23
+  size: 73, 51
+  orig: 122, 122
+  offset: 17, 33
+  index: -1
+julong_0016
+  rotate: false
+  xy: 220, 161
+  size: 90, 52
+  orig: 90, 54
+  offset: 0, 1
+  index: -1
+shock06
+  rotate: true
+  xy: 249, 3
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+smoke/smoke_124
+  rotate: false
+  xy: 120, 217
+  size: 108, 34
+  orig: 170, 60
+  offset: 30, 9
+  index: -1
+star_00
+  rotate: false
+  xy: 173, 76
+  size: 44, 43
+  orig: 150, 150
+  offset: 53, 54
+  index: -1

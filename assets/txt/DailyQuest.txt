@@ -1,0 +1,13 @@
+id	name	content	type	completeCountCfg	pointNumber	任务奖励数量	任务图标	任务排序ID	是否跳转	跳转地址	显示类型	图标颜色
+1	@DailyQuestName_01	@DailyQuestContent_01	1	1	10	300	Item/80.png	1	0	NULL	0	5
+2	@DailyQuestName_13	@DailyQuestContent_13	16	3	10	300	Item/80.png	2	1	30	0	5
+3	@DailyQuestName_14	@DailyQuestContent_14	21	1	30	300	Item/80.png	3	1	36	0	5
+4	@DailyQuestName_15	@DailyQuestContent_15	20	1	10	300	Item/80.png	4	1	42	0	5
+5	@DailyQuestName_17	@DailyQuestContent_17	9	3	20	300	Item/80.png	5	1	21	0	5
+6	@DailyQuestName_11	@DailyQuestContent_11	12	2	20	300	Item/80.png	6	1	9	0	5
+7	@DailyQuestName_09	@DailyQuestContent_09	4	1	10	300	Item/80.png	7	1	35	0	5
+8	@DailyQuestName_18	@DailyQuestContent_18	6	2	20	300	Item/80.png	8	1	48	0	5
+9	@DailyQuestName_08	@DailyQuestContent_08	15	1	20	1	Item/I_7037.png	9	1	7	0	5
+10	@DailyQuestName_19	@DailyQuestContent_19	17	1	20	3	Item/I_7055.png	10	1	44	0	5
+11	@DailyQuestName_22	@DailyQuestContent_22	14	2	20	300	Item/80.png	11	1	1	0	5
+12	@DailyQuestName_09	@DailyQuestContent_092	4	3	20	20	Item/I_7029.png	12	1	35	0	5

@@ -1,0 +1,76 @@
+
+Boss_505_skill_hit.png
+size: 434,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_0000
+  rotate: false
+  xy: 327, 253
+  size: 91, 82
+  orig: 237, 237
+  offset: 66, 79
+  index: -1
+hit_0001
+  rotate: false
+  xy: 2, 278
+  size: 168, 154
+  orig: 237, 237
+  offset: 28, 44
+  index: -1
+hit_0002
+  rotate: false
+  xy: 2, 125
+  size: 167, 151
+  orig: 237, 237
+  offset: 28, 45
+  index: -1
+hit_0003
+  rotate: false
+  xy: 171, 35
+  size: 142, 127
+  orig: 237, 237
+  offset: 51, 67
+  index: -1
+hit_0004
+  rotate: false
+  xy: 172, 164
+  size: 148, 131
+  orig: 237, 237
+  offset: 45, 63
+  index: -1
+hit_0005
+  rotate: false
+  xy: 172, 297
+  size: 153, 135
+  orig: 237, 237
+  offset: 40, 59
+  index: -1
+hit_0006
+  rotate: false
+  xy: 322, 144
+  size: 110, 107
+  orig: 237, 237
+  offset: 36, 55
+  index: -1
+hit_0007
+  rotate: false
+  xy: 2, 9
+  size: 119, 114
+  orig: 237, 237
+  offset: 31, 52
+  index: -1
+hit_0008
+  rotate: false
+  xy: 327, 337
+  size: 92, 95
+  orig: 237, 237
+  offset: 28, 48
+  index: -1
+hit_0009
+  rotate: false
+  xy: 123, 66
+  size: 42, 57
+  orig: 237, 237
+  offset: 60, 70
+  index: -1

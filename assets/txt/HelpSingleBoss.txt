@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold28"> <p style="margin:10px"> 单人强敌 </p></font><br/><p style="margin:10px"> <font color="#6f2f00" face="Barlow-SemiBold24"> ●单人强敌活动开启的期间，每天有3次可以挑战强敌的机会。<br/>●强敌一共有7种难度，从Lv.1开始，击败boss后会开放下一个难度，<br/>当完成Lv.7的难度后，会开放无限模式，可以挑战拥有无限血量的强敌，以此来刷新个人的历史最高分吧。<br/>●单人强敌排行榜，会根据玩家挑战强敌获得的历史最高分，以此进行排名，在活动结束后会用信件发送豪华奖励。</font></p>

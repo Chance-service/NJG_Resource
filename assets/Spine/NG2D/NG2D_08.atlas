@@ -1,0 +1,620 @@
+
+NG2D_08.png
+size: 1022,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 60
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 987, 912
+  size: 33, 108
+  orig: 33, 108
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 99, 5
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 881, 496
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+H4
+  rotate: false
+  xy: 929, 320
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+L eye
+  rotate: false
+  xy: 193, 35
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+L pupil
+  rotate: false
+  xy: 193, 21
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Lash L
+  rotate: true
+  xy: 913, 501
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+Lash R
+  rotate: false
+  xy: 734, 164
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+R eye
+  rotate: false
+  xy: 987, 884
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+R pupil
+  rotate: false
+  xy: 193, 6
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00002
+  rotate: false
+  xy: 881, 531
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00004
+  rotate: true
+  xy: 734, 21
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00006
+  rotate: false
+  xy: 928, 121
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00008
+  rotate: false
+  xy: 929, 369
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+acc L
+  rotate: false
+  xy: 2, 2
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+acc R
+  rotate: false
+  xy: 881, 845
+  size: 104, 175
+  orig: 104, 175
+  offset: 0, 0
+  index: -1
+boob
+  rotate: false
+  xy: 896, 7
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+eye L BG
+  rotate: false
+  xy: 881, 480
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+eye R BG
+  rotate: false
+  xy: 998, 349
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eyes closed
+  rotate: false
+  xy: 929, 343
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 756, 113
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 544, 179
+  size: 210, 299
+  orig: 210, 299
+  offset: 0, 0
+  index: -1
+hand acc L
+  rotate: false
+  xy: 756, 283
+  size: 171, 195
+  orig: 171, 195
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 544, 23
+  size: 188, 154
+  orig: 188, 154
+  offset: 0, 0
+  index: -1
+snake head
+  rotate: false
+  xy: 881, 693
+  size: 102, 150
+  orig: 102, 150
+  offset: 0, 0
+  index: -1
+water wave
+  rotate: true
+  xy: 544, 480
+  size: 540, 335
+  orig: 540, 335
+  offset: 0, 0
+  index: -1
+
+NG2D_082.png
+size: 1018,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG
+  rotate: false
+  xy: 231, 821
+  size: 540, 195
+  orig: 540, 195
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00010
+  rotate: false
+  xy: 231, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00012
+  rotate: false
+  xy: 773, 856
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00014
+  rotate: false
+  xy: 2, 141
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00016
+  rotate: false
+  xy: 231, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00018
+  rotate: false
+  xy: 323, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00020
+  rotate: false
+  xy: 865, 856
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00022
+  rotate: false
+  xy: 323, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00024
+  rotate: false
+  xy: 415, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00026
+  rotate: false
+  xy: 415, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00028
+  rotate: false
+  xy: 507, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00030
+  rotate: false
+  xy: 507, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00032
+  rotate: false
+  xy: 599, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00034
+  rotate: false
+  xy: 599, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00036
+  rotate: false
+  xy: 691, 659
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00038
+  rotate: false
+  xy: 691, 497
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00040
+  rotate: true
+  xy: 231, 405
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00042
+  rotate: true
+  xy: 393, 405
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00044
+  rotate: true
+  xy: 555, 405
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00046
+  rotate: false
+  xy: 783, 694
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00048
+  rotate: false
+  xy: 783, 532
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00050
+  rotate: false
+  xy: 875, 694
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00052
+  rotate: false
+  xy: 875, 532
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00054
+  rotate: false
+  xy: 94, 141
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00056
+  rotate: true
+  xy: 2, 49
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00058
+  rotate: true
+  xy: 783, 440
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00060
+  rotate: true
+  xy: 141, 313
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00062
+  rotate: true
+  xy: 303, 313
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00064
+  rotate: true
+  xy: 465, 313
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00066
+  rotate: false
+  xy: 186, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00068
+  rotate: false
+  xy: 278, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00070
+  rotate: false
+  xy: 370, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00072
+  rotate: false
+  xy: 462, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00074
+  rotate: false
+  xy: 554, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00076
+  rotate: true
+  xy: 627, 313
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00078
+  rotate: false
+  xy: 646, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00080
+  rotate: true
+  xy: 789, 348
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00082
+  rotate: false
+  xy: 738, 151
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00084
+  rotate: false
+  xy: 830, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00086
+  rotate: false
+  xy: 922, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00088
+  rotate: true
+  xy: 830, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00090
+  rotate: true
+  xy: 186, 59
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00092
+  rotate: true
+  xy: 348, 59
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00094
+  rotate: true
+  xy: 510, 59
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00096
+  rotate: true
+  xy: 672, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00098
+  rotate: true
+  xy: 834, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 435
+  size: 227, 581
+  orig: 227, 581
+  offset: 0, 0
+  index: -1
+skirt L
+  rotate: false
+  xy: 2, 303
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+
+NG2D_083.png
+size: 440,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Splash FX/splash_00100
+  rotate: false
+  xy: 2, 278
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00102
+  rotate: true
+  xy: 2, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00104
+  rotate: true
+  xy: 94, 348
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00106
+  rotate: false
+  xy: 164, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00108
+  rotate: true
+  xy: 2, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00110
+  rotate: true
+  xy: 164, 94
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00112
+  rotate: false
+  xy: 256, 278
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00114
+  rotate: true
+  xy: 256, 186
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00116
+  rotate: false
+  xy: 348, 278
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00118
+  rotate: false
+  xy: 326, 24
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+Splash FX/splash_00120
+  rotate: true
+  xy: 2, 2
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1

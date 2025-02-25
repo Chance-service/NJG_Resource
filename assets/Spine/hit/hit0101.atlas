@@ -1,0 +1,160 @@
+
+hit0101.png
+size: 534,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fisthit_00
+  rotate: true
+  xy: 428, 291
+  size: 102, 104
+  orig: 153, 154
+  offset: 47, 20
+  index: -1
+fisthit_01
+  rotate: true
+  xy: 2, 12
+  size: 107, 125
+  orig: 153, 154
+  offset: 42, 9
+  index: -1
+fisthit_02
+  rotate: false
+  xy: 288, 268
+  size: 138, 125
+  orig: 153, 154
+  offset: 11, 9
+  index: -1
+fisthit_03
+  rotate: false
+  xy: 2, 262
+  size: 146, 131
+  orig: 153, 154
+  offset: 3, 5
+  index: -1
+fisthit_04
+  rotate: false
+  xy: 2, 395
+  size: 147, 137
+  orig: 153, 154
+  offset: 2, 0
+  index: -1
+fisthit_05
+  rotate: false
+  xy: 2, 121
+  size: 138, 139
+  orig: 153, 154
+  offset: 3, 0
+  index: -1
+fisthit_06
+  rotate: true
+  xy: 151, 395
+  size: 137, 139
+  orig: 153, 154
+  offset: 7, 0
+  index: -1
+fisthit_07
+  rotate: true
+  xy: 292, 395
+  size: 137, 139
+  orig: 153, 154
+  offset: 10, 0
+  index: -1
+fisthit_08
+  rotate: true
+  xy: 150, 259
+  size: 134, 136
+  orig: 153, 154
+  offset: 14, 7
+  index: -1
+fisthit_09
+  rotate: false
+  xy: 142, 162
+  size: 108, 95
+  orig: 153, 154
+  offset: 36, 50
+  index: -1
+fisthit_10
+  rotate: false
+  xy: 428, 194
+  size: 104, 95
+  orig: 153, 154
+  offset: 39, 50
+  index: -1
+fisthit_11
+  rotate: false
+  xy: 142, 65
+  size: 103, 95
+  orig: 153, 154
+  offset: 40, 50
+  index: -1
+fisthit_12
+  rotate: false
+  xy: 252, 160
+  size: 102, 97
+  orig: 153, 154
+  offset: 40, 48
+  index: -1
+fisthit_13
+  rotate: false
+  xy: 433, 435
+  size: 99, 97
+  orig: 153, 154
+  offset: 41, 48
+  index: -1
+fisthit_14
+  rotate: false
+  xy: 247, 73
+  size: 94, 85
+  orig: 153, 154
+  offset: 42, 60
+  index: -1
+fisthit_15
+  rotate: false
+  xy: 356, 106
+  size: 89, 85
+  orig: 153, 154
+  offset: 46, 60
+  index: -1
+fisthit_16
+  rotate: false
+  xy: 447, 107
+  size: 85, 85
+  orig: 153, 154
+  offset: 47, 60
+  index: -1
+fisthit_17
+  rotate: true
+  xy: 343, 29
+  size: 75, 80
+  orig: 153, 154
+  offset: 50, 65
+  index: -1
+fisthit_18
+  rotate: false
+  xy: 425, 25
+  size: 72, 79
+  orig: 153, 154
+  offset: 51, 65
+  index: -1
+fisthit_19
+  rotate: true
+  xy: 356, 193
+  size: 73, 70
+  orig: 153, 154
+  offset: 50, 71
+  index: -1
+fisthit_20
+  rotate: false
+  xy: 433, 405
+  size: 73, 28
+  orig: 153, 154
+  offset: 50, 71
+  index: -1
+fisthit_21
+  rotate: false
+  xy: 433, 405
+  size: 73, 28
+  orig: 153, 154
+  offset: 50, 71
+  index: -1

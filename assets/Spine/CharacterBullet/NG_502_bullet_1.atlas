@@ -1,0 +1,55 @@
+
+NG_502_bullet_1.png
+size: 158,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WaterBall/bottom_00
+  rotate: false
+  xy: 2, 119
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_01
+  rotate: false
+  xy: 2, 80
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_02
+  rotate: false
+  xy: 74, 119
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_03
+  rotate: false
+  xy: 2, 41
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_04
+  rotate: false
+  xy: 74, 80
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_05
+  rotate: false
+  xy: 2, 2
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1
+WaterBall/bottom_06
+  rotate: false
+  xy: 74, 41
+  size: 70, 37
+  orig: 70, 40
+  offset: 0, 2
+  index: -1

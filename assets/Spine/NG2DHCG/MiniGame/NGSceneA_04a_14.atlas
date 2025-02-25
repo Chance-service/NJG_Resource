@@ -1,0 +1,62 @@
+
+NGSceneA_04a_14.png
+size: 1704,1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1101
+  size: 1201, 601
+  orig: 1201, 601
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 251
+  size: 719, 245
+  orig: 719, 245
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1205, 873
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 723, 445
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1205, 911
+  size: 255, 279
+  orig: 255, 279
+  offset: 0, 0
+  index: -1
+6a
+  rotate: false
+  xy: 1205, 1192
+  size: 497, 510
+  orig: 497, 510
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 175
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 498
+  size: 1201, 601
+  orig: 1201, 601
+  offset: 0, 0
+  index: -1

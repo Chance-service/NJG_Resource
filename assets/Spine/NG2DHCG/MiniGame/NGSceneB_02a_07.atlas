@@ -1,0 +1,27 @@
+
+NGSceneB_02a_07.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A17
+  rotate: false
+  xy: 2, 509
+  size: 427, 34
+  orig: 427, 34
+  offset: 0, 0
+  index: -1
+B17
+  rotate: false
+  xy: 2, 580
+  size: 612, 34
+  orig: 612, 34
+  offset: 0, 0
+  index: -1
+C17
+  rotate: false
+  xy: 2, 545
+  size: 465, 33
+  orig: 465, 33
+  offset: 0, 0
+  index: -1

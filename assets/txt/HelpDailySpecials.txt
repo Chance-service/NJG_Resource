@@ -1,0 +1,2 @@
+id	content
+1	<font  color="#24b23e" face = "HelveticaBD24"><p style="margin:10px" >累储声望回馈</p></font><br/><p style="margin:10px" ><font  color="#6f2f00" face = "Helvetica20">● 当玩家购买含有VIP声望的商品时，可以累积声望。</font></p><br/><p style="margin:10px" ><font  color="#6f2f00" face = "Helvetica20">● 当声望累积到一定值后，可以直接领取奖励。</font></p>

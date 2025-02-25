@@ -1,0 +1,20 @@
+
+Spine_reward.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Activity_140_Image_8
+  rotate: false
+  xy: 2, 97
+  size: 239, 70
+  orig: 239, 70
+  offset: 0, 0
+  index: -1
+images/Activity_140_Image_9
+  rotate: false
+  xy: 2, 169
+  size: 336, 169
+  orig: 336, 169
+  offset: 0, 0
+  index: -1

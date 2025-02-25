@@ -1,0 +1,7 @@
+id	名字	描述	星级	价格	图标	抽奖界面的图标
+1	@GveBuffName_1	@GveBuffDes_1	1	150	WorldBossWeapon_4.png	WorldBossBuff_4.png
+2	@GveBuffName_2	@GveBuffDes_2	2	120	WorldBossWeapon_3.png	WorldBossBuff_3.png
+3	@GveBuffName_3	@GveBuffDes_3	3	100	WorldBossWeapon_5.png	WorldBossBuff_5.png
+4	@GveBuffName_4	@GveBuffDes_4	4	80	WorldBossWeapon_6.png	WorldBossBuff_6.png
+5	@GveBuffName_5	@GveBuffDes_5	5	60	WorldBossWeapon_2.png	WorldBossBuff_2.png
+6	@GveBuffName_6	@GveBuffDes_6	6	0	WorldBossWeapon_1.png	WorldBossBuff_1.png

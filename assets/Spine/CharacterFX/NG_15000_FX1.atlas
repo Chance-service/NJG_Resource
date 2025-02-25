@@ -1,0 +1,1235 @@
+
+NG_15000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/julong/julong_16
+  rotate: false
+  xy: 2, 298
+  size: 341, 212
+  orig: 375, 318
+  offset: 19, 24
+  index: -1
+skill_0/julong/julong_17
+  rotate: false
+  xy: 2, 298
+  size: 341, 212
+  orig: 375, 318
+  offset: 19, 24
+  index: -1
+skill_1/assemble/assemble_13
+  rotate: true
+  xy: 175, 4
+  size: 137, 164
+  orig: 160, 188
+  offset: 12, 12
+  index: -1
+skill_1/flash/flash_53
+  rotate: true
+  xy: 341, 4
+  size: 3, 12
+  orig: 95, 115
+  offset: 70, 93
+  index: -1
+skill_1/tornado/tornado_24
+  rotate: true
+  xy: 345, 9
+  size: 153, 165
+  orig: 175, 188
+  offset: 14, 8
+  index: -1
+skill_1/tornado/tornado_25
+  rotate: true
+  xy: 175, 143
+  size: 153, 168
+  orig: 175, 188
+  offset: 14, 8
+  index: -1
+skill_1/tornado/tornado_29
+  rotate: true
+  xy: 2, 3
+  size: 159, 171
+  orig: 175, 188
+  offset: 11, 6
+  index: -1
+skill_1/tornado/tornado_34
+  rotate: false
+  xy: 345, 338
+  size: 165, 172
+  orig: 175, 188
+  offset: 7, 5
+  index: -1
+skill_1/tornado/tornado_35
+  rotate: false
+  xy: 345, 164
+  size: 165, 172
+  orig: 175, 188
+  offset: 7, 5
+  index: -1
+skill_1/tornado/tornado_44
+  rotate: true
+  xy: 2, 164
+  size: 132, 169
+  orig: 175, 188
+  offset: 10, 7
+  index: -1
+
+NG_15000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_36
+  rotate: false
+  xy: 311, 316
+  size: 196, 194
+  orig: 250, 250
+  offset: 27, 28
+  index: -1
+skill_0/circle
+  rotate: false
+  xy: 2, 203
+  size: 307, 307
+  orig: 355, 355
+  offset: 29, 24
+  index: -1
+skill_0/julong/julong_24
+  rotate: false
+  xy: 2, 4
+  size: 203, 197
+  orig: 375, 318
+  offset: 131, 13
+  index: -1
+skill_0/julong/julong_25
+  rotate: false
+  xy: 2, 4
+  size: 203, 197
+  orig: 375, 318
+  offset: 131, 13
+  index: -1
+skill_0/julong/julong_26
+  rotate: false
+  xy: 309, 26
+  size: 200, 153
+  orig: 375, 318
+  offset: 135, 17
+  index: -1
+skill_0/julong/julong_27
+  rotate: false
+  xy: 309, 26
+  size: 200, 153
+  orig: 375, 318
+  offset: 135, 17
+  index: -1
+skill_0/lines/lines_126
+  rotate: true
+  xy: 308, 10
+  size: 14, 39
+  orig: 138, 220
+  offset: 69, 74
+  index: -1
+skill_0/lines/lines_131
+  rotate: true
+  xy: 311, 181
+  size: 133, 195
+  orig: 138, 220
+  offset: 1, 16
+  index: -1
+skill_1/flash/flash_30
+  rotate: false
+  xy: 441, 7
+  size: 21, 17
+  orig: 95, 115
+  offset: 5, 29
+  index: -1
+skill_1/flash/flash_31
+  rotate: false
+  xy: 278, 4
+  size: 28, 32
+  orig: 95, 115
+  offset: 6, 14
+  index: -1
+skill_1/flash/flash_46
+  rotate: false
+  xy: 207, 2
+  size: 69, 34
+  orig: 95, 115
+  offset: 19, 59
+  index: -1
+skill_1/flash/flash_51
+  rotate: false
+  xy: 383, 3
+  size: 26, 21
+  orig: 95, 115
+  offset: 51, 83
+  index: -1
+skill_1/flash/flash_52
+  rotate: false
+  xy: 464, 8
+  size: 10, 16
+  orig: 95, 115
+  offset: 64, 88
+  index: -1
+skill_1/pa/pa_19
+  rotate: false
+  xy: 411, 5
+  size: 28, 19
+  orig: 118, 123
+  offset: 43, 63
+  index: -1
+skill_1/pa/pa_20
+  rotate: false
+  xy: 349, 3
+  size: 32, 21
+  orig: 118, 123
+  offset: 41, 62
+  index: -1
+skill_1/tornado/tornado_46
+  rotate: false
+  xy: 207, 38
+  size: 100, 163
+  orig: 175, 188
+  offset: 40, 13
+  index: -1
+
+NG_15000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_34
+  rotate: false
+  xy: 325, 150
+  size: 180, 178
+  orig: 250, 250
+  offset: 35, 36
+  index: -1
+skill_0/bling/bling_35
+  rotate: false
+  xy: 325, 150
+  size: 180, 178
+  orig: 250, 250
+  offset: 35, 36
+  index: -1
+skill_0/bling/bling_46
+  rotate: false
+  xy: 325, 330
+  size: 182, 180
+  orig: 250, 250
+  offset: 34, 35
+  index: -1
+skill_0/julong/julong_18
+  rotate: false
+  xy: 2, 284
+  size: 321, 226
+  orig: 375, 318
+  offset: 48, 27
+  index: -1
+skill_0/julong/julong_19
+  rotate: false
+  xy: 2, 284
+  size: 321, 226
+  orig: 375, 318
+  offset: 48, 27
+  index: -1
+skill_1/assemble/assemble_15
+  rotate: true
+  xy: 152, 2
+  size: 116, 144
+  orig: 160, 188
+  offset: 22, 22
+  index: -1
+skill_1/flash/flash_33
+  rotate: false
+  xy: 88, 31
+  size: 61, 33
+  orig: 95, 115
+  offset: 6, 12
+  index: -1
+skill_1/flash/flash_40
+  rotate: true
+  xy: 88, 66
+  size: 82, 62
+  orig: 95, 115
+  offset: 7, 16
+  index: -1
+skill_1/flash/flash_47
+  rotate: false
+  xy: 325, 121
+  size: 67, 27
+  orig: 95, 115
+  offset: 19, 66
+  index: -1
+skill_1/flash/flash_49
+  rotate: false
+  xy: 88, 4
+  size: 58, 25
+  orig: 95, 115
+  offset: 23, 76
+  index: -1
+skill_1/pa/pa_22
+  rotate: false
+  xy: 407, 16
+  size: 102, 73
+  orig: 118, 123
+  offset: 14, 29
+  index: -1
+skill_1/tornado/tornado_18
+  rotate: false
+  xy: 298, 2
+  size: 107, 116
+  orig: 175, 188
+  offset: 42, 0
+  index: -1
+skill_1/tornado/tornado_21
+  rotate: true
+  xy: 2, 150
+  size: 132, 148
+  orig: 175, 188
+  offset: 18, 0
+  index: -1
+skill_1/tornado/tornado_32
+  rotate: true
+  xy: 152, 120
+  size: 162, 171
+  orig: 175, 188
+  offset: 9, 6
+  index: -1
+skill_1/tornado/tornado_56
+  rotate: false
+  xy: 2, 2
+  size: 84, 146
+  orig: 175, 188
+  offset: 55, 25
+  index: -1
+skill_1/tornado/tornado_58
+  rotate: true
+  xy: 407, 91
+  size: 57, 103
+  orig: 175, 188
+  offset: 62, 47
+  index: -1
+
+NG_15000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_38
+  rotate: false
+  xy: 2, 60
+  size: 210, 208
+  orig: 250, 250
+  offset: 20, 21
+  index: -1
+skill_0/bling/bling_39
+  rotate: false
+  xy: 287, 59
+  size: 212, 210
+  orig: 250, 250
+  offset: 19, 20
+  index: -1
+skill_0/bling/bling_40
+  rotate: false
+  xy: 287, 59
+  size: 212, 210
+  orig: 250, 250
+  offset: 19, 20
+  index: -1
+skill_0/julong/julong_12
+  rotate: true
+  xy: 278, 5
+  size: 52, 89
+  orig: 375, 318
+  offset: 9, 45
+  index: -1
+skill_0/julong/julong_13
+  rotate: true
+  xy: 278, 5
+  size: 52, 89
+  orig: 375, 318
+  offset: 9, 45
+  index: -1
+skill_0/julong/julong_20
+  rotate: false
+  xy: 2, 270
+  size: 283, 240
+  orig: 375, 318
+  offset: 88, 16
+  index: -1
+skill_0/julong/julong_21
+  rotate: false
+  xy: 2, 270
+  size: 283, 240
+  orig: 375, 318
+  offset: 88, 16
+  index: -1
+skill_0/julong/julong_22
+  rotate: false
+  xy: 287, 271
+  size: 221, 239
+  orig: 375, 318
+  offset: 132, 13
+  index: -1
+skill_0/julong/julong_23
+  rotate: false
+  xy: 287, 271
+  size: 221, 239
+  orig: 375, 318
+  offset: 132, 13
+  index: -1
+skill_1/assemble/assemble_19
+  rotate: false
+  xy: 421, 7
+  size: 47, 50
+  orig: 160, 188
+  offset: 57, 69
+  index: -1
+skill_1/flash/flash_32
+  rotate: true
+  xy: 470, 8
+  size: 49, 32
+  orig: 95, 115
+  offset: 6, 13
+  index: -1
+skill_1/flash/flash_37
+  rotate: true
+  xy: 214, 104
+  size: 80, 70
+  orig: 95, 115
+  offset: 7, 10
+  index: -1
+skill_1/flash/flash_38
+  rotate: true
+  xy: 214, 186
+  size: 82, 70
+  orig: 95, 115
+  offset: 6, 10
+  index: -1
+skill_1/flash/flash_41
+  rotate: false
+  xy: 109, 2
+  size: 83, 56
+  orig: 95, 115
+  offset: 6, 22
+  index: -1
+skill_1/flash/flash_42
+  rotate: false
+  xy: 194, 3
+  size: 82, 54
+  orig: 95, 115
+  offset: 6, 28
+  index: -1
+skill_1/flash/flash_45
+  rotate: false
+  xy: 214, 60
+  size: 68, 42
+  orig: 95, 115
+  offset: 19, 51
+  index: -1
+skill_1/flow/flow_21
+  rotate: true
+  xy: 2, 2
+  size: 55, 105
+  orig: 120, 220
+  offset: 31, 104
+  index: -1
+skill_1/flow/flow_22
+  rotate: true
+  xy: 2, 2
+  size: 55, 105
+  orig: 120, 220
+  offset: 31, 104
+  index: -1
+skill_1/glow
+  rotate: false
+  xy: 369, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+NG_15000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_37
+  rotate: true
+  xy: 212, 92
+  size: 206, 202
+  orig: 250, 250
+  offset: 22, 24
+  index: -1
+skill_0/bling/bling_41
+  rotate: false
+  xy: 2, 300
+  size: 212, 210
+  orig: 250, 250
+  offset: 19, 20
+  index: -1
+skill_0/bling/bling_42
+  rotate: true
+  xy: 216, 300
+  size: 210, 208
+  orig: 250, 250
+  offset: 20, 21
+  index: -1
+skill_0/bling/bling_43
+  rotate: false
+  xy: 2, 94
+  size: 208, 204
+  orig: 250, 250
+  offset: 21, 23
+  index: -1
+skill_1/flow/flow_09
+  rotate: false
+  xy: 426, 273
+  size: 84, 85
+  orig: 120, 220
+  offset: 15, 10
+  index: -1
+skill_1/flow/flow_10
+  rotate: false
+  xy: 426, 273
+  size: 84, 85
+  orig: 120, 220
+  offset: 15, 10
+  index: -1
+skill_1/flow/flow_11
+  rotate: true
+  xy: 162, 3
+  size: 87, 106
+  orig: 120, 220
+  offset: 15, 8
+  index: -1
+skill_1/flow/flow_12
+  rotate: false
+  xy: 416, 2
+  size: 85, 111
+  orig: 120, 220
+  offset: 17, 8
+  index: -1
+skill_1/flow/flow_13
+  rotate: false
+  xy: 416, 2
+  size: 85, 111
+  orig: 120, 220
+  offset: 17, 8
+  index: -1
+skill_1/flow/flow_15
+  rotate: true
+  xy: 270, 8
+  size: 82, 140
+  orig: 120, 220
+  offset: 18, 23
+  index: -1
+skill_1/flow/flow_16
+  rotate: true
+  xy: 270, 8
+  size: 82, 140
+  orig: 120, 220
+  offset: 18, 23
+  index: -1
+skill_1/tornado/tornado_50
+  rotate: true
+  xy: 2, 2
+  size: 90, 158
+  orig: 175, 188
+  offset: 52, 18
+  index: -1
+skill_1/tornado/tornado_51
+  rotate: false
+  xy: 416, 115
+  size: 94, 156
+  orig: 175, 188
+  offset: 48, 20
+  index: -1
+skill_1/tornado/tornado_55
+  rotate: false
+  xy: 426, 360
+  size: 84, 150
+  orig: 175, 188
+  offset: 45, 24
+  index: -1
+
+NG_15000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_31
+  rotate: false
+  xy: 272, 402
+  size: 110, 108
+  orig: 250, 250
+  offset: 70, 71
+  index: -1
+skill_0/flare
+  rotate: false
+  xy: 384, 7
+  size: 119, 83
+  orig: 150, 133
+  offset: 9, 22
+  index: -1
+skill_0/lines/lines_129
+  rotate: false
+  xy: 384, 335
+  size: 125, 175
+  orig: 138, 220
+  offset: 9, 16
+  index: -1
+skill_0/lines/lines_133
+  rotate: false
+  xy: 137, 300
+  size: 133, 210
+  orig: 138, 220
+  offset: 1, 5
+  index: -1
+skill_0/lines/lines_134
+  rotate: false
+  xy: 2, 298
+  size: 133, 212
+  orig: 138, 220
+  offset: 1, 4
+  index: -1
+skill_0/lines/lines_135
+  rotate: false
+  xy: 2, 84
+  size: 128, 212
+  orig: 138, 220
+  offset: 6, 4
+  index: -1
+skill_0/lines/lines_136
+  rotate: false
+  xy: 132, 84
+  size: 128, 212
+  orig: 138, 220
+  offset: 6, 4
+  index: -1
+skill_0/lines/lines_137
+  rotate: false
+  xy: 382, 92
+  size: 128, 106
+  orig: 138, 220
+  offset: 6, 6
+  index: -1
+skill_0/lines/lines_138
+  rotate: true
+  xy: 262, 84
+  size: 114, 73
+  orig: 138, 220
+  offset: 20, 33
+  index: -1
+skill_1/assemble/assemble_17
+  rotate: true
+  xy: 2, 3
+  size: 79, 101
+  orig: 160, 188
+  offset: 41, 43
+  index: -1
+skill_1/assemble/assemble_18
+  rotate: false
+  xy: 105, 6
+  size: 59, 76
+  orig: 160, 188
+  offset: 51, 56
+  index: -1
+skill_1/flash/flash_43
+  rotate: true
+  xy: 166, 6
+  size: 76, 44
+  orig: 95, 115
+  offset: 10, 41
+  index: -1
+skill_1/flash/flash_44
+  rotate: true
+  xy: 337, 139
+  size: 74, 43
+  orig: 95, 115
+  offset: 13, 47
+  index: -1
+skill_1/flash/flash_50
+  rotate: false
+  xy: 337, 114
+  size: 42, 23
+  orig: 95, 115
+  offset: 37, 81
+  index: -1
+skill_1/flow/flow_14
+  rotate: true
+  xy: 262, 215
+  size: 83, 118
+  orig: 120, 220
+  offset: 17, 15
+  index: -1
+skill_1/flow/flow_18
+  rotate: true
+  xy: 212, 7
+  size: 75, 170
+  orig: 120, 220
+  offset: 23, 37
+  index: -1
+skill_1/flow/flow_19
+  rotate: true
+  xy: 212, 7
+  size: 75, 170
+  orig: 120, 220
+  offset: 23, 37
+  index: -1
+skill_1/pa/pa_24
+  rotate: false
+  xy: 272, 301
+  size: 108, 99
+  orig: 118, 123
+  offset: 10, 15
+  index: -1
+skill_1/tornado/tornado_23
+  rotate: true
+  xy: 382, 200
+  size: 133, 128
+  orig: 175, 188
+  offset: 24, 9
+  index: -1
+
+NG_15000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_44
+  rotate: true
+  xy: 2, 102
+  size: 202, 200
+  orig: 250, 250
+  offset: 24, 25
+  index: -1
+skill_0/bling/bling_45
+  rotate: true
+  xy: 137, 308
+  size: 202, 200
+  orig: 250, 250
+  offset: 24, 25
+  index: -1
+skill_0/julong/julong_28
+  rotate: true
+  xy: 339, 2
+  size: 188, 107
+  orig: 375, 318
+  offset: 146, 34
+  index: -1
+skill_0/julong/julong_29
+  rotate: true
+  xy: 339, 2
+  size: 188, 107
+  orig: 375, 318
+  offset: 146, 34
+  index: -1
+skill_0/julong/julong_32
+  rotate: false
+  xy: 474, 27
+  size: 33, 45
+  orig: 375, 318
+  offset: 180, 95
+  index: -1
+skill_0/julong/julong_33
+  rotate: false
+  xy: 474, 27
+  size: 33, 45
+  orig: 375, 318
+  offset: 180, 95
+  index: -1
+skill_0/lines/lines_128
+  rotate: true
+  xy: 2, 3
+  size: 97, 163
+  orig: 138, 220
+  offset: 34, 16
+  index: -1
+skill_0/lines/lines_130
+  rotate: false
+  xy: 204, 117
+  size: 133, 189
+  orig: 138, 220
+  offset: 1, 16
+  index: -1
+skill_0/lines/lines_132
+  rotate: false
+  xy: 2, 306
+  size: 133, 204
+  orig: 138, 220
+  offset: 1, 7
+  index: -1
+skill_1/flash/flash_48
+  rotate: true
+  xy: 448, 8
+  size: 64, 24
+  orig: 95, 115
+  offset: 19, 70
+  index: -1
+skill_1/flow/flow_20
+  rotate: false
+  xy: 448, 74
+  size: 61, 116
+  orig: 120, 220
+  offset: 28, 93
+  index: -1
+skill_1/tornado/tornado_27
+  rotate: true
+  xy: 339, 192
+  size: 157, 171
+  orig: 175, 188
+  offset: 12, 6
+  index: -1
+skill_1/tornado/tornado_30
+  rotate: true
+  xy: 339, 351
+  size: 159, 171
+  orig: 175, 188
+  offset: 11, 6
+  index: -1
+skill_1/tornado/tornado_48
+  rotate: true
+  xy: 167, 3
+  size: 97, 159
+  orig: 175, 188
+  offset: 45, 15
+  index: -1
+
+NG_15000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/assemble/assemble_09
+  rotate: true
+  xy: 2, 6
+  size: 155, 180
+  orig: 160, 188
+  offset: 3, 4
+  index: -1
+skill_1/assemble/assemble_10
+  rotate: true
+  xy: 184, 7
+  size: 154, 178
+  orig: 160, 188
+  offset: 3, 5
+  index: -1
+skill_1/assemble/assemble_14
+  rotate: false
+  xy: 364, 2
+  size: 131, 159
+  orig: 160, 188
+  offset: 15, 14
+  index: -1
+skill_1/greenstar_00
+  rotate: false
+  xy: 2, 337
+  size: 172, 173
+  orig: 180, 180
+  offset: 4, 3
+  index: -1
+skill_1/tornado/tornado_33
+  rotate: false
+  xy: 336, 163
+  size: 164, 172
+  orig: 175, 188
+  offset: 8, 5
+  index: -1
+skill_1/tornado/tornado_36
+  rotate: false
+  xy: 2, 163
+  size: 165, 172
+  orig: 175, 188
+  offset: 6, 5
+  index: -1
+skill_1/tornado/tornado_37
+  rotate: false
+  xy: 169, 163
+  size: 165, 172
+  orig: 175, 188
+  offset: 5, 4
+  index: -1
+skill_1/tornado/tornado_38
+  rotate: false
+  xy: 176, 337
+  size: 164, 173
+  orig: 175, 188
+  offset: 5, 3
+  index: -1
+skill_1/tornado/tornado_41
+  rotate: false
+  xy: 342, 337
+  size: 163, 173
+  orig: 175, 188
+  offset: 4, 3
+  index: -1
+
+NG_15000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/E_Ray100_emis
+  rotate: false
+  xy: 328, 362
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+skill_0/bling/bling_29
+  rotate: true
+  xy: 328, 436
+  size: 74, 72
+  orig: 250, 250
+  offset: 88, 90
+  index: -1
+skill_0/bling/bling_30
+  rotate: true
+  xy: 328, 436
+  size: 74, 72
+  orig: 250, 250
+  offset: 88, 90
+  index: -1
+skill_0/bling/bling_33
+  rotate: true
+  xy: 174, 4
+  size: 154, 152
+  orig: 250, 250
+  offset: 48, 49
+  index: -1
+skill_1/assemble/assemble_11
+  rotate: false
+  xy: 2, 160
+  size: 152, 174
+  orig: 160, 188
+  offset: 4, 7
+  index: -1
+skill_1/assemble/assemble_16
+  rotate: false
+  xy: 402, 164
+  size: 104, 128
+  orig: 160, 188
+  offset: 28, 30
+  index: -1
+skill_1/flow/flow_17
+  rotate: false
+  xy: 156, 160
+  size: 81, 174
+  orig: 120, 220
+  offset: 18, 24
+  index: -1
+skill_1/pa/pa_23
+  rotate: false
+  xy: 402, 294
+  size: 106, 90
+  orig: 118, 123
+  offset: 12, 20
+  index: -1
+skill_1/tornado/tornado_22
+  rotate: true
+  xy: 402, 386
+  size: 124, 107
+  orig: 175, 188
+  offset: 30, 9
+  index: -1
+skill_1/tornado/tornado_26
+  rotate: true
+  xy: 2, 3
+  size: 155, 170
+  orig: 175, 188
+  offset: 13, 7
+  index: -1
+skill_1/tornado/tornado_28
+  rotate: true
+  xy: 328, 2
+  size: 158, 170
+  orig: 175, 188
+  offset: 12, 7
+  index: -1
+skill_1/tornado/tornado_39
+  rotate: false
+  xy: 2, 336
+  size: 161, 174
+  orig: 175, 188
+  offset: 5, 3
+  index: -1
+skill_1/tornado/tornado_40
+  rotate: false
+  xy: 165, 337
+  size: 161, 173
+  orig: 175, 188
+  offset: 5, 3
+  index: -1
+skill_1/tornado/tornado_42
+  rotate: false
+  xy: 239, 162
+  size: 161, 173
+  orig: 175, 188
+  offset: 6, 3
+  index: -1
+
+NG_15000_FX110.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_47
+  rotate: true
+  xy: 171, 14
+  size: 154, 152
+  orig: 250, 250
+  offset: 48, 49
+  index: -1
+skill_0/guangquan_0000
+  rotate: false
+  xy: 325, 10
+  size: 65, 65
+  orig: 80, 80
+  offset: 7, 8
+  index: -1
+skill_0/julong/julong_14
+  rotate: false
+  xy: 2, 13
+  size: 167, 153
+  orig: 375, 318
+  offset: 8, 27
+  index: -1
+skill_0/julong/julong_15
+  rotate: false
+  xy: 2, 13
+  size: 167, 153
+  orig: 375, 318
+  offset: 8, 27
+  index: -1
+skill_1/assemble/assemble_12
+  rotate: false
+  xy: 163, 170
+  size: 145, 168
+  orig: 160, 188
+  offset: 8, 10
+  index: -1
+skill_1/flash/flash_35
+  rotate: false
+  xy: 310, 172
+  size: 81, 38
+  orig: 95, 115
+  offset: 6, 12
+  index: -1
+skill_1/flash/flash_36
+  rotate: false
+  xy: 392, 16
+  size: 81, 41
+  orig: 95, 115
+  offset: 6, 11
+  index: -1
+skill_1/flash/flash_39
+  rotate: true
+  xy: 443, 299
+  size: 81, 65
+  orig: 95, 115
+  offset: 7, 14
+  index: -1
+skill_1/pa/pa_21
+  rotate: true
+  xy: 325, 77
+  size: 93, 63
+  orig: 118, 123
+  offset: 17, 35
+  index: -1
+skill_1/tornado/tornado_15
+  rotate: true
+  xy: 443, 223
+  size: 74, 67
+  orig: 175, 188
+  offset: 51, 0
+  index: -1
+skill_1/tornado/tornado_16
+  rotate: true
+  xy: 443, 223
+  size: 74, 67
+  orig: 175, 188
+  offset: 51, 0
+  index: -1
+skill_1/tornado/tornado_17
+  rotate: true
+  xy: 443, 223
+  size: 74, 67
+  orig: 175, 188
+  offset: 51, 0
+  index: -1
+skill_1/tornado/tornado_19
+  rotate: false
+  xy: 302, 362
+  size: 131, 148
+  orig: 175, 188
+  offset: 18, 0
+  index: -1
+skill_1/tornado/tornado_20
+  rotate: false
+  xy: 310, 212
+  size: 131, 148
+  orig: 175, 188
+  offset: 18, 0
+  index: -1
+skill_1/tornado/tornado_31
+  rotate: false
+  xy: 2, 340
+  size: 161, 170
+  orig: 175, 188
+  offset: 10, 6
+  index: -1
+skill_1/tornado/tornado_43
+  rotate: false
+  xy: 2, 168
+  size: 159, 170
+  orig: 175, 188
+  offset: 8, 6
+  index: -1
+skill_1/tornado/tornado_45
+  rotate: false
+  xy: 165, 341
+  size: 135, 169
+  orig: 175, 188
+  offset: 10, 7
+  index: -1
+skill_1/tornado/tornado_52
+  rotate: false
+  xy: 393, 59
+  size: 105, 151
+  orig: 175, 188
+  offset: 35, 26
+  index: -1
+skill_1/tornado/tornado_57
+  rotate: false
+  xy: 435, 382
+  size: 63, 128
+  orig: 175, 188
+  offset: 57, 40
+  index: -1
+
+NG_15000_FX111.png
+size: 443,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/bling/bling_32
+  rotate: false
+  xy: 2, 313
+  size: 130, 128
+  orig: 250, 250
+  offset: 60, 62
+  index: -1
+skill_0/guangyun_0000
+  rotate: false
+  xy: 215, 55
+  size: 96, 97
+  orig: 180, 180
+  offset: 42, 42
+  index: -1
+skill_0/julong/julong_30
+  rotate: true
+  xy: 2, 2
+  size: 145, 92
+  orig: 375, 318
+  offset: 180, 50
+  index: -1
+skill_0/julong/julong_31
+  rotate: true
+  xy: 2, 2
+  size: 145, 92
+  orig: 375, 318
+  offset: 180, 50
+  index: -1
+skill_0/lines/lines_127
+  rotate: true
+  xy: 313, 70
+  size: 69, 111
+  orig: 138, 220
+  offset: 34, 40
+  index: -1
+skill_0/rainbow_00
+  rotate: true
+  xy: 330, 141
+  size: 83, 111
+  orig: 122, 119
+  offset: 34, 6
+  index: -1
+skill_1/flash/flash_34
+  rotate: false
+  xy: 215, 16
+  size: 81, 37
+  orig: 95, 115
+  offset: 6, 12
+  index: -1
+skill_1/pa/pa_25
+  rotate: true
+  xy: 100, 40
+  size: 112, 113
+  orig: 118, 123
+  offset: 6, 8
+  index: -1
+skill_1/pa/pa_26
+  rotate: true
+  xy: 330, 226
+  size: 112, 111
+  orig: 118, 123
+  offset: 6, 9
+  index: -1
+skill_1/pa/pa_27
+  rotate: false
+  xy: 100, 154
+  size: 113, 115
+  orig: 118, 123
+  offset: 5, 7
+  index: -1
+skill_1/pa/pa_28
+  rotate: false
+  xy: 100, 154
+  size: 113, 115
+  orig: 118, 123
+  offset: 5, 7
+  index: -1
+skill_1/pa/pa_29
+  rotate: false
+  xy: 215, 154
+  size: 113, 115
+  orig: 118, 123
+  offset: 5, 7
+  index: -1
+skill_1/pa/pa_30
+  rotate: false
+  xy: 215, 154
+  size: 113, 115
+  orig: 118, 123
+  offset: 5, 7
+  index: -1
+skill_1/tornado/tornado_47
+  rotate: false
+  xy: 2, 149
+  size: 96, 162
+  orig: 175, 188
+  offset: 43, 14
+  index: -1
+skill_1/tornado/tornado_49
+  rotate: true
+  xy: 134, 355
+  size: 86, 159
+  orig: 175, 188
+  offset: 56, 16
+  index: -1
+skill_1/tornado/tornado_53
+  rotate: true
+  xy: 295, 340
+  size: 101, 142
+  orig: 175, 188
+  offset: 42, 24
+  index: -1
+skill_1/tornado/tornado_54
+  rotate: true
+  xy: 134, 271
+  size: 82, 152
+  orig: 175, 188
+  offset: 45, 24
+  index: -1

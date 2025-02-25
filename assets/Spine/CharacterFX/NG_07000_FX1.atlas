@@ -1,0 +1,2360 @@
+
+NG_07000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00100
+  rotate: true
+  xy: 410, 120
+  size: 170, 98
+  orig: 170, 103
+  offset: 0, 5
+  index: -1
+DanceW/DanceW_076
+  rotate: true
+  xy: 469, 330
+  size: 70, 41
+  orig: 86, 63
+  offset: 9, 0
+  index: -1
+DanceW/DanceW_077
+  rotate: true
+  xy: 198, 2
+  size: 68, 49
+  orig: 86, 63
+  offset: 16, 0
+  index: -1
+DanceW/DanceW_103
+  rotate: true
+  xy: 469, 302
+  size: 26, 37
+  orig: 86, 63
+  offset: 10, 20
+  index: -1
+ballcharge/ballcharge_00
+  rotate: false
+  xy: 2, 279
+  size: 246, 231
+  orig: 320, 320
+  offset: 22, 48
+  index: -1
+ballcharge/ballcharge_01
+  rotate: true
+  xy: 250, 292
+  size: 218, 217
+  orig: 320, 320
+  offset: 38, 50
+  index: -1
+ballcharge/ballcharge_02
+  rotate: false
+  xy: 2, 72
+  size: 204, 205
+  orig: 320, 320
+  offset: 46, 57
+  index: -1
+skill_0_blin2/blin2_018
+  rotate: false
+  xy: 351, 2
+  size: 51, 49
+  orig: 113, 115
+  offset: 0, 6
+  index: -1
+skill_0_blin2/blin2_034
+  rotate: false
+  xy: 2, 3
+  size: 113, 67
+  orig: 113, 115
+  offset: 0, 26
+  index: -1
+skill_1_FX4/Comp 1_04
+  rotate: true
+  xy: 208, 72
+  size: 106, 37
+  orig: 119, 79
+  offset: 3, 0
+  index: -1
+skill_1_FX4/Comp 1_08
+  rotate: true
+  xy: 208, 180
+  size: 97, 40
+  orig: 119, 79
+  offset: 6, 1
+  index: -1
+skill_1_FX4/Comp 1_11
+  rotate: false
+  xy: 249, 2
+  size: 100, 49
+  orig: 119, 79
+  offset: 5, 4
+  index: -1
+skill_1_FX4/Comp 1_21
+  rotate: true
+  xy: 469, 402
+  size: 108, 41
+  orig: 119, 79
+  offset: 4, 30
+  index: -1
+skill_1_blin_FX/01_00064
+  rotate: false
+  xy: 117, 3
+  size: 79, 67
+  orig: 112, 130
+  offset: 25, 42
+  index: -1
+skill_1_boomFeather/01_00130
+  rotate: true
+  xy: 410, 3
+  size: 115, 100
+  orig: 115, 148
+  offset: 0, 40
+  index: -1
+skill_1_boomFeather/01_00135
+  rotate: true
+  xy: 469, 294
+  size: 6, 13
+  orig: 115, 148
+  offset: 84, 66
+  index: -1
+skill_1_clockBoom/01_00098
+  rotate: true
+  xy: 250, 53
+  size: 237, 158
+  orig: 237, 158
+  offset: 0, 0
+  index: -1
+
+NG_07000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_096
+  rotate: true
+  xy: 176, 273
+  size: 77, 45
+  orig: 86, 63
+  offset: 8, 8
+  index: -1
+DanceW/DanceW_105
+  rotate: true
+  xy: 489, 113
+  size: 26, 21
+  orig: 86, 63
+  offset: 13, 36
+  index: -1
+attack_0_FX/huoyanad_0001
+  rotate: false
+  xy: 407, 320
+  size: 102, 75
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+attack_0_FX/huoyanad_2_0001
+  rotate: false
+  xy: 407, 320
+  size: 102, 75
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+ballcharge/ballcharge_03
+  rotate: false
+  xy: 223, 320
+  size: 182, 190
+  orig: 320, 320
+  offset: 58, 63
+  index: -1
+ballcharge/ballcharge_04
+  rotate: false
+  xy: 2, 171
+  size: 172, 179
+  orig: 320, 320
+  offset: 64, 70
+  index: -1
+energy/energy_44
+  rotate: true
+  xy: 391, 198
+  size: 120, 118
+  orig: 150, 150
+  offset: 15, 16
+  index: -1
+gather/gather_006
+  rotate: false
+  xy: 215, 2
+  size: 121, 103
+  orig: 175, 175
+  offset: 30, 39
+  index: -1
+skill_0_blin2/blin2_045
+  rotate: true
+  xy: 452, 7
+  size: 98, 58
+  orig: 113, 115
+  offset: 8, 48
+  index: -1
+skill_1_FX4/Comp 1_09
+  rotate: true
+  xy: 176, 173
+  size: 98, 44
+  orig: 119, 79
+  offset: 6, 1
+  index: -1
+skill_1_blin_FX/01_00043
+  rotate: true
+  xy: 489, 141
+  size: 55, 21
+  orig: 112, 130
+  offset: 22, 51
+  index: -1
+skill_1_blin_FX/01_00091
+  rotate: false
+  xy: 407, 397
+  size: 101, 113
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_blin_FX/01_00099
+  rotate: true
+  xy: 338, 3
+  size: 102, 112
+  orig: 112, 130
+  offset: 0, 18
+  index: -1
+skill_1_blin_FX/01_00100
+  rotate: true
+  xy: 391, 107
+  size: 89, 96
+  orig: 112, 130
+  offset: 0, 31
+  index: -1
+skill_1_boom_FX/01_00096
+  rotate: true
+  xy: 223, 107
+  size: 211, 166
+  orig: 216, 171
+  offset: 0, 0
+  index: -1
+skill_1_boom_FX/01_00097
+  rotate: false
+  xy: 2, 3
+  size: 211, 166
+  orig: 216, 171
+  offset: 0, 0
+  index: -1
+skill_1_clockBoom/01_00097
+  rotate: false
+  xy: 2, 352
+  size: 219, 158
+  orig: 237, 158
+  offset: 8, 0
+  index: -1
+
+NG_07000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_068
+  rotate: true
+  xy: 409, 2
+  size: 24, 25
+  orig: 86, 63
+  offset: 0, 10
+  index: -1
+DanceW/DanceW_106
+  rotate: false
+  xy: 490, 12
+  size: 15, 14
+  orig: 86, 63
+  offset: 25, 41
+  index: -1
+assembleexplosion/assembleexplosion_07
+  rotate: false
+  xy: 409, 28
+  size: 101, 109
+  orig: 208, 179
+  offset: 54, 48
+  index: -1
+assembleexplosion/assembleexplosion_11
+  rotate: true
+  xy: 2, 2
+  size: 197, 135
+  orig: 208, 179
+  offset: 10, 34
+  index: -1
+assembleexplosion/assembleexplosion_12
+  rotate: true
+  xy: 139, 2
+  size: 197, 135
+  orig: 208, 179
+  offset: 10, 34
+  index: -1
+assembleexplosion/assembleexplosion_13
+  rotate: true
+  xy: 139, 2
+  size: 197, 135
+  orig: 208, 179
+  offset: 10, 34
+  index: -1
+attack_0_FX/huoyanad_0008
+  rotate: false
+  xy: 276, 139
+  size: 98, 60
+  orig: 122, 122
+  offset: 12, 30
+  index: -1
+attack_0_FX/huoyanad_2_0008
+  rotate: false
+  xy: 276, 139
+  size: 98, 60
+  orig: 122, 122
+  offset: 12, 30
+  index: -1
+gather/gather_001
+  rotate: true
+  xy: 276, 2
+  size: 135, 131
+  orig: 175, 175
+  offset: 26, 7
+  index: -1
+skill_0_blin2/blin2_041
+  rotate: true
+  xy: 434, 419
+  size: 91, 76
+  orig: 113, 115
+  offset: 16, 29
+  index: -1
+skill_1_blin_FX/01_00042
+  rotate: false
+  xy: 436, 7
+  size: 52, 19
+  orig: 112, 130
+  offset: 24, 50
+  index: -1
+skill_1_blin_FX/01_00063
+  rotate: false
+  xy: 434, 358
+  size: 76, 59
+  orig: 112, 130
+  offset: 24, 46
+  index: -1
+skill_1_boom_FX/01_00095
+  rotate: false
+  xy: 221, 358
+  size: 211, 152
+  orig: 216, 171
+  offset: 0, 0
+  index: -1
+skill_1_clockBoom/01_00094
+  rotate: true
+  xy: 377, 139
+  size: 217, 133
+  orig: 237, 158
+  offset: 9, 0
+  index: -1
+skill_1_clockBoom/01_00095
+  rotate: false
+  xy: 2, 201
+  size: 217, 149
+  orig: 237, 158
+  offset: 9, 0
+  index: -1
+skill_1_clockBoom/01_00096
+  rotate: false
+  xy: 2, 352
+  size: 217, 158
+  orig: 237, 158
+  offset: 9, 0
+  index: -1
+star/11_06
+  rotate: true
+  xy: 221, 201
+  size: 155, 154
+  orig: 256, 256
+  offset: 50, 51
+  index: -1
+
+NG_07000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_070
+  rotate: false
+  xy: 427, 341
+  size: 71, 34
+  orig: 86, 63
+  offset: 0, 1
+  index: -1
+addglow
+  rotate: false
+  xy: 117, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+assembleexplosion/assembleexplosion_08
+  rotate: true
+  xy: 385, 14
+  size: 152, 123
+  orig: 208, 179
+  offset: 32, 44
+  index: -1
+assembleexplosion/assembleexplosion_09
+  rotate: true
+  xy: 385, 168
+  size: 168, 125
+  orig: 208, 179
+  offset: 24, 41
+  index: -1
+attack_0_FX/huoyanad_0004
+  rotate: true
+  xy: 312, 49
+  size: 100, 71
+  orig: 122, 122
+  offset: 11, 25
+  index: -1
+attack_0_FX/huoyanad_2_0004
+  rotate: true
+  xy: 312, 49
+  size: 100, 71
+  orig: 122, 122
+  offset: 11, 25
+  index: -1
+ballcharge/ballcharge_08
+  rotate: true
+  xy: 387, 377
+  size: 133, 122
+  orig: 320, 320
+  offset: 87, 99
+  index: -1
+energy/energy_35
+  rotate: false
+  xy: 387, 338
+  size: 38, 37
+  orig: 150, 150
+  offset: 56, 57
+  index: -1
+gather/gather_024
+  rotate: false
+  xy: 314, 293
+  size: 62, 43
+  orig: 175, 175
+  offset: 62, 71
+  index: -1
+skill_0_blin2/blin2_047
+  rotate: false
+  xy: 217, 293
+  size: 95, 43
+  orig: 113, 115
+  offset: 11, 55
+  index: -1
+skill_1_FX4/Comp 1_03
+  rotate: false
+  xy: 312, 14
+  size: 71, 33
+  orig: 119, 79
+  offset: 20, 0
+  index: -1
+skill_1_FX4/Comp 1_10
+  rotate: true
+  xy: 172, 293
+  size: 101, 43
+  orig: 119, 79
+  offset: 5, 2
+  index: -1
+skill_1_FX4/Comp 1_18
+  rotate: false
+  xy: 2, 2
+  size: 113, 51
+  orig: 119, 79
+  offset: 3, 22
+  index: -1
+skill_1_blin_FX/01_00039
+  rotate: true
+  xy: 500, 352
+  size: 23, 10
+  orig: 112, 130
+  offset: 52, 47
+  index: -1
+skill_1_boom_FX/01_00094
+  rotate: false
+  xy: 172, 151
+  size: 211, 140
+  orig: 216, 171
+  offset: 0, 0
+  index: -1
+skill_1_clockBoom/01_00099
+  rotate: false
+  xy: 2, 396
+  size: 213, 114
+  orig: 237, 158
+  offset: 11, 0
+  index: -1
+star/11_00
+  rotate: true
+  xy: 170, 11
+  size: 138, 140
+  orig: 256, 256
+  offset: 59, 58
+  index: -1
+star/11_03
+  rotate: true
+  xy: 2, 55
+  size: 169, 166
+  orig: 256, 256
+  offset: 43, 45
+  index: -1
+star/11_04
+  rotate: true
+  xy: 217, 338
+  size: 172, 168
+  orig: 256, 256
+  offset: 42, 44
+  index: -1
+star/11_05
+  rotate: false
+  xy: 2, 226
+  size: 168, 168
+  orig: 256, 256
+  offset: 44, 44
+  index: -1
+
+NG_07000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_102
+  rotate: false
+  xy: 171, 324
+  size: 28, 42
+  orig: 86, 63
+  offset: 10, 15
+  index: -1
+DanceW/DanceW_104
+  rotate: false
+  xy: 171, 252
+  size: 28, 32
+  orig: 86, 63
+  offset: 10, 25
+  index: -1
+assembleexplosion/assembleexplosion_02
+  rotate: false
+  xy: 2, 232
+  size: 167, 166
+  orig: 208, 179
+  offset: 19, 5
+  index: -1
+assembleexplosion/assembleexplosion_03
+  rotate: false
+  xy: 203, 208
+  size: 166, 166
+  orig: 208, 179
+  offset: 19, 5
+  index: -1
+assembleexplosion/assembleexplosion_04
+  rotate: true
+  xy: 371, 226
+  size: 138, 139
+  orig: 208, 179
+  offset: 33, 19
+  index: -1
+assembleexplosion/assembleexplosion_10
+  rotate: false
+  xy: 203, 376
+  size: 191, 134
+  orig: 208, 179
+  offset: 13, 35
+  index: -1
+gather/gather_002
+  rotate: true
+  xy: 119, 2
+  size: 130, 127
+  orig: 175, 175
+  offset: 29, 15
+  index: -1
+gather/gather_005
+  rotate: true
+  xy: 248, 2
+  size: 130, 120
+  orig: 175, 175
+  offset: 27, 25
+  index: -1
+gather/gather_016
+  rotate: true
+  xy: 370, 2
+  size: 105, 109
+  orig: 175, 175
+  offset: 30, 46
+  index: -1
+gather/gather_026
+  rotate: true
+  xy: 481, 6
+  size: 36, 28
+  orig: 175, 175
+  offset: 66, 73
+  index: -1
+gather/gather_027
+  rotate: true
+  xy: 171, 286
+  size: 36, 28
+  orig: 175, 175
+  offset: 66, 73
+  index: -1
+guang01_0000
+  rotate: false
+  xy: 203, 134
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+skill_1_FX4/Comp 1_00
+  rotate: false
+  xy: 171, 368
+  size: 30, 30
+  orig: 119, 79
+  offset: 41, 4
+  index: -1
+skill_1_blin_FX/01_00040
+  rotate: true
+  xy: 355, 181
+  size: 25, 14
+  orig: 112, 130
+  offset: 50, 48
+  index: -1
+skill_1_blin_FX/01_00041
+  rotate: false
+  xy: 171, 234
+  size: 26, 16
+  orig: 112, 130
+  offset: 50, 49
+  index: -1
+skill_1_blin_FX/01_00092
+  rotate: false
+  xy: 2, 109
+  size: 112, 121
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_boomFeather/01_00104
+  rotate: true
+  xy: 371, 109
+  size: 115, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00110
+  rotate: false
+  xy: 396, 366
+  size: 114, 144
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00129
+  rotate: false
+  xy: 2, 2
+  size: 115, 105
+  orig: 115, 148
+  offset: 0, 35
+  index: -1
+skill_1_boomFeather/01_00133
+  rotate: true
+  xy: 116, 134
+  size: 96, 85
+  orig: 115, 148
+  offset: 15, 55
+  index: -1
+skill_1_boomFeather/01_00134
+  rotate: true
+  xy: 481, 44
+  size: 63, 28
+  orig: 115, 148
+  offset: 44, 60
+  index: -1
+skill_1_clockBoom/01_00100
+  rotate: false
+  xy: 2, 400
+  size: 199, 110
+  orig: 237, 158
+  offset: 18, 0
+  index: -1
+
+NG_07000_FX16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_071
+  rotate: true
+  xy: 479, 36
+  size: 76, 31
+  orig: 86, 63
+  offset: 0, 1
+  index: -1
+assembleexplosion/assembleexplosion_01
+  rotate: false
+  xy: 2, 40
+  size: 152, 148
+  orig: 208, 179
+  offset: 27, 13
+  index: -1
+ballcharge/ballcharge_05
+  rotate: false
+  xy: 2, 190
+  size: 159, 158
+  orig: 320, 320
+  offset: 72, 83
+  index: -1
+ballcharge/ballcharge_06
+  rotate: false
+  xy: 166, 360
+  size: 153, 150
+  orig: 320, 320
+  offset: 75, 86
+  index: -1
+gather/gather_004
+  rotate: true
+  xy: 388, 228
+  size: 132, 122
+  orig: 175, 175
+  offset: 25, 25
+  index: -1
+skill_0_blin2/blin2_023
+  rotate: true
+  xy: 309, 129
+  size: 112, 77
+  orig: 113, 115
+  offset: 1, 5
+  index: -1
+skill_0_blin2/blin2_037
+  rotate: true
+  xy: 313, 258
+  size: 100, 73
+  orig: 113, 115
+  offset: 8, 29
+  index: -1
+skill_1_FX4/Comp 1_01
+  rotate: false
+  xy: 472, 363
+  size: 36, 31
+  orig: 119, 79
+  offset: 38, 3
+  index: -1
+skill_1_FX4/Comp 1_05
+  rotate: false
+  xy: 113, 2
+  size: 102, 36
+  orig: 119, 79
+  offset: 5, 1
+  index: -1
+skill_1_FX4/Comp 1_06
+  rotate: false
+  xy: 217, 2
+  size: 98, 36
+  orig: 119, 79
+  offset: 5, 1
+  index: -1
+skill_1_FX4/Comp 1_22
+  rotate: false
+  xy: 2, 2
+  size: 109, 36
+  orig: 119, 79
+  offset: 4, 35
+  index: -1
+skill_1_FX4/Comp 1_23
+  rotate: true
+  xy: 472, 396
+  size: 114, 34
+  orig: 119, 79
+  offset: 3, 35
+  index: -1
+skill_1_blin_FX/01_00068
+  rotate: false
+  xy: 254, 40
+  size: 87, 87
+  orig: 112, 130
+  offset: 19, 24
+  index: -1
+skill_1_blin_FX/01_00084
+  rotate: true
+  xy: 156, 40
+  size: 87, 96
+  orig: 112, 130
+  offset: 25, 12
+  index: -1
+skill_1_blin_FX/01_00097
+  rotate: true
+  xy: 388, 114
+  size: 112, 121
+  orig: 112, 130
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00111
+  rotate: true
+  xy: 163, 129
+  size: 112, 144
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00114
+  rotate: true
+  xy: 166, 243
+  size: 115, 145
+  orig: 115, 148
+  offset: 0, 3
+  index: -1
+skill_1_boomFeather/01_00124
+  rotate: true
+  xy: 343, 2
+  size: 110, 134
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+star/11_01
+  rotate: false
+  xy: 321, 362
+  size: 149, 148
+  orig: 256, 256
+  offset: 53, 54
+  index: -1
+star/11_02
+  rotate: false
+  xy: 2, 350
+  size: 162, 160
+  orig: 256, 256
+  offset: 47, 48
+  index: -1
+
+NG_07000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_072
+  rotate: true
+  xy: 479, 434
+  size: 76, 31
+  orig: 86, 63
+  offset: 0, 1
+  index: -1
+DanceW/DanceW_073
+  rotate: true
+  xy: 479, 356
+  size: 76, 31
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+DanceW/DanceW_074
+  rotate: true
+  xy: 479, 140
+  size: 75, 31
+  orig: 86, 63
+  offset: 1, 0
+  index: -1
+attack_0_FX/huoyanad_0002
+  rotate: false
+  xy: 401, 2
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+attack_0_FX/huoyanad_2_0002
+  rotate: false
+  xy: 401, 2
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+gather/gather_003
+  rotate: false
+  xy: 232, 76
+  size: 128, 133
+  orig: 175, 175
+  offset: 31, 15
+  index: -1
+gather/gather_014
+  rotate: true
+  xy: 353, 287
+  size: 106, 124
+  orig: 175, 175
+  offset: 27, 32
+  index: -1
+skill_0_blin2/blin2_022
+  rotate: false
+  xy: 353, 211
+  size: 113, 74
+  orig: 113, 115
+  offset: 0, 3
+  index: -1
+skill_0_blin2/blin2_024
+  rotate: false
+  xy: 286, 2
+  size: 113, 72
+  orig: 113, 115
+  offset: 0, 14
+  index: -1
+skill_0_blin2/blin2_039
+  rotate: false
+  xy: 188, 2
+  size: 96, 71
+  orig: 113, 115
+  offset: 11, 28
+  index: -1
+skill_0_blin2/blin2_043
+  rotate: false
+  xy: 2, 2
+  size: 95, 70
+  orig: 113, 115
+  offset: 9, 38
+  index: -1
+skill_1_FX4/Comp 1_02
+  rotate: false
+  xy: 188, 361
+  size: 48, 32
+  orig: 119, 79
+  offset: 32, 1
+  index: -1
+skill_1_FX4/Comp 1_24
+  rotate: false
+  xy: 238, 377
+  size: 112, 16
+  orig: 119, 79
+  offset: 4, 53
+  index: -1
+skill_1_blin_FX/01_00052
+  rotate: false
+  xy: 119, 368
+  size: 67, 69
+  orig: 112, 130
+  offset: 22, 22
+  index: -1
+skill_1_blin_FX/01_00053
+  rotate: false
+  xy: 119, 439
+  size: 67, 71
+  orig: 112, 130
+  offset: 22, 23
+  index: -1
+skill_1_blin_FX/01_00073
+  rotate: true
+  xy: 99, 2
+  size: 70, 87
+  orig: 112, 130
+  offset: 19, 24
+  index: -1
+skill_1_blin_FX/01_00101
+  rotate: true
+  xy: 479, 309
+  size: 45, 31
+  orig: 112, 130
+  offset: 28, 75
+  index: -1
+skill_1_blin_FX/01_00102
+  rotate: true
+  xy: 479, 94
+  size: 44, 31
+  orig: 112, 130
+  offset: 28, 76
+  index: -1
+skill_1_blin_FX/01_00104
+  rotate: false
+  xy: 468, 252
+  size: 42, 33
+  orig: 112, 130
+  offset: 28, 78
+  index: -1
+skill_1_blin_FX/01_00105
+  rotate: false
+  xy: 468, 217
+  size: 42, 33
+  orig: 112, 130
+  offset: 28, 79
+  index: -1
+skill_1_blin_FX/01_00108
+  rotate: false
+  xy: 238, 356
+  size: 42, 19
+  orig: 112, 130
+  offset: 28, 83
+  index: -1
+skill_1_boomFeather/01_00112
+  rotate: false
+  xy: 2, 366
+  size: 115, 144
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00113
+  rotate: false
+  xy: 2, 220
+  size: 115, 144
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00115
+  rotate: false
+  xy: 2, 74
+  size: 115, 144
+  orig: 115, 148
+  offset: 0, 3
+  index: -1
+skill_1_boomFeather/01_00116
+  rotate: true
+  xy: 334, 395
+  size: 115, 143
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00117
+  rotate: true
+  xy: 188, 395
+  size: 115, 144
+  orig: 115, 148
+  offset: 0, 4
+  index: -1
+skill_1_boomFeather/01_00118
+  rotate: false
+  xy: 119, 211
+  size: 115, 143
+  orig: 115, 148
+  offset: 0, 5
+  index: -1
+skill_1_boomFeather/01_00119
+  rotate: false
+  xy: 236, 211
+  size: 115, 143
+  orig: 115, 148
+  offset: 0, 5
+  index: -1
+skill_1_boomFeather/01_00125
+  rotate: false
+  xy: 119, 75
+  size: 111, 134
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00126
+  rotate: false
+  xy: 362, 76
+  size: 115, 133
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+
+NG_07000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_069
+  rotate: true
+  xy: 470, 114
+  size: 46, 32
+  orig: 86, 63
+  offset: 0, 3
+  index: -1
+attack_0_FX/huoyanad_0003
+  rotate: true
+  xy: 349, 230
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+attack_0_FX/huoyanad_2_0003
+  rotate: true
+  xy: 349, 230
+  size: 103, 72
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+ballcharge/ballcharge_07
+  rotate: true
+  xy: 2, 226
+  size: 140, 132
+  orig: 320, 320
+  offset: 83, 94
+  index: -1
+ballcharge/ballcharge_10
+  rotate: true
+  xy: 251, 260
+  size: 109, 96
+  orig: 320, 320
+  offset: 101, 113
+  index: -1
+energy/energy_37
+  rotate: true
+  xy: 437, 353
+  size: 74, 73
+  orig: 150, 150
+  offset: 38, 39
+  index: -1
+energy/energy_38
+  rotate: false
+  xy: 347, 2
+  size: 88, 86
+  orig: 150, 150
+  offset: 31, 32
+  index: -1
+gather/gather_020
+  rotate: true
+  xy: 93, 2
+  size: 81, 77
+  orig: 175, 175
+  offset: 51, 60
+  index: -1
+gather/gather_021
+  rotate: true
+  xy: 172, 2
+  size: 81, 75
+  orig: 175, 175
+  offset: 51, 62
+  index: -1
+skill_1_FX4/Comp 1_07
+  rotate: true
+  xy: 470, 162
+  size: 98, 39
+  orig: 119, 79
+  offset: 5, 2
+  index: -1
+skill_1_blin_FX/01_00065
+  rotate: true
+  xy: 437, 429
+  size: 81, 73
+  orig: 112, 130
+  offset: 26, 39
+  index: -1
+skill_1_blin_FX/01_00067
+  rotate: false
+  xy: 349, 335
+  size: 86, 86
+  orig: 112, 130
+  offset: 22, 27
+  index: -1
+skill_1_blin_FX/01_00069
+  rotate: true
+  xy: 349, 423
+  size: 87, 86
+  orig: 112, 130
+  offset: 17, 23
+  index: -1
+skill_1_blin_FX/01_00071
+  rotate: false
+  xy: 437, 2
+  size: 71, 86
+  orig: 112, 130
+  offset: 17, 22
+  index: -1
+skill_1_blin_FX/01_00072
+  rotate: true
+  xy: 423, 262
+  size: 71, 87
+  orig: 112, 130
+  offset: 18, 23
+  index: -1
+skill_1_blin_FX/01_00083
+  rotate: true
+  xy: 249, 2
+  size: 86, 96
+  orig: 112, 130
+  offset: 26, 11
+  index: -1
+skill_1_blin_FX/01_00088
+  rotate: true
+  xy: 2, 2
+  size: 81, 89
+  orig: 112, 130
+  offset: 7, 23
+  index: -1
+skill_1_blin_FX/01_00106
+  rotate: false
+  xy: 423, 240
+  size: 42, 20
+  orig: 112, 130
+  offset: 28, 80
+  index: -1
+skill_1_blin_FX/01_00107
+  rotate: false
+  xy: 251, 238
+  size: 42, 20
+  orig: 112, 130
+  offset: 28, 81
+  index: -1
+skill_1_boomFeather/01_00100
+  rotate: false
+  xy: 136, 230
+  size: 113, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00101
+  rotate: false
+  xy: 236, 90
+  size: 115, 138
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00102
+  rotate: false
+  xy: 353, 90
+  size: 115, 138
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00105
+  rotate: false
+  xy: 119, 371
+  size: 115, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00106
+  rotate: false
+  xy: 2, 85
+  size: 115, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00109
+  rotate: false
+  xy: 119, 85
+  size: 115, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00120
+  rotate: false
+  xy: 2, 368
+  size: 115, 142
+  orig: 115, 148
+  offset: 0, 6
+  index: -1
+skill_1_boomFeather/01_00123
+  rotate: false
+  xy: 236, 371
+  size: 111, 139
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+
+NG_07000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0_FX/A01
+  rotate: true
+  xy: 402, 412
+  size: 98, 48
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+attack_0_FX/huoyanad_0006
+  rotate: false
+  xy: 353, 178
+  size: 100, 64
+  orig: 122, 122
+  offset: 11, 27
+  index: -1
+attack_0_FX/huoyanad_2_0006
+  rotate: false
+  xy: 353, 178
+  size: 100, 64
+  orig: 122, 122
+  offset: 11, 27
+  index: -1
+ballcharge/ballcharge_09
+  rotate: false
+  xy: 236, 289
+  size: 118, 104
+  orig: 320, 320
+  offset: 96, 108
+  index: -1
+energy/energy_39
+  rotate: true
+  xy: 356, 291
+  size: 102, 100
+  orig: 150, 150
+  offset: 24, 25
+  index: -1
+gather/gather_000
+  rotate: false
+  xy: 2, 379
+  size: 127, 131
+  orig: 175, 175
+  offset: 34, 7
+  index: -1
+gather/gather_008
+  rotate: false
+  xy: 234, 106
+  size: 117, 132
+  orig: 175, 175
+  offset: 25, 7
+  index: -1
+skill_0_blin2/blin2_020
+  rotate: true
+  xy: 457, 173
+  size: 113, 53
+  orig: 113, 115
+  offset: 0, 2
+  index: -1
+skill_0_blin2/blin2_030
+  rotate: false
+  xy: 343, 7
+  size: 113, 97
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+skill_0_blin2/blin2_031
+  rotate: false
+  xy: 117, 5
+  size: 113, 92
+  orig: 113, 115
+  offset: 0, 8
+  index: -1
+skill_0_blin2/blin2_035
+  rotate: false
+  xy: 353, 106
+  size: 113, 65
+  orig: 113, 115
+  offset: 0, 32
+  index: -1
+skill_0_blin2/blin2_046
+  rotate: true
+  xy: 458, 6
+  size: 98, 51
+  orig: 113, 115
+  offset: 9, 53
+  index: -1
+skill_1_FX4/Comp 1_16
+  rotate: true
+  xy: 458, 288
+  size: 103, 52
+  orig: 119, 79
+  offset: 11, 20
+  index: -1
+skill_1_FX4/Comp 1_17
+  rotate: true
+  xy: 458, 393
+  size: 117, 50
+  orig: 119, 79
+  offset: 2, 21
+  index: -1
+skill_1_FX4/Comp 1_19
+  rotate: false
+  xy: 236, 240
+  size: 108, 46
+  orig: 119, 79
+  offset: 4, 27
+  index: -1
+skill_1_FX4/Comp 1_20
+  rotate: false
+  xy: 346, 244
+  size: 109, 42
+  orig: 119, 79
+  offset: 4, 29
+  index: -1
+skill_1_blin_FX/01_00044
+  rotate: true
+  xy: 468, 116
+  size: 55, 41
+  orig: 112, 130
+  offset: 22, 38
+  index: -1
+skill_1_blin_FX/01_00090
+  rotate: true
+  xy: 2, 2
+  size: 95, 113
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_boomFeather/01_00103
+  rotate: false
+  xy: 119, 240
+  size: 115, 137
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00107
+  rotate: true
+  xy: 131, 395
+  size: 115, 137
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00108
+  rotate: false
+  xy: 2, 239
+  size: 115, 138
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00121
+  rotate: false
+  xy: 2, 99
+  size: 115, 138
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00122
+  rotate: false
+  xy: 119, 100
+  size: 113, 138
+  orig: 115, 148
+  offset: 0, 10
+  index: -1
+skill_1_boomFeather/01_00127
+  rotate: true
+  xy: 270, 395
+  size: 115, 130
+  orig: 115, 148
+  offset: 0, 11
+  index: -1
+skill_1_boomFeather/01_00131
+  rotate: false
+  xy: 232, 3
+  size: 109, 95
+  orig: 115, 148
+  offset: 1, 45
+  index: -1
+
+NG_07000_FX110.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_075
+  rotate: false
+  xy: 376, 132
+  size: 72, 31
+  orig: 86, 63
+  offset: 4, 0
+  index: -1
+DanceW/DanceW_083
+  rotate: false
+  xy: 463, 202
+  size: 46, 55
+  orig: 86, 63
+  offset: 36, 3
+  index: -1
+DanceW/DanceW_095
+  rotate: true
+  xy: 286, 257
+  size: 77, 46
+  orig: 86, 63
+  offset: 8, 6
+  index: -1
+DanceW/DanceW_097
+  rotate: true
+  xy: 463, 259
+  size: 75, 46
+  orig: 86, 63
+  offset: 8, 9
+  index: -1
+DanceW/DanceW_101
+  rotate: true
+  xy: 463, 168
+  size: 32, 43
+  orig: 86, 63
+  offset: 10, 13
+  index: -1
+assembleexplosion/assembleexplosion_05
+  rotate: false
+  xy: 335, 2
+  size: 113, 113
+  orig: 208, 179
+  offset: 46, 32
+  index: -1
+attack_0_FX/A02
+  rotate: true
+  xy: 450, 4
+  size: 51, 60
+  orig: 52, 60
+  offset: 1, 0
+  index: -1
+attack_0_FX/huoyanad_0010
+  rotate: false
+  xy: 235, 116
+  size: 81, 51
+  orig: 122, 122
+  offset: 15, 33
+  index: -1
+attack_0_FX/huoyanad_2_0010
+  rotate: false
+  xy: 235, 116
+  size: 81, 51
+  orig: 122, 122
+  offset: 15, 33
+  index: -1
+gather/gather_009
+  rotate: false
+  xy: 2, 113
+  size: 117, 130
+  orig: 175, 175
+  offset: 25, 7
+  index: -1
+gather/gather_010
+  rotate: true
+  xy: 335, 282
+  size: 115, 126
+  orig: 175, 175
+  offset: 23, 8
+  index: -1
+gather/gather_011
+  rotate: true
+  xy: 335, 165
+  size: 115, 126
+  orig: 175, 175
+  offset: 23, 8
+  index: -1
+gather/gather_017
+  rotate: false
+  xy: 2, 2
+  size: 105, 109
+  orig: 175, 175
+  offset: 30, 46
+  index: -1
+skill_0_blin2/blin2_019
+  rotate: true
+  xy: 229, 248
+  size: 86, 55
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+skill_0_blin2/blin2_029
+  rotate: true
+  xy: 109, 2
+  size: 109, 93
+  orig: 113, 115
+  offset: 4, 0
+  index: -1
+skill_0_blin2/blin2_042
+  rotate: false
+  xy: 235, 169
+  size: 98, 77
+  orig: 113, 115
+  offset: 9, 30
+  index: -1
+skill_0_blin2/blin2_044
+  rotate: false
+  xy: 229, 336
+  size: 91, 61
+  orig: 113, 115
+  offset: 9, 46
+  index: -1
+skill_0_blin2/blin2_048
+  rotate: true
+  xy: 465, 336
+  size: 85, 43
+  orig: 113, 115
+  offset: 17, 57
+  index: -1
+skill_1_FX4/Comp 1_12
+  rotate: true
+  xy: 465, 423
+  size: 87, 43
+  orig: 119, 79
+  offset: 10, 11
+  index: -1
+skill_1_FX4/Comp 1_15
+  rotate: true
+  xy: 450, 57
+  size: 106, 60
+  orig: 119, 79
+  offset: 10, 12
+  index: -1
+skill_1_blin_FX/01_00045
+  rotate: false
+  xy: 318, 117
+  size: 56, 46
+  orig: 112, 130
+  offset: 21, 36
+  index: -1
+skill_1_blin_FX/01_00093
+  rotate: true
+  xy: 204, 2
+  size: 112, 129
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_blin_FX/01_00094
+  rotate: false
+  xy: 115, 380
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_blin_FX/01_00095
+  rotate: false
+  xy: 115, 248
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_blin_FX/01_00096
+  rotate: false
+  xy: 121, 116
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+skill_1_boomFeather/01_00095
+  rotate: true
+  xy: 229, 399
+  size: 111, 104
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00097
+  rotate: true
+  xy: 335, 399
+  size: 111, 128
+  orig: 115, 148
+  offset: 0, 7
+  index: -1
+skill_1_boomFeather/01_00098
+  rotate: false
+  xy: 2, 378
+  size: 111, 132
+  orig: 115, 148
+  offset: 0, 7
+  index: -1
+skill_1_boomFeather/01_00099
+  rotate: false
+  xy: 2, 245
+  size: 111, 131
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+
+NG_07000_FX111.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_078
+  rotate: false
+  xy: 443, 456
+  size: 67, 54
+  orig: 86, 63
+  offset: 17, 0
+  index: -1
+DanceW/DanceW_098
+  rotate: false
+  xy: 349, 79
+  size: 61, 48
+  orig: 86, 63
+  offset: 8, 8
+  index: -1
+DanceW/DanceW_100
+  rotate: true
+  xy: 412, 86
+  size: 41, 43
+  orig: 86, 63
+  offset: 9, 12
+  index: -1
+attack_0_FX/A04
+  rotate: false
+  xy: 457, 79
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+attack_0_FX/huoyanad_0005
+  rotate: false
+  xy: 238, 2
+  size: 99, 64
+  orig: 122, 122
+  offset: 11, 26
+  index: -1
+attack_0_FX/huoyanad_2_0005
+  rotate: false
+  xy: 238, 2
+  size: 99, 64
+  orig: 122, 122
+  offset: 11, 26
+  index: -1
+attack_0_FX/huoyanad_0011
+  rotate: true
+  xy: 458, 321
+  size: 73, 51
+  orig: 122, 122
+  offset: 17, 33
+  index: -1
+attack_0_FX/huoyanad_2_0011
+  rotate: true
+  xy: 458, 321
+  size: 73, 51
+  orig: 122, 122
+  offset: 17, 33
+  index: -1
+energy/energy_41
+  rotate: false
+  xy: 2, 18
+  size: 116, 116
+  orig: 150, 150
+  offset: 17, 17
+  index: -1
+energy/energy_42
+  rotate: false
+  xy: 2, 136
+  size: 120, 120
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+energy/energy_43
+  rotate: false
+  xy: 110, 262
+  size: 120, 120
+  orig: 150, 150
+  offset: 15, 15
+  index: -1
+energy/energy_45
+  rotate: false
+  xy: 120, 18
+  size: 116, 116
+  orig: 150, 150
+  offset: 17, 17
+  index: -1
+energy/energy_46
+  rotate: false
+  xy: 237, 396
+  size: 114, 114
+  orig: 150, 150
+  offset: 18, 18
+  index: -1
+gather/gather_007
+  rotate: true
+  xy: 119, 391
+  size: 119, 116
+  orig: 175, 175
+  offset: 32, 24
+  index: -1
+gather/gather_012
+  rotate: false
+  xy: 237, 158
+  size: 110, 114
+  orig: 175, 175
+  offset: 25, 18
+  index: -1
+gather/gather_013
+  rotate: false
+  xy: 346, 280
+  size: 110, 114
+  orig: 175, 175
+  offset: 25, 18
+  index: -1
+gather/gather_015
+  rotate: false
+  xy: 2, 258
+  size: 106, 124
+  orig: 175, 175
+  offset: 27, 32
+  index: -1
+skill_0_blin2/blin2_025
+  rotate: true
+  xy: 353, 397
+  size: 113, 88
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+skill_0_blin2/blin2_028
+  rotate: false
+  xy: 238, 68
+  size: 109, 88
+  orig: 113, 115
+  offset: 4, 0
+  index: -1
+skill_0_blin2/blin2_036
+  rotate: false
+  xy: 349, 214
+  size: 107, 64
+  orig: 113, 115
+  offset: 5, 36
+  index: -1
+skill_0_blin2/blin2_038
+  rotate: false
+  xy: 349, 2
+  size: 97, 75
+  orig: 113, 115
+  offset: 9, 28
+  index: -1
+skill_1_blin_FX/01_00047
+  rotate: true
+  xy: 458, 262
+  size: 57, 51
+  orig: 112, 130
+  offset: 21, 33
+  index: -1
+skill_1_blin_FX/01_00048
+  rotate: true
+  xy: 458, 203
+  size: 57, 51
+  orig: 112, 130
+  offset: 21, 33
+  index: -1
+skill_1_blin_FX/01_00050
+  rotate: true
+  xy: 448, 11
+  size: 66, 62
+  orig: 112, 130
+  offset: 21, 25
+  index: -1
+skill_1_blin_FX/01_00057
+  rotate: false
+  xy: 443, 396
+  size: 64, 58
+  orig: 112, 130
+  offset: 22, 45
+  index: -1
+skill_1_blin_FX/01_00078
+  rotate: true
+  xy: 457, 138
+  size: 63, 53
+  orig: 112, 130
+  offset: 25, 53
+  index: -1
+skill_1_blin_FX/01_00098
+  rotate: false
+  xy: 232, 274
+  size: 112, 115
+  orig: 112, 130
+  offset: 0, 15
+  index: -1
+skill_1_boomFeather/01_00096
+  rotate: false
+  xy: 124, 144
+  size: 111, 116
+  orig: 115, 148
+  offset: 0, 9
+  index: -1
+skill_1_boomFeather/01_00128
+  rotate: false
+  xy: 2, 384
+  size: 115, 126
+  orig: 115, 148
+  offset: 0, 12
+  index: -1
+skill_1_boomFeather/01_00132
+  rotate: false
+  xy: 349, 129
+  size: 106, 83
+  orig: 115, 148
+  offset: 5, 50
+  index: -1
+
+NG_07000_FX112.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_085
+  rotate: false
+  xy: 2, 2
+  size: 78, 56
+  orig: 86, 63
+  offset: 4, 3
+  index: -1
+DanceW/DanceW_087
+  rotate: false
+  xy: 261, 289
+  size: 80, 60
+  orig: 86, 63
+  offset: 4, 1
+  index: -1
+DanceW/DanceW_093
+  rotate: false
+  xy: 182, 290
+  size: 77, 59
+  orig: 86, 63
+  offset: 8, 4
+  index: -1
+E_Ray100_emis
+  rotate: false
+  xy: 407, 194
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+assembleexplosion/assembleexplosion_06
+  rotate: false
+  xy: 255, 98
+  size: 93, 93
+  orig: 208, 179
+  offset: 56, 42
+  index: -1
+attack_0_FX/A05
+  rotate: false
+  xy: 343, 294
+  size: 53, 55
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+attack_0_FX/huoyanad_0000
+  rotate: false
+  xy: 340, 436
+  size: 101, 74
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+attack_0_FX/huoyanad_2_0000
+  rotate: false
+  xy: 340, 436
+  size: 101, 74
+  orig: 122, 122
+  offset: 11, 23
+  index: -1
+attack_0_FX/huoyanad_0007
+  rotate: false
+  xy: 114, 358
+  size: 101, 62
+  orig: 122, 122
+  offset: 11, 28
+  index: -1
+attack_0_FX/huoyanad_2_0007
+  rotate: false
+  xy: 114, 358
+  size: 101, 62
+  orig: 122, 122
+  offset: 11, 28
+  index: -1
+attack_0_FX/huoyanad_0009
+  rotate: true
+  xy: 398, 347
+  size: 87, 50
+  orig: 122, 122
+  offset: 13, 38
+  index: -1
+attack_0_FX/huoyanad_2_0009
+  rotate: true
+  xy: 398, 347
+  size: 87, 50
+  orig: 122, 122
+  offset: 13, 38
+  index: -1
+ballcharge/ballcharge_11
+  rotate: true
+  xy: 350, 101
+  size: 91, 78
+  orig: 320, 320
+  offset: 111, 123
+  index: -1
+ballcharge/ballcharge_12
+  rotate: true
+  xy: 326, 351
+  size: 80, 70
+  orig: 320, 320
+  offset: 117, 129
+  index: -1
+energy/energy_40
+  rotate: false
+  xy: 2, 400
+  size: 110, 110
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+energy/energy_47
+  rotate: false
+  xy: 2, 290
+  size: 108, 108
+  orig: 150, 150
+  offset: 21, 21
+  index: -1
+energy/energy_48
+  rotate: false
+  xy: 170, 2
+  size: 92, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+gather/gather_018
+  rotate: true
+  xy: 76, 78
+  size: 95, 92
+  orig: 175, 175
+  offset: 39, 55
+  index: -1
+gather/gather_019
+  rotate: true
+  xy: 149, 193
+  size: 95, 89
+  orig: 175, 175
+  offset: 39, 58
+  index: -1
+skill_0_blin2/blin2_021
+  rotate: true
+  xy: 88, 175
+  size: 113, 59
+  orig: 113, 115
+  offset: 0, 3
+  index: -1
+skill_0_blin2/blin2_026
+  rotate: false
+  xy: 114, 422
+  size: 113, 88
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+skill_0_blin2/blin2_027
+  rotate: true
+  xy: 2, 175
+  size: 113, 84
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+skill_0_blin2/blin2_032
+  rotate: false
+  xy: 229, 433
+  size: 109, 77
+  orig: 113, 115
+  offset: 0, 17
+  index: -1
+skill_0_blin2/blin2_033
+  rotate: true
+  xy: 2, 60
+  size: 113, 72
+  orig: 113, 115
+  offset: 0, 21
+  index: -1
+skill_0_blin2/blin2_040
+  rotate: true
+  xy: 330, 194
+  size: 93, 75
+  orig: 113, 115
+  offset: 15, 28
+  index: -1
+skill_1_FX4/Comp 1_13
+  rotate: true
+  xy: 430, 102
+  size: 90, 61
+  orig: 119, 79
+  offset: 9, 10
+  index: -1
+skill_1_FX4/Comp 1_14
+  rotate: true
+  xy: 450, 345
+  size: 91, 60
+  orig: 119, 79
+  offset: 9, 11
+  index: -1
+skill_1_blin_FX/01_00051
+  rotate: false
+  xy: 112, 290
+  size: 68, 66
+  orig: 112, 130
+  offset: 21, 23
+  index: -1
+skill_1_blin_FX/01_00054
+  rotate: false
+  xy: 443, 438
+  size: 65, 72
+  orig: 112, 130
+  offset: 22, 24
+  index: -1
+skill_1_blin_FX/01_00066
+  rotate: false
+  xy: 430, 268
+  size: 80, 75
+  orig: 112, 130
+  offset: 28, 38
+  index: -1
+skill_1_blin_FX/01_00070
+  rotate: false
+  xy: 430, 17
+  size: 70, 83
+  orig: 112, 130
+  offset: 17, 22
+  index: -1
+skill_1_blin_FX/01_00081
+  rotate: false
+  xy: 349, 7
+  size: 79, 89
+  orig: 112, 130
+  offset: 28, 16
+  index: -1
+skill_1_blin_FX/01_00082
+  rotate: false
+  xy: 264, 3
+  size: 83, 93
+  orig: 112, 130
+  offset: 27, 13
+  index: -1
+skill_1_blin_FX/01_00085
+  rotate: false
+  xy: 170, 96
+  size: 83, 95
+  orig: 112, 130
+  offset: 27, 14
+  index: -1
+skill_1_blin_FX/01_00086
+  rotate: true
+  xy: 229, 351
+  size: 80, 95
+  orig: 112, 130
+  offset: 28, 16
+  index: -1
+skill_1_blin_FX/01_00087
+  rotate: true
+  xy: 82, 4
+  size: 72, 84
+  orig: 112, 130
+  offset: 12, 27
+  index: -1
+skill_1_blin_FX/01_00089
+  rotate: false
+  xy: 240, 193
+  size: 88, 94
+  orig: 112, 130
+  offset: 4, 19
+  index: -1
+
+NG_07000_FX113.png
+size: 409,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DanceW/DanceW_079
+  rotate: true
+  xy: 217, 279
+  size: 65, 56
+  orig: 86, 63
+  offset: 19, 0
+  index: -1
+DanceW/DanceW_080
+  rotate: true
+  xy: 196, 89
+  size: 62, 57
+  orig: 86, 63
+  offset: 22, 0
+  index: -1
+DanceW/DanceW_081
+  rotate: false
+  xy: 267, 220
+  size: 56, 57
+  orig: 86, 63
+  offset: 28, 0
+  index: -1
+DanceW/DanceW_082
+  rotate: false
+  xy: 295, 35
+  size: 50, 55
+  orig: 86, 63
+  offset: 33, 2
+  index: -1
+DanceW/DanceW_084
+  rotate: true
+  xy: 275, 284
+  size: 64, 57
+  orig: 86, 63
+  offset: 18, 2
+  index: -1
+DanceW/DanceW_086
+  rotate: false
+  xy: 244, 350
+  size: 78, 57
+  orig: 86, 63
+  offset: 4, 2
+  index: -1
+DanceW/DanceW_088
+  rotate: true
+  xy: 2, 240
+  size: 82, 61
+  orig: 86, 63
+  offset: 4, 1
+  index: -1
+DanceW/DanceW_089
+  rotate: false
+  xy: 79, 346
+  size: 82, 61
+  orig: 86, 63
+  offset: 4, 1
+  index: -1
+DanceW/DanceW_090
+  rotate: true
+  xy: 2, 157
+  size: 81, 61
+  orig: 86, 63
+  offset: 5, 1
+  index: -1
+DanceW/DanceW_091
+  rotate: false
+  xy: 163, 346
+  size: 79, 61
+  orig: 86, 63
+  offset: 7, 2
+  index: -1
+DanceW/DanceW_092
+  rotate: true
+  xy: 2, 76
+  size: 79, 60
+  orig: 86, 63
+  offset: 7, 3
+  index: -1
+DanceW/DanceW_094
+  rotate: false
+  xy: 324, 351
+  size: 73, 56
+  orig: 86, 63
+  offset: 12, 6
+  index: -1
+DanceW/DanceW_099
+  rotate: false
+  xy: 347, 46
+  size: 46, 48
+  orig: 86, 63
+  offset: 8, 8
+  index: -1
+attack_0_FX/A03
+  rotate: false
+  xy: 255, 92
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+ballcharge/ballcharge_13
+  rotate: false
+  xy: 65, 218
+  size: 68, 60
+  orig: 320, 320
+  offset: 123, 133
+  index: -1
+energy/energy_36
+  rotate: false
+  xy: 298, 158
+  size: 60, 60
+  orig: 150, 150
+  offset: 45, 45
+  index: -1
+gather/gather_022
+  rotate: true
+  xy: 2, 2
+  size: 72, 58
+  orig: 175, 175
+  offset: 58, 68
+  index: -1
+gather/gather_023
+  rotate: true
+  xy: 62, 2
+  size: 72, 55
+  orig: 175, 175
+  offset: 58, 71
+  index: -1
+gather/gather_025
+  rotate: true
+  xy: 197, 153
+  size: 62, 43
+  orig: 175, 175
+  offset: 62, 71
+  index: -1
+skill_1_blin_FX/01_00046
+  rotate: true
+  xy: 243, 31
+  size: 56, 50
+  orig: 112, 130
+  offset: 21, 34
+  index: -1
+skill_1_blin_FX/01_00049
+  rotate: true
+  xy: 184, 24
+  size: 63, 57
+  orig: 112, 130
+  offset: 21, 28
+  index: -1
+skill_1_blin_FX/01_00055
+  rotate: true
+  xy: 79, 280
+  size: 64, 69
+  orig: 112, 130
+  offset: 22, 30
+  index: -1
+skill_1_blin_FX/01_00056
+  rotate: true
+  xy: 242, 154
+  size: 64, 54
+  orig: 112, 130
+  offset: 22, 47
+  index: -1
+skill_1_blin_FX/01_00058
+  rotate: false
+  xy: 135, 217
+  size: 64, 61
+  orig: 112, 130
+  offset: 22, 44
+  index: -1
+skill_1_blin_FX/01_00059
+  rotate: false
+  xy: 119, 24
+  size: 63, 63
+  orig: 112, 130
+  offset: 23, 45
+  index: -1
+skill_1_blin_FX/01_00060
+  rotate: true
+  xy: 65, 154
+  size: 62, 64
+  orig: 112, 130
+  offset: 24, 46
+  index: -1
+skill_1_blin_FX/01_00061
+  rotate: true
+  xy: 131, 153
+  size: 62, 64
+  orig: 112, 130
+  offset: 24, 47
+  index: -1
+skill_1_blin_FX/01_00062
+  rotate: true
+  xy: 130, 89
+  size: 62, 64
+  orig: 112, 130
+  offset: 24, 49
+  index: -1
+skill_1_blin_FX/01_00074
+  rotate: false
+  xy: 334, 288
+  size: 63, 61
+  orig: 112, 130
+  offset: 26, 51
+  index: -1
+skill_1_blin_FX/01_00075
+  rotate: false
+  xy: 64, 89
+  size: 64, 63
+  orig: 112, 130
+  offset: 24, 51
+  index: -1
+skill_1_blin_FX/01_00076
+  rotate: true
+  xy: 150, 280
+  size: 64, 65
+  orig: 112, 130
+  offset: 24, 51
+  index: -1
+skill_1_blin_FX/01_00077
+  rotate: false
+  xy: 201, 220
+  size: 64, 57
+  orig: 112, 130
+  offset: 24, 51
+  index: -1
+skill_1_blin_FX/01_00079
+  rotate: true
+  xy: 311, 96
+  size: 60, 49
+  orig: 112, 130
+  offset: 28, 54
+  index: -1
+skill_1_blin_FX/01_00080
+  rotate: false
+  xy: 2, 324
+  size: 75, 83
+  orig: 112, 130
+  offset: 28, 21
+  index: -1
+skill_1_blin_FX/01_00103
+  rotate: true
+  xy: 347, 2
+  size: 42, 32
+  orig: 112, 130
+  offset: 28, 77
+  index: -1

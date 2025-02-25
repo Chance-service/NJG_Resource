@@ -1,0 +1,174 @@
+
+NG_508.png
+size: 702,702
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BF1
+  rotate: true
+  xy: 508, 8
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+BF2
+  rotate: true
+  xy: 612, 348
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+BF3
+  rotate: true
+  xy: 2, 5
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+BH1
+  rotate: false
+  xy: 2, 223
+  size: 210, 226
+  orig: 210, 226
+  offset: 0, 0
+  index: -1
+EYES
+  rotate: true
+  xy: 632, 539
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+FF1
+  rotate: true
+  xy: 567, 292
+  size: 50, 121
+  orig: 50, 121
+  offset: 0, 0
+  index: -1
+FF1_2
+  rotate: true
+  xy: 410, 244
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+FF2
+  rotate: false
+  xy: 632, 587
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+FF2_2
+  rotate: true
+  xy: 469, 245
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+FF3
+  rotate: false
+  xy: 612, 377
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+FH1
+  rotate: true
+  xy: 2, 74
+  size: 147, 292
+  orig: 147, 292
+  offset: 0, 0
+  index: -1
+FH2
+  rotate: false
+  xy: 567, 344
+  size: 43, 144
+  orig: 43, 144
+  offset: 0, 0
+  index: -1
+FH3
+  rotate: false
+  xy: 605, 17
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+HA
+  rotate: false
+  xy: 296, 85
+  size: 263, 153
+  orig: 263, 153
+  offset: 0, 0
+  index: -1
+HM
+  rotate: true
+  xy: 386, 467
+  size: 233, 158
+  orig: 233, 158
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 404, 13
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 451
+  size: 198, 249
+  orig: 198, 249
+  offset: 0, 0
+  index: -1
+eyes_close
+  rotate: true
+  xy: 632, 491
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 561, 99
+  size: 139, 175
+  orig: 139, 175
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 410, 276
+  size: 155, 189
+  orig: 155, 189
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 214, 240
+  size: 194, 212
+  orig: 194, 212
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 27
+  size: 400, 45
+  orig: 400, 45
+  offset: 0, 0
+  index: -1
+shoot_00
+  rotate: true
+  xy: 546, 490
+  size: 210, 84
+  orig: 210, 84
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 202, 454
+  size: 182, 246
+  orig: 182, 246
+  offset: 0, 0
+  index: -1

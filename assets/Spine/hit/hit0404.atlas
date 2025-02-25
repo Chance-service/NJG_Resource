@@ -1,0 +1,118 @@
+
+hit0404.png
+size: 535,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prickhit_00
+  rotate: false
+  xy: 307, 5
+  size: 50, 51
+  orig: 156, 185
+  offset: 29, 15
+  index: -1
+prickhit_01
+  rotate: false
+  xy: 141, 371
+  size: 101, 162
+  orig: 156, 185
+  offset: 23, 15
+  index: -1
+prickhit_02
+  rotate: false
+  xy: 136, 162
+  size: 113, 184
+  orig: 156, 185
+  offset: 25, 1
+  index: -1
+prickhit_03
+  rotate: false
+  xy: 2, 161
+  size: 132, 185
+  orig: 156, 185
+  offset: 17, 0
+  index: -1
+prickhit_04
+  rotate: false
+  xy: 2, 348
+  size: 137, 185
+  orig: 156, 185
+  offset: 17, 0
+  index: -1
+prickhit_05
+  rotate: false
+  xy: 2, 2
+  size: 152, 157
+  orig: 156, 185
+  offset: 0, 28
+  index: -1
+prickhit_06
+  rotate: false
+  xy: 156, 7
+  size: 149, 153
+  orig: 156, 185
+  offset: 7, 32
+  index: -1
+prickhit_07
+  rotate: true
+  xy: 389, 255
+  size: 138, 139
+  orig: 156, 185
+  offset: 11, 26
+  index: -1
+prickhit_08
+  rotate: true
+  xy: 244, 388
+  size: 145, 143
+  orig: 156, 185
+  offset: 11, 26
+  index: -1
+prickhit_09
+  rotate: false
+  xy: 389, 395
+  size: 144, 138
+  orig: 156, 185
+  offset: 12, 31
+  index: -1
+prickhit_10
+  rotate: true
+  xy: 251, 272
+  size: 114, 135
+  orig: 156, 185
+  offset: 42, 32
+  index: -1
+prickhit_11
+  rotate: false
+  xy: 251, 163
+  size: 103, 107
+  orig: 156, 185
+  offset: 41, 32
+  index: -1
+prickhit_12
+  rotate: false
+  xy: 307, 58
+  size: 101, 103
+  orig: 156, 185
+  offset: 41, 34
+  index: -1
+prickhit_13
+  rotate: true
+  xy: 421, 154
+  size: 99, 102
+  orig: 156, 185
+  offset: 41, 35
+  index: -1
+prickhit_14
+  rotate: false
+  xy: 356, 186
+  size: 63, 67
+  orig: 156, 185
+  offset: 41, 60
+  index: -1
+prickhit_15
+  rotate: false
+  xy: 410, 91
+  size: 63, 61
+  orig: 156, 185
+  offset: 41, 65
+  index: -1

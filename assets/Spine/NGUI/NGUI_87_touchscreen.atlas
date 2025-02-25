@@ -1,0 +1,27 @@
+
+NGUI_87_touchscreen.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/minigame_img5
+  rotate: false
+  xy: 630, 34
+  size: 281, 281
+  orig: 281, 281
+  offset: 0, 0
+  index: -1
+img/minigame_img6
+  rotate: false
+  xy: 2, 2
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1
+img/minigame_img7
+  rotate: false
+  xy: 317, 4
+  size: 311, 311
+  orig: 311, 311
+  offset: 0, 0
+  index: -1

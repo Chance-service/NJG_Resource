@@ -1,0 +1,243 @@
+
+NGUI_13_BattleLose.png
+size: 1019,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FXB03
+  rotate: false
+  xy: 2, 65
+  size: 864, 952
+  orig: 864, 956
+  offset: 0, 4
+  index: -1
+ao/ao03
+  rotate: false
+  xy: 860, 5
+  size: 151, 58
+  orig: 194, 58
+  offset: 43, 0
+  index: -1
+ao/ao15
+  rotate: false
+  xy: 480, 5
+  size: 188, 58
+  orig: 194, 58
+  offset: 6, 0
+  index: -1
+ao/ao16
+  rotate: false
+  xy: 670, 5
+  size: 188, 58
+  orig: 194, 58
+  offset: 6, 0
+  index: -1
+ao/ao17
+  rotate: false
+  xy: 287, 5
+  size: 191, 58
+  orig: 194, 58
+  offset: 3, 0
+  index: -1
+ao/ao18
+  rotate: false
+  xy: 93, 5
+  size: 192, 58
+  orig: 194, 58
+  offset: 2, 0
+  index: -1
+aw/aw05
+  rotate: true
+  xy: 868, 736
+  size: 281, 134
+  orig: 288, 160
+  offset: 7, 16
+  index: -1
+aw/aw07
+  rotate: true
+  xy: 868, 191
+  size: 270, 131
+  orig: 288, 160
+  offset: 16, 19
+  index: -1
+aw/aw08
+  rotate: true
+  xy: 868, 463
+  size: 271, 133
+  orig: 288, 160
+  offset: 13, 22
+  index: -1
+aw/aw10
+  rotate: false
+  xy: 2, 2
+  size: 89, 61
+  orig: 288, 160
+  offset: 185, 44
+  index: -1
+aw/aw11
+  rotate: false
+  xy: 868, 72
+  size: 128, 117
+  orig: 288, 160
+  offset: 147, 28
+  index: -1
+
+NGUI_13_BattleLose2.png
+size: 707,707
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FXB01
+  rotate: false
+  xy: 2, 415
+  size: 432, 290
+  orig: 432, 290
+  offset: 0, 0
+  index: -1
+ao/ao01
+  rotate: true
+  xy: 214, 30
+  size: 103, 58
+  orig: 194, 58
+  offset: 91, 0
+  index: -1
+ao/ao02
+  rotate: false
+  xy: 573, 169
+  size: 132, 58
+  orig: 194, 58
+  offset: 62, 0
+  index: -1
+ao/ao04
+  rotate: true
+  xy: 287, 240
+  size: 173, 58
+  orig: 194, 58
+  offset: 21, 0
+  index: -1
+ao/ao05
+  rotate: true
+  xy: 347, 238
+  size: 175, 58
+  orig: 194, 58
+  offset: 19, 0
+  index: -1
+ao/ao06
+  rotate: true
+  xy: 407, 233
+  size: 180, 58
+  orig: 194, 58
+  offset: 14, 0
+  index: -1
+ao/ao07
+  rotate: true
+  xy: 394, 54
+  size: 177, 58
+  orig: 194, 58
+  offset: 17, 0
+  index: -1
+ao/ao08
+  rotate: true
+  xy: 454, 55
+  size: 176, 58
+  orig: 194, 58
+  offset: 18, 0
+  index: -1
+ao/ao09
+  rotate: true
+  xy: 334, 56
+  size: 180, 58
+  orig: 194, 58
+  offset: 14, 0
+  index: -1
+ao/ao10
+  rotate: true
+  xy: 527, 233
+  size: 182, 58
+  orig: 194, 58
+  offset: 12, 0
+  index: -1
+ao/ao11
+  rotate: true
+  xy: 587, 230
+  size: 185, 58
+  orig: 194, 58
+  offset: 9, 0
+  index: -1
+ao/ao12
+  rotate: true
+  xy: 274, 54
+  size: 184, 58
+  orig: 194, 58
+  offset: 10, 0
+  index: -1
+ao/ao13
+  rotate: true
+  xy: 647, 229
+  size: 186, 58
+  orig: 194, 58
+  offset: 8, 0
+  index: -1
+ao/ao14
+  rotate: true
+  xy: 467, 234
+  size: 187, 58
+  orig: 194, 58
+  offset: 7, 0
+  index: -1
+ao/ao19
+  rotate: true
+  xy: 514, 63
+  size: 168, 57
+  orig: 194, 58
+  offset: 2, 1
+  index: -1
+aw/aw01
+  rotate: false
+  xy: 651, 631
+  size: 48, 74
+  orig: 288, 160
+  offset: 0, 45
+  index: -1
+aw/aw02
+  rotate: false
+  xy: 573, 91
+  size: 79, 76
+  orig: 288, 160
+  offset: 0, 39
+  index: -1
+aw/aw03
+  rotate: true
+  xy: 436, 423
+  size: 282, 119
+  orig: 288, 160
+  offset: 6, 21
+  index: -1
+aw/aw06
+  rotate: false
+  xy: 2, 258
+  size: 283, 155
+  orig: 288, 160
+  offset: 5, 1
+  index: -1
+aw/aw09
+  rotate: false
+  xy: 2, 135
+  size: 270, 121
+  orig: 288, 160
+  offset: 18, 23
+  index: -1
+battle_zhandoushibai
+  rotate: false
+  xy: 2, 23
+  size: 210, 110
+  orig: 210, 110
+  offset: 0, 0
+  index: -1
+title_img_1
+  rotate: true
+  xy: 557, 417
+  size: 288, 92
+  orig: 288, 92
+  offset: 0, 0
+  index: -1

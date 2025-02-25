@@ -1,0 +1,30 @@
+info face="FOT-Skip Std" size=24 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=27 base=26 scaleW=192 scaleH=128 pages=1 packed=0
+page id=0 file="BattleNumFont.png"
+chars count=26
+char id=32 x=34 y=118 width=0 height=0 xoffset=0 yoffset=21 xadvance=9 page=0 chnl=0
+char id=43 x=154 y=30 width=20 height=20 xoffset=2 yoffset=8 xadvance=18 page=0 chnl=0
+char id=46 x=64 y=114 width=10 height=10 xoffset=2 yoffset=18 xadvance=7 page=0 chnl=0
+char id=47 x=110 y=52 width=14 height=26 xoffset=1 yoffset=2 xadvance=10 page=0 chnl=0
+char id=48 x=64 y=58 width=22 height=26 xoffset=1 yoffset=2 xadvance=18 page=0 chnl=0
+char id=49 x=88 y=86 width=16 height=26 xoffset=3 yoffset=2 xadvance=18 page=0 chnl=0
+char id=50 x=88 y=58 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=51 x=88 y=30 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=52 x=64 y=30 width=22 height=26 xoffset=1 yoffset=2 xadvance=18 page=0 chnl=0
+char id=53 x=154 y=2 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=54 x=132 y=2 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=55 x=110 y=2 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=56 x=64 y=2 width=22 height=26 xoffset=1 yoffset=2 xadvance=18 page=0 chnl=0
+char id=57 x=88 y=2 width=20 height=26 xoffset=2 yoffset=2 xadvance=18 page=0 chnl=0
+char id=76 x=64 y=86 width=20 height=26 xoffset=2 yoffset=2 xadvance=17 page=0 chnl=0
+char id=86 x=34 y=90 width=24 height=26 xoffset=1 yoffset=2 xadvance=19 page=0 chnl=0
+char id=108 x=110 y=80 width=10 height=28 xoffset=2 yoffset=0 xadvance=8 page=0 chnl=0
+char id=118 x=132 y=30 width=20 height=20 xoffset=1 yoffset=8 xadvance=15 page=0 chnl=0
+char id=215 x=110 y=30 width=20 height=20 xoffset=5 yoffset=5 xadvance=24 page=0 chnl=0
+char id=65285 x=34 y=62 width=26 height=26 xoffset=2 yoffset=2 xadvance=24 page=0 chnl=0
+char id=36578 x=34 y=32 width=28 height=28 xoffset=1 yoffset=1 xadvance=24 page=0 chnl=0
+char id=29983 x=34 y=2 width=28 height=28 xoffset=1 yoffset=0 xadvance=24 page=0 chnl=0
+char id=32076 x=2 y=92 width=28 height=28 xoffset=1 yoffset=1 xadvance=24 page=0 chnl=0
+char id=39443 x=2 y=2 width=30 height=28 xoffset=1 yoffset=1 xadvance=24 page=0 chnl=0
+char id=37509 x=2 y=62 width=28 height=28 xoffset=1 yoffset=1 xadvance=24 page=0 chnl=0
+char id=36008 x=2 y=32 width=28 height=28 xoffset=1 yoffset=1 xadvance=24 page=0 chnl=0

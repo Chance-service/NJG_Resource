@@ -1,0 +1,286 @@
+
+NGSceneA_03a_03.png
+size: 1459,1459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1287, 312
+  size: 246, 122
+  orig: 246, 122
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 821
+  size: 670, 636
+  orig: 670, 636
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1299, 588
+  size: 278, 110
+  orig: 278, 110
+  offset: 0, 0
+  index: -1
+11a
+  rotate: false
+  xy: 1059, 202
+  size: 122, 93
+  orig: 122, 93
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 286, 178
+  size: 126, 369
+  orig: 126, 369
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1061, 58
+  size: 123, 142
+  orig: 123, 142
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 674, 864
+  size: 263, 508
+  orig: 263, 508
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 789, 248
+  size: 139, 48
+  orig: 139, 48
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1155, 560
+  size: 142, 302
+  orig: 142, 302
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 839, 326
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1289, 222
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1183, 277
+  size: 102, 281
+  orig: 102, 281
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 880, 297
+  size: 153, 301
+  orig: 153, 301
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 816, 57
+  size: 142, 126
+  orig: 142, 126
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 281, 23
+  size: 153, 403
+  orig: 153, 403
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 1155, 496
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1369, 1079
+  size: 65, 378
+  orig: 65, 378
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 1251, 92
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 1186, 102
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 816, 6
+  size: 49, 121
+  orig: 49, 121
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 1369, 1035
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 1210, 1035
+  size: 157, 422
+  orig: 157, 422
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 6
+  size: 277, 194
+  orig: 277, 194
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 686, 2
+  size: 128, 182
+  orig: 128, 182
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 1186, 31
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 617, 339
+  size: 38, 7
+  orig: 38, 7
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 1183, 202
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 1341, 257
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+36
+  rotate: false
+  xy: 1436, 1447
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+39
+  rotate: true
+  xy: 1184, 868
+  size: 165, 237
+  orig: 165, 237
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 202
+  size: 282, 617
+  orig: 282, 617
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 617, 348
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 617, 389
+  size: 261, 430
+  orig: 261, 430
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 674, 831
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 657, 186
+  size: 130, 201
+  orig: 130, 201
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 674, 1129
+  size: 534, 328
+  orig: 534, 328
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 960, 41
+  size: 99, 142
+  orig: 99, 142
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 839, 185
+  size: 110, 218
+  orig: 110, 218
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 286, 306
+  size: 329, 513
+  orig: 329, 513
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 880, 452
+  size: 273, 410
+  orig: 273, 410
+  offset: 0, 0
+  index: -1

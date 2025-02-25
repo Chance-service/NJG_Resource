@@ -1,0 +1,1091 @@
+
+NG_11000_FX1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_70
+  rotate: true
+  xy: 433, 466
+  size: 44, 74
+  orig: 400, 280
+  offset: 173, 88
+  index: -1
+skill_0/julong/julong_39
+  rotate: true
+  xy: 431, 93
+  size: 34, 58
+  orig: 340, 245
+  offset: 50, 51
+  index: -1
+skill_1/flysmoke/flysmoke_13
+  rotate: true
+  xy: 2, 4
+  size: 420, 91
+  orig: 450, 110
+  offset: 5, 18
+  index: -1
+skill_1/flysmoke/flysmoke_15
+  rotate: false
+  xy: 2, 426
+  size: 429, 84
+  orig: 450, 110
+  offset: 1, 15
+  index: -1
+skill_1/openglow/openglow_12
+  rotate: false
+  xy: 95, 92
+  size: 334, 332
+  orig: 415, 358
+  offset: 37, 10
+  index: -1
+skill_1/weapon_spin/weapon_spin_58
+  rotate: true
+  xy: 431, 129
+  size: 110, 71
+  orig: 145, 105
+  offset: 18, 16
+  index: -1
+skill_1/weapon_spin/weapon_spin_59
+  rotate: true
+  xy: 433, 352
+  size: 112, 72
+  orig: 145, 105
+  offset: 15, 16
+  index: -1
+skill_1/weapon_spin/weapon_spin_61
+  rotate: true
+  xy: 431, 241
+  size: 109, 79
+  orig: 145, 105
+  offset: 18, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_62
+  rotate: false
+  xy: 150, 6
+  size: 119, 84
+  orig: 145, 105
+  offset: 17, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_63
+  rotate: false
+  xy: 392, 7
+  size: 114, 83
+  orig: 145, 105
+  offset: 18, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_69
+  rotate: false
+  xy: 271, 6
+  size: 119, 84
+  orig: 145, 105
+  offset: 17, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_73
+  rotate: true
+  xy: 95, 4
+  size: 86, 53
+  orig: 145, 105
+  offset: 39, 12
+  index: -1
+skill_1/weapon_spin/weapon_spin_75
+  rotate: true
+  xy: 504, 187
+  size: 52, 5
+  orig: 145, 105
+  offset: 64, 28
+  index: -1
+
+NG_11000_FX12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_76
+  rotate: true
+  xy: 336, 85
+  size: 39, 40
+  orig: 400, 280
+  offset: 175, 108
+  index: -1
+skill_0/julong/julong_40
+  rotate: true
+  xy: 410, 15
+  size: 109, 100
+  orig: 340, 245
+  offset: 50, 39
+  index: -1
+skill_0/julong/julong_47
+  rotate: true
+  xy: 336, 155
+  size: 241, 171
+  orig: 340, 245
+  offset: 43, 24
+  index: -1
+skill_1/boom/boom_56
+  rotate: false
+  xy: 378, 98
+  size: 25, 26
+  orig: 183, 150
+  offset: 66, 9
+  index: -1
+skill_1/flysmoke/flysmoke_09
+  rotate: false
+  xy: 336, 126
+  size: 174, 27
+  orig: 450, 110
+  offset: 124, 83
+  index: -1
+skill_1/flysmoke/flysmoke_12
+  rotate: false
+  xy: 2, 3
+  size: 406, 79
+  orig: 450, 110
+  offset: 11, 31
+  index: -1
+skill_1/flysmoke/flysmoke_14
+  rotate: false
+  xy: 2, 418
+  size: 425, 92
+  orig: 450, 110
+  offset: 3, 16
+  index: -1
+skill_1/openglow/openglow_11
+  rotate: false
+  xy: 2, 84
+  size: 332, 332
+  orig: 415, 358
+  offset: 38, 10
+  index: -1
+skill_1/weapon_spin/weapon_spin_60
+  rotate: true
+  xy: 429, 398
+  size: 112, 81
+  orig: 145, 105
+  offset: 15, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_74
+  rotate: false
+  xy: 336, 400
+  size: 55, 16
+  orig: 145, 105
+  offset: 67, 17
+  index: -1
+
+NG_11000_FX13.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_62
+  rotate: false
+  xy: 2, 239
+  size: 395, 271
+  orig: 400, 280
+  offset: 4, 2
+  index: -1
+skill_0/assemble/assemble_68
+  rotate: false
+  xy: 399, 242
+  size: 98, 125
+  orig: 400, 280
+  offset: 151, 74
+  index: -1
+skill_0/assemble/assemble_69
+  rotate: true
+  xy: 399, 455
+  size: 55, 110
+  orig: 400, 280
+  offset: 169, 84
+  index: -1
+skill_0/s effect/s effect_00
+  rotate: false
+  xy: 399, 369
+  size: 106, 84
+  orig: 305, 350
+  offset: 83, 143
+  index: -1
+skill_0/s effect/s effect_09
+  rotate: true
+  xy: 274, 7
+  size: 230, 225
+  orig: 305, 350
+  offset: 30, 74
+  index: -1
+skill_0/s effect/s effect_16
+  rotate: false
+  xy: 2, 2
+  size: 270, 235
+  orig: 305, 350
+  offset: 9, 74
+  index: -1
+
+NG_11000_FX14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_60
+  rotate: false
+  xy: 2, 239
+  size: 394, 271
+  orig: 400, 280
+  offset: 4, 2
+  index: -1
+skill_0/assemble/assemble_71
+  rotate: false
+  xy: 398, 250
+  size: 46, 90
+  orig: 400, 280
+  offset: 172, 97
+  index: -1
+skill_0/boom/boom_17
+  rotate: false
+  xy: 446, 271
+  size: 61, 69
+  orig: 455, 328
+  offset: 100, 125
+  index: -1
+skill_0/julong/julong_56
+  rotate: true
+  xy: 398, 342
+  size: 168, 96
+  orig: 340, 245
+  offset: 132, 29
+  index: -1
+skill_0/julong/julong_58
+  rotate: true
+  xy: 446, 240
+  size: 29, 41
+  orig: 340, 245
+  offset: 162, 84
+  index: -1
+skill_0/s effect/s effect_10
+  rotate: true
+  xy: 272, 7
+  size: 230, 221
+  orig: 305, 350
+  offset: 30, 78
+  index: -1
+skill_0/s effect/s effect_14
+  rotate: false
+  xy: 2, 2
+  size: 268, 235
+  orig: 305, 350
+  offset: 10, 74
+  index: -1
+
+NG_11000_FX15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_61
+  rotate: false
+  xy: 2, 239
+  size: 394, 271
+  orig: 400, 280
+  offset: 4, 2
+  index: -1
+skill_0/s effect/s effect_15
+  rotate: false
+  xy: 2, 2
+  size: 268, 235
+  orig: 305, 350
+  offset: 10, 74
+  index: -1
+skill_1/flysmoke/flysmoke_08
+  rotate: true
+  xy: 490, 386
+  size: 124, 17
+  orig: 450, 110
+  offset: 147, 93
+  index: -1
+skill_1/openglow/openglow_09
+  rotate: true
+  xy: 272, 11
+  size: 226, 225
+  orig: 415, 358
+  offset: 91, 65
+  index: -1
+skill_1/weapon_spin/weapon_spin_64
+  rotate: true
+  xy: 398, 376
+  size: 134, 90
+  orig: 145, 105
+  offset: 5, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_67
+  rotate: true
+  xy: 398, 240
+  size: 134, 90
+  orig: 145, 105
+  offset: 5, 8
+  index: -1
+
+NG_11000_FX16.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/s effect/s effect_11
+  rotate: false
+  xy: 263, 6
+  size: 246, 231
+  orig: 305, 350
+  offset: 21, 71
+  index: -1
+skill_0/s effect/s effect_22
+  rotate: false
+  xy: 2, 2
+  size: 259, 235
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_1/openglow/openglow_01
+  rotate: false
+  xy: 2, 239
+  size: 394, 270
+  orig: 415, 358
+  offset: 19, 68
+  index: -1
+skill_1/openglow/openglow_02
+  rotate: false
+  xy: 2, 239
+  size: 394, 270
+  orig: 415, 358
+  offset: 19, 68
+  index: -1
+skill_1/weapon_spin/weapon_spin_65
+  rotate: true
+  xy: 398, 240
+  size: 133, 90
+  orig: 145, 105
+  offset: 7, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_71
+  rotate: true
+  xy: 398, 375
+  size: 134, 90
+  orig: 145, 105
+  offset: 5, 8
+  index: -1
+
+NG_11000_FX17.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_29
+  rotate: true
+  xy: 474, 2
+  size: 23, 24
+  orig: 455, 328
+  offset: 129, 11
+  index: -1
+skill_0/boom/boom_30
+  rotate: true
+  xy: 474, 2
+  size: 23, 24
+  orig: 455, 328
+  offset: 129, 11
+  index: -1
+skill_0/julong/julong_41
+  rotate: true
+  xy: 266, 16
+  size: 222, 138
+  orig: 340, 245
+  offset: 57, 37
+  index: -1
+skill_0/julong/julong_57
+  rotate: true
+  xy: 406, 110
+  size: 130, 83
+  orig: 340, 245
+  offset: 162, 44
+  index: -1
+skill_0/s effect/s effect_13
+  rotate: false
+  xy: 2, 4
+  size: 262, 234
+  orig: 305, 350
+  offset: 13, 73
+  index: -1
+skill_1/N1
+  rotate: true
+  xy: 406, 2
+  size: 61, 66
+  orig: 63, 66
+  offset: 2, 0
+  index: -1
+skill_1/N2
+  rotate: true
+  xy: 406, 65
+  size: 43, 80
+  orig: 48, 82
+  offset: 2, 2
+  index: -1
+skill_1/boom/boom_57
+  rotate: false
+  xy: 474, 27
+  size: 36, 36
+  orig: 183, 150
+  offset: 61, 7
+  index: -1
+skill_1/openglow/openglow_03
+  rotate: false
+  xy: 2, 240
+  size: 394, 270
+  orig: 415, 358
+  offset: 19, 68
+  index: -1
+skill_1/weapon_spin/weapon_spin_68
+  rotate: true
+  xy: 406, 377
+  size: 133, 90
+  orig: 145, 105
+  offset: 7, 8
+  index: -1
+skill_1/weapon_spin/weapon_spin_72
+  rotate: true
+  xy: 398, 242
+  size: 133, 90
+  orig: 145, 105
+  offset: 7, 8
+  index: -1
+
+NG_11000_FX18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_73
+  rotate: true
+  xy: 468, 170
+  size: 48, 41
+  orig: 400, 280
+  offset: 171, 107
+  index: -1
+skill_0/assemble/assemble_74
+  rotate: true
+  xy: 468, 170
+  size: 48, 41
+  orig: 400, 280
+  offset: 171, 107
+  index: -1
+skill_0/assemble/assemble_75
+  rotate: false
+  xy: 468, 128
+  size: 38, 40
+  orig: 400, 280
+  offset: 175, 108
+  index: -1
+skill_0/s effect/s effect_19
+  rotate: false
+  xy: 2, 2
+  size: 259, 240
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_1/boom/boom_61
+  rotate: true
+  xy: 386, 366
+  size: 144, 124
+  orig: 183, 150
+  offset: 16, 18
+  index: -1
+skill_1/boom/boom_62
+  rotate: true
+  xy: 386, 220
+  size: 144, 124
+  orig: 183, 150
+  offset: 16, 18
+  index: -1
+skill_1/openglow/openglow_04
+  rotate: false
+  xy: 2, 244
+  size: 382, 266
+  orig: 415, 358
+  offset: 25, 71
+  index: -1
+skill_1/openglow/openglow_07
+  rotate: false
+  xy: 263, 2
+  size: 203, 216
+  orig: 415, 358
+  offset: 107, 97
+  index: -1
+
+NG_11000_FX19.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_63
+  rotate: false
+  xy: 2, 244
+  size: 381, 266
+  orig: 400, 280
+  offset: 11, 5
+  index: -1
+skill_0/assemble/assemble_67
+  rotate: false
+  xy: 263, 106
+  size: 117, 136
+  orig: 400, 280
+  offset: 139, 64
+  index: -1
+skill_0/assemble/assemble_72
+  rotate: true
+  xy: 379, 4
+  size: 46, 49
+  orig: 400, 280
+  offset: 172, 103
+  index: -1
+skill_0/bling
+  rotate: false
+  xy: 382, 52
+  size: 116, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+skill_0/s effect/s effect_20
+  rotate: false
+  xy: 2, 2
+  size: 259, 240
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_1/boom/boom_58
+  rotate: false
+  xy: 430, 4
+  size: 45, 46
+  orig: 183, 150
+  offset: 56, 5
+  index: -1
+skill_1/boom/boom_63
+  rotate: true
+  xy: 385, 340
+  size: 170, 125
+  orig: 183, 150
+  offset: 8, 18
+  index: -1
+skill_1/boom/boom_64
+  rotate: true
+  xy: 385, 168
+  size: 170, 125
+  orig: 183, 150
+  offset: 8, 18
+  index: -1
+skill_1/weapon_spin/weapon_spin_66
+  rotate: false
+  xy: 263, 21
+  size: 114, 83
+  orig: 145, 105
+  offset: 18, 8
+  index: -1
+
+NG_11000_FX110.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_20
+  rotate: true
+  xy: 2, 2
+  size: 211, 302
+  orig: 455, 328
+  offset: 18, 17
+  index: -1
+skill_0/julong/julong_50
+  rotate: true
+  xy: 308, 201
+  size: 308, 197
+  orig: 340, 245
+  offset: 17, 14
+  index: -1
+skill_0/s effect/s effect_27
+  rotate: true
+  xy: 306, 3
+  size: 196, 200
+  orig: 305, 350
+  offset: 57, 98
+  index: -1
+skill_1/openglow/openglow_13
+  rotate: false
+  xy: 2, 215
+  size: 304, 294
+  orig: 415, 358
+  offset: 53, 27
+  index: -1
+
+NG_11000_FX111.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_64
+  rotate: false
+  xy: 2, 259
+  size: 338, 251
+  orig: 400, 280
+  offset: 32, 16
+  index: -1
+skill_0/boom/boom_28
+  rotate: true
+  xy: 243, 7
+  size: 245, 264
+  orig: 455, 328
+  offset: 8, 9
+  index: -1
+skill_0/julong/julong_46
+  rotate: true
+  xy: 342, 254
+  size: 256, 159
+  orig: 340, 245
+  offset: 22, 22
+  index: -1
+skill_0/s effect/s effect_12
+  rotate: true
+  xy: 2, 2
+  size: 255, 239
+  orig: 305, 350
+  offset: 16, 66
+  index: -1
+
+NG_11000_FX112.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/julong/julong_44
+  rotate: true
+  xy: 341, 250
+  size: 260, 156
+  orig: 340, 245
+  offset: 14, 30
+  index: -1
+skill_0/julong/julong_52
+  rotate: true
+  xy: 2, 2
+  size: 256, 216
+  orig: 340, 245
+  offset: 78, 13
+  index: -1
+skill_0/s effect/s effect_17
+  rotate: false
+  xy: 220, 10
+  size: 265, 238
+  orig: 305, 350
+  offset: 13, 74
+  index: -1
+skill_1/openglow/openglow_05
+  rotate: false
+  xy: 2, 260
+  size: 337, 250
+  orig: 415, 358
+  offset: 47, 82
+  index: -1
+
+NG_11000_FX113.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_25
+  rotate: false
+  xy: 261, 196
+  size: 242, 312
+  orig: 455, 328
+  offset: 7, 6
+  index: -1
+skill_0/julong/julong_48
+  rotate: false
+  xy: 220, 13
+  size: 278, 181
+  orig: 340, 245
+  offset: 8, 16
+  index: -1
+skill_0/julong/julong_53
+  rotate: true
+  xy: 2, 2
+  size: 199, 216
+  orig: 340, 245
+  offset: 119, 10
+  index: -1
+skill_0/s effect/s effect_05
+  rotate: false
+  xy: 2, 203
+  size: 257, 305
+  orig: 305, 350
+  offset: 5, 16
+  index: -1
+
+NG_11000_FX114.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_21
+  rotate: false
+  xy: 281, 186
+  size: 224, 324
+  orig: 455, 328
+  offset: 13, 3
+  index: -1
+skill_0/boom/boom_23
+  rotate: false
+  xy: 281, 186
+  size: 224, 324
+  orig: 455, 328
+  offset: 13, 3
+  index: -1
+skill_0/boom/boom_22
+  rotate: false
+  xy: 281, 186
+  size: 224, 324
+  orig: 455, 328
+  offset: 13, 3
+  index: -1
+skill_0/s effect/s effect_01
+  rotate: false
+  xy: 263, 2
+  size: 196, 182
+  orig: 305, 350
+  offset: 50, 92
+  index: -1
+skill_0/s effect/s effect_25
+  rotate: false
+  xy: 2, 8
+  size: 259, 224
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_1/N3
+  rotate: false
+  xy: 461, 117
+  size: 49, 67
+  orig: 53, 75
+  offset: 2, 4
+  index: -1
+skill_1/openglow/openglow_10
+  rotate: false
+  xy: 2, 234
+  size: 277, 276
+  orig: 415, 358
+  offset: 65, 39
+  index: -1
+
+NG_11000_FX115.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/julong/julong_51
+  rotate: false
+  xy: 2, 2
+  size: 289, 210
+  orig: 340, 245
+  offset: 43, 17
+  index: -1
+skill_0/s effect/s effect_07
+  rotate: false
+  xy: 2, 214
+  size: 257, 296
+  orig: 305, 350
+  offset: 5, 11
+  index: -1
+skill_0/s effect/s effect_08
+  rotate: false
+  xy: 293, 28
+  size: 202, 221
+  orig: 305, 350
+  offset: 50, 74
+  index: -1
+skill_0/s effect/s effect_24
+  rotate: true
+  xy: 261, 251
+  size: 259, 244
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+
+NG_11000_FX116.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_65
+  rotate: true
+  xy: 261, 205
+  size: 304, 246
+  orig: 400, 280
+  offset: 49, 22
+  index: -1
+skill_0/assemble/assemble_66
+  rotate: false
+  xy: 2, 2
+  size: 203, 212
+  orig: 400, 280
+  offset: 93, 35
+  index: -1
+skill_0/julong/julong_49
+  rotate: false
+  xy: 207, 23
+  size: 266, 180
+  orig: 340, 245
+  offset: 7, 14
+  index: -1
+skill_0/s effect/s effect_06
+  rotate: false
+  xy: 2, 216
+  size: 257, 293
+  orig: 305, 350
+  offset: 5, 14
+  index: -1
+
+NG_11000_FX117.png
+size: 509,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_19
+  rotate: false
+  xy: 306, 39
+  size: 187, 220
+  orig: 455, 328
+  offset: 32, 64
+  index: -1
+skill_0/boom/boom_26
+  rotate: true
+  xy: 2, 16
+  size: 243, 302
+  orig: 455, 328
+  offset: 9, 7
+  index: -1
+skill_0/boom/boom_27
+  rotate: true
+  xy: 2, 16
+  size: 243, 302
+  orig: 455, 328
+  offset: 9, 7
+  index: -1
+skill_0/s effect/s effect_28
+  rotate: true
+  xy: 307, 311
+  size: 196, 200
+  orig: 305, 350
+  offset: 57, 98
+  index: -1
+skill_1/openglow/openglow_06
+  rotate: false
+  xy: 2, 261
+  size: 303, 246
+  orig: 415, 358
+  offset: 64, 88
+  index: -1
+
+NG_11000_FX118.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_24
+  rotate: false
+  xy: 2, 200
+  size: 232, 310
+  orig: 455, 328
+  offset: 9, 5
+  index: -1
+skill_0/julong/julong_45
+  rotate: false
+  xy: 204, 58
+  size: 248, 134
+  orig: 340, 245
+  offset: 13, 24
+  index: -1
+skill_0/s effect/s effect_04
+  rotate: false
+  xy: 236, 194
+  size: 222, 316
+  orig: 305, 350
+  offset: 45, 18
+  index: -1
+skill_0/s effect/s effect_29
+  rotate: true
+  xy: 2, 2
+  size: 196, 200
+  orig: 305, 350
+  offset: 57, 98
+  index: -1
+skill_1/flysmoke/flysmoke_10
+  rotate: true
+  xy: 460, 197
+  size: 313, 50
+  orig: 450, 110
+  offset: 56, 60
+  index: -1
+
+NG_11000_FX119.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_57
+  rotate: false
+  xy: 371, 63
+  size: 139, 205
+  orig: 400, 280
+  offset: 72, 11
+  index: -1
+skill_0/assemble/assemble_58
+  rotate: false
+  xy: 371, 63
+  size: 139, 205
+  orig: 400, 280
+  offset: 72, 11
+  index: -1
+skill_0/s effect/s effect_03
+  rotate: false
+  xy: 2, 209
+  size: 220, 301
+  orig: 305, 350
+  offset: 45, 23
+  index: -1
+skill_0/s effect/s effect_23
+  rotate: false
+  xy: 224, 270
+  size: 259, 240
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_1/dart
+  rotate: false
+  xy: 189, 27
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+skill_1/openglow/openglow_08
+  rotate: true
+  xy: 2, 21
+  size: 186, 185
+  orig: 415, 358
+  offset: 111, 85
+  index: -1
+
+NG_11000_FX120.png
+size: 489,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/assemble/assemble_59
+  rotate: false
+  xy: 263, 20
+  size: 206, 206
+  orig: 400, 280
+  offset: 81, 21
+  index: -1
+skill_0/s effect/s effect_18
+  rotate: false
+  xy: 2, 248
+  size: 259, 239
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_0/s effect/s effect_21
+  rotate: false
+  xy: 2, 15
+  size: 259, 231
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+skill_0/s effect/s effect_26
+  rotate: true
+  xy: 263, 228
+  size: 259, 224
+  orig: 305, 350
+  offset: 19, 74
+  index: -1
+
+NG_11000_FX121.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/boom/boom_18
+  rotate: true
+  xy: 214, 336
+  size: 173, 171
+  orig: 455, 328
+  offset: 46, 82
+  index: -1
+skill_0/julong/julong_42
+  rotate: true
+  xy: 181, 33
+  size: 209, 147
+  orig: 340, 245
+  offset: 75, 39
+  index: -1
+skill_0/julong/julong_43
+  rotate: true
+  xy: 330, 150
+  size: 184, 156
+  orig: 340, 245
+  offset: 101, 32
+  index: -1
+skill_0/julong/julong_54
+  rotate: true
+  xy: 2, 60
+  size: 182, 177
+  orig: 340, 245
+  offset: 118, 10
+  index: -1
+skill_0/julong/julong_55
+  rotate: false
+  xy: 330, 10
+  size: 179, 138
+  orig: 340, 245
+  offset: 122, 14
+  index: -1
+skill_0/s effect/s effect_02
+  rotate: false
+  xy: 2, 244
+  size: 210, 265
+  orig: 305, 350
+  offset: 51, 35
+  index: -1
+skill_1/boom/boom_59
+  rotate: false
+  xy: 387, 372
+  size: 114, 137
+  orig: 183, 150
+  offset: 30, 3
+  index: -1
+skill_1/weapon_spin/weapon_spin_70
+  rotate: false
+  xy: 214, 251
+  size: 114, 83
+  orig: 145, 105
+  offset: 18, 8
+  index: -1
+
+NG_11000_FX122.png
+size: 397,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_1/boom/boom_60
+  rotate: false
+  xy: 2, 191
+  size: 138, 141
+  orig: 183, 150
+  offset: 22, 1
+  index: -1
+skill_1/flysmoke/flysmoke_11
+  rotate: false
+  xy: 2, 334
+  size: 393, 61
+  orig: 450, 110
+  offset: 20, 49
+  index: -1

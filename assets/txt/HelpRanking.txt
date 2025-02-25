@@ -1,0 +1,2 @@
+id	content
+1	<font color="#24b23e" face="Barlow-SemiBold32"><p style="margin:10px"> 排行榜 </p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ●根据各种数据决定排名。</p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ●每个服务器独立排名，根据目标的进度进行排名及决定顺位。</p></font><br/><font color="#6f2f00" face="Barlow-SemiBold24"><p style="margin:10px"> ●当有玩家达成目标条件后，全服务器的玩家可以获得奖励。</p></font>

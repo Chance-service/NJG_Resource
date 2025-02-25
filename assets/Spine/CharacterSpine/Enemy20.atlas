@@ -1,0 +1,76 @@
+
+Enemy20.png
+size: 337,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2BODY
+  rotate: false
+  xy: 2, 60
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+2EYE CLOSED
+  rotate: false
+  xy: 119, 79
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+2MOUTH
+  rotate: false
+  xy: 135, 132
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+3BODY
+  rotate: false
+  xy: 135, 219
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+3EYE CLOSED
+  rotate: false
+  xy: 248, 61
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+3MOUTH
+  rotate: true
+  xy: 253, 222
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 2, 184
+  size: 131, 151
+  orig: 131, 151
+  offset: 0, 0
+  index: -1
+EYE CLOSED
+  rotate: true
+  xy: 195, 56
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: true
+  xy: 250, 104
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 40
+  size: 133, 18
+  orig: 133, 18
+  offset: 0, 0
+  index: -1

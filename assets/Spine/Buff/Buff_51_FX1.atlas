@@ -1,0 +1,34 @@
+
+Buff_51_FX1.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/hj01-assets/hj09
+  rotate: true
+  xy: 55, 34
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+assets/hj01-assets/hj10
+  rotate: true
+  xy: 55, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+assets/hj01-assets/hj11
+  rotate: true
+  xy: 2, 8
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+assets/hj01-assets/hj12
+  rotate: false
+  xy: 2, 68
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1

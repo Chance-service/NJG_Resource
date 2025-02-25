@@ -1,0 +1,468 @@
+
+NGUI_18_RuneForge.png
+size: 1413,1413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/E_Ray
+  rotate: false
+  xy: 823, 11
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+image/ExpParticle/ExpParticle_60
+  rotate: false
+  xy: 1016, 100
+  size: 130, 132
+  orig: 350, 364
+  offset: 102, 123
+  index: -1
+image/ExpParticle/ExpParticle_61
+  rotate: false
+  xy: 1225, 995
+  size: 186, 181
+  orig: 350, 364
+  offset: 84, 90
+  index: -1
+image/ExpParticle/ExpParticle_62
+  rotate: true
+  xy: 806, 160
+  size: 214, 208
+  orig: 350, 364
+  offset: 71, 73
+  index: -1
+image/ExpParticle/ExpParticle_63
+  rotate: false
+  xy: 601, 601
+  size: 235, 231
+  orig: 350, 364
+  offset: 61, 60
+  index: -1
+image/ExpParticle/ExpParticle_64
+  rotate: false
+  xy: 595, 834
+  size: 256, 252
+  orig: 350, 364
+  offset: 49, 47
+  index: -1
+image/ExpParticle/ExpParticle_65
+  rotate: true
+  xy: 319, 813
+  size: 273, 274
+  orig: 350, 364
+  offset: 39, 35
+  index: -1
+image/ExpParticle/ExpParticle_66
+  rotate: false
+  xy: 314, 463
+  size: 285, 289
+  orig: 350, 364
+  offset: 31, 27
+  index: -1
+image/ExpParticle/ExpParticle_67
+  rotate: false
+  xy: 928, 1113
+  size: 293, 298
+  orig: 350, 364
+  offset: 26, 22
+  index: -1
+image/ExpParticle/ExpParticle_68
+  rotate: false
+  xy: 2, 130
+  size: 302, 305
+  orig: 350, 364
+  offset: 21, 20
+  index: -1
+image/ExpParticle/ExpParticle_69
+  rotate: false
+  xy: 2, 437
+  size: 310, 315
+  orig: 350, 364
+  offset: 15, 15
+  index: -1
+image/ExpParticle/ExpParticle_70
+  rotate: false
+  xy: 319, 1088
+  size: 315, 323
+  orig: 350, 364
+  offset: 11, 11
+  index: -1
+image/ExpParticle/ExpParticle_71
+  rotate: false
+  xy: 2, 1084
+  size: 315, 327
+  orig: 350, 364
+  offset: 9, 9
+  index: -1
+image/ExpParticle/ExpParticle_72
+  rotate: false
+  xy: 2, 754
+  size: 314, 328
+  orig: 350, 364
+  offset: 7, 8
+  index: -1
+image/ExpParticle/ExpParticle_73
+  rotate: false
+  xy: 636, 1088
+  size: 290, 323
+  orig: 350, 364
+  offset: 13, 10
+  index: -1
+image/ExpParticle/ExpParticle_74
+  rotate: true
+  xy: 928, 850
+  size: 261, 295
+  orig: 350, 364
+  offset: 43, 17
+  index: -1
+image/ExpParticle/ExpParticle_75
+  rotate: false
+  xy: 575, 148
+  size: 229, 226
+  orig: 350, 364
+  offset: 72, 64
+  index: -1
+image/ExpParticle/ExpParticle_76
+  rotate: false
+  xy: 601, 376
+  size: 234, 223
+  orig: 350, 364
+  offset: 70, 62
+  index: -1
+image/ExpParticle/ExpParticle_77
+  rotate: true
+  xy: 1223, 1178
+  size: 233, 165
+  orig: 350, 364
+  offset: 73, 88
+  index: -1
+image/ExpParticle/ExpParticle_78
+  rotate: false
+  xy: 585, 16
+  size: 236, 130
+  orig: 350, 364
+  offset: 71, 119
+  index: -1
+image/LightSpot
+  rotate: false
+  xy: 1225, 818
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+image/Orange/OrangeParticle_35
+  rotate: false
+  xy: 1402, 983
+  size: 9, 10
+  orig: 175, 175
+  offset: 98, 37
+  index: -1
+image/Orange/OrangeParticle_36
+  rotate: true
+  xy: 1148, 62
+  size: 71, 107
+  orig: 175, 175
+  offset: 63, 31
+  index: -1
+image/Orange/OrangeParticle_37
+  rotate: false
+  xy: 838, 512
+  size: 99, 118
+  orig: 175, 175
+  offset: 42, 27
+  index: -1
+image/Orange/OrangeParticle_38
+  rotate: false
+  xy: 1148, 135
+  size: 110, 127
+  orig: 175, 175
+  offset: 35, 23
+  index: -1
+image/Orange/OrangeParticle_39
+  rotate: true
+  xy: 143, 10
+  size: 118, 133
+  orig: 175, 175
+  offset: 30, 20
+  index: -1
+image/Orange/OrangeParticle_40
+  rotate: true
+  xy: 2, 6
+  size: 122, 139
+  orig: 175, 175
+  offset: 28, 17
+  index: -1
+image/Orange/OrangeParticle_41
+  rotate: false
+  xy: 1016, 234
+  size: 127, 143
+  orig: 175, 175
+  offset: 25, 15
+  index: -1
+image/Orange/OrangeParticle_42
+  rotate: true
+  xy: 987, 379
+  size: 131, 147
+  orig: 175, 175
+  offset: 23, 13
+  index: -1
+image/Orange/OrangeParticle_43
+  rotate: true
+  xy: 837, 376
+  size: 134, 148
+  orig: 175, 175
+  offset: 21, 11
+  index: -1
+image/Orange/OrangeParticle_44
+  rotate: true
+  xy: 1208, 483
+  size: 138, 151
+  orig: 175, 175
+  offset: 19, 10
+  index: -1
+image/Orange/OrangeParticle_45
+  rotate: false
+  xy: 1145, 264
+  size: 138, 136
+  orig: 175, 175
+  offset: 17, 11
+  index: -1
+image/Orange/OrangeParticle_46
+  rotate: true
+  xy: 306, 2
+  size: 141, 135
+  orig: 175, 175
+  offset: 16, 10
+  index: -1
+image/Orange/OrangeParticle_47
+  rotate: false
+  xy: 972, 2
+  size: 140, 96
+  orig: 175, 175
+  offset: 18, 26
+  index: -1
+image/Orange/OrangeParticle_48
+  rotate: false
+  xy: 1208, 402
+  size: 143, 79
+  orig: 175, 175
+  offset: 16, 44
+  index: -1
+image/Orange/OrangeParticle_49
+  rotate: true
+  xy: 853, 955
+  size: 131, 73
+  orig: 175, 175
+  offset: 15, 44
+  index: -1
+image/Orange/OrangeParticle_50
+  rotate: true
+  xy: 853, 834
+  size: 3, 4
+  orig: 175, 175
+  offset: 25, 43
+  index: -1
+image/Orangelight
+  rotate: false
+  xy: 443, 3
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+image/Trail/trail_36
+  rotate: false
+  xy: 1353, 427
+  size: 53, 54
+  orig: 154, 98
+  offset: 10, 21
+  index: -1
+image/Trail/trail_37
+  rotate: true
+  xy: 1114, 2
+  size: 58, 54
+  orig: 154, 98
+  offset: 11, 22
+  index: -1
+image/Trail/trail_38
+  rotate: false
+  xy: 420, 755
+  size: 65, 56
+  orig: 154, 98
+  offset: 14, 21
+  index: -1
+image/Trail/trail_39
+  rotate: false
+  xy: 487, 755
+  size: 62, 56
+  orig: 154, 98
+  offset: 20, 21
+  index: -1
+image/Trail/trail_40
+  rotate: false
+  xy: 853, 839
+  size: 68, 59
+  orig: 154, 98
+  offset: 22, 20
+  index: -1
+image/Trail/trail_41
+  rotate: false
+  xy: 1322, 118
+  size: 76, 63
+  orig: 154, 98
+  offset: 23, 20
+  index: -1
+image/Trail/trail_42
+  rotate: false
+  xy: 1322, 52
+  size: 82, 64
+  orig: 154, 98
+  offset: 23, 20
+  index: -1
+image/Trail/trail_43
+  rotate: true
+  xy: 1257, 43
+  size: 90, 63
+  orig: 154, 98
+  offset: 24, 20
+  index: -1
+image/Trail/trail_44
+  rotate: false
+  xy: 939, 512
+  size: 97, 62
+  orig: 154, 98
+  offset: 25, 20
+  index: -1
+image/Trail/trail_45
+  rotate: true
+  xy: 1260, 157
+  size: 105, 60
+  orig: 154, 98
+  offset: 27, 21
+  index: -1
+image/Trail/trail_46
+  rotate: true
+  xy: 1322, 183
+  size: 103, 59
+  orig: 154, 98
+  offset: 32, 21
+  index: -1
+image/Trail/trail_47
+  rotate: false
+  xy: 318, 755
+  size: 100, 56
+  orig: 154, 98
+  offset: 38, 22
+  index: -1
+image/Trail/trail_48
+  rotate: false
+  xy: 939, 576
+  size: 99, 54
+  orig: 154, 98
+  offset: 40, 23
+  index: -1
+image/Trail/trail_49
+  rotate: false
+  xy: 853, 900
+  size: 73, 53
+  orig: 154, 98
+  offset: 52, 24
+  index: -1
+image/Trail/trail_50
+  rotate: false
+  xy: 1170, 11
+  size: 70, 49
+  orig: 154, 98
+  offset: 55, 26
+  index: -1
+image/Trail/trail_51
+  rotate: true
+  xy: 1361, 567
+  size: 54, 46
+  orig: 154, 98
+  offset: 70, 28
+  index: -1
+image/Trail/trail_52
+  rotate: true
+  xy: 972, 110
+  size: 48, 42
+  orig: 154, 98
+  offset: 75, 28
+  index: -1
+image/Trail/trail_53
+  rotate: false
+  xy: 1136, 402
+  size: 39, 36
+  orig: 154, 98
+  offset: 83, 31
+  index: -1
+image/Trail/trail_54
+  rotate: true
+  xy: 1390, 1386
+  size: 25, 18
+  orig: 154, 98
+  offset: 91, 42
+  index: -1
+image/Trail/trail_55
+  rotate: false
+  xy: 585, 2
+  size: 13, 12
+  orig: 154, 98
+  offset: 99, 44
+  index: -1
+image/Trail/trail_56
+  rotate: true
+  xy: 2, 2
+  size: 2, 3
+  orig: 154, 98
+  offset: 107, 51
+  index: -1
+image/glow_1
+  rotate: false
+  xy: 1136, 440
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+image/lightspike
+  rotate: false
+  xy: 1210, 623
+  size: 199, 193
+  orig: 217, 217
+  offset: 11, 16
+  index: -1
+image/purple
+  rotate: false
+  xy: 306, 145
+  size: 267, 290
+  orig: 308, 294
+  offset: 22, 0
+  index: -1
+image/round
+  rotate: false
+  xy: 1285, 288
+  size: 112, 112
+  orig: 126, 126
+  offset: 7, 7
+  index: -1
+image/round_Orange
+  rotate: false
+  xy: 1040, 680
+  size: 168, 168
+  orig: 182, 182
+  offset: 7, 7
+  index: -1
+image/round_Purple
+  rotate: false
+  xy: 1040, 512
+  size: 166, 166
+  orig: 179, 179
+  offset: 7, 6
+  index: -1
+image/sprkle
+  rotate: false
+  xy: 838, 632
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

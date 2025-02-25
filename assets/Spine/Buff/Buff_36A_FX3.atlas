@@ -1,0 +1,13 @@
+
+Buff_36A_FX3.png
+size: 210,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add_1
+  rotate: false
+  xy: 0, 0
+  size: 210, 210
+  orig: 504, 504
+  offset: 147, 147
+  index: -1

@@ -1,0 +1,13 @@
+
+Buff_99.png
+size: 66,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/img2
+  rotate: false
+  xy: 0, 1
+  size: 66, 65
+  orig: 88, 88
+  offset: 14, 10
+  index: -1

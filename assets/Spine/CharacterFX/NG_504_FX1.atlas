@@ -1,0 +1,663 @@
+
+NG_504_FX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/beam/beam_01
+  rotate: true
+  xy: 958, 333
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_02
+  rotate: false
+  xy: 755, 275
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_03
+  rotate: true
+  xy: 965, 41
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_04
+  rotate: false
+  xy: 613, 513
+  size: 232, 49
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_06
+  rotate: true
+  xy: 847, 330
+  size: 232, 54
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_0/beam/beam_07
+  rotate: false
+  xy: 579, 794
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 13
+  index: -1
+skill_0/beam/beam_08
+  rotate: true
+  xy: 518, 790
+  size: 232, 59
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_09
+  rotate: true
+  xy: 903, 333
+  size: 232, 53
+  orig: 256, 90
+  offset: 11, 18
+  index: -1
+skill_0/beam/beam_10
+  rotate: false
+  xy: 728, 737
+  size: 232, 55
+  orig: 256, 90
+  offset: 11, 17
+  index: -1
+skill_0/beam/beam_11
+  rotate: false
+  xy: 502, 4
+  size: 232, 60
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/beam_12
+  rotate: false
+  xy: 502, 196
+  size: 232, 66
+  orig: 256, 90
+  offset: 11, 11
+  index: -1
+skill_0/beam/beam_13
+  rotate: false
+  xy: 502, 130
+  size: 232, 64
+  orig: 256, 90
+  offset: 11, 8
+  index: -1
+skill_0/beam/beam_14
+  rotate: false
+  xy: 502, 66
+  size: 232, 62
+  orig: 256, 90
+  offset: 11, 12
+  index: -1
+skill_0/beam/dust_02
+  rotate: true
+  xy: 962, 754
+  size: 48, 44
+  orig: 48, 50
+  offset: 0, 2
+  index: -1
+skill_1/boom/boom_02
+  rotate: true
+  xy: 813, 797
+  size: 52, 84
+  orig: 96, 136
+  offset: 20, 9
+  index: -1
+skill_1/boom/boom_03
+  rotate: true
+  xy: 902, 567
+  size: 58, 89
+  orig: 96, 136
+  offset: 17, 11
+  index: -1
+skill_1/boom/boom_04
+  rotate: true
+  xy: 518, 514
+  size: 66, 93
+  orig: 96, 136
+  offset: 14, 17
+  index: -1
+skill_1/boom/boom_06
+  rotate: false
+  xy: 930, 832
+  size: 88, 93
+  orig: 96, 136
+  offset: 3, 34
+  index: -1
+skill_1/boom/boom_07
+  rotate: true
+  xy: 930, 927
+  size: 95, 90
+  orig: 96, 136
+  offset: 0, 35
+  index: -1
+skill_1/boom/boom_08
+  rotate: true
+  xy: 755, 334
+  size: 85, 90
+  orig: 96, 136
+  offset: 2, 37
+  index: -1
+skill_1/boom/boom_09
+  rotate: false
+  xy: 755, 421
+  size: 86, 90
+  orig: 96, 136
+  offset: 2, 38
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_13
+  rotate: true
+  xy: 756, 851
+  size: 171, 172
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_18
+  rotate: true
+  xy: 728, 564
+  size: 171, 172
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_00
+  rotate: false
+  xy: 2, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_01
+  rotate: false
+  xy: 2, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_02
+  rotate: false
+  xy: 2, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_03
+  rotate: false
+  xy: 260, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_04
+  rotate: true
+  xy: 260, 513
+  size: 251, 256
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_05
+  rotate: true
+  xy: 2, 2
+  size: 246, 252
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_06
+  rotate: true
+  xy: 502, 264
+  size: 247, 251
+  orig: 256, 256
+  offset: 2, 1
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_07
+  rotate: true
+  xy: 256, 6
+  size: 242, 244
+  orig: 256, 256
+  offset: 8, 7
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_08
+  rotate: false
+  xy: 260, 275
+  size: 234, 236
+  orig: 256, 256
+  offset: 16, 15
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_09
+  rotate: true
+  xy: 736, 37
+  size: 225, 227
+  orig: 256, 256
+  offset: 23, 21
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_10
+  rotate: true
+  xy: 518, 582
+  size: 206, 208
+  orig: 256, 256
+  offset: 35, 30
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_11
+  rotate: true
+  xy: 579, 851
+  size: 171, 175
+  orig: 256, 256
+  offset: 56, 47
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_12
+  rotate: true
+  xy: 902, 627
+  size: 108, 102
+  orig: 256, 256
+  offset: 82, 84
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_01
+  rotate: true
+  xy: 975, 816
+  size: 14, 17
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_02
+  rotate: false
+  xy: 420, 256
+  size: 18, 17
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_03
+  rotate: false
+  xy: 372, 254
+  size: 22, 19
+  orig: 120, 120
+  offset: 13, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_04
+  rotate: false
+  xy: 286, 252
+  size: 26, 21
+  orig: 120, 120
+  offset: 15, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_05
+  rotate: false
+  xy: 336, 254
+  size: 34, 19
+  orig: 120, 120
+  offset: 22, 56
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_06
+  rotate: false
+  xy: 928, 804
+  size: 45, 26
+  orig: 120, 120
+  offset: 27, 52
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_07
+  rotate: false
+  xy: 786, 3
+  size: 46, 32
+  orig: 120, 120
+  offset: 31, 50
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_08
+  rotate: false
+  xy: 736, 3
+  size: 48, 32
+  orig: 120, 120
+  offset: 35, 50
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_09
+  rotate: false
+  xy: 834, 3
+  size: 39, 32
+  orig: 120, 120
+  offset: 46, 49
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_10
+  rotate: false
+  xy: 948, 8
+  size: 29, 27
+  orig: 120, 120
+  offset: 61, 48
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_11
+  rotate: false
+  xy: 993, 577
+  size: 14, 25
+  orig: 120, 120
+  offset: 78, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_12
+  rotate: false
+  xy: 713, 567
+  size: 12, 13
+  orig: 120, 120
+  offset: 85, 48
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder1_13
+  rotate: false
+  xy: 490, 262
+  size: 10, 11
+  orig: 120, 120
+  offset: 89, 46
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_01
+  rotate: true
+  xy: 675, 565
+  size: 15, 36
+  orig: 120, 120
+  offset: 13, 35
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_02
+  rotate: true
+  xy: 875, 7
+  size: 28, 36
+  orig: 120, 120
+  offset: 13, 35
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_03
+  rotate: true
+  xy: 913, 7
+  size: 28, 33
+  orig: 120, 120
+  offset: 16, 38
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_04
+  rotate: true
+  xy: 989, 304
+  size: 27, 26
+  orig: 120, 120
+  offset: 23, 45
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_05
+  rotate: true
+  xy: 440, 257
+  size: 16, 23
+  orig: 120, 120
+  offset: 36, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_06
+  rotate: false
+  xy: 657, 564
+  size: 16, 16
+  orig: 120, 120
+  offset: 42, 58
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_07
+  rotate: false
+  xy: 314, 253
+  size: 20, 20
+  orig: 120, 120
+  offset: 45, 56
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_08
+  rotate: false
+  xy: 613, 564
+  size: 22, 16
+  orig: 120, 120
+  offset: 50, 58
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder2_09
+  rotate: true
+  xy: 993, 604
+  size: 21, 15
+  orig: 120, 120
+  offset: 61, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_01
+  rotate: true
+  xy: 396, 254
+  size: 19, 22
+  orig: 120, 120
+  offset: 13, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_02
+  rotate: true
+  xy: 899, 794
+  size: 25, 26
+  orig: 120, 120
+  offset: 13, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_03
+  rotate: false
+  xy: 989, 278
+  size: 27, 24
+  orig: 120, 120
+  offset: 18, 57
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_04
+  rotate: false
+  xy: 465, 257
+  size: 23, 16
+  orig: 120, 120
+  offset: 30, 65
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_05
+  rotate: true
+  xy: 899, 821
+  size: 28, 27
+  orig: 120, 120
+  offset: 38, 53
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_06
+  rotate: false
+  xy: 979, 13
+  size: 30, 26
+  orig: 120, 120
+  offset: 46, 51
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_07
+  rotate: true
+  xy: 260, 251
+  size: 22, 24
+  orig: 120, 120
+  offset: 61, 52
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_08
+  rotate: false
+  xy: 637, 564
+  size: 18, 16
+  orig: 120, 120
+  offset: 72, 55
+  index: -1
+skill_2/skill_2_thunder/skill_2_thunder3_09
+  rotate: true
+  xy: 1011, 28
+  size: 11, 10
+  orig: 120, 120
+  offset: 85, 59
+  index: -1
+
+NG_504_FX12.png
+size: 698,698
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill_0/beam/beam_00
+  rotate: false
+  xy: 347, 304
+  size: 232, 48
+  orig: 256, 90
+  offset: 11, 10
+  index: -1
+skill_0/beam/beam_05
+  rotate: false
+  xy: 346, 252
+  size: 232, 50
+  orig: 256, 90
+  offset: 11, 14
+  index: -1
+skill_0/beam/dust_00
+  rotate: false
+  xy: 580, 260
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 4
+  index: -1
+skill_0/beam/dust_01
+  rotate: false
+  xy: 628, 260
+  size: 46, 42
+  orig: 48, 50
+  offset: 2, 3
+  index: -1
+skill_1/boom/boom_01
+  rotate: true
+  xy: 581, 304
+  size: 50, 79
+  orig: 96, 136
+  offset: 22, 5
+  index: -1
+skill_1/boom/boom_05
+  rotate: false
+  xy: 345, 77
+  size: 78, 87
+  orig: 96, 136
+  offset: 8, 31
+  index: -1
+skill_1/boom/boom_10
+  rotate: true
+  xy: 436, 166
+  size: 84, 87
+  orig: 96, 136
+  offset: 4, 40
+  index: -1
+skill_1/boom/boom_11
+  rotate: false
+  xy: 425, 82
+  size: 81, 82
+  orig: 96, 136
+  offset: 6, 44
+  index: -1
+skill_1/boom/boom_12
+  rotate: true
+  xy: 425, 3
+  size: 77, 80
+  orig: 96, 136
+  offset: 8, 45
+  index: -1
+skill_1/boom/boom_13
+  rotate: true
+  xy: 345, 2
+  size: 73, 78
+  orig: 96, 136
+  offset: 10, 45
+  index: -1
+skill_1/boom/boom_14
+  rotate: false
+  xy: 602, 185
+  size: 69, 73
+  orig: 96, 136
+  offset: 12, 47
+  index: -1
+skill_1/glow_1
+  rotate: false
+  xy: 508, 124
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_00
+  rotate: false
+  xy: 347, 354
+  size: 170, 169
+  orig: 256, 256
+  offset: 44, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_01
+  rotate: false
+  xy: 175, 525
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_03
+  rotate: false
+  xy: 2, 179
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_04
+  rotate: false
+  xy: 2, 525
+  size: 171, 171
+  orig: 256, 256
+  offset: 43, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_06
+  rotate: false
+  xy: 519, 527
+  size: 170, 169
+  orig: 256, 256
+  offset: 44, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_07
+  rotate: false
+  xy: 174, 180
+  size: 170, 170
+  orig: 256, 256
+  offset: 44, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_09
+  rotate: false
+  xy: 175, 352
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_10
+  rotate: false
+  xy: 174, 8
+  size: 169, 170
+  orig: 256, 256
+  offset: 43, 44
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_12
+  rotate: false
+  xy: 2, 352
+  size: 171, 171
+  orig: 256, 256
+  offset: 42, 43
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_15
+  rotate: false
+  xy: 519, 356
+  size: 169, 169
+  orig: 256, 256
+  offset: 44, 44
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_16
+  rotate: false
+  xy: 347, 525
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge1_19
+  rotate: false
+  xy: 2, 6
+  size: 170, 171
+  orig: 256, 256
+  offset: 43, 42
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_13
+  rotate: true
+  xy: 346, 166
+  size: 84, 88
+  orig: 256, 256
+  offset: 88, 91
+  index: -1
+skill_1/skill_1_ballcharge/skill_1_ballcharge2_14
+  rotate: false
+  xy: 525, 172
+  size: 75, 78
+  orig: 256, 256
+  offset: 94, 94
+  index: -1

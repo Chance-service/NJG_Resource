@@ -1,0 +1,1117 @@
+
+NGUI_93_GloryholeBG.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_000
+  rotate: false
+  xy: 2, 86
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_075
+  rotate: false
+  xy: 2, 86
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_001
+  rotate: false
+  xy: 724, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_002
+  rotate: false
+  xy: 1086, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_003
+  rotate: true
+  xy: 724, 1006
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_004
+  rotate: false
+  xy: 1448, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_005
+  rotate: false
+  xy: 364, 86
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_006
+  rotate: true
+  xy: 1366, 1006
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_007
+  rotate: false
+  xy: 726, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_008
+  rotate: false
+  xy: 1088, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_009
+  rotate: false
+  xy: 1450, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_010
+  rotate: true
+  xy: 726, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_011
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+image-(1)
+  rotate: false
+  xy: 2, 728
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG2.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_012
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_013
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_014
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_015
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_016
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_017
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_018
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_019
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_020
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_021
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_022
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_023
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_024
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_025
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_026
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_027
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG3.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_028
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_029
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_030
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_031
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_032
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_033
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_034
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_035
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_036
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_037
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_038
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_039
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_040
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_041
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_042
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_043
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG4.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_044
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_045
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_046
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_047
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_048
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_049
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_050
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_051
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_052
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_053
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_054
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_055
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_056
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_057
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_058
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_059
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG5.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_060
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_061
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_062
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_063
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_064
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_065
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_066
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_067
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_068
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_069
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_070
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_071
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_072
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_073
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_148
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_074
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_149
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_076
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG6.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_077
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_078
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_079
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_080
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_081
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_082
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_083
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_084
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_085
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_086
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_087
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_088
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_089
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_090
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_091
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_092
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG7.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_093
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_094
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_095
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_096
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_097
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_098
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_099
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_100
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_101
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_102
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_103
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_104
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_105
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_106
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_107
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_108
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG8.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_109
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_110
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_111
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_112
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_113
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_114
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_115
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_116
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_117
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_118
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_119
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_120
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_121
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_122
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_123
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_124
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG9.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_125
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_126
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_127
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_128
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_129
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_130
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_131
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_132
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_133
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_134
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_135
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_136
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_137
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_138
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_139
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_140
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+NGUI_93_GloryholeBG10.jpg
+size: 1368,1368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMG/FX01/FX01_141
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_142
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_143
+  rotate: true
+  xy: 364, 1006
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_144
+  rotate: false
+  xy: 1006, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_145
+  rotate: true
+  xy: 364, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_146
+  rotate: false
+  xy: 1006, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+IMG/FX01/FX01_147
+  rotate: true
+  xy: 364, 282
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1

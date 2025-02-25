@@ -1,0 +1,146 @@
+
+NGSceneA_04a_08.png
+size: 1906,1906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 165, 17
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1302, 659
+  size: 428, 655
+  orig: 428, 655
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1732, 896
+  size: 170, 418
+  orig: 170, 418
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 975, 109
+  size: 695, 268
+  orig: 695, 268
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 500, 292
+  size: 473, 923
+  orig: 473, 923
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 2, 38
+  size: 252, 815
+  orig: 252, 815
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 292
+  size: 496, 923
+  orig: 496, 923
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1166, 1316
+  size: 662, 588
+  orig: 662, 588
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1732, 719
+  size: 175, 105
+  orig: 175, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 13
+  size: 23, 161
+  orig: 23, 161
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 1302, 379
+  size: 278, 592
+  orig: 278, 592
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2, 1217
+  size: 1162, 687
+  orig: 1162, 687
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1858, 282
+  size: 16, 95
+  orig: 16, 95
+  offset: 0, 0
+  index: -1
+32
+  rotate: true
+  xy: 1672, 117
+  size: 260, 184
+  orig: 260, 184
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 819, 201
+  size: 23, 89
+  orig: 23, 89
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1166, 1298
+  size: 16, 122
+  orig: 16, 122
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1732, 687
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1830, 1878
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 975, 386
+  size: 325, 829
+  orig: 325, 829
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1839, 882
+  size: 12, 65
+  orig: 12, 65
+  offset: 0, 0
+  index: -1
