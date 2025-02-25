@@ -210,10 +210,12 @@ function MonopolyGameBase:onLoad(container)
     container.mScrollView:setBounceable(false)
     container.mScrollView:setContentSize(CCSizeMake(MAP_WIDTH * MAP_SCALE,MAP_HEIGHT * MAP_SCALE))
 
+    local langType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType")
     local doubleNode = container:getVarNode("mdoubletitle");
     local spinePath ="Spine/NGUI"
     local spineName ="Spine_reward"
     local double_spine = SpineContainer:create(spinePath, spineName)
+    double_spine:setSkin(langType)
     local stoNode = tolua.cast(double_spine, "CCNode");
     doubleNode:addChild(stoNode)
     double_spine:runAnimation(1,"animation_1",-1)

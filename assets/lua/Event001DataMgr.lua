@@ -18,6 +18,7 @@ local Event001DataMgr =  {
         MAIN_SPINE = "NGEvent_01_E001Title",
         REWARD_EQUIP_ID = 12501,
         REWARD_EQUIP_IMG = "BG/NGEvent_001/Event001_mission_img10.png",
+        AVG_KEY = "@Activitystory",
         --
         openTouchLayer = false,
     },
@@ -39,6 +40,7 @@ local Event001DataMgr =  {
         MAIN_SPINE = "NGEvent_02_E002Title",
         REWARD_EQUIP_ID = 10101,
         REWARD_EQUIP_IMG = "BG/NGEvent_002/Event002_Img06.png",
+        AVG_KEY = "@Activitystory2_",
         --
         openTouchLayer = true,
     }

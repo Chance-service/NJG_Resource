@@ -27,7 +27,14 @@ end
 function SecretMessageManager_initLanguage()
     if not SecretMessageManager.isLangInit then
         if CC_TARGET_PLATFORM_LUA ~= common.platform.CC_PLATFORM_WIN32 then
-	        Language:getInstance():addLanguageFile("Lang/Language_Secret.lang")
+            local userType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType");
+	        if userType == kLanguageChinese then
+	        	Language:getInstance():addLanguageFile("Lang/Language_Secret.lang")
+	        elseif userType == kLabguageCH_TW then
+	        	Language:getInstance():addLanguageFile("Lang/Language_SecretTW.lang")
+	        else
+	        	Language:getInstance():addLanguageFile("Lang/Language_Secret.lang")
+            end
         end
         SecretMessageManager.isLangInit = true
     end

@@ -69,6 +69,7 @@ function NgBattleResultPage:onEnter(container)
         PageManager.pushPage("SingleBoss.SingleBossPopResult")
     end
 
+    local langType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType")
     if NgBattleDataManager.battleResult == CONST.FIGHT_RESULT.WIN or 
        NgBattleDataManager.battleType == CONST.SCENE_TYPE.WORLD_BOSS or
        NgBattleDataManager.battleType == CONST.SCENE_TYPE.SINGLE_BOSS or
@@ -82,6 +83,7 @@ function NgBattleResultPage:onEnter(container)
         task = ALFManager:loadSpineTask("Spine/NGUI/", "NGUI_13_BattleWin", 30, function() 
             local spineNode = container:getVarNode("mSpineWin")
             local spine1 = SpineContainer:create("Spine/NGUI", "NGUI_13_BattleWin")
+            spine1:setSkin(langType)
             spine1:runAnimation(1, "victory1", 0)
             local sToNode1 = tolua.cast(spine1, "CCNode")
             spineNode:addChild(sToNode1)
@@ -197,6 +199,7 @@ function NgBattleResultPage:onEnter(container)
             task = ALFManager:loadSpineTask("Spine/NGUI/", "NGUI_13_BattleLose", 30, function() 
                 local spineNode = container:getVarNode("mSpineLose")
                 local spine1 = SpineContainer:create("Spine/NGUI", "NGUI_13_BattleLose")
+                spine1:setSkin(langType)
                 spine1:runAnimation(1, "defeated1", 0)
                 local sToNode1 = tolua.cast(spine1, "CCNode")
                 spineNode:addChild(sToNode1)

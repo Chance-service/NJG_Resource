@@ -42,7 +42,16 @@ function GuideStoryPage:onEnter(container)
 
     SoundManager:getInstance():stopMusic()
 
-    GamePrecedure:getInstance():playMovie("phase" .. MANAGER.PLAYING_LIST_IDX, 0, 0)
+    local langType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType")
+    local preName = "phase"
+    if langType == kLanguageChinese then
+		preName = preName
+	elseif langType == kLabguageCH_TW then
+		preName = preName .. "TW"
+	else
+		preName = preName
+    end
+    GamePrecedure:getInstance():playMovie(preName .. MANAGER.PLAYING_LIST_IDX, 0, 0)
     GameUtil:setPlayMovieVisible(false) 
 
     local cfg = GuideManager.getCurrentCfg()

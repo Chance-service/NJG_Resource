@@ -739,6 +739,8 @@ function EquipPageBase:onHero(container)
     if EquipPageBase.INIT_TABLE.HERO_PAGE then
         self:refreshHeroItems(container)
         EquipPageBase.INIT_TABLE.HERO_PAGE = false
+    else
+        self:refreshAllHeroItemShow(container)
     end
     self:closeFilter(container)
     self:onElement(container, "onElement0") 
@@ -966,6 +968,12 @@ function EquipPageBase:refreshAllPoint(container)
     --        NodeHelper:setNodesVisible(CollectionItems[i].cls.showContainer, { mRedPoint = RedPointManager_getShowRedPoint(RedPointManager.PAGE_IDS.HERO_FETTER_BTN, i) })
     --    end
     --end
+end
+
+function EquipPageBase:refreshAllHeroItemShow(container)
+    for i = 1, #self.mAllHeroItem do
+        self.mAllHeroItem[i].handler:refreshCellData()
+    end
 end
 
 local CommonPage = require('CommonPage')

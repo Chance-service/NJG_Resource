@@ -255,7 +255,7 @@ function DungeonPageBase:setRefreshTime(container)
 
     -- 初始化變數
     local leftTime = 0
-    local day_start = curTime - (curTime % 86400) - 3600*8  -- 當天起始時間戳
+    local day_start = curTime - (curTime - common:getServerOffset_UTCTime()) % 86400 -- 當天起始時間戳(+8時區)
     local timestamp_next = 0
 
     -- 遍歷刷新時間，計算下一個刷新時間戳

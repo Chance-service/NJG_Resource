@@ -1877,7 +1877,14 @@ function ConfigManager.getMailContentCfg()
         local convertMap = {
             ['mailId'] = tonumber
         }
-        cfg = ConfigManager.loadCfg("MailIdConfig.txt", attrMap, 0, convertMap)
+        local userType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType");
+	    if userType == kLanguageChinese then
+	    	cfg = ConfigManager.loadCfg("MailIdConfig.txt", attrMap, 0, convertMap)
+	    elseif userType == kLabguageCH_TW then
+	    	cfg = ConfigManager.loadCfg("MailIdConfigTW.txt", attrMap, 0, convertMap)
+	    else
+	    	cfg = ConfigManager.loadCfg("MailIdConfig.txt", attrMap, 0, convertMap)
+        end
         ConfigManager.configs[key] = cfg
     end
     return cfg
@@ -6570,9 +6577,22 @@ function ConfigManager.getSingleBoss()
             ["BossId"] = tonumber,
         };
         cfg = ConfigManager.loadCfg("SingleBoss.txt", attrMap, 0, convertMap);
+        local newCfg = { }
+        for k, v in pairs(cfg) do
+            if cfg.stage then
+                newCfg[v.stage] = newCfg[v.stage] or { }
+                newCfg[v.stage][k] = v
+            else
+                newCfg[1] = newCfg[1] or { }
+                newCfg[1][k] = v
+            end
+        end
+        cfg = newCfg
         ConfigManager.configs[key] = cfg;
     end
-    return cfg;
+    local activityId = Const_pb.ACTIVITY193_SingleBoss
+    local stageId = ActivityInfo.activities[activityId] and ActivityInfo.activities[activityId].newVersion or 1
+    return cfg[stageId] or cfg[1];
 end
 -- 單人強敵任務
 function ConfigManager.getSingleBossAchive()

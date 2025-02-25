@@ -866,7 +866,7 @@ end
 
 function Event001AVG:initSetting(container)
 	--end
-	local langForward = "@Activitystory"
+	local langForward = EventDataMgr[EventDataMgr.nowActivityId].AVG_KEY
 	for i = 1, 99 do 
 		local str = common:getLanguageString(langForward .. areaNum.. string.format("%02d", stageNum) .. storyIdx .. string.format("%02d", i))
 		--local str=NodeHelper:FunSetLinefeed(tmp,63)

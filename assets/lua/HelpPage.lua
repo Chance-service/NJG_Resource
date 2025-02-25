@@ -102,10 +102,16 @@ function HelpPageBase:buildItem(container)
 	local fOneItemHeight = 0
 	local fOneItemWidth = 0
 
-	for i = #HelpConfg, 1, -1 do
+	--for i = #HelpConfg, 1, -1 do
+        local userType = CCUserDefault:sharedUserDefault():getIntegerForKey("LanguageType")
+	    local helpContent = HelpConfg[userType]
+        if not helpContent then
+            helpContent = HelpConfg[1]
+        end
+
 		local pItemData = CCReViSvItemData:new_local()
-		pItemData.mID = i
-		pItemData.m_iIdx = i
+		pItemData.mID = 1--i
+		pItemData.m_iIdx = 1--i
 		pItemData.m_ptPosition = ccp(0, fOneItemHeight * iCount)
 
 		if iCount < iMaxNode then
@@ -118,24 +124,9 @@ function HelpPageBase:buildItem(container)
 			
 			local nameNode = pItem:getVarLabelTTF("mLabel")
             nameNode:setString("")
-			--NodeHelper:setCCHTMLLabel( nameNode,CCSize(500,200),ccp(20,40),HelpConfg[i].content )
 			CCLuaLog("html -------star")
-			local cSize = NodeHelper:setCCHTMLLabelDefaultPos( nameNode , CCSize(580,200) , HelpConfg[i].content  ):getContentSize()
-			--[[
-			local label = CCHTMLLabel:createWithString(HelpConfg[i].content,CCSize(500,200))
-			
-			local posX = nameNode:getPositionX()
-			local posY = nameNode:getPositionY()
-			
-			--label:setPosition(ccp(posX,posY))
-			label:setPosition(ccp(0,0))
-			if nameNode ~= nil then
-				nameNode:getParent():addChild(label)
-			end
-			
-			CCLuaLog("html -------end")
-			
-			]]
+			local cSize = NodeHelper:setCCHTMLLabelDefaultPos( nameNode , CCSize(580,200) , helpContent.content  ):getContentSize()
+
 			if fOneItemHeight < cSize.height then
 				fOneItemHeight = cSize.height 
 			end
@@ -148,7 +139,7 @@ function HelpPageBase:buildItem(container)
 			container.m_pScrollViewFacade:addItem(pItemData)
 		end
 		iCount = iCount + 1
-	end
+	--end
 
 	local size = CCSizeMake(fOneItemWidth, fOneItemHeight * iCount )
 	container.mScrollView:setContentSize(size)

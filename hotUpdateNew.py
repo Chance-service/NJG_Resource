@@ -40,26 +40,39 @@ def getMd5(filename):
 
 def createAssetsBundle():
     filelist = os.listdir(Res_assets)
-    printdebug(filelist)
-    input(">>>>>")
+    printdebug("0 : All")
+    idx = 1
+    for file in filelist:
+        printdebug("{id:<2d}: {name}".format(id = idx, name = file))
+        idx = idx + 1
+    tip = u"\n>>>>>輸入編號(多個編號以空白分隔): ".encode("big5", "ignore")
+    inputStr = "0"#str(raw_input(tip))
+    inputStrSplit = inputStr.split(" ")
+    
     for name in filelist:
-        print("name..... : " + name)
-        if imagesetFolder.count(name) > 0:
-            FolderToImagesetZip(name)
-        elif spineFolder.count(name) > 0:
-            FolderToSpineZip(name)
-        elif uiFolder.count(name) > 0:
-            FolderToUiZip(name)
-        elif videoFolder.count(name) > 0:
-            FolderToVideoZip(name)
-        elif bgFolder.count(name) > 0:
-            FolderToBgZip(name)
-        elif audioFolder.count(name) > 0:
-            FolderToAudioZip(name)
-        elif unZipFolder.count(name) > 0:
-            FolderToCopyFile(name)
-        else:
-            FolderToZip(name)
+        nameIdx = filelist.index(name) + 1
+        export = -1
+        for inputIdx in inputStrSplit:
+            if inputIdx == str(nameIdx) or inputIdx == "0":
+                export = 1
+        if export > 0:
+            #print("name..... : " + name)
+            if imagesetFolder.count(name) > 0:
+                FolderToImagesetZip(name)
+            elif spineFolder.count(name) > 0:
+                FolderToSpineZip(name)
+            elif uiFolder.count(name) > 0:
+                FolderToUiZip(name)
+            elif videoFolder.count(name) > 0:
+                FolderToVideoZip(name)
+            elif bgFolder.count(name) > 0:
+                FolderToBgZip(name)
+            elif audioFolder.count(name) > 0:
+                FolderToAudioZip(name)
+            elif unZipFolder.count(name) > 0:
+                FolderToCopyFile(name)
+            else:
+                FolderToZip(name)
 
 def CreateZipPaths(rootFolder, zipNum):
     basePath = os.path.join(Res_ZipDone, rootFolder)
@@ -312,13 +325,13 @@ def initManifest():
 def addManifestData(fullpath):
     splitStr = fullpath.split(Res_ZipDone + os.sep)
     nameStr = splitStr[1].replace('\\', '/')
-    print('splitStr ' + splitStr[1])
+    #print('splitStr ' + splitStr[1])
     edict = { }
     edict['size'] = round(os.path.getsize(fullpath) * 0.001, 3)
     edict['name'] = nameStr
     edict['md5'] =  getMd5(fullpath)
     edict['time'] = savetime
-    print('%s = %.3f bytes md5 = %s '% (edict['name'], edict['size'],edict['md5']))
+    print('%s = %.3f bytes md5 = %s '% (edict['name'], edict['size'], edict['md5']))
     jsonex['assets'].append(edict)
 
 def outputManifest():
@@ -338,7 +351,7 @@ def initPath():
     Res_assets =  os.path.join(workpath, "assets")
 
     global Res_ZipDone
-    Res_ZipDone = os.path.join(workpath, "Resource_Client")
+    Res_ZipDone = os.path.join(workpath, "hotUpdate")
 
     if not os.path.exists(Res_assets):
         os.mkdir(Res_assets)
