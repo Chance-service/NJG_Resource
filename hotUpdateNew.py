@@ -41,6 +41,7 @@ def getMd5(filename):
 def createAssetsBundle():
     filelist = os.listdir(Res_assets)
     printdebug(filelist)
+    input(">>>>>")
     for name in filelist:
         print("name..... : " + name)
         if imagesetFolder.count(name) > 0:
