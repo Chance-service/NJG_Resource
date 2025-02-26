@@ -1,14 +1,15 @@
 {
-  "baseUrl": "https://githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main,https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main",
-  "packageUrl": "/hotUpdate",
-  "remoteVersionUrl": "/version_test",
+  "packageUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/hotUpdate",
+  "IOSAppStoreURL": "https://www.baidu.com/",
+  "remoteVersionUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/version",
+  "versionApp": "1.4.1",
+  "remoteProjectManifestUrl": "https://raw.githubusercontent.com/Chance-service/NJG_Resource/refs/heads/main/hotUpdate",
   "AndroidStoreURL": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlH365": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlR18": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlKUSO": "http://220.130.219.201:9999/#tab-3",
   "AppUpdateUrlJSG": "http://220.130.219.201:9999/#tab-3",
-  "IOSAppStoreURL": "https://www.baidu.com/",
-  "versionApp": "1.4.1",
+  "versionCode": 1,
   "versionResource": "1.4.1",
   "isNeedGoAppStore": 1
 }
