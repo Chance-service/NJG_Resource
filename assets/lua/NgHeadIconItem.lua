@@ -170,6 +170,11 @@ function NgHeadIconItem:onHead(container)
         local rolePage = require("EquipLeadPage")
         PageManager.pushPage("EquipLeadPage")
         rolePage:setMercenaryId(self.roleId)
+        -- TODO ¼½©ñ¼v¤ù
+        if CC_TARGET_PLATFORM_LUA ~= common.platform.CC_PLATFORM_WIN32 then
+            GamePrecedure:getInstance():playMovie("Hero\Hero01000_1.mp4", 0, 0)
+            GameUtil:setPlayMovieVisible(false)
+        end
     elseif NgHeadIconItem.pageType == GameConfig.NgHeadIconType.GALLERY_PAGE or 
            NgHeadIconItem.pageType == GameConfig.NgHeadIconType.COLLECTION_PAGE then
         local rolePage = require("NgArchivePage")

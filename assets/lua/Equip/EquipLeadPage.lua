@@ -173,6 +173,15 @@ local mercenaryInfos = nil
 local HeroTable={}
 local nowRoleId_Idx=0
 
+local libPlatformListener = { }
+function libPlatformListener:onPlayMovieEnd(listener)
+    if not listener then return end
+    GameUtil:setPlayMovieVisible(true)
+    GamePrecedure:getInstance():closeMovie()
+    local mainContainer = tolua.cast(MainFrame:getInstance(), "CCBContainer")
+    local backNode = mainContainer:getCCNodeFromCCB("mNodeMid")
+end
+-----------------------------------------------------------------------------------------------------
 local AttributeContent = { }
 local AttributeSetting = {
     { Const_pb.BUFF_CRITICAL_DAMAGE, 4 },
@@ -1558,6 +1567,7 @@ end
 
 function EquipLeadPage:setMercenaryId(id)
     roleId = id
+    LibPlatformScriptListener:new(libPlatformListener)
 end
 ------------------------------------------------------------------------------------------
 -- 按鈕事件

@@ -38,9 +38,9 @@ local SKILL_STAR_LIMIT = {   -- 用skill_num * 10 + skill_level當作key
 
 }
 local SKILL_STAR_MESSAGE_KEY = {   -- 用skill_num * 10 + skill_level當作key
-    [11] = "",[12] = "@HeroSkillUpgrade1", [13] = "@HeroSkillUpgrade10",
-    [21] = "",[22] = "@HeroSkillUpgrade2", [23] = "@HeroSkillUpgrade11",
-    [31] = "",[32] = "@HeroSkillUpgrade3", [33] = "@HeroSkillUpgrade12",
+    [11] = "",[12] = "@HeroSkillUpgrade6", [13] = "@HeroSkillUpgrade10",
+    [21] = "",[22] = "@HeroSkillUpgrade7", [23] = "@HeroSkillUpgrade11",
+    [31] = "",[32] = "@HeroSkillUpgrade8", [33] = "@HeroSkillUpgrade12",
     [41] = "@HeroSkillUnlock_equip1",[42] = "@HeroSkillUnlock_equip2", [43] = "@HeroSkillUnlock_equip3",   
 }
 local opcodes = {

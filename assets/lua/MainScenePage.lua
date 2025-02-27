@@ -1282,21 +1282,21 @@ function MainScenePageInfo:handleScrollview(scrollview, pos, isShort,showTable)
                     scrollview:addCell(cell)
                     totalHeight = totalHeight + cell:getContentSize().height
                     -- 新手教學
-                    local GuideManager = require("Guide.GuideManager")
-                    if GuideManager.isInGuide then
+                    --local GuideManager = require("Guide.GuideManager")
+                    --if GuideManager.isInGuide then
                         if value.key == "Expdtion" then
-                           local guideNode = MainScenePageInfo.container:getVarNode("mGuideExpeditionNode")
-                           guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
+                            local guideNode = MainScenePageInfo.container:getVarNode("mGuideExpeditionNode")
+                            guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
                         end
                         if value.key == "Forge" then
-                           local guideNode = MainScenePageInfo.container:getVarNode("mGuideForgeNode")
-                           guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
+                            local guideNode = MainScenePageInfo.container:getVarNode("mGuideForgeNode")
+                            guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
                         end
                         if value.key == "SecertMsg" then
-                           local guideNode = MainScenePageInfo.container:getVarNode("mGuideSecretNode")
-                           guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
+                            local guideNode = MainScenePageInfo.container:getVarNode("mGuideSecretNode")
+                            guideNode:setPositionY(-totalHeight - 20 - 150 + cell:getContentSize().height * 0.5)
                         end
-                    end
+                    --end
                 end
             end
         end
@@ -1682,33 +1682,33 @@ function setPayUrl()
     if Golb_Platform_Info.is_h365 and Golb_Platform_Info.is_Android then
         if (NodeHelper:isDebug()) then
             if (Svrid == 1) then    --測試服1
-                PayUrl = "http://18.182.201.47:5138/payNotice?params="
+                PayUrl = "http://54.255.44.130:5138/payNotice?params="
             elseif (Svrid == 2) then -- 測試服2
-	    		PayUrl = "http://52.197.132.193:5138/payNotice?params="
+	    		PayUrl = "http://18.143.35.236:5138/payNotice?params="
             elseif (Svrid == 3) then -- 測試服3
-	    		PayUrl = "http://35.77.171.53:5138/payNotice?params="
+	    		PayUrl = "http://18.143.216.175:5138/payNotice?params="
             elseif (Svrid == 6) then -- NGTest
 	    		PayUrl = "http://18.182.62.36:5132/payNotice?params="
             elseif (Svrid == 9) then -- 內部102
 	    		PayUrl = "http://220.130.219.201:5132/payNotice?params="
             --------------------------------
             elseif (Svrid == 1001) then -- 正式服1
-	    		PayUrl = "http://54.250.98.237:5138/payNotice?params="
+	    		PayUrl = "http://175.41.148.243:5138/payNotice?params="
             end
         else
             if (Svrid == 1) then    --測試服
-                PayUrl = "http://18.182.201.47:5138/payNotice?params="
+                PayUrl = "http://54.255.44.130:5138/payNotice?params="
             elseif (Svrid == 2) then -- 測試服2
-	    		PayUrl = "http://52.197.132.193:5138/payNotice?params="
+	    		PayUrl = "http://18.143.35.236:5138/payNotice?params="
             elseif (Svrid == 3) then -- 測試服3
-	    		PayUrl = "http://35.77.171.53:5138/payNotice?params="
+	    		PayUrl = "http://18.143.216.175:5138/payNotice?params="
             elseif (Svrid == 6) then
                 PayUrl = "http://18.182.62.36:5132/payNotice?params="
             elseif (Svrid == 9) then -- 內部102
 	    		PayUrl = "http://220.130.219.201:5132/payNotice?params="
             --------------------------------
             elseif (Svrid == 1001) then -- 正式服1
-	    		PayUrl = "http://54.250.98.237:5138/payNotice?params="
+	    		PayUrl = "http://175.41.148.243:5138/payNotice?params="
             end
         end
     end
@@ -1727,7 +1727,7 @@ function setPayUrl()
 	    		PayUrl = "https://debug.paycallback.quantagalaxies.com/KusoPay?params="
             --------------------------------
             elseif (Svrid == 1001) then -- 正式服1
-	    		PayUrl = "http://54.250.98.237:5138/KusoPay?params="
+	    		PayUrl = "http://175.41.148.243:5138/KusoPay?params="
             end
         else
             if (Svrid == 1) then    --測試服
@@ -1742,7 +1742,7 @@ function setPayUrl()
 	    		PayUrl = "https://debug.paycallback.quantagalaxies.com/KusoPay?params="
             --------------------------------
             elseif (Svrid == 1001) then -- 正式服1
-	    		PayUrl = "http://54.250.98.237:5138/KusoPay?params="
+	    		PayUrl = "http://175.41.148.243:5138/KusoPay?params="
             end
         end
     end
